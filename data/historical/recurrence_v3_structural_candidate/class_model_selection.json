@@ -1,0 +1,145 @@
+{
+  "source_atlas_tag_system": {
+    "0": "paired_uprights_bridge",
+    "6": "paired_uprights_bridge",
+    "1": "horizontal_arch_bridge",
+    "2": "upper_curve_lower_terminal",
+    "10": "upper_curve_lower_terminal",
+    "14": "upper_curve_lower_terminal",
+    "3": "vertical_loop_pair",
+    "4": "compact_ring",
+    "13": "compact_ring",
+    "5": "compact_loop_upper_right_trace",
+    "7": "vertical_loop_pair_left_appendage",
+    "9": "single_upright_lateral_bridge",
+    "11": "open_compact_hook",
+    "12": "short_oblique_terminal",
+    "15": "upper_loop_oblique_lower_branch"
+  },
+  "structural_classes": {
+    "ST01": {
+      "source_structure": "compact_loop_upper_right_trace",
+      "significant_holes": 1,
+      "training_instances": 390,
+      "training_captions": 22,
+      "radius": 0.39521882239560424,
+      "other_caption_calibration_instances": 390
+    },
+    "ST02": {
+      "source_structure": "compact_ring",
+      "significant_holes": 1,
+      "training_instances": 1249,
+      "training_captions": 22,
+      "radius": 0.38344158652113763,
+      "other_caption_calibration_instances": 1249
+    },
+    "ST03": {
+      "source_structure": "horizontal_arch_bridge",
+      "significant_holes": 0,
+      "training_instances": 795,
+      "training_captions": 22,
+      "radius": 0.3834500341687195,
+      "other_caption_calibration_instances": 795
+    },
+    "ST04": {
+      "source_structure": "horizontal_arch_bridge",
+      "significant_holes": 1,
+      "training_instances": 323,
+      "training_captions": 22,
+      "radius": 0.4404282879830978,
+      "other_caption_calibration_instances": 323
+    },
+    "ST05": {
+      "source_structure": "open_compact_hook",
+      "significant_holes": 0,
+      "training_instances": 518,
+      "training_captions": 22,
+      "radius": 0.48193360421264525,
+      "other_caption_calibration_instances": 518
+    },
+    "ST06": {
+      "source_structure": "paired_uprights_bridge",
+      "significant_holes": 1,
+      "training_instances": 577,
+      "training_captions": 22,
+      "radius": 0.41457221588358806,
+      "other_caption_calibration_instances": 577
+    },
+    "ST07": {
+      "source_structure": "paired_uprights_bridge",
+      "significant_holes": 2,
+      "training_instances": 192,
+      "training_captions": 20,
+      "radius": 0.5200385803379054,
+      "other_caption_calibration_instances": 192
+    },
+    "ST08": {
+      "source_structure": "short_oblique_terminal",
+      "significant_holes": 0,
+      "training_instances": 640,
+      "training_captions": 22,
+      "radius": 0.41814930762279173,
+      "other_caption_calibration_instances": 640
+    },
+    "ST09": {
+      "source_structure": "single_upright_lateral_bridge",
+      "significant_holes": 1,
+      "training_instances": 105,
+      "training_captions": 13,
+      "radius": 0.4199098652866147,
+      "other_caption_calibration_instances": 105
+    },
+    "ST10": {
+      "source_structure": "single_upright_lateral_bridge",
+      "significant_holes": 2,
+      "training_instances": 285,
+      "training_captions": 19,
+      "radius": 0.35243242975910366,
+      "other_caption_calibration_instances": 285
+    },
+    "ST11": {
+      "source_structure": "upper_curve_lower_terminal",
+      "significant_holes": 0,
+      "training_instances": 1093,
+      "training_captions": 22,
+      "radius": 0.5135893839616003,
+      "other_caption_calibration_instances": 1093
+    },
+    "ST12": {
+      "source_structure": "upper_curve_lower_terminal",
+      "significant_holes": 1,
+      "training_instances": 690,
+      "training_captions": 22,
+      "radius": 0.46340581268620956,
+      "other_caption_calibration_instances": 690
+    },
+    "ST13": {
+      "source_structure": "upper_loop_oblique_lower_branch",
+      "significant_holes": 1,
+      "training_instances": 477,
+      "training_captions": 22,
+      "radius": 0.3611950828207027,
+      "other_caption_calibration_instances": 477
+    },
+    "ST14": {
+      "source_structure": "vertical_loop_pair",
+      "significant_holes": 2,
+      "training_instances": 372,
+      "training_captions": 22,
+      "radius": 0.38248530742522013,
+      "other_caption_calibration_instances": 372
+    },
+    "ST15": {
+      "source_structure": "vertical_loop_pair_left_appendage",
+      "significant_holes": 2,
+      "training_instances": 122,
+      "training_captions": 15,
+      "radius": 0.4808547394688529,
+      "other_caption_calibration_instances": 122
+    }
+  },
+  "training_retained": 7828,
+  "training_abstained": 2744,
+  "competing_system": "178-class prior sealed source candidate preserved; no one-to-one claim",
+  "class_system_size": 15
+}

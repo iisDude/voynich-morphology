@@ -1,0 +1,24 @@
+{
+  "reviewed_views": 49,
+  "row_proposals": 918,
+  "local_writing_row_fields": 899,
+  "unique_parent_instances": 20037,
+  "class_eligible": 15146,
+  "by_split": {
+    "train": {
+      "parents": 13789,
+      "eligible": 10572
+    },
+    "validation": {
+      "parents": 3828,
+      "eligible": 2785
+    },
+    "test": {
+      "parents": 2420,
+      "eligible": 1789
+    }
+  },
+  "unknown_atomicity": "all",
+  "source_reviews_sha256": "13b608ceef1c031fe2c1ea1605608c09d80f7de73c00762afa7d1b57043a2dc9",
+  "protocol_sha256": "e256d833b5193fd71ba8cb28beaceb43c3bc2bb4e63c0d6069b69edda6848bb5"
+}

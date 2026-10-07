@@ -1,0 +1,25 @@
+{
+  "view": {
+    "view_id": "V_118",
+    "pdf_page": "118",
+    "caption": "65r",
+    "yale_image_id": "1006190",
+    "folio_component": "65",
+    "split": "train",
+    "image_path": "data/page_images/all/V_118.png",
+    "image_sha256": "b7c47c660a26e6fc53014018863a8b4eb82c06289c464be6f1f86664cb594aa0",
+    "width_px": "1507",
+    "height_px": "2000",
+    "panel_mapping": "caption_only; multiple visible panels may occur"
+  },
+  "source_image_sha256": "dc7a0c45454665f33287804ec56f8eaa952a691540fc6fd434e79d75c7ce597f",
+  "candidate_json_sha256": "a6582ca9cf6f4994e63e66cd25b27de3ef2e6369bb63b70dd26d0f3a5ee5160a",
+  "native_masks_sha256": "6a7c7b5db1837f3027232c80a125c728a2dca1acb71fcba6bba8370ecc4ac7b1",
+  "observations": [],
+  "status": "geometric observations with competing cuts; unreviewed instances",
+  "limitations": [
+    "Assigned masks can omit faint and detached ink.",
+    "Straight segments, frames and repetition are geometric proxies requiring source review.",
+    "Two-pixel erosion is a sensitivity probe, not evidence that the pen lifted."
+  ]
+}

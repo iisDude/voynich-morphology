@@ -1,0 +1,68 @@
+{
+  "source_basis": "Raw native-parent shape bands and 12-factor NMF trained on train parents only; no grapheme interpretation",
+  "heldout_instances": 1153,
+  "caption_block_metrics": [
+    {
+      "caption": "22",
+      "instances": 43,
+      "mean_contour_difference": 0.04313712425226735,
+      "mean_factor_difference": 1.0525981428664783
+    },
+    {
+      "caption": "15",
+      "instances": 52,
+      "mean_contour_difference": 0.04264487688375924,
+      "mean_factor_difference": 0.9729841611563013
+    },
+    {
+      "caption": "51",
+      "instances": 71,
+      "mean_contour_difference": 0.040219240208667975,
+      "mean_factor_difference": 0.9751232301055546
+    },
+    {
+      "caption": "44",
+      "instances": 97,
+      "mean_contour_difference": 0.040543843365572006,
+      "mean_factor_difference": 0.965970960628126
+    },
+    {
+      "caption": "84",
+      "instances": 283,
+      "mean_contour_difference": 0.04163720147838888,
+      "mean_factor_difference": 0.9245351456605925
+    },
+    {
+      "caption": "66",
+      "instances": 233,
+      "mean_contour_difference": 0.038531233993250986,
+      "mean_factor_difference": 0.862824074052626
+    },
+    {
+      "caption": "114",
+      "instances": 374,
+      "mean_contour_difference": 0.04074609380795616,
+      "mean_factor_difference": 0.9466781321773554
+    }
+  ],
+  "intervals": {
+    "mean_contour_difference": {
+      "caption_mean": 0.04106565914140895,
+      "caption_bootstrap_interval": [
+        0.04001794428317533,
+        0.04210906002922211
+      ],
+      "caption_groups": 7
+    },
+    "mean_factor_difference": {
+      "caption_mean": 0.9572448352352906,
+      "caption_bootstrap_interval": [
+        0.9168362764106015,
+        0.9953402898406848
+      ],
+      "caption_groups": 7
+    }
+  },
+  "null": "Other-class training instance matched on significant-hole count and log-aspect within .35, sampled by fixed seed",
+  "limitation": "Contour matching is related to the fitted image representation. NMF factor coherence corroborates shape organization but is not independent linguistic evidence. Caption groups are not certified physical bifolios. Small caption count and nonrandom fields limit manuscript population inference."
+}

@@ -1,0 +1,11 @@
+{
+  "view_id": "V_098",
+  "status": "exact_source_mask_reconstruction_verified",
+  "instances": 2024,
+  "max_normalized_pixel_error": 0.0,
+  "source_image_sha256": "c125a5ffc5121e31e07dbaebd4515d6375e2f71feff312690dc943e62e0d8d56",
+  "source_candidate_json_sha256": "ee4e5a6761d87de3aacb2de9cb8b74ed10e79ce15017bebc7e88b74a357b22db",
+  "native_masks_file": "data/observations/regional_candidates_v4/V_098_native_masks.npz",
+  "native_masks_sha256": "23d6cdfd36f8e1b3f805d89a08ccd4ec3f1756a5902edf491daad6d449d0e057",
+  "limitation": "Pixel identity verifies bookkeeping, not writing-versus-texture validity or grapheme boundaries."
+}

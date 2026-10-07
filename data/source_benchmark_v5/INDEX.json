@@ -1,0 +1,51 @@
+{
+  "category": "source_benchmark_v5",
+  "files": [
+    {
+      "logical_path": "data/observations/visual_dataset_v5/extraction_predictions.json",
+      "public_path": "data/source_benchmark_v5/frozen/extraction_predictions.json.gz",
+      "storage": "gzip"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v5/group_sequences.json",
+      "public_path": "data/source_benchmark_v5/frozen/group_sequences.json.gz",
+      "storage": "gzip"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v5/parent_class_assignments.json",
+      "public_path": "data/source_benchmark_v5/frozen/parent_class_assignments.json.gz",
+      "storage": "gzip"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v5/row_sequences.json",
+      "public_path": "data/source_benchmark_v5/frozen/row_sequences.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v5/SEQUENCE_PROTOCOL_SEAL.json",
+      "public_path": "data/source_benchmark_v5/frozen/SEQUENCE_PROTOCOL_SEAL.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v5/source_reference.json",
+      "public_path": "data/source_benchmark_v5/frozen/source_reference.json.gz",
+      "storage": "gzip"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v5/SOURCE_REFERENCE_SEAL.json",
+      "public_path": "data/source_benchmark_v5/frozen/SOURCE_REFERENCE_SEAL.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v5/FREEZE_MANIFEST.json",
+      "public_path": "data/source_benchmark_v5/frozen/FREEZE_MANIFEST.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/structural_inventory_v6_postfreeze/group_sequences_v6_on_v5.json",
+      "public_path": "data/source_benchmark_v5/frozen/group_sequences.json.gz",
+      "storage": "gzip"
+    }
+  ],
+  "authoritative_transport_index": "../../manifests/FILE_INDEX.json"
+}

@@ -1,0 +1,1096 @@
+{
+  "created_at_utc": "2026-10-07T05:27:19.969679+00:00",
+  "pool": 163,
+  "all_clusters": [
+    {
+      "indices": [
+        19,
+        118,
+        125,
+        150,
+        210,
+        308,
+        351,
+        368,
+        384,
+        460,
+        466,
+        483,
+        544,
+        568,
+        574
+      ],
+      "parents": [
+        "B001_O085",
+        "B005_O187",
+        "B006_O058",
+        "B006_O128",
+        "B007_O158",
+        "B010_O009",
+        "B011_O020",
+        "B012_O016",
+        "B015_O004",
+        "B003_O017",
+        "B003_O027",
+        "B003_O058",
+        "B013_O036",
+        "B013_O101",
+        "B013_O113"
+      ],
+      "holes": 0,
+      "n": 15,
+      "captions": [
+        "10",
+        "106",
+        "115",
+        "34",
+        "39",
+        "5",
+        "55",
+        "81"
+      ],
+      "qualifies_train": true,
+      "candidate_id": "NC01"
+    },
+    {
+      "indices": [
+        27,
+        44,
+        93,
+        103,
+        165,
+        260,
+        397,
+        433,
+        511,
+        625
+      ],
+      "parents": [
+        "B001_O121",
+        "B002_O041",
+        "B005_O119",
+        "B005_O154",
+        "B006_O167",
+        "B008_O146",
+        "B015_O024",
+        "B016_O021",
+        "B004_O039",
+        "B014_O108"
+      ],
+      "holes": 1,
+      "n": 10,
+      "captions": [
+        "10",
+        "106",
+        "115",
+        "34",
+        "39",
+        "5"
+      ],
+      "qualifies_train": true,
+      "candidate_id": "NC02"
+    },
+    {
+      "indices": [
+        25,
+        47,
+        62,
+        72,
+        75,
+        116,
+        206,
+        219,
+        512
+      ],
+      "parents": [
+        "B001_O115",
+        "B002_O049",
+        "B002_O106",
+        "B005_O051",
+        "B005_O066",
+        "B005_O184",
+        "B007_O150",
+        "B007_O181",
+        "B004_O041"
+      ],
+      "holes": 0,
+      "n": 9,
+      "captions": [
+        "10",
+        "34",
+        "39",
+        "5"
+      ],
+      "qualifies_train": true,
+      "candidate_id": "NC03"
+    },
+    {
+      "indices": [
+        26,
+        259,
+        343,
+        450,
+        520,
+        538,
+        559,
+        606
+      ],
+      "parents": [
+        "B001_O118",
+        "B008_O144",
+        "B010_O088",
+        "B016_O066",
+        "B004_O057",
+        "B013_O019",
+        "B013_O080",
+        "B014_O073"
+      ],
+      "holes": 0,
+      "n": 8,
+      "captions": [
+        "10",
+        "106",
+        "115",
+        "39",
+        "5",
+        "55"
+      ],
+      "qualifies_train": true,
+      "candidate_id": "NC04"
+    },
+    {
+      "indices": [
+        38,
+        48,
+        453,
+        457,
+        516,
+        564,
+        621,
+        623
+      ],
+      "parents": [
+        "B002_O023",
+        "B002_O053",
+        "B016_O072",
+        "B016_O081",
+        "B004_O047",
+        "B013_O094",
+        "B014_O101",
+        "B014_O105"
+      ],
+      "holes": 1,
+      "n": 8,
+      "captions": [
+        "10",
+        "106",
+        "115",
+        "5"
+      ],
+      "qualifies_train": true,
+      "candidate_id": "NC05"
+    },
+    {
+      "indices": [
+        18,
+        267,
+        305,
+        373,
+        537,
+        592,
+        618
+      ],
+      "parents": [
+        "B001_O076",
+        "B008_O162",
+        "B009_O127",
+        "B012_O031",
+        "B013_O018",
+        "B014_O038",
+        "B014_O094"
+      ],
+      "holes": 1,
+      "n": 7,
+      "captions": [
+        "106",
+        "39",
+        "5",
+        "55",
+        "81"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        32,
+        73,
+        94,
+        214,
+        298,
+        306,
+        307
+      ],
+      "parents": [
+        "B001_O134",
+        "B005_O058",
+        "B005_O122",
+        "B007_O167",
+        "B009_O087",
+        "B009_O134",
+        "B010_O007"
+      ],
+      "holes": 2,
+      "n": 7,
+      "captions": [
+        "34",
+        "39",
+        "5",
+        "55"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        123,
+        130,
+        161,
+        332,
+        472,
+        637
+      ],
+      "parents": [
+        "B006_O053",
+        "B006_O073",
+        "B006_O157",
+        "B010_O060",
+        "B003_O040",
+        "B014_O120"
+      ],
+      "holes": 0,
+      "n": 6,
+      "captions": [
+        "10",
+        "106",
+        "34",
+        "55"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        205,
+        271,
+        370,
+        389,
+        553,
+        567
+      ],
+      "parents": [
+        "B007_O149",
+        "B009_O013",
+        "B012_O018",
+        "B015_O011",
+        "B013_O063",
+        "B013_O099"
+      ],
+      "holes": 1,
+      "n": 6,
+      "captions": [
+        "106",
+        "115",
+        "39",
+        "55",
+        "81"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        30,
+        50,
+        99,
+        417,
+        550
+      ],
+      "parents": [
+        "B001_O127",
+        "B002_O055",
+        "B005_O146",
+        "B015_O060",
+        "B013_O054"
+      ],
+      "holes": 0,
+      "n": 5,
+      "captions": [
+        "106",
+        "115",
+        "34",
+        "5"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        134,
+        136,
+        171,
+        586,
+        598
+      ],
+      "parents": [
+        "B006_O081",
+        "B006_O087",
+        "B007_O060",
+        "B014_O028",
+        "B014_O053"
+      ],
+      "holes": 0,
+      "n": 5,
+      "captions": [
+        "106",
+        "34",
+        "39"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        213,
+        227,
+        263,
+        346,
+        540
+      ],
+      "parents": [
+        "B007_O164",
+        "B008_O037",
+        "B008_O151",
+        "B010_O093",
+        "B013_O027"
+      ],
+      "holes": 0,
+      "n": 5,
+      "captions": [
+        "106",
+        "39",
+        "55"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        149,
+        283,
+        321,
+        601
+      ],
+      "parents": [
+        "B006_O123",
+        "B009_O038",
+        "B010_O040",
+        "B014_O062"
+      ],
+      "holes": 0,
+      "n": 4,
+      "captions": [
+        "106",
+        "34",
+        "55"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        197,
+        324,
+        530,
+        556
+      ],
+      "parents": [
+        "B007_O130",
+        "B010_O046",
+        "B004_O078",
+        "B013_O071"
+      ],
+      "holes": 0,
+      "n": 4,
+      "captions": [
+        "10",
+        "106",
+        "39",
+        "55"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        280,
+        479,
+        500,
+        571
+      ],
+      "parents": [
+        "B009_O033",
+        "B003_O050",
+        "B004_O019",
+        "B013_O107"
+      ],
+      "holes": 2,
+      "n": 4,
+      "captions": [
+        "10",
+        "106",
+        "55"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        3,
+        221,
+        445
+      ],
+      "parents": [
+        "B001_O014",
+        "B007_O189",
+        "B016_O051"
+      ],
+      "holes": 1,
+      "n": 3,
+      "captions": [
+        "115",
+        "39",
+        "5"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        8,
+        41,
+        211
+      ],
+      "parents": [
+        "B001_O028",
+        "B002_O030",
+        "B007_O159"
+      ],
+      "holes": 0,
+      "n": 3,
+      "captions": [
+        "39",
+        "5"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        40,
+        255,
+        410
+      ],
+      "parents": [
+        "B002_O027",
+        "B008_O135",
+        "B015_O048"
+      ],
+      "holes": 0,
+      "n": 3,
+      "captions": [
+        "115",
+        "39",
+        "5"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        46,
+        246,
+        418
+      ],
+      "parents": [
+        "B002_O047",
+        "B008_O099",
+        "B015_O061"
+      ],
+      "holes": 0,
+      "n": 3,
+      "captions": [
+        "115",
+        "39",
+        "5"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        54,
+        376,
+        529
+      ],
+      "parents": [
+        "B002_O075",
+        "B012_O040",
+        "B004_O075"
+      ],
+      "holes": 2,
+      "n": 3,
+      "captions": [
+        "10",
+        "5",
+        "81"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        64,
+        160,
+        330
+      ],
+      "parents": [
+        "B002_O114",
+        "B006_O155",
+        "B010_O057"
+      ],
+      "holes": 1,
+      "n": 3,
+      "captions": [
+        "34",
+        "5",
+        "55"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        89,
+        90,
+        222
+      ],
+      "parents": [
+        "B005_O108",
+        "B005_O111",
+        "B007_O195"
+      ],
+      "holes": 1,
+      "n": 3,
+      "captions": [
+        "34",
+        "39"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        92,
+        242,
+        286
+      ],
+      "parents": [
+        "B005_O118",
+        "B008_O091",
+        "B009_O052"
+      ],
+      "holes": 0,
+      "n": 3,
+      "captions": [
+        "34",
+        "39",
+        "55"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        115,
+        140,
+        199
+      ],
+      "parents": [
+        "B005_O182",
+        "B006_O098",
+        "B007_O134"
+      ],
+      "holes": 0,
+      "n": 3,
+      "captions": [
+        "34",
+        "39"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        154,
+        367,
+        438
+      ],
+      "parents": [
+        "B006_O144",
+        "B012_O012",
+        "B016_O031"
+      ],
+      "holes": 1,
+      "n": 3,
+      "captions": [
+        "115",
+        "34",
+        "81"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        310,
+        393,
+        597
+      ],
+      "parents": [
+        "B010_O014",
+        "B015_O018",
+        "B014_O049"
+      ],
+      "holes": 0,
+      "n": 3,
+      "captions": [
+        "106",
+        "115",
+        "55"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        6,
+        158
+      ],
+      "parents": [
+        "B001_O024",
+        "B006_O151"
+      ],
+      "holes": 0,
+      "n": 2,
+      "captions": [
+        "34",
+        "5"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        461,
+        533
+      ],
+      "parents": [
+        "B003_O018",
+        "B013_O003"
+      ],
+      "holes": 2,
+      "n": 2,
+      "captions": [
+        "10",
+        "106"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        473,
+        490
+      ],
+      "parents": [
+        "B003_O041",
+        "B003_O068"
+      ],
+      "holes": 0,
+      "n": 2,
+      "captions": [
+        "10"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        96,
+        338
+      ],
+      "parents": [
+        "B005_O131",
+        "B010_O074"
+      ],
+      "holes": 0,
+      "n": 2,
+      "captions": [
+        "34",
+        "55"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        117,
+        452
+      ],
+      "parents": [
+        "B005_O185",
+        "B016_O070"
+      ],
+      "holes": 2,
+      "n": 2,
+      "captions": [
+        "115",
+        "34"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        121,
+        256
+      ],
+      "parents": [
+        "B005_O193",
+        "B008_O139"
+      ],
+      "holes": 0,
+      "n": 2,
+      "captions": [
+        "34",
+        "39"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        122,
+        356
+      ],
+      "parents": [
+        "B006_O051",
+        "B011_O039"
+      ],
+      "holes": 1,
+      "n": 2,
+      "captions": [
+        "34",
+        "81"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        349,
+        605
+      ],
+      "parents": [
+        "B011_O016",
+        "B014_O071"
+      ],
+      "holes": 0,
+      "n": 2,
+      "captions": [
+        "106",
+        "81"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        382,
+        427
+      ],
+      "parents": [
+        "B015_O002",
+        "B016_O008"
+      ],
+      "holes": 2,
+      "n": 2,
+      "captions": [
+        "115"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        401,
+        560
+      ],
+      "parents": [
+        "B015_O034",
+        "B013_O082"
+      ],
+      "holes": 3,
+      "n": 2,
+      "captions": [
+        "106",
+        "115"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        39
+      ],
+      "parents": [
+        "B002_O025"
+      ],
+      "holes": 1,
+      "n": 1,
+      "captions": [
+        "5"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        464
+      ],
+      "parents": [
+        "B003_O025"
+      ],
+      "holes": 0,
+      "n": 1,
+      "captions": [
+        "10"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        488
+      ],
+      "parents": [
+        "B003_O065"
+      ],
+      "holes": 3,
+      "n": 1,
+      "captions": [
+        "10"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        491
+      ],
+      "parents": [
+        "B003_O069"
+      ],
+      "holes": 0,
+      "n": 1,
+      "captions": [
+        "10"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        133
+      ],
+      "parents": [
+        "B006_O080"
+      ],
+      "holes": 0,
+      "n": 1,
+      "captions": [
+        "34"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        278
+      ],
+      "parents": [
+        "B009_O024"
+      ],
+      "holes": 1,
+      "n": 1,
+      "captions": [
+        "55"
+      ],
+      "qualifies_train": false
+    },
+    {
+      "indices": [
+        380
+      ],
+      "parents": [
+        "B012_O053"
+      ],
+      "holes": 2,
+      "n": 1,
+      "captions": [
+        "81"
+      ],
+      "qualifies_train": false
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "NC01",
+      "indices": [
+        19,
+        118,
+        125,
+        150,
+        210,
+        308,
+        351,
+        368,
+        384,
+        460,
+        466,
+        483,
+        544,
+        568,
+        574
+      ],
+      "parent_ids": [
+        "B001_O085",
+        "B005_O187",
+        "B006_O058",
+        "B006_O128",
+        "B007_O158",
+        "B010_O009",
+        "B011_O020",
+        "B012_O016",
+        "B015_O004",
+        "B003_O017",
+        "B003_O027",
+        "B003_O058",
+        "B013_O036",
+        "B013_O101",
+        "B013_O113"
+      ],
+      "holes": 0,
+      "radius": 0.49537523698033126,
+      "source_structure": "pending native whole-parent group review",
+      "training_instances": 15,
+      "training_captions": 8
+    },
+    {
+      "candidate_id": "NC02",
+      "indices": [
+        27,
+        44,
+        93,
+        103,
+        165,
+        260,
+        397,
+        433,
+        511,
+        625
+      ],
+      "parent_ids": [
+        "B001_O121",
+        "B002_O041",
+        "B005_O119",
+        "B005_O154",
+        "B006_O167",
+        "B008_O146",
+        "B015_O024",
+        "B016_O021",
+        "B004_O039",
+        "B014_O108"
+      ],
+      "holes": 1,
+      "radius": 0.6476430115503415,
+      "source_structure": "pending native whole-parent group review",
+      "training_instances": 10,
+      "training_captions": 6
+    },
+    {
+      "candidate_id": "NC03",
+      "indices": [
+        25,
+        47,
+        62,
+        72,
+        75,
+        116,
+        206,
+        219,
+        512
+      ],
+      "parent_ids": [
+        "B001_O115",
+        "B002_O049",
+        "B002_O106",
+        "B005_O051",
+        "B005_O066",
+        "B005_O184",
+        "B007_O150",
+        "B007_O181",
+        "B004_O041"
+      ],
+      "holes": 0,
+      "radius": 0.6439803107562881,
+      "source_structure": "pending native whole-parent group review",
+      "training_instances": 9,
+      "training_captions": 4
+    },
+    {
+      "candidate_id": "NC04",
+      "indices": [
+        26,
+        259,
+        343,
+        450,
+        520,
+        538,
+        559,
+        606
+      ],
+      "parent_ids": [
+        "B001_O118",
+        "B008_O144",
+        "B010_O088",
+        "B016_O066",
+        "B004_O057",
+        "B013_O019",
+        "B013_O080",
+        "B014_O073"
+      ],
+      "holes": 0,
+      "radius": 0.8427529398209541,
+      "source_structure": "pending native whole-parent group review",
+      "training_instances": 8,
+      "training_captions": 6
+    },
+    {
+      "candidate_id": "NC05",
+      "indices": [
+        38,
+        48,
+        453,
+        457,
+        516,
+        564,
+        621,
+        623
+      ],
+      "parent_ids": [
+        "B002_O023",
+        "B002_O053",
+        "B016_O072",
+        "B016_O081",
+        "B004_O047",
+        "B013_O094",
+        "B014_O101",
+        "B014_O105"
+      ],
+      "holes": 1,
+      "radius": 0.6617406872685347,
+      "source_structure": "pending native whole-parent group review",
+      "training_instances": 8,
+      "training_captions": 4
+    }
+  ],
+  "diameter": 1.2148222099304473,
+  "metric": "Frozen V3 embedding, exact significant hole count, complete-link; no test data or sequence objective",
+  "candidate_grouping_prespecified": true
+}

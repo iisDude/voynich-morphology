@@ -1,0 +1,16 @@
+{
+  "version": 11,
+  "source_sha256": "0bc4c7523f34f08e937efd5893ffd922c03a9e1669d7784c575287ff1e9c17a6",
+  "generated_source_sha256": "4ee3644f8892facac4e5535dd756d5bcc02e344ecae9edfb6134df96bcba7245",
+  "change": "Track each source-density peak through 96px x samples with local 192px ink windows; row membership and heights use interpolated local tracks.",
+  "objective": "Maximize vertically smoothed local density, minus fixed seed-distance and movement penalties. Each seam can move <=18px per 96px horizontal step, within .75 detected pitch of its seed.",
+  "parameters": "Seed penalty .35*(dy/(.65pitch))^2; continuity penalty .12*(step/9)^2; density smoothing max(3,.15body). All thresholds fixed before pilot inspection.",
+  "limitations": [
+    "Density center +.3body is an estimated baseline, not a manually measured writing bottom.",
+    "Seeds can duplicate or miss rows.",
+    "Drawings, touching rows, detached strokes and faint writing remain risks.",
+    "Original gap and component partitions remain hypotheses."
+  ],
+  "blinding": "Post-transcription-exposure source-only repair; comparison strings/counts/effect statistics absent.",
+  "stage": "twelve-view calibration"
+}

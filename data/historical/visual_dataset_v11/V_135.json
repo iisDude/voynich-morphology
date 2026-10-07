@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.1.0",
+  "status": "frozen",
+  "provenance": {
+    "source_pdf_sha256": "b048d09835c66522cc7a6d93e3edf4693edacc403aa79f738c47a421d840f761",
+    "prior_exposure": "Second source-only repair after conventional/statistical exposure; no renewed blind claim. Original prototype definitions and gates transferred without refitting.",
+    "comparison_data_withheld": false,
+    "run_id": "tracked_snapshot_v11",
+    "frozen_sha256": null
+  },
+  "views": [
+    {
+      "view_id": "V_135",
+      "pdf_page": 135,
+      "image_sha256": "4227e5261bb5986e605ddb4f58fa1526640955d778c06916a1c34734bb431141",
+      "image_path": "data/source/yale_native/1006207.jpg",
+      "width_px": 2979,
+      "height_px": 3724,
+      "split": "train"
+    }
+  ],
+  "panels": [],
+  "lines": [],
+  "groups": [],
+  "components": [],
+  "assemblies": [],
+  "segmentations": [],
+  "observations": [],
+  "hypotheses": [
+    {
+      "hypothesis_id": "V_135_TRACKED_BOUNDARIES",
+      "proposition": "Local density tracking improves some candidate writing flows; four geometric partitions still compete and complete writing membership is unvalidated.",
+      "supporting_observations": [],
+      "contradicting_observations": [],
+      "falsifier": "Independent source review finds missing writing, drawings or inconsistent reusable structures.",
+      "confidence": "unresolved",
+      "next_test": "Post-snapshot positional/context tests and source-audited conventional crosswalk; no inherited boundary truth."
+    }
+  ]
+}

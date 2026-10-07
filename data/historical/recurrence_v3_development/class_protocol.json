@@ -1,0 +1,21 @@
+{
+  "model_inputs": "Source-only contour proximity, significant holes, connectivity and geometry; no group recurrence/minimal pairs, transcription, Currier or position",
+  "image_preprocessing": "24x24 aspect-preserving parent, exponential distance-to-ink field, PCA32 not whitened",
+  "candidate_k": [
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "topology": "Classes partitioned by exact threshold-stable significant-hole count; no cross-hole class assignment",
+  "geometry_weight": 0.65,
+  "holes_weight": 2.0,
+  "selection": "Validation contour quantization loss plus 0.018*log(K), evaluated without test assignments. This unsupervised criterion is not a claim of class validity.",
+  "acceptance": "Other-caption nearest-neighbor distance calibrated at train 90th percentile per class; >=1.08 alternative-class distance ratio, topology exact. Unknown retained.",
+  "pair_audit": "Separate native RGB audit of positive and same-topology hard-negative pairs, after sealed model. Unknown pairs count as failures to accept proposed positive.",
+  "train_instances": 10572,
+  "validation_instances": 2785,
+  "test_class_inspection": false,
+  "registered_at_utc": "2026-10-06T10:47:06.474370+00:00"
+}

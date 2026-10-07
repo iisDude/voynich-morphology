@@ -1,0 +1,86 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://collections.library.yale.edu/iiif/2/1006270",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2582,
+  "height": 3787,
+  "sizes": [
+    {
+      "width": 81,
+      "height": 118
+    },
+    {
+      "width": 161,
+      "height": 237
+    },
+    {
+      "width": 323,
+      "height": 473
+    },
+    {
+      "width": 646,
+      "height": 947
+    },
+    {
+      "width": 1291,
+      "height": 1894
+    },
+    {
+      "width": 2582,
+      "height": 3787
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ]
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level2.json",
+    {
+      "formats": [
+        "jpg",
+        "tif",
+        "gif",
+        "png"
+      ],
+      "maxArea": 9778034,
+      "qualities": [
+        "bitonal",
+        "default",
+        "gray",
+        "color"
+      ],
+      "supports": [
+        "regionByPx",
+        "sizeByW",
+        "sizeByWhListed",
+        "cors",
+        "regionSquare",
+        "sizeByDistortedWh",
+        "canonicalLinkHeader",
+        "sizeByConfinedWh",
+        "sizeByPct",
+        "jsonldMediaType",
+        "regionByPct",
+        "rotationArbitrary",
+        "sizeByH",
+        "baseUriRedirect",
+        "rotationBy90s",
+        "profileLinkHeader",
+        "sizeByForcedWh",
+        "sizeByWh",
+        "mirroring"
+      ]
+    }
+  ]
+}

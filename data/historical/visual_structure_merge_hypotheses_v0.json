@@ -1,0 +1,293 @@
+{
+  "source": "training source galleries only; conventional transcriptions withheld",
+  "structures": [
+    {
+      "structure_id": "VS01",
+      "description": "small closed rounded compartment",
+      "prototype_bins": [
+        2,
+        10,
+        23,
+        32,
+        44,
+        50,
+        54,
+        57,
+        61,
+        86,
+        108
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS02",
+      "description": "rounded open return, variable closure",
+      "prototype_bins": [
+        1,
+        38
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS03",
+      "description": "upper curve descending to an angular lower return",
+      "prototype_bins": [
+        16,
+        80,
+        81,
+        89,
+        92,
+        96,
+        111
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS04",
+      "description": "two low curl-like traces connected horizontally",
+      "prototype_bins": [
+        3,
+        25,
+        52,
+        79,
+        119,
+        128
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS05",
+      "description": "short repeated slant or arch-like traces",
+      "prototype_bins": [
+        6,
+        59,
+        67,
+        126
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS06",
+      "description": "small single slant-like or angled trace",
+      "prototype_bins": [
+        11,
+        43
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS07",
+      "description": "two stacked loop-like compartments; closure varies",
+      "prototype_bins": [
+        12,
+        18,
+        40,
+        70,
+        94,
+        98,
+        115,
+        118
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS08",
+      "description": "paired tall uprights connected by upper bar and loop",
+      "prototype_bins": [
+        21,
+        24,
+        29,
+        33,
+        37,
+        42,
+        46,
+        76,
+        97,
+        109,
+        127
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS09",
+      "description": "tall downward stem, upper bar and nearby ring-like compartment",
+      "prototype_bins": [
+        13,
+        26,
+        107
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS10",
+      "description": "narrow loop joined to angular descending return",
+      "prototype_bins": [
+        14,
+        34,
+        36,
+        71,
+        77,
+        93,
+        112,
+        123
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS11",
+      "description": "small upper loop with a longer curved descending tail",
+      "prototype_bins": [
+        15,
+        27,
+        63,
+        64,
+        99,
+        105,
+        117
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS12",
+      "description": "low connected curls followed by a closed compartment",
+      "prototype_bins": [
+        17,
+        102
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS13",
+      "description": "small open curl-like trace",
+      "prototype_bins": [
+        22,
+        30,
+        60,
+        90
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS14",
+      "description": "raised short return above horizontally connected low curls",
+      "prototype_bins": [
+        73,
+        103
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS15",
+      "description": "small arch-like or nearly enclosed angular trace",
+      "prototype_bins": [
+        20,
+        110,
+        113,
+        114
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS16",
+      "description": "low curl joined to stacked loop-like compartments",
+      "prototype_bins": [
+        48,
+        88
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS17",
+      "description": "paired tall uprights with adjoining low arch or loop",
+      "prototype_bins": [
+        91,
+        125
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS18",
+      "description": "paired tall structure with lower horizontal connection and curls",
+      "prototype_bins": [
+        120
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS19",
+      "description": "low curls and closed compartment with descending tail",
+      "prototype_bins": [
+        62,
+        121
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS20",
+      "description": "short slants joined to rounded returning trace",
+      "prototype_bins": [
+        106
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    },
+    {
+      "structure_id": "VS21",
+      "description": "closed compartment adjoining narrow looped angular return",
+      "prototype_bins": [
+        122
+      ],
+      "status": "hypothesis; raw prototype identities retained"
+    }
+  ],
+  "compound_factor_hypotheses": [
+    {
+      "compound": "VS12",
+      "proposed_factors": [
+        "VS04",
+        "VS01"
+      ],
+      "status": "proposed visual analogy; boundaries and pen lifts unresolved"
+    },
+    {
+      "compound": "VS16",
+      "proposed_factors": [
+        "VS13",
+        "VS07"
+      ],
+      "status": "proposed visual analogy; boundaries and pen lifts unresolved"
+    },
+    {
+      "compound": "VS17",
+      "proposed_factors": [
+        "VS08",
+        "VS15"
+      ],
+      "status": "proposed visual analogy; boundaries and pen lifts unresolved"
+    },
+    {
+      "compound": "VS18",
+      "proposed_factors": [
+        "VS08",
+        "VS04"
+      ],
+      "status": "proposed visual analogy; boundaries and pen lifts unresolved"
+    },
+    {
+      "compound": "VS19",
+      "proposed_factors": [
+        "VS04",
+        "VS11"
+      ],
+      "status": "proposed visual analogy; boundaries and pen lifts unresolved"
+    },
+    {
+      "compound": "VS21",
+      "proposed_factors": [
+        "VS01",
+        "VS10"
+      ],
+      "status": "proposed visual analogy; boundaries and pen lifts unresolved"
+    }
+  ],
+  "caution": "These analogies do not establish compositional identity. Whole and factored interpretations both remain."
+}

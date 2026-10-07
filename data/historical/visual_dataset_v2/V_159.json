@@ -1,0 +1,42 @@
+{
+  "view_id": "V_159",
+  "native_source": "data/source/yale_native/1006231.jpg",
+  "source_sha256": "4b08afeee514691b0a511099ca299aed544d6fd1782b7dee8df163dfc06354ed",
+  "status": "source reviewed partial writing fields",
+  "writing_fields": [],
+  "curved_writing_adjudication": {
+    "case_id": "CURVE_V_159",
+    "kind": "curved_view",
+    "view_id": "V_159",
+    "priority_score": 5,
+    "questions": [
+      "curved_writing_membership",
+      "orientation",
+      "path_seam",
+      "panel_mapping"
+    ],
+    "status": "source_reviewed: writing paths distinguished from diagram/ornament; unit boundaries partly unknown",
+    "native_source": "data/source/yale_native/1006231.jpg",
+    "hypotheses_path": "data/observations/curved_path_candidates_v2/V_159.json",
+    "observation": "Large rosette sheet has multiple circular writing bands and rotated connector labels. Blue scallops, towers, waves, star patterns and repeated small ornament are drawing, not minim sequences. A horizontal crease and two vertical creases divide capture regions while several written bands cross them.",
+    "writing_paths": "multiple annular/curved bands and rotated connector labels",
+    "visible_panel_fractions": [
+      0.405,
+      0.725
+    ],
+    "visible_horizontal_panel_fractions": [
+      0.5
+    ],
+    "orientation": "each rosette/connector has its own path; no common line x position",
+    "native_inspection": "whole capture plus four unscaled 650x650 source crops",
+    "group_boundaries": "unknown except visible local gaps; no complete ring group inventory certified",
+    "pen_lift": "unknown",
+    "horizontal_assay_eligible": false
+  },
+  "prior_proposal_path": "data/observations/regional_candidates_v11/V_159.json",
+  "prior_rows_status": "Unknown unless a reviewed field explicitly supersedes them; no old unit sequences admitted",
+  "unreviewed_prior_rows": 0,
+  "physical_folio_identity": "caption only; panel correspondence unknown",
+  "canonical_graphemes": "unknown",
+  "pen_lifts": "unknown"
+}

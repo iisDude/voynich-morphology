@@ -1,0 +1,14 @@
+{
+  "seed": 20261005,
+  "frozen_model_hashes": {
+    "fine_components": "c1384582fcbaf8561a535c66db56675b4261ec47fa852cbef72214265dd2ad30",
+    "medium_assemblies": "c2bf7818fe834d10fa73e49d2502dc1ecc4b4bbd9cff348c575ad93d545bbca7",
+    "compound_candidates": "403de71a4129e6a529854215f98d9c9afa2e1d00f68ebd9ec5a586c1c3e20d72",
+    "group_only": "0cbcb1f600ff708d61e1e53956d7bbda3e34485b5ceacb060ecce8cc5eca9e10"
+  },
+  "source_review_hash": "f60c804201837540f4383643e7142f04222f1285de443125ea50a903a0f876d6",
+  "gate": "atlas eligible; training radius <= training 95th percentile; at least three training folio components; primary medium family reviewed writing_consistent",
+  "sample": "up to 20 admitted medium instances per selected view; 4 validation and 6 test views chosen by fixed RNG; uniform within each view",
+  "outcome": "writing visible / non-writing or incompatible row / ambiguous; source quality only, atomic identity remains unproven",
+  "rule": "no refitting or source-quality threshold changes using test crops; failure is retained as a failure of v4"
+}

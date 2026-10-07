@@ -1,0 +1,2764 @@
+{
+  "scripts": [
+    {
+      "path": "src/account_recurrence_bottlenecks_v3.py",
+      "sha256": "4dece75f10acb3a1e2058e13560c82446753656f9867f071165ea2031def3c3a",
+      "imports": [
+        "collections",
+        "common",
+        "matplotlib",
+        "numpy",
+        "recurrence_guard_v3",
+        "validate_recurrence_structure_v3"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/acquire_yale_images.py",
+      "sha256": "ab5d16ba53a45edf323aef1aa10672a547e960a0b3eb4093926e9bb288fd5524",
+      "imports": [
+        "PIL",
+        "argparse",
+        "common",
+        "concurrent",
+        "io",
+        "json",
+        "urllib"
+      ],
+      "external_URLs": [
+        "https://collections.library.yale.edu/iiif/2/{image_id}"
+      ]
+    },
+    {
+      "path": "src/adjudicate_direct_morphology2_extension.py",
+      "sha256": "cb8b449698692d964b110d7f28d802d7928f8cddb941520256fe878b611f90fb",
+      "imports": [
+        "adjudicate_direct_morphology2_pairs"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/adjudicate_direct_morphology2_pairs.py",
+      "sha256": "91202fe39e8a7b75edee1f5c5bd718cd734d14dbf85dfc0179e96366c1c2fda6",
+      "imports": [
+        "collections",
+        "direct_morphology2_common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/adjudicate_direct_morphology2_repeat.py",
+      "sha256": "0b3434cd37ac97feca7417f6a999f931397b3d9a6b6533526439cb38cf93c57a",
+      "imports": [
+        "collections",
+        "direct_morphology2_common",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/adjudicate_direct_morphology2_sources.py",
+      "sha256": "bbb0060a29d74da23ec81c8956081418e9e15186fb19f16ca41f924d57928ceb",
+      "imports": [
+        "collections",
+        "direct_morphology2_common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/adjudicate_dm2_robustness_repeat.py",
+      "sha256": "ad9913a341cac657228371cf114bfbe609f1d65e66b684a0f42fb5fcdab14c94",
+      "imports": [
+        "dm2_robustness_common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/adjudicate_feature_trial2_pairs.py",
+      "sha256": "107f27803976711e09b22f21a75129a2a9742519eac5652d5612a40cf8943fcf",
+      "imports": [
+        "PIL",
+        "feature_trial2_common",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/adjudicate_feature_trial2_sources.py",
+      "sha256": "0f50d00355fa1f69b1e3728698a365d764c5683586d1991155c517aa17dcbd02",
+      "imports": [
+        "collections",
+        "feature_trial2_common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/adjudicate_inventory_sources_v6.py",
+      "sha256": "9ce12d9e89da63593ce0d979461743f5daef6a42ad7f2b836c09350c88539b86",
+      "imports": [
+        "collections",
+        "inventory_v6_common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/adjudicate_recurrence_pairs_v3.py",
+      "sha256": "705dc6ed76a873a3dd19cca412d0e0f13026e47bd97ec9f2bdcc787101094976",
+      "imports": [
+        "collections",
+        "common",
+        "recurrence_guard_v3"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/adjudicate_structural_pairs_v3.py",
+      "sha256": "5c6a6532805716e23243d28ce058e6a7ad355b54c42b30c41c12bd6679f8c2d2",
+      "imports": [
+        "collections",
+        "common",
+        "recurrence_guard_v3"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/analyse_native_structure.py",
+      "sha256": "04a33b013fa14b301c80fae8ddc1c817fd07a2daa8576c96d50a5293fd629cd6",
+      "imports": [
+        "PIL",
+        "argparse",
+        "common",
+        "cv2",
+        "numpy",
+        "scipy",
+        "skimage"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/assemble_segmentation_v2.py",
+      "sha256": "7029f498d93788acb26a9d5b0386621ed7364e140ef9739d9c822d68eba88d32",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/assess_downstream_support_v4.py",
+      "sha256": "46e12d56bed13ef3a022039cd1365038745e73cf29e180f2acd0f855b8c7b31a",
+      "imports": [
+        "build_sequence_model_v4",
+        "common",
+        "datetime",
+        "register_sequence_v4"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/assign_v11_frozen_prototypes_v1.py",
+      "sha256": "8281b70da9ddea092d33f86e3efd9b368a4622ef608238271f861872ed5b233c",
+      "imports": [
+        "PIL",
+        "analyse_native_structure",
+        "argparse",
+        "collections",
+        "common",
+        "cv2",
+        "discover_visual_families",
+        "joblib",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/assign_visual_families.py",
+      "sha256": "4e5507e68a9cba90aa4ae6fc28d5ed8164451b0903d6ff1913ec7799ab5aa9ef",
+      "imports": [
+        "PIL",
+        "common",
+        "cv2",
+        "discover_visual_families",
+        "joblib",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/audit_direct_morphology2.py",
+      "sha256": "8a16dd4fa4aa3b4b5dbd8a5dfaa3f732d7e4daa3a4a835c6b235fe8223c907d3",
+      "imports": [
+        "common",
+        "direct_morphology2_common",
+        "re"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/audit_neutral_features_v1.py",
+      "sha256": "ab078510a356be2b08330208b09e717297a28ec0218618c512008882db1c73b4",
+      "imports": [
+        "PIL",
+        "common",
+        "datetime",
+        "numpy",
+        "pathlib"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/audit_overlapping_views.py",
+      "sha256": "55a8a1c4ea6314c60edae866274f75893b089886080c9f8996565d5fae026a42",
+      "imports": [
+        "common",
+        "cv2",
+        "itertools",
+        "numpy",
+        "re"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/audit_recurrence_freeze_v3.py",
+      "sha256": "824fe9e05fd819b460ef11028384031a422b266fa9a6139e6a29e51d17a60bde",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "datetime",
+        "evaluate_source_classes_v3",
+        "json",
+        "numpy",
+        "pickle"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/audit_sequence_v4.py",
+      "sha256": "f834d6d967b8befc998976d445cc66ffaf11caab39d0323922caca0c48560fdc",
+      "imports": [
+        "PIL",
+        "build_sequence_model_v4",
+        "collections",
+        "common",
+        "evaluate_source_classes_v3",
+        "json",
+        "numpy",
+        "pickle",
+        "register_sequence_v4"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/benchmark_membership_v5.py",
+      "sha256": "de542575c9e10c02fe310ec79369de91fdcfa789ac0b484a0c03c54192216ce5",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "cv2",
+        "datetime",
+        "numpy",
+        "prepare_row_objects_v5",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5",
+        "scipy",
+        "source_review_notes_v5",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/build_crosswalk_v0.py",
+      "sha256": "54d72bb248dc26373ef209250bbcc707003a6b20c0cb2c7d9a81049ffb6cf872",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "numpy",
+        "re"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/build_crosswalk_v11.py",
+      "sha256": "1ebf23f23481191c61bffdb1e74fa587b830b387ef991ff127b36d30f3ecddaa",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "numpy",
+        "re"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/build_direct_morphology.py",
+      "sha256": "472ec3436beb76dce6ecafc6f91ba0dcc6f7c2ea1bc124db5f0ddf8e38b36e06",
+      "imports": [
+        "PIL",
+        "benchmark_membership_v5",
+        "cv2",
+        "direct_morphology_common",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/build_direct_morphology2.py",
+      "sha256": "250e373478b9ee2505ab43bbbda557b7dd521427cc7051714736855b789be3c0",
+      "imports": [
+        "PIL",
+        "benchmark_membership_v5",
+        "build_direct_morphology",
+        "cv2",
+        "direct_morphology2_common",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/build_sequence_model_v4.py",
+      "sha256": "0f7500c42952ed411643c5f85bf6c76976f8d7f6251ae16964517500938e4fb9",
+      "imports": [
+        "collections",
+        "common",
+        "datetime",
+        "numpy",
+        "register_sequence_v4"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/build_tracked_snapshot_v1.py",
+      "sha256": "f17651b6ec8026c60406a5b8b42c00ddf6401e8ac43e5aed0901ff8de44cf867",
+      "imports": [
+        "build_visual_dataset",
+        "common",
+        "datetime",
+        "jsonschema"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/build_visual_dataset.py",
+      "sha256": "5fa2b41c4dc906ffde03e8e4df1267ec68beb09ae1f385888bb91ffcfc19b135",
+      "imports": [
+        "PIL",
+        "common",
+        "jsonschema",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/calibrate_assemblies.py",
+      "sha256": "d46bc23eba0faf5babd53901fd27a0d5cb25f85ac3d7a2d6c2d9e4017bc336c6",
+      "imports": [
+        "PIL",
+        "argparse",
+        "common",
+        "cv2",
+        "numpy",
+        "scipy",
+        "skimage",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/calibrate_path_gate.py",
+      "sha256": "b8bbe2f8a10f1a8ca429521e054693d94b50ceee857ebb02693c00b89bac9043",
+      "imports": [
+        "PIL",
+        "argparse",
+        "common",
+        "cv2",
+        "joblib",
+        "numpy",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/calibrate_window_gate.py",
+      "sha256": "4b1ceaac64dd28d70918a06e9d6efe679e141b363a499d83f29e325456923cf3",
+      "imports": [
+        "PIL",
+        "calibrate_path_gate",
+        "common",
+        "cv2",
+        "joblib",
+        "numpy",
+        "sklearn",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/check_yale_source.py",
+      "sha256": "02dfc0c469051accd40d3f2dc836a4c0954bfa2e1d79bac642ccc400d78d6df5",
+      "imports": [
+        "common",
+        "concurrent",
+        "json",
+        "urllib"
+      ],
+      "external_URLs": [
+        "https://collections.library.yale.edu/iiif/2002046/manifest",
+        "https://collections.library.yale.edu/iiif/2/1006076/info.json",
+        "https://collections.library.yale.edu/catalog/2002046"
+      ]
+    },
+    {
+      "path": "src/common.py",
+      "sha256": "8e213a07f5d4d6ccfd4eb5f63c9f0ca181efc3a37d3122428595742f0062b6fe",
+      "imports": [
+        "csv",
+        "hashlib",
+        "json",
+        "os",
+        "pathlib",
+        "sys"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/complete_compound_stress_v1.py",
+      "sha256": "8e9c1acef811b9d7b7df1a44ffac6178afffefbf1b1587471fe9dcbbbc74f7f6",
+      "imports": [
+        "common",
+        "conventional_crossgraph_v0",
+        "run_structural_tests_v2",
+        "structural_assays"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/context_assays_v0.py",
+      "sha256": "e47c9110c62aae1ecb9c71377cea3656121aab641bcd98bed7a34b8b94427a23",
+      "imports": [
+        "argparse",
+        "collections",
+        "common",
+        "itertools",
+        "numpy",
+        "run_structural_tests_v2",
+        "sklearn",
+        "zlib"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/conventional_crossgraph_v0.py",
+      "sha256": "725170858bd0509293bf8b3f85c7a8919381f63d21686f3d56a34c008cde5228",
+      "imports": [
+        "collections",
+        "common",
+        "numpy",
+        "run_structural_tests_v2",
+        "structural_assays"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/diagnose_foreground_membership.py",
+      "sha256": "9b8cc8af3b6889adb81ef8db733d3fab2b2491979978afb624da6bcd79eead48",
+      "imports": [
+        "PIL",
+        "common",
+        "cv2",
+        "importlib",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/diagnose_frozen_view_integrity_v1.py",
+      "sha256": "37e41ad1d89413f6a1481465c2fdd401d07793db6ad983d27f650a9018701d33",
+      "imports": [
+        "common",
+        "hashlib",
+        "json"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/diagnose_inventory_sources_v6.py",
+      "sha256": "89b5f297f5af5d2290b67fd873a7de00169661843a77a9d90f00713eeadee1ef",
+      "imports": [
+        "collections",
+        "evaluate_source_classes_v3",
+        "inventory_v6_common",
+        "numpy",
+        "pickle",
+        "prepare_structural_inventory_v6",
+        "scipy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/diagnose_reference_support_v5.py",
+      "sha256": "4af0d0135cd20798bdf78b96bea84ed567feab5a603388d15cc7f2a5d05bb23e",
+      "imports": [
+        "collections",
+        "common",
+        "map_frozen_classes_v5",
+        "numpy",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/diagnose_v2_recurrence_v3.py",
+      "sha256": "95826e25a722e27e2f40aa26733f59b2c227bf2c3d7dde703d92233883c7e4eb",
+      "imports": [
+        "collections",
+        "common",
+        "recurrence_guard_v3"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/direct_morphology2_common.py",
+      "sha256": "daba2c490c3f7f68bd639a190442fa50c73b407b30b6880dee7465eef51e433e",
+      "imports": [
+        "common",
+        "datetime"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/direct_morphology_common.py",
+      "sha256": "2fc97a352e95ac9685b99a910a882e6c4077d7655dda85779a261548a4b884a6",
+      "imports": [
+        "common",
+        "datetime"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/discover_inventory_candidates_v6.py",
+      "sha256": "56db1231a8c0ab57370f0cf4e8d12dcfce99a476cc181aa0e2541aa55f43353f",
+      "imports": [
+        "PIL",
+        "collections",
+        "cv2",
+        "evaluate_source_classes_v3",
+        "extract_recurrence_units_v3",
+        "inventory_v6_common",
+        "numpy",
+        "pickle",
+        "prepare_structural_inventory_v6",
+        "regional_extract_v11",
+        "scipy",
+        "sklearn",
+        "sys"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/discover_visual_families.py",
+      "sha256": "a305d74ed4224586e9732378f1bb913e0c37d5680fe605132949b161af958ddb",
+      "imports": [
+        "PIL",
+        "argparse",
+        "common",
+        "cv2",
+        "functools",
+        "joblib",
+        "numpy",
+        "scipy",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/dm2_robustness_common.py",
+      "sha256": "633c625fb90f16493e654e30d940a821f83e1ba0871f1fef9aaf05f9f318c474",
+      "imports": [
+        "common",
+        "datetime"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/evaluate_direct_morphology.py",
+      "sha256": "8e624ca28fb18dbc8d8da3e8bfe4790373fe7b6f694234e25b7a70f769bb2199",
+      "imports": [
+        "collections",
+        "cv2",
+        "direct_morphology_common",
+        "numpy",
+        "scipy",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/evaluate_direct_morphology2.py",
+      "sha256": "3a34956aa42671103467a81470893dbbd58ae4e8924790b26383311e3bb2e488",
+      "imports": [
+        "collections",
+        "direct_morphology2_common",
+        "evaluate_direct_morphology",
+        "numpy",
+        "scipy",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/evaluate_dm2_robustness.py",
+      "sha256": "fb26a2f7a3cf5a4b9fdcec717b144417b5203138502f8e06b501e30bff099d32",
+      "imports": [
+        "collections",
+        "dm2_robustness_common",
+        "numpy",
+        "prepare_dm2_robustness"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/evaluate_feature_trial2.py",
+      "sha256": "b7a4d3b1864869555d08d53395d74800eb6de524dbada952888bd3ff54042d99",
+      "imports": [
+        "collections",
+        "copy",
+        "cv2",
+        "evaluate_source_classes_v3",
+        "feature_trial2_common",
+        "measure_feature_trial2",
+        "numpy",
+        "pickle",
+        "scipy",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/evaluate_row_benchmark_v5.py",
+      "sha256": "bb7824278ec6e4f178ea58557925dee92116e1e0fc331c00056db96a6bc52b39",
+      "imports": [
+        "benchmark_membership_v5",
+        "collections",
+        "common",
+        "datetime",
+        "map_frozen_classes_v5",
+        "numpy",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5",
+        "seal_membership_rules_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/evaluate_source_classes_v3.py",
+      "sha256": "c7581e08f10258baa7d08736fe5410ee790739e3a27d80d0bade0e7ea4e298ad",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "cv2",
+        "fit_source_classes_v3",
+        "numpy",
+        "pickle",
+        "recurrence_guard_v3",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/evaluate_visual_reconstruction.py",
+      "sha256": "9b4afab9927b403c7aaf1e7c3c127d58fb52a6bbeb4d646d736066156d8848c4",
+      "imports": [
+        "analyse_native_structure",
+        "assign_visual_families",
+        "common",
+        "cv2",
+        "joblib",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/expand_regional_candidates.py",
+      "sha256": "8f73b315815f73e4f2a4d1f51c0955e209306b2290dcf03a2c67e72d85356647",
+      "imports": [
+        "argparse",
+        "common",
+        "concurrent",
+        "subprocess",
+        "sys",
+        "time"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/expand_visual_proposals.py",
+      "sha256": "efb19329c0481fce3eeb447b6e3c05ebe95bce8cf381e9d8927c070d77137bc3",
+      "imports": [
+        "common",
+        "concurrent",
+        "subprocess",
+        "sys",
+        "time"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/explore_curved_paths.py",
+      "sha256": "148f74672cc209804d2ff2f91bcc00ea30ff270bd705dc181c1654098f1a5f0d",
+      "imports": [
+        "PIL",
+        "calibrate_assemblies",
+        "common",
+        "cv2",
+        "numpy",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/extract_all_views.py",
+      "sha256": "657265e794a377d9977a03b1e74e10a4baff5ff3c3cd67207b3d16bcfc655581",
+      "imports": [
+        "PIL",
+        "common",
+        "hashlib",
+        "io",
+        "pypdf",
+        "re"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/extract_dense_blocks_v2.py",
+      "sha256": "3d81c01c56fe34152a5fe5efb456e4f0ee78975b365f94d8f2987d5a71e81d9e",
+      "imports": [
+        "PIL",
+        "calibrate_assemblies",
+        "common",
+        "cv2",
+        "discover_visual_families",
+        "joblib",
+        "numpy",
+        "regional_extract_v11",
+        "scipy",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/extract_recurrence_units_v3.py",
+      "sha256": "1ad1eb4197c3b67bf87633c7e23fcaf04ed21b4e425bd5cab53516fbe21a3763",
+      "imports": [
+        "PIL",
+        "calibrate_assemblies",
+        "common",
+        "cv2",
+        "datetime",
+        "numpy",
+        "recurrence_guard_v3",
+        "regional_extract_v11",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/extract_sequence_v4.py",
+      "sha256": "48001d789a8cb17fcd1187503aefb15b948801c0f0f6f9b9c77f36e3e7c4d21b",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "cv2",
+        "evaluate_source_classes_v3",
+        "extract_recurrence_units_v3",
+        "numpy",
+        "pickle",
+        "regional_extract_v11",
+        "register_sequence_v4",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/feature_trial2_common.py",
+      "sha256": "242dbf0b2efe0bf65e55fb8e33a7b48bec2e7f29d81fd420835e9bb66f0e8e6a",
+      "imports": [
+        "common",
+        "datetime"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/finalize_structural_inventory_v6.py",
+      "sha256": "70a875b4b76c82ef6af41109efa72aab78bb67367183d3c9736eb7ed7ff40f2f",
+      "imports": [
+        "collections",
+        "inventory_v6_common",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/finish_depth_order_repetition_v1.py",
+      "sha256": "1bb7b594ac29656c7ccf177cfe3961eebe47a4930ebb01bb8a324c4113b19ecc",
+      "imports": [
+        "argparse",
+        "collections",
+        "common",
+        "context_assays_v0",
+        "itertools",
+        "networkx",
+        "numpy",
+        "positional_dependence_and_boundaries_v0",
+        "run_structural_tests_v2",
+        "statsmodels",
+        "structural_assays"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/fit_source_classes_v3.py",
+      "sha256": "7eea1ea7c92669950edb2f4fbe2ffef727c0d187850af41de52a32af4deb1bc1",
+      "imports": [
+        "common",
+        "cv2",
+        "datetime",
+        "numpy",
+        "pickle",
+        "recurrence_guard_v3",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/fit_structural_classes_v3.py",
+      "sha256": "7ceb56082047027d83d9b7d42502dcb8b6f98e2b9cef5eab4225c3c5556eeb88",
+      "imports": [
+        "common",
+        "datetime",
+        "fit_source_classes_v3",
+        "numpy",
+        "pickle",
+        "recurrence_guard_v3",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/format_dm2_robustness_report.py",
+      "sha256": "86c0016f38562747f980e2148efab790742c27b4b6f2312edd48ccd4fc6d555e",
+      "imports": [
+        "dm2_robustness_common",
+        "re"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/freeze_adjudicated_segmentation_v2.py",
+      "sha256": "916af8baae92add6a01d2fb5f902c1569655b639f4b1ada0ce756767592df55b",
+      "imports": [
+        "collections",
+        "common",
+        "datetime",
+        "math"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/freeze_benchmark_v5.py",
+      "sha256": "4930379cb93eb24d096682f89b60d72170cfca4f16d2d09224e37cb8d2559b53",
+      "imports": [
+        "common",
+        "datetime",
+        "map_frozen_classes_v5",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5",
+        "seal_membership_rules_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/freeze_recurrence_v3.py",
+      "sha256": "08c3d1006e89470197271f97a814c543fb7e4e8c604d81757ba4175c75629202",
+      "imports": [
+        "common",
+        "datetime"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/freeze_sequence_v4.py",
+      "sha256": "11671f12b05124cbef6005c500537763bdb4289b79fc5a014f4dbbfe8c9dd1a0",
+      "imports": [
+        "build_sequence_model_v4",
+        "common",
+        "datetime",
+        "register_sequence_v4"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/freeze_source_reference_v5.py",
+      "sha256": "17c201d9ac2c988da41371c4ad6ff55161d5cd3fd148ddf628e5e2da75d1a15e",
+      "imports": [
+        "collections",
+        "common",
+        "datetime",
+        "numpy",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5",
+        "seal_membership_rules_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/freeze_structural_inventory_v6.py",
+      "sha256": "cada6b28bbcdf14a98dcda2a6f1f406d0be4127cb7a58374926344d361be3311",
+      "imports": [
+        "ast",
+        "inventory_v6_common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/freeze_visual_dataset.py",
+      "sha256": "f58e6decc5e9d98b1bab297088624b6685f8eb44006345e0b52f9c2d91eeb77a",
+      "imports": [
+        "common",
+        "datetime",
+        "jsonschema"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/heldout_source_notes_v5.py",
+      "sha256": "e201eb2915568043d6f1d2a2510933fe7a4e4be8e3eb4ed9dbec1a4a2c51f0fe",
+      "imports": [
+        "benchmark_membership_v5",
+        "common",
+        "datetime",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/historical_feature_trial2.py",
+      "sha256": "62fca1c6cd960ee00283184f2985c30930632e25f8bd21bd266ddd74ed50a54e",
+      "imports": [
+        "collections",
+        "feature_trial2_common",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/hmm_transfer_all_hands_v1.py",
+      "sha256": "a577758c6ba34edc3fa2f479a095223ea49e3a271524f4e6f5fd44b3a1ce3a69",
+      "imports": [
+        "common",
+        "hmm_transfer_v0",
+        "sys"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/hmm_transfer_v0.py",
+      "sha256": "473b01409180f10e9ac26f0963fd35c2b5805840ebe73c0339d1876025856a0c",
+      "imports": [
+        "argparse",
+        "collections",
+        "common",
+        "copy",
+        "hmmlearn",
+        "numpy",
+        "run_structural_tests_v2",
+        "warnings"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/inspect_local_prior_art_v1.py",
+      "sha256": "82377551e831a92da4bb37594320c94aa7bdbe8bd25677cebf2576da639a9d2a",
+      "imports": [
+        "common",
+        "zipfile"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/inventory.py",
+      "sha256": "135162fe2cefe280265fbe079bac58d0436956ff86d6a953df4d55b19cfc0a5e",
+      "imports": [
+        "csv",
+        "hashlib",
+        "json",
+        "pathlib",
+        "pypdf",
+        "zipfile"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/inventory_v6_common.py",
+      "sha256": "56477f15b4dd7f805d4170afda5fa0c1df46af2401f913162fb58224e54888bc",
+      "imports": [
+        "common",
+        "datetime",
+        "pathlib"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/literal_repeat_discrimination_v1.py",
+      "sha256": "d5808f37f4a313c1552f4f66a192df421dc92e652c1d3474e872207781b3faec",
+      "imports": [
+        "common",
+        "context_assays_v0",
+        "numpy",
+        "run_structural_tests_v2"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/map_frozen_classes_v5.py",
+      "sha256": "de407775e2d0c22192ac30ba347447024a6d93cd982bd0637f20b340b72944d2",
+      "imports": [
+        "benchmark_membership_v5",
+        "common",
+        "cv2",
+        "datetime",
+        "evaluate_source_classes_v3",
+        "extract_recurrence_units_v3",
+        "numpy",
+        "pickle",
+        "regional_extract_v11",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/measure_feature_trial2.py",
+      "sha256": "7724f5f3378a795ec2fbcceb7a952326c066ae64fd6a5b3244c66318dffe669a",
+      "imports": [
+        "PIL",
+        "benchmark_membership_v5",
+        "collections",
+        "cv2",
+        "feature_trial2_common",
+        "measure_inventory_factors_v6",
+        "neutral_feature_trial_v1",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/measure_gap_concordance_v5.py",
+      "sha256": "02fab75ecfacd7a7a51ca0ffc35893814a3f29806da14f20e35d2ba119b229cf",
+      "imports": [
+        "collections",
+        "common",
+        "evaluate_row_benchmark_v5",
+        "numpy",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/measure_inventory_factors_v6.py",
+      "sha256": "2e1bfe61959d8c022689eeccade1e4c7b72e5cf19547f2c1e2d8b809a244eb31",
+      "imports": [
+        "PIL",
+        "benchmark_membership_v5",
+        "collections",
+        "cv2",
+        "discover_inventory_candidates_v6",
+        "evaluate_source_classes_v3",
+        "inventory_v6_common",
+        "numpy",
+        "pickle"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/neutral_feature_trial_v1.py",
+      "sha256": "8045fe6341dacbce9f74a8f58a17f21a762a9277bbd0990d2858d44857f7ed66",
+      "imports": [
+        "PIL",
+        "benchmark_membership_v5",
+        "calibrate_assemblies",
+        "collections",
+        "common",
+        "cv2",
+        "datetime",
+        "measure_inventory_factors_v6",
+        "numpy",
+        "pathlib",
+        "sys"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/overlay_crosswalk_membership_v0.py",
+      "sha256": "32f405f2082122323fe85c4c2710545c8ecbfee83bfb6cc18af6b66ead855845",
+      "imports": [
+        "PIL",
+        "analyse_native_structure",
+        "common",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/overlay_crosswalk_membership_v11.py",
+      "sha256": "9b108f4b3e385b8f0b0ec18b259d9dadc9378af437740f8e26440bec172506b5",
+      "imports": [
+        "PIL",
+        "analyse_native_structure",
+        "common",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/parse_comparison_transcriptions.py",
+      "sha256": "60f056a3cbd558531bc2b57129749c315a4bf66f1d31eb7dd5acb3d01afdbc3b",
+      "imports": [
+        "common",
+        "hashlib",
+        "re"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/parse_comparison_transcriptions_v2.py",
+      "sha256": "8e6d4137823876427cd41b95a805d270d0ac46fa0de6071664c07e086cadeab5",
+      "imports": [
+        "collections",
+        "common",
+        "hashlib",
+        "parse_comparison_transcriptions",
+        "re"
+      ],
+      "external_URLs": [
+        "https://www.voynich.nu/software/ivtt/IVTFF_format.pdf",
+        "https://www.voynich.nu/transcr.html"
+      ]
+    },
+    {
+      "path": "src/physical_view_overlap_v1.py",
+      "sha256": "5954a4526eb840b4acda0c5f966cdd3e925b64c404d5780829a9bc6ca7ae0e6e",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "cv2",
+        "itertools",
+        "numpy",
+        "re"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/positional_dependence_and_boundaries_v0.py",
+      "sha256": "dc074ee9e20b2beb1ab8c58868fb74ada9a594ac71f3796013e4792f74b9ec91",
+      "imports": [
+        "collections",
+        "common",
+        "networkx",
+        "numpy",
+        "run_structural_tests_v2",
+        "scipy",
+        "structural_assays"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/postfreeze_direct_morphology2.py",
+      "sha256": "0bafcd61577abc6ef34ab16708e3fa733036080b08996da33d80b692d6d5b17e",
+      "imports": [
+        "direct_morphology2_common",
+        "replay_direct_morphology2",
+        "seal_direct_morphology2",
+        "verify_direct_morphology2_metrics"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/postfreeze_dm2_robustness.py",
+      "sha256": "8c0d1120b35b2b89567c7e0f1ac66e7cb77618bb16a531a85750d7be630afa22",
+      "imports": [
+        "dm2_robustness_common",
+        "re",
+        "seal_direct_morphology2",
+        "verify_dm2_robustness",
+        "verify_dm2_robustness_repeat"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/postfreeze_structural_inventory_v6.py",
+      "sha256": "6592c38dcfcc90f903733ba349a8848b8a4f7981143a96207b6b1a6916c3b83e",
+      "imports": [
+        "common",
+        "copy",
+        "evaluate_row_benchmark_v5",
+        "inventory_v6_common",
+        "json",
+        "numpy",
+        "sys",
+        "validate_inventory_candidates_v6"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_controls.py",
+      "sha256": "b70d56a8b6cdda491c935be8cf3b5e25527f92065e9908ca06e0669443740959",
+      "imports": [
+        "common",
+        "hashlib",
+        "unicodedata",
+        "zipfile"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_dense_block_extension_v2.py",
+      "sha256": "9dbe73fba5d42eb6f3c62ea4e2a16a64792e1da1ee75a07313bb5dcfd25d5294",
+      "imports": [
+        "PIL",
+        "common",
+        "datetime"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_direct_morphology2_pairs.py",
+      "sha256": "4a91d447649475d3fe419c2dde5aae89f15a10dacc28840823a9e80db604c259",
+      "imports": [
+        "PIL",
+        "collections",
+        "direct_morphology2_common",
+        "itertools",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_direct_morphology2_repeat.py",
+      "sha256": "23be5ff9717d408c58f68eac7ddb97d8bc7459864b3a1b08f57406f22b03d223",
+      "imports": [
+        "direct_morphology2_common",
+        "numpy",
+        "prepare_direct_morphology2_pairs"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_direct_morphology2_sources.py",
+      "sha256": "0d94a8d5f3334d543f85ff48d9d05afef8d19c96285ac91a261f86ebb85c5ec8",
+      "imports": [
+        "PIL",
+        "benchmark_membership_v5",
+        "direct_morphology2_common",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_dm2_robustness.py",
+      "sha256": "6adc03f63632e883b948a4b6b085b0b202a9701e195cb0f66f8b0b0a19ed250a",
+      "imports": [
+        "collections",
+        "dm2_robustness_common",
+        "numpy",
+        "scipy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_extraction_v10.py",
+      "sha256": "728a2d04c70ce97079e1cfa4f181f538a79baed4997def1dc91d0768dda580ca",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_extraction_v11.py",
+      "sha256": "3db9a9e28be3eaab8f8d9f53d7be68e1a02bba7e670c4820015b5a19d6372623",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_extraction_v5.py",
+      "sha256": "e6ffc69c8a3b8e20854e1641e1e4968b076b2304e0815868a746fcf591d309c6",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_extraction_v6.py",
+      "sha256": "3bfb1bdfa9069461e8909c5a69568d4d127c5cd67e086c78c8121d75dd3ca208",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_extraction_v7.py",
+      "sha256": "80f0aeac7968d635f979abc70f1fb2116f601f28058a5ce7c1576ce1f479b03e",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_extraction_v8.py",
+      "sha256": "f2867fb586980b5df94f872c378853910afb082cd0d84d26c8f94bf84ae0dde6",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_extraction_v9.py",
+      "sha256": "9a3d2c3d4719e009bd55f89a6b2b4ab3890ad503e9ff965855f5b1a2f75bec89",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_factor_source_review_v6.py",
+      "sha256": "7956c1760da4f33dcccbba7a5700ef20bc2498ce118abd4cf744ae39a7be31a0",
+      "imports": [
+        "PIL",
+        "inventory_v6_common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_feature_trial2_sources.py",
+      "sha256": "1f57e9b9a3d57d721d8f939ec43c601274d6d923ec449abd78396a646d074a17",
+      "imports": [
+        "PIL",
+        "benchmark_membership_v5",
+        "cv2",
+        "feature_trial2_common",
+        "numpy",
+        "prepare_structural_inventory_v6"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_heldout_rows_v5.py",
+      "sha256": "4a73f3c0bbfe17038a1e2e99bef061681a488eae2fe22f447076e4f03d7be65a",
+      "imports": [
+        "common",
+        "datetime",
+        "prepare_row_objects_v5",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5",
+        "seal_membership_rules_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_inventory_challenge_v6.py",
+      "sha256": "b966e539092a81a1887bdd0aeff95179267d472d1fc1ae1864d5f4849ef35ec0",
+      "imports": [
+        "collections",
+        "inventory_v6_common",
+        "numpy",
+        "validate_inventory_candidates_v6"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_ordinary_recurrence_corpus_v3.py",
+      "sha256": "ce8cb0b340f7d2c38e80e279fa0eedb5ef311582a8d8898b20a0e0a2207f0398",
+      "imports": [
+        "PIL",
+        "common",
+        "cv2",
+        "numpy",
+        "recurrence_guard_v3",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_postfreeze_comparisons.py",
+      "sha256": "dc3921aa18b2014f866b52b18eb412fc1172bc2e334d61d3ad504588cc18545d",
+      "imports": [
+        "collections",
+        "common",
+        "re"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_recurrence_freeze_v3.py",
+      "sha256": "ab1e94b8ba7a5847a6c904cf5805c64a136b85fb83432c4ec9c109a04b9e200b",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "datetime",
+        "html"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_repeat_review_v5.py",
+      "sha256": "e6f7722fd950e54ec231091fd4703c5c9f22a5aa89e0a2aa99624305963a93ed",
+      "imports": [
+        "PIL",
+        "common",
+        "datetime",
+        "numpy",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_row_objects_v5.py",
+      "sha256": "d7ab0fc1757fedf2454c572e17b86eceb0cbc1077702a1009e40e85c0eb3aa97",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "cv2",
+        "datetime",
+        "math",
+        "numpy",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5",
+        "sys",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_sample.py",
+      "sha256": "bfe63723ddac02c0f20beabaacde998f2f1999d73596ed6e0393755bf065fe09",
+      "imports": [
+        "PIL",
+        "csv",
+        "hashlib",
+        "io",
+        "json",
+        "pathlib",
+        "pypdf"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_sequence_audits_v4.py",
+      "sha256": "a704108cb7affe3e220b419cb3c51f1faf653cedb0c1cc205c37dd6aba5bcfd2",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "numpy",
+        "prepare_sequence_source_v4",
+        "register_sequence_v4"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_sequence_source_v4.py",
+      "sha256": "0723eef0089d6c5467746000648dce31809e70c9dec07cfbb7b8b4f98b81971c",
+      "imports": [
+        "PIL",
+        "common",
+        "numpy",
+        "register_sequence_v4"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_source_adjudication_v2.py",
+      "sha256": "6eb1ee55cccef31e092f0e5828b14f7659dbeffa52fbe1d0a999f27d84a04b3c",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "datetime",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_structural_competitor_v3.py",
+      "sha256": "bd006cfa0646b48414c190c4ca406dc745ba1bd2ca952c6ee6a3e134f1d45c08",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "cv2",
+        "datetime",
+        "fit_source_classes_v3",
+        "numpy",
+        "pickle",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_structural_inventory_v6.py",
+      "sha256": "51749ddc283147334f5bda37a1a074c9166c117b5b68a4ffa0f7b4e022b111ac",
+      "imports": [
+        "PIL",
+        "benchmark_membership_v5",
+        "collections",
+        "cv2",
+        "extract_recurrence_units_v3",
+        "inventory_v6_common",
+        "numpy",
+        "regional_extract_v11",
+        "sys"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_tracked_comparisons_v1.py",
+      "sha256": "84ce2d64af4851c81c3068503874a5afffa26a48df528d7c8ce531e26384dd66",
+      "imports": [
+        "collections",
+        "common",
+        "re",
+        "shutil"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/prepare_tracked_overlay_v1.py",
+      "sha256": "0c6cc05eaef5333ff889c9144178085b9377343a3eed56bb39340ac2eaa1952c",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/preview_direct_morphology2.py",
+      "sha256": "734a021ed1cb666a0511d8440d49e13f5ff0a2d001ab8df62a0ca311c01642c9",
+      "imports": [
+        "PIL",
+        "direct_morphology2_common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/realize_frozen_bridge_hypothesis.py",
+      "sha256": "e411c94fd15cf0e6cd728b5a202fb2cef8d56f5f34293221aab527347bfa08b8",
+      "imports": [
+        "PIL",
+        "analyse_native_structure",
+        "argparse",
+        "calibrate_assemblies",
+        "common",
+        "copy",
+        "numpy",
+        "regional_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/reconstruct_adjudicated_rows_v2.py",
+      "sha256": "dc42acea90e58a8797a0b747c27e5173e60f5d19bbea84bb88a87f7a2d91dc96",
+      "imports": [
+        "PIL",
+        "calibrate_assemblies",
+        "collections",
+        "common",
+        "cv2",
+        "discover_visual_families",
+        "joblib",
+        "numpy",
+        "regional_extract_v11",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/reconstruct_candidate_masks.py",
+      "sha256": "68db4619fc2dca73aeb95336d7be0e7402a73c264624528bfc5bfecd28cab317",
+      "imports": [
+        "PIL",
+        "argparse",
+        "common",
+        "cv2",
+        "numpy",
+        "regional_extract",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_additional_calibration_v1.py",
+      "sha256": "a01f5c3fc22641f0cec2579f16e85e739715515616aacced459b4e125b15fefa",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_crosswalk_audit_v0.py",
+      "sha256": "a536712def7be201beb7f8af0f67bd08854a412d21c8a5d1550359d5cb7e8984",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_curved_panel_adjudication_v2.py",
+      "sha256": "f227e6e8d7afa7f34799b57bb3fb1020643a2152372e68fc6d28dc0f16893220",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_dense_block_reviews_v2.py",
+      "sha256": "2ecce9719c7d79aa88571de87d376e750ac0f81baa6b023dd5a4421e12ab9fb0",
+      "imports": [
+        "common",
+        "datetime"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_family_review.py",
+      "sha256": "3a43fbc32ccf4af986bb69700d3f08d03019b1a1dee84f5c69fe0811c791d105",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_fine_family_review.py",
+      "sha256": "af53fc7c069a6e6174ec823c7633a8c83f3bd4359379225a51e517050b97ae27",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_fine_source_audit.py",
+      "sha256": "858c48c498c9d813260b5909cfe1ce8344a2132d3da8a017bf585e6c38e9ee9c",
+      "imports": [
+        "common",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_heldout_audit.py",
+      "sha256": "aa3db900635ca50f1409dbfc1849548a4addef2ed8dc70beb506b26998ffffa5",
+      "imports": [
+        "common",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_inventory_pair_review_v6.py",
+      "sha256": "464a389282b355493be11edf6b92591a8f6d4786df0244c1480aaf6cc58ab7b3",
+      "imports": [
+        "inventory_v6_common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_membership_overlay_review_v1.py",
+      "sha256": "82f699131dcfa95628f0485a82e7143a513cf7219df80580f03f1dcac1ec58f2",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_neutral_feature_rgb_v1.py",
+      "sha256": "79e1eef5558dc7848c0eaa63ddf8f1480c5358b2d5bdd45986d56ed40c4f8101",
+      "imports": [
+        "common",
+        "datetime",
+        "pathlib"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_ordinary_source_reviews_v3.py",
+      "sha256": "c289e515ecc951e93adc1c0f8b6d4439cdf6f1414b514c475b7ce3526a6de32e",
+      "imports": [
+        "PIL",
+        "common",
+        "datetime",
+        "recurrence_guard_v3"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_physical_overlap_review_v1.py",
+      "sha256": "8a71998279af8225836a631b4390d763d0604569fee88fd5dff4567f3891dfd7",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_recomposed_boundary_review_v2.py",
+      "sha256": "156bf9bc0131895f978e729b3a7cede602316a1b1ecfde1f4ad8c43f9d2375e7",
+      "imports": [
+        "common",
+        "datetime"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_sequence_reviews_v4.py",
+      "sha256": "5d58734a2408dcd615a3c333ab16da6d47a77c5660b343f31807e6b7c3df7ef8",
+      "imports": [
+        "PIL",
+        "common",
+        "datetime",
+        "register_sequence_v4"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_source_adjudication_v2.py",
+      "sha256": "ff6e7687b4e3159d35af30e896306a8fa92600356ae6a51a3e58c34a23896379",
+      "imports": [
+        "common",
+        "datetime"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_structural_source_reviews_v3.py",
+      "sha256": "ffc2fb3169f51519781e060efdc117850dc7b8bdd14be8728ae3eebfe0110b53",
+      "imports": [
+        "PIL",
+        "common",
+        "recurrence_guard_v3"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_tracked_crosswalk_review_v1.py",
+      "sha256": "08285336f940511d386f7ccf437508911d4ba1ed26f8b2bc726ffdc0386cb9a6",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/record_tracked_row_review_v1.py",
+      "sha256": "9a7aafed498627d17640c128061aee9adf63cafafd9c52ad92cf829213ed7a6d",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/recurrence_guard_v3.py",
+      "sha256": "93516b5563ce6dcf1c7f7f59c1d1a40bc6a7d1e7e2e5d00c2470cb052d57b65c",
+      "imports": [],
+      "external_URLs": []
+    },
+    {
+      "path": "src/refine_inventory_development_v6.py",
+      "sha256": "82c6bebc545fa67528e91f68c3fa055b1ecdd7d778458037a0bd9fb6b96f29d1",
+      "imports": [
+        "inventory_v6_common",
+        "numpy",
+        "scipy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/regional_extract.py",
+      "sha256": "f51738b1530d644923ed34fe788f50638da7f35736a95bb94720cfe9d373f405",
+      "imports": [
+        "PIL",
+        "argparse",
+        "calibrate_assemblies",
+        "common",
+        "cv2",
+        "numpy",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/regional_extract_v10.py",
+      "sha256": "0bc4c7523f34f08e937efd5893ffd922c03a9e1669d7784c575287ff1e9c17a6",
+      "imports": [
+        "PIL",
+        "argparse",
+        "calibrate_assemblies",
+        "common",
+        "cv2",
+        "numpy",
+        "scipy",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/regional_extract_v11.py",
+      "sha256": "4ee3644f8892facac4e5535dd756d5bcc02e344ecae9edfb6134df96bcba7245",
+      "imports": [
+        "PIL",
+        "argparse",
+        "calibrate_assemblies",
+        "common",
+        "cv2",
+        "numpy",
+        "scipy",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/regional_extract_v5.py",
+      "sha256": "14e1f507f2b1b25d8fc1918f4eec5741b6183af1392efd03680ea0d1191e0b22",
+      "imports": [
+        "PIL",
+        "argparse",
+        "calibrate_assemblies",
+        "common",
+        "cv2",
+        "numpy",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/regional_extract_v6.py",
+      "sha256": "a796a3fcd0800971c4720d03e8c39a6eb27be90d8dc05241c63e96318cc89d8a",
+      "imports": [
+        "PIL",
+        "argparse",
+        "calibrate_assemblies",
+        "common",
+        "cv2",
+        "numpy",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/regional_extract_v7.py",
+      "sha256": "702fc884e123c0f387ab86fe3dbbc6c2c9dfc4edeacc404090d757f2da137653",
+      "imports": [
+        "PIL",
+        "argparse",
+        "calibrate_assemblies",
+        "common",
+        "cv2",
+        "numpy",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/regional_extract_v8.py",
+      "sha256": "c8588c7b74152386341954de08df59b422f3a80c39b95e630f2ea37b8cea5e53",
+      "imports": [
+        "PIL",
+        "argparse",
+        "calibrate_assemblies",
+        "common",
+        "cv2",
+        "numpy",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/regional_extract_v9.py",
+      "sha256": "729e3e3006e271a52923e952d0f1e65bf440621656c81c54ed198f74f46b1b98",
+      "imports": [
+        "PIL",
+        "argparse",
+        "calibrate_assemblies",
+        "common",
+        "cv2",
+        "numpy",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/register_direct_morphology.py",
+      "sha256": "2d3bc99bfbc063d3846d19c08b5f5da433f6c5ebcefc37661e2afbfee24c8ecd",
+      "imports": [
+        "direct_morphology_common",
+        "pathlib"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/register_direct_morphology2.py",
+      "sha256": "457540b9def334aaba4adbeece8f5629967a44980347a766a32c7e1ee9bc473a",
+      "imports": [
+        "direct_morphology2_common",
+        "pathlib"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/register_dm2_robustness.py",
+      "sha256": "ee591374f7b5532155279b849964cb960f9cbe40d0d4cc4f78b8c8a04dbf32ea",
+      "imports": [
+        "PIL",
+        "collections",
+        "dm2_robustness_common",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/register_feature_trial2.py",
+      "sha256": "1496e665e61be8c8c9bdf23d1255caaa8a5ee037a1e7d4460b3ba2cbd2b15e5e",
+      "imports": [
+        "feature_trial2_common",
+        "math",
+        "neutral_feature_trial_v1",
+        "pathlib"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/register_recurrence_v3.py",
+      "sha256": "4557b0ede793c17c560a330291b53e5eda57dd66e82c2918bcdefea49260b8e8",
+      "imports": [
+        "collections",
+        "common",
+        "datetime",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/register_row_benchmark_v5.py",
+      "sha256": "b0ffb1a57f995d4a551c9b9c99c0d5da1ec7ef75491e20a8d7e50b9e342f3b0e",
+      "imports": [
+        "PIL",
+        "common",
+        "datetime",
+        "numpy",
+        "row_benchmark_guard_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/register_sequence_v4.py",
+      "sha256": "4e5a924060c8c9ee5910d76c806ee0c46c2a268909fd6361e63c69c34bce6eca",
+      "imports": [
+        "collections",
+        "common",
+        "datetime",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/register_structural_inventory_v6.py",
+      "sha256": "0d779a55ff8b0bd27d0c379944cc9eb096fada06e82970ced6d2952f19b9d8de",
+      "imports": [
+        "inventory_v6_common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/register_yale_images.py",
+      "sha256": "12a8f5f422f7c2dee632c80f4554cb08ceafa24c606fbd6c6ebd57d0de3b30a7",
+      "imports": [
+        "PIL",
+        "argparse",
+        "common",
+        "cv2",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/render_adjudication_evidence_v2.py",
+      "sha256": "a62ece0d64f8a0a3830fc0575a62b52cc6b93d0f1e70af72dffee022f0fe5b46",
+      "imports": [
+        "PIL",
+        "common",
+        "math"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/render_curved_panel_evidence_v2.py",
+      "sha256": "89842061cb5edaa6850a81e79febc8524b76b12a50f24b90f5b860bb18eba813",
+      "imports": [
+        "PIL",
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/render_extended_test_reports_v1.py",
+      "sha256": "a5a973c27aeb78eff453d289a20de4208cde26199c7d0addc3320eb2aef7fa72",
+      "imports": [
+        "common",
+        "matplotlib",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/render_frozen_visual_figures_v1.py",
+      "sha256": "3760d519815ca69a7d7e04366df1bbfb67b0797ecf7684ac98a774005dc81b0c",
+      "imports": [
+        "common",
+        "matplotlib",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/render_reproduction_reports_v1.py",
+      "sha256": "959b2280a0ae7ed635b0acd5740181c2c80ca6fe0b8f47fd67852d916a98205e",
+      "imports": [
+        "common",
+        "matplotlib",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/render_workflow_audit_v1.py",
+      "sha256": "0eedbf0dafab31b586c9babc6754a7c99e5c68724867ca2e250eeaec415ef46b",
+      "imports": [
+        "collections",
+        "common",
+        "matplotlib",
+        "pathlib"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/repeat_feature_trial2_pairs.py",
+      "sha256": "5759ac1b61d658cbf959a7efae628eabf014cec42525b31cac7cfb01d90baf3c",
+      "imports": [
+        "feature_trial2_common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/replay_direct_morphology.py",
+      "sha256": "cea1eaa50975566e98a2daa464a3ef2ae4aa30fe515442168cc10f7cd4fb6349",
+      "imports": [
+        "build_direct_morphology",
+        "direct_morphology_common",
+        "evaluate_direct_morphology",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/replay_direct_morphology2.py",
+      "sha256": "f925aa65d6ddf0f0819b351e6faa4335092dcc20e57c0e9b8c1752f48977bf23",
+      "imports": [
+        "build_direct_morphology",
+        "direct_morphology2_common",
+        "evaluate_direct_morphology",
+        "numpy",
+        "sys"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/replay_feature_trial2.py",
+      "sha256": "5d2f7bd32892b3c7d4a53150b8e9e8ae50e89e2026a03282a8b48262a35e8628",
+      "imports": [
+        "feature_trial2_common",
+        "measure_feature_trial2",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/report_adjudicated_v2.py",
+      "sha256": "2df9183f2b277a7169b184fe3d9d24e2ec0940ce96ab1191de6149b32cb87a6e",
+      "imports": [
+        "collections",
+        "common",
+        "datetime",
+        "matplotlib",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/report_direct_morphology.py",
+      "sha256": "7986efc265bbbb4b98c726404301bed648a4935a9748e3738ba834bb6060664d",
+      "imports": [
+        "PIL",
+        "direct_morphology_common",
+        "html",
+        "matplotlib",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/report_direct_morphology2.py",
+      "sha256": "5f348702b825b2e7dc137c40a2c3218f9f75a6e021d7aedcec28f088c3ef6f47",
+      "imports": [
+        "PIL",
+        "direct_morphology2_common",
+        "html",
+        "matplotlib",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/report_dm2_robustness.py",
+      "sha256": "6a538e818c15a0dfc37f3965d2ecd2bff788684d856689bbae96b9a4f106c351",
+      "imports": [
+        "dm2_robustness_common",
+        "html",
+        "json",
+        "matplotlib",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/report_feature_trial2.py",
+      "sha256": "2316dd30763c214c131a518b2621aa124d5ff6fd2ee366adff25a66692b15bd9",
+      "imports": [
+        "collections",
+        "common",
+        "feature_trial2_common",
+        "html",
+        "matplotlib",
+        "numpy",
+        "scipy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/report_neutral_features_v1.py",
+      "sha256": "f48d631c55c502bab43ab52c58e40953dd162d198d9a6121be0f3e3f9d7dcca8",
+      "imports": [
+        "PIL",
+        "common",
+        "cv2",
+        "datetime",
+        "html",
+        "matplotlib",
+        "neutral_feature_trial_v1",
+        "numpy",
+        "pathlib",
+        "re"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/report_row_benchmark_v5.py",
+      "sha256": "9c5951fdb1397854f74995bffa51327d0b2b18b0d26bcad8f1ee8fc64a1670f1",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "html",
+        "json",
+        "map_frozen_classes_v5",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/report_sequence_v4.py",
+      "sha256": "35c3e757806345d5398e4a83ce90851be308146babd071f1ac211549627709d7",
+      "imports": [
+        "PIL",
+        "build_sequence_model_v4",
+        "collections",
+        "common",
+        "html",
+        "matplotlib",
+        "numpy",
+        "register_sequence_v4"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/report_structural_inventory_v6.py",
+      "sha256": "f1cac9a2dd099f4753a8fbc41db2038401bfa6d645ea4c2ff71c1dd33696915c",
+      "imports": [
+        "html",
+        "inventory_v6_common",
+        "json",
+        "re"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/row_benchmark_guard_v5.py",
+      "sha256": "cc07635cf643bb97214abd41c7ce1e9226c0bd38f86cb5f5f8134441e3fd5c8f",
+      "imports": [
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/run_adjudicated_currier_B_v2.py",
+      "sha256": "cc7f050fded109379ef0da9c4f659eccbdea5cecd7a793791c87cc6514a9af38",
+      "imports": [
+        "collections",
+        "common",
+        "datetime",
+        "structural_assays",
+        "sys"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/run_structural_tests.py",
+      "sha256": "2a53ac1adf22135e73114d268147d2fa4f5e2e1da95cede02e4e5fd80945e9dc",
+      "imports": [
+        "argparse",
+        "collections",
+        "common",
+        "numpy",
+        "structural_assays"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/run_structural_tests_v2.py",
+      "sha256": "8c8e1fdab7cdac8ee5cb1b61ec2ba8c0597bc4d6af4e741fde74368369d39de4",
+      "imports": [
+        "common",
+        "run_structural_tests",
+        "sys"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/run_tracked_tests_v1.py",
+      "sha256": "8d4f452c81261215006f4892b4269ab2fa7fdf30d7c17fbab85b9dbac0c21914",
+      "imports": [
+        "common",
+        "context_assays_v0",
+        "finish_depth_order_repetition_v1",
+        "hmm_transfer_v0",
+        "run_structural_tests",
+        "sys"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/seal_direct_morphology.py",
+      "sha256": "6e9e1c6d65c1090424f18bfa682b704d04812e06129e45674d659f7e77d46886",
+      "imports": [
+        "ast",
+        "cv2",
+        "direct_morphology_common",
+        "numpy",
+        "scipy",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/seal_direct_morphology2.py",
+      "sha256": "2b58055bb87c21e434180816b7e865e682d453e752c8c3ef4040b29f052faf78",
+      "imports": [
+        "ast",
+        "common",
+        "cv2",
+        "direct_morphology2_common",
+        "numpy",
+        "platform",
+        "scipy",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/seal_dm2_robustness.py",
+      "sha256": "9ab1e78a87c9d333d618014e2a1ef72ddcacd1f3ea94277ece2f20ed316dafea",
+      "imports": [
+        "ast",
+        "dm2_robustness_common",
+        "numpy",
+        "platform",
+        "scipy",
+        "seal_direct_morphology2",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/seal_feature_trial2.py",
+      "sha256": "576366503157aed442e3078fcf69bfbff9f3dba234f54c9602831899d609cdc5",
+      "imports": [
+        "ast",
+        "feature_trial2_common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/seal_inventory_candidates_v6.py",
+      "sha256": "6052ab19b045f64342b2b3ae13fd3d9c2d1ca798375f955c3fb956df3edd8b4a",
+      "imports": [
+        "inventory_v6_common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/seal_membership_rules_v5.py",
+      "sha256": "5b47e8b0aa97d3d184b5854bccd7b3c33983e03a744113afb41979de2c129545",
+      "imports": [
+        "benchmark_membership_v5",
+        "common",
+        "datetime",
+        "hashlib",
+        "inspect",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/seal_neutral_feature_trial_v1.py",
+      "sha256": "f169d398ca295e494bf67636064fae61168be594c514853953c3f4b9842f1b40",
+      "imports": [
+        "ast",
+        "common",
+        "datetime",
+        "neutral_feature_trial_v1"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/seal_repeat_decisions_v5.py",
+      "sha256": "dd323400824c2558d95ca30b43d052c654c7c85e89566dc313d538f444a4118c",
+      "imports": [
+        "common",
+        "datetime",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/source_review_notes_v5.py",
+      "sha256": "fb1507f0edd9f791ae0a7f6ed49519f617692340d32072395d64217898d0b464",
+      "imports": [
+        "PIL",
+        "common",
+        "datetime",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/structural_assays.py",
+      "sha256": "ba6eef36afa91daa0cea27d5e8a2a1e57eb19c68335d2ec8dfcfcdbf2fb963d2",
+      "imports": [
+        "collections",
+        "common",
+        "hashlib",
+        "itertools",
+        "networkx",
+        "numpy",
+        "scipy",
+        "statsmodels"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/summarize_extended_results_v1.py",
+      "sha256": "40b6aaf07158d86ecef65be2c1d944b38bf6e4cb8b580a9dfc0078d8316ebe5d",
+      "imports": [
+        "collections",
+        "common"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/test_visual_structure.py",
+      "sha256": "80c102d363bece84fec6520226f8f84f26489f9cd7a3e380351dea3634708147",
+      "imports": [
+        "PIL",
+        "analyse_native_structure",
+        "common",
+        "cv2",
+        "numpy",
+        "sklearn",
+        "visual_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/validate_benchmark_artifacts_v5.py",
+      "sha256": "26467830b079965bf647403ab6e26b08b133084861b7897d24b291c87a545768",
+      "imports": [
+        "ast",
+        "common",
+        "html",
+        "map_frozen_classes_v5",
+        "row_benchmark_guard_v5"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/validate_inventory_candidates_v6.py",
+      "sha256": "61c3e94380c9c2e6f06b5bb7ea7a2186aeb290dacd5f0f41719c3a82250262be",
+      "imports": [
+        "PIL",
+        "collections",
+        "cv2",
+        "evaluate_source_classes_v3",
+        "inventory_v6_common",
+        "numpy",
+        "pickle",
+        "scipy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/validate_recurrence_structure_v3.py",
+      "sha256": "2cb89eaaca4ca4c9fbf6d63c1a5dd5c8a4646f56f58ec935757e7895337f737f",
+      "imports": [
+        "PIL",
+        "collections",
+        "common",
+        "cv2",
+        "evaluate_source_classes_v3",
+        "fit_source_classes_v3",
+        "numpy",
+        "pickle",
+        "recurrence_guard_v3",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/verify_assay_mechanics_v1.py",
+      "sha256": "999eeda4f3f713b9acd52def8ed0f21f6f49789e21269d0f0565268706d2612e",
+      "imports": [
+        "analyse_native_structure",
+        "common",
+        "numpy",
+        "parse_comparison_transcriptions_v2",
+        "structural_assays"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/verify_benchmark_v5_postfreeze.py",
+      "sha256": "bd62d7996429255bd26e1c0642a59114189ea4758c481766f1abc139f82d104f",
+      "imports": [
+        "benchmark_membership_v5",
+        "collections",
+        "common",
+        "datetime",
+        "map_frozen_classes_v5",
+        "pickle",
+        "register_row_benchmark_v5",
+        "row_benchmark_guard_v5",
+        "seal_membership_rules_v5",
+        "sys"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/verify_candidate_partitions_v1.py",
+      "sha256": "081596f9d741e73cd67e31fe7ab03baf21eb730a3163b618eb299630a0189fdc",
+      "imports": [
+        "analyse_native_structure",
+        "collections",
+        "common",
+        "numpy",
+        "regional_extract"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/verify_completed_workflow_v1.py",
+      "sha256": "9ac20528477ffb23cd958bb7e03591e4bccce51a6edb74f72d13b4438827f52e",
+      "imports": [
+        "common",
+        "datetime",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/verify_direct_morphology.py",
+      "sha256": "5e3038f28e1856a11b9c60b92c0eea9d4eaf739cf08d28a6312eb9201f2e82a6",
+      "imports": [
+        "common",
+        "direct_morphology_common",
+        "replay_direct_morphology"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/verify_direct_morphology2_metrics.py",
+      "sha256": "708fd357871d7937c68ece826f7777dbb83c9d155264ee5faacb26159bc0f275",
+      "imports": [
+        "collections",
+        "direct_morphology2_common",
+        "evaluate_direct_morphology2",
+        "numpy",
+        "re"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/verify_direct_morphology2_sources.py",
+      "sha256": "8844d283ab24f965dec88bca08ba0a22f5a7f978c1e276af6ff5227e0a51c2dc",
+      "imports": [
+        "PIL",
+        "benchmark_membership_v5",
+        "build_direct_morphology",
+        "direct_morphology2_common",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/verify_dm2_robustness.py",
+      "sha256": "b7c3e33fc7c6d2ec50f6a0a51df00f48fe1b2a1642a5da8abab7cd8b48157493",
+      "imports": [
+        "collections",
+        "dm2_robustness_common",
+        "evaluate_dm2_robustness",
+        "numpy",
+        "prepare_dm2_robustness",
+        "sklearn"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/verify_dm2_robustness_repeat.py",
+      "sha256": "27cbe2f55dc38f48591c08ec73b56b01581ed9cb53f772b06f31961a0f3291f7",
+      "imports": [
+        "collections",
+        "dm2_robustness_common",
+        "evaluate_dm2_robustness",
+        "numpy",
+        "re"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/verify_feature_trial2.py",
+      "sha256": "5541c61b6396485ec53e15879898128d62fbb87e2db8f5a95a018fb1c675f282",
+      "imports": [
+        "common",
+        "evaluate_feature_trial2",
+        "feature_trial2_common",
+        "measure_feature_trial2",
+        "numpy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/verify_neutral_feature_trial_v1.py",
+      "sha256": "e400a71749c6a008b84dd9c9680ec8d912906ee234bdb87baeef83e249f39571",
+      "imports": [
+        "benchmark_membership_v5",
+        "common",
+        "datetime",
+        "measure_inventory_factors_v6",
+        "neutral_feature_trial_v1",
+        "sys"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/verify_original_and_freeze_integrity_v1.py",
+      "sha256": "46bb386c022fbc68e57f2a0f7407207e1c7afc987d733e5dd7e734f8a971d974",
+      "imports": [
+        "common",
+        "datetime"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/verify_setup.py",
+      "sha256": "995ab2411c25c3fa8327f46f9cb88d8e30f60fa3ee6bd9c57733130214e8755f",
+      "imports": [
+        "PIL",
+        "csv",
+        "hashlib",
+        "io",
+        "json",
+        "jsonschema",
+        "pathlib",
+        "platform",
+        "pypdf",
+        "sys"
+      ],
+      "external_URLs": [
+        "https://collections.library.yale.edu/catalog/2002046`."
+      ]
+    },
+    {
+      "path": "src/visual_extract.py",
+      "sha256": "2873ffeb3e89a91908c1c5e5127e99f0df82f602d0ab09f1ea0ca384bef087d9",
+      "imports": [
+        "PIL",
+        "argparse",
+        "common",
+        "cv2",
+        "numpy",
+        "scipy"
+      ],
+      "external_URLs": []
+    },
+    {
+      "path": "src/visual_family_stability_v1.py",
+      "sha256": "2b041595057b728a53325a24edc40a725267a3aba41fcbbf9819b71f67c2b88a",
+      "imports": [
+        "collections",
+        "common",
+        "itertools",
+        "numpy"
+      ],
+      "external_URLs": []
+    }
+  ],
+  "import_roots": {
+    "common": 161,
+    "collections": 74,
+    "numpy": 120,
+    "validate_recurrence_structure_v3": 1,
+    "recurrence_guard_v3": 12,
+    "matplotlib": 24,
+    "argparse": 23,
+    "concurrent": 4,
+    "json": 13,
+    "urllib": 3,
+    "PIL": 81,
+    "io": 4,
+    "adjudicate_direct_morphology2_pairs": 1,
+    "direct_morphology2_common": 17,
+    "sklearn": 32,
+    "dm2_robustness_common": 10,
+    "feature_trial2_common": 12,
+    "inventory_v6_common": 16,
+    "cv2": 50,
+    "scipy": 30,
+    "skimage": 3,
+    "build_sequence_model_v4": 4,
+    "register_sequence_v4": 9,
+    "datetime": 51,
+    "discover_visual_families": 4,
+    "analyse_native_structure": 8,
+    "joblib": 8,
+    "re": 16,
+    "pathlib": 13,
+    "itertools": 7,
+    "pickle": 15,
+    "evaluate_source_classes_v3": 10,
+    "register_row_benchmark_v5": 16,
+    "prepare_row_objects_v5": 2,
+    "source_review_notes_v5": 1,
+    "visual_extract": 20,
+    "row_benchmark_guard_v5": 24,
+    "direct_morphology_common": 7,
+    "benchmark_membership_v5": 15,
+    "build_direct_morphology": 4,
+    "build_visual_dataset": 1,
+    "jsonschema": 4,
+    "calibrate_path_gate": 1,
+    "os": 1,
+    "sys": 16,
+    "csv": 4,
+    "hashlib": 11,
+    "run_structural_tests_v2": 7,
+    "conventional_crossgraph_v0": 1,
+    "structural_assays": 8,
+    "zlib": 1,
+    "importlib": 1,
+    "prepare_structural_inventory_v6": 3,
+    "map_frozen_classes_v5": 6,
+    "extract_recurrence_units_v3": 4,
+    "regional_extract_v11": 7,
+    "functools": 1,
+    "evaluate_direct_morphology": 3,
+    "prepare_dm2_robustness": 2,
+    "measure_feature_trial2": 3,
+    "copy": 4,
+    "seal_membership_rules_v5": 5,
+    "fit_source_classes_v3": 4,
+    "assign_visual_families": 1,
+    "subprocess": 2,
+    "time": 2,
+    "calibrate_assemblies": 14,
+    "pypdf": 5,
+    "positional_dependence_and_boundaries_v0": 1,
+    "context_assays_v0": 3,
+    "networkx": 3,
+    "statsmodels": 2,
+    "math": 4,
+    "ast": 7,
+    "hmm_transfer_v0": 2,
+    "warnings": 1,
+    "hmmlearn": 1,
+    "zipfile": 3,
+    "neutral_feature_trial_v1": 5,
+    "measure_inventory_factors_v6": 3,
+    "evaluate_row_benchmark_v5": 2,
+    "discover_inventory_candidates_v6": 1,
+    "parse_comparison_transcriptions": 1,
+    "seal_direct_morphology2": 3,
+    "replay_direct_morphology2": 1,
+    "verify_direct_morphology2_metrics": 1,
+    "verify_dm2_robustness": 1,
+    "verify_dm2_robustness_repeat": 1,
+    "validate_inventory_candidates_v6": 2,
+    "unicodedata": 1,
+    "prepare_direct_morphology2_pairs": 1,
+    "html": 10,
+    "prepare_sequence_source_v4": 1,
+    "shutil": 1,
+    "regional_extract": 3,
+    "run_structural_tests": 2,
+    "finish_depth_order_repetition_v1": 1,
+    "platform": 3,
+    "inspect": 1,
+    "parse_comparison_transcriptions_v2": 1,
+    "replay_direct_morphology": 1,
+    "evaluate_direct_morphology2": 1,
+    "evaluate_dm2_robustness": 2,
+    "evaluate_feature_trial2": 1
+  },
+  "exact_AST_function_matches_to_archives": [],
+  "scope": "Static import/URL/exact normalized-function comparison, plus manual report/source review. Absence of matches is not proof of independent authorship of every algorithm. No archive code executed."
+}

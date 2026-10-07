@@ -1,0 +1,21 @@
+{
+  "sealed_at_utc": "2026-10-07T08:28:36.408225+00:00",
+  "files": [
+    {
+      "path": "data/observations/direct_morphology_trial2/REPEAT_RATINGS_SEAL.json",
+      "sha256": "7a02690c8fc6bd7fe29aba2e0785864c0865d27b13d868e14f77c708885b7758"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/repeat_source_ratings.json",
+      "sha256": "fdbd1d074e4d96907bd15cd91fa05d0ea5c5c404c139d3dd3ad3694fac3c1a8d"
+    },
+    {
+      "path": "src/adjudicate_direct_morphology2_repeat.py",
+      "sha256": "0b3434cd37ac97feca7417f6a999f931397b3d9a6b6533526439cb38cf93c57a"
+    },
+    {
+      "path": "tests/direct_morphology_trial2/same_adjudicator_repeatability.json",
+      "sha256": "9986df676729c4e365de0644b28e7ba95924ddab5fbb7fb9ebcc301aca8ca2c5"
+    }
+  ]
+}

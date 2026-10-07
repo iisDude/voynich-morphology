@@ -1,0 +1,14 @@
+{
+  "registered_at_utc": "2026-10-07T05:27:16.024467+00:00",
+  "before_test_assignments": true,
+  "original_plan_unchanged": true,
+  "failed_attempt": "whole_candidate_discovery.json: fixed distance0.35 yields162 clusters from163 source-resolved parents and no8-instance3-caption class",
+  "reason": "The initial numeric distance is below typical even established source-family distances in the frozen embedding. Source-only training calibration is needed before heldout testing; no test labels or sequence outcome used.",
+  "calibration": "Twice90th percentile cross-caption nearest distance among311 already accepted V5 V3 instances within the same frozen class. Complete-link diameter uses this calibrated scale. Radius remains leave-caption-out90th percentile; alternative margin1.08; exact topology. No merge with a V3 class.",
+  "calibration_instances": 311,
+  "cross_caption_nearest_q90": 0.6074111049652237,
+  "grouping_diameter": 1.2148222099304473,
+  "new_radius_cap": 1.2148222099304473,
+  "other_gates_unchanged": true,
+  "negative_result_preserved": true
+}

@@ -1,0 +1,920 @@
+{
+  "sealed_at_utc": "2026-10-07T02:55:27.086160+00:00",
+  "labels_prior_to_mapping_decode": true,
+  "rows": {
+    "R01": {
+      "target": [
+        4,
+        6,
+        7,
+        14,
+        18,
+        20,
+        22,
+        23,
+        24,
+        32
+      ],
+      "neighbor": [
+        10,
+        12,
+        21
+      ],
+      "unknown": [
+        2,
+        3,
+        8,
+        9,
+        13,
+        15,
+        16,
+        17,
+        19,
+        26,
+        28,
+        30
+      ],
+      "physical_start_interval": [
+        397,
+        407
+      ],
+      "physical_end_interval": [
+        2016,
+        2026
+      ],
+      "note": "Selected sloping third row. Narrow coherent curves and compound traces recur visually, but minor fragments near them cannot be assigned from the RGB alone. Fourth-row curves belong to the neighbor."
+    },
+    "R02": {
+      "target": [
+        4,
+        14,
+        15,
+        18,
+        25,
+        31
+      ],
+      "neighbor": [
+        10,
+        12
+      ],
+      "unknown": [
+        9,
+        21,
+        22,
+        23,
+        24,
+        26,
+        28,
+        29,
+        32
+      ],
+      "physical_start_interval": [
+        743,
+        753
+      ],
+      "physical_end_interval": [
+        2640,
+        2655
+      ],
+      "note": "First ordinary row. Small green/gray margin detections and bright grain are nonwriting. Minor marks near brown traces remain unknown. Native curved terminal ends well before the right photo edge."
+    },
+    "R03": {
+      "target": [
+        21,
+        22,
+        23,
+        28,
+        29
+      ],
+      "neighbor": [
+        27
+      ],
+      "unknown": [
+        19,
+        24,
+        26
+      ],
+      "mixed": [
+        24
+      ],
+      "physical_start_interval": [
+        309,
+        320
+      ],
+      "physical_end_interval": [
+        1990,
+        2005
+      ],
+      "note": "Fourth row. The diffuse brown object contains recognizable ink along with unresolved substrate/neighbor contact. Source after the actual endpoint is bare textured parchment; tiny dark point R03_26 is undecidable."
+    },
+    "R04": {
+      "target": [
+        7,
+        10,
+        11,
+        13,
+        14,
+        15,
+        20,
+        22,
+        29,
+        30
+      ],
+      "neighbor": [
+        2,
+        3,
+        4,
+        6,
+        9,
+        16,
+        18,
+        23,
+        24,
+        31
+      ],
+      "unknown": [
+        27
+      ],
+      "physical_start_interval": [
+        463,
+        474
+      ],
+      "physical_end_interval": [
+        2435,
+        2447
+      ],
+      "note": "Selected row near y670. The upper-row curves/tall structures have separate body roots. The small upper curve fragment R04_11 is writing but continuity with its lower curve is ambiguous. Tiny bright ridge detections in the surrounding parchment are nonwriting."
+    }
+  },
+  "objects": [
+    {
+      "anonymous_id": "R01_01",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R01_02",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R01_03",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R01_04",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R01_05",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R01_06",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R01_07",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R01_08",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R01_09",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R01_10",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R01_11",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R01_12",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R01_13",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R01_14",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R01_15",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R01_16",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R01_17",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R01_18",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R01_19",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R01_20",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R01_21",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R01_22",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R01_23",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R01_24",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R01_25",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R01_26",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R01_27",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R01_28",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R01_29",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R01_30",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R01_31",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R01_32",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R02_01",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_02",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_03",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_04",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R02_05",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_06",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_07",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_08",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_09",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R02_10",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R02_11",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_12",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R02_13",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_14",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R02_15",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R02_16",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_17",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_18",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R02_19",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_20",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_21",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R02_22",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R02_23",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R02_24",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R02_25",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R02_26",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R02_27",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_28",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R02_29",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R02_30",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R02_31",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R02_32",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R03_01",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_02",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_03",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_04",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_05",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_06",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_07",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_08",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_09",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_10",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_11",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_12",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_13",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_14",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_15",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_16",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_17",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_18",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_19",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R03_20",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_21",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R03_22",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R03_23",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R03_24",
+      "membership": "mixed_writing_and_unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R03_25",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_26",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R03_27",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R03_28",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R03_29",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R03_30",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_31",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R03_32",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R04_01",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R04_02",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_03",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_04",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_05",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R04_06",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_07",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_08",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R04_09",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_10",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_11",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R04_12",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R04_13",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_14",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_15",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_16",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_17",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R04_18",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_19",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R04_20",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_21",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R04_22",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_23",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_24",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_25",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R04_26",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R04_27",
+      "membership": "unresolved",
+      "owner": "unknown",
+      "connected_parent": "unknown"
+    },
+    {
+      "anonymous_id": "R04_28",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    },
+    {
+      "anonymous_id": "R04_29",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_30",
+      "membership": "confirmed_writing",
+      "owner": "target",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_31",
+      "membership": "confirmed_writing",
+      "owner": "neighbor",
+      "connected_parent": "connected_trace"
+    },
+    {
+      "anonymous_id": "R04_32",
+      "membership": "confirmed_nonwriting",
+      "owner": "outside_row",
+      "connected_parent": "not_writing_parent"
+    }
+  ],
+  "disclaimer": "Same adjudicator after intervening work. Prior labels hidden; source familiarity and visual memory remain. Not independent human inter-rater validation."
+}

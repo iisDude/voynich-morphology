@@ -1,0 +1,152 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:voynich:visual-annotations:v0",
+  "title": "Neutral visual annotation dataset v0",
+  "type": "object",
+  "required": ["schema_version", "status", "provenance", "views", "panels", "lines", "groups", "components", "assemblies", "segmentations", "observations", "hypotheses"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {"const": "0.1.0"},
+    "status": {"enum": ["scaffold", "draft", "frozen"]},
+    "provenance": {
+      "type": "object",
+      "required": ["source_pdf_sha256", "prior_exposure", "comparison_data_withheld", "run_id"],
+      "properties": {
+        "source_pdf_sha256": {"$ref": "#/$defs/hash"},
+        "prior_exposure": {"type": "string"},
+        "comparison_data_withheld": {"type": "boolean"},
+        "run_id": {"type": "string"},
+        "frozen_sha256": {"type": ["string", "null"]}
+      },
+      "additionalProperties": false
+    },
+    "views": {"type": "array", "items": {"$ref": "#/$defs/view"}},
+    "panels": {"type": "array", "items": {"$ref": "#/$defs/panel"}},
+    "lines": {"type": "array", "items": {"$ref": "#/$defs/line"}},
+    "groups": {"type": "array", "items": {"$ref": "#/$defs/group"}},
+    "components": {"type": "array", "items": {"$ref": "#/$defs/component"}},
+    "assemblies": {"type": "array", "items": {"$ref": "#/$defs/assembly"}},
+    "segmentations": {"type": "array", "items": {"$ref": "#/$defs/segmentation"}},
+    "observations": {"type": "array", "items": {"$ref": "#/$defs/observation"}},
+    "hypotheses": {"type": "array", "items": {"$ref": "#/$defs/hypothesis"}}
+  },
+  "$defs": {
+    "hash": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "bbox": {"type": "array", "prefixItems": [{"type": "number", "minimum": 0}, {"type": "number", "minimum": 0}, {"type": "number", "minimum": 0}, {"type": "number", "minimum": 0}], "items": false, "minItems": 4, "maxItems": 4},
+    "point": {"type": "array", "items": {"type": "number"}, "minItems": 2, "maxItems": 2},
+    "ids": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "confidence": {"enum": ["high", "medium", "low", "unresolved"]},
+    "measurement": {
+      "type": "object", "required": ["value", "unit", "method", "uncertainty", "missing_reason"],
+      "properties": {
+        "value": {"type": ["number", "null"]},
+        "unit": {"type": "string"},
+        "method": {"type": "string"},
+        "uncertainty": {"oneOf": [{"const": "unestimated"}, {"type": "array", "items": {"type": "number"}, "minItems": 2, "maxItems": 2}]},
+        "missing_reason": {"type": ["string", "null"]}
+      }, "additionalProperties": false
+    },
+    "measurements": {"type": "object", "additionalProperties": {"$ref": "#/$defs/measurement"}},
+    "location": {
+      "type": "object", "required": ["view_id", "image_sha256", "bbox_xyxy", "coordinate_frame"],
+      "properties": {
+        "view_id": {"type": "string"}, "image_sha256": {"$ref": "#/$defs/hash"},
+        "bbox_xyxy": {"$ref": "#/$defs/bbox"},
+        "coordinate_frame": {"enum": ["native_embedded_image", "native_yale_image"]}
+      }, "additionalProperties": false
+    },
+    "view": {
+      "type": "object", "required": ["view_id", "pdf_page", "image_sha256", "image_path", "width_px", "height_px", "split"],
+      "properties": {
+        "view_id": {"type": "string"}, "pdf_page": {"type": "integer", "minimum": 1},
+        "image_sha256": {"$ref": "#/$defs/hash"}, "image_path": {"type": "string"},
+        "width_px": {"type": "integer", "minimum": 1}, "height_px": {"type": "integer", "minimum": 1},
+        "split": {"enum": ["discovery", "reserve", "calibration", "train", "validation", "test", "excluded_cover"]}
+      }, "additionalProperties": false
+    },
+    "panel": {
+      "type": "object", "required": ["panel_id", "location", "folio_caption", "verification", "alternatives"],
+      "properties": {
+        "panel_id": {"type": "string"}, "location": {"$ref": "#/$defs/location"},
+        "folio_caption": {"type": ["string", "null"]}, "verification": {"enum": ["verified", "caption_only", "unresolved"]},
+        "alternatives": {"$ref": "#/$defs/ids"}
+      }, "additionalProperties": false
+    },
+    "line": {
+      "type": "object", "required": ["line_id", "location", "panel_id", "region_id", "path_kind", "path_points", "confidence"],
+      "properties": {
+        "line_id": {"type": "string"}, "location": {"$ref": "#/$defs/location"},
+        "panel_id": {"type": ["string", "null"]}, "region_id": {"type": "string"},
+        "path_kind": {"enum": ["linear", "arc", "irregular", "unknown"]},
+        "path_points": {"type": "array", "items": {"$ref": "#/$defs/point"}, "minItems": 2},
+        "baseline_points": {"type": "array", "items": {"$ref": "#/$defs/point"}},
+        "measurements": {"$ref": "#/$defs/measurements"}, "confidence": {"$ref": "#/$defs/confidence"}
+      }, "additionalProperties": false
+    },
+    "group": {
+      "type": "object", "required": ["group_id", "line_id", "location", "boundary_confidence", "alternatives"],
+      "properties": {
+        "group_id": {"type": "string"}, "line_id": {"type": "string"}, "location": {"$ref": "#/$defs/location"},
+        "path_interval": {"type": "array", "items": {"type": "number"}, "minItems": 2, "maxItems": 2},
+        "boundary_confidence": {"$ref": "#/$defs/confidence"}, "alternatives": {"$ref": "#/$defs/ids"},
+        "measurements": {"$ref": "#/$defs/measurements"}
+      }, "additionalProperties": false
+    },
+    "component": {
+      "type": "object", "required": ["component_id", "location", "quality", "confidence"],
+      "properties": {
+        "component_id": {"type": "string"}, "location": {"$ref": "#/$defs/location"},
+        "trace_points": {"type": "array", "items": {"$ref": "#/$defs/point"}},
+        "quality": {"enum": ["adequate", "limited", "unusable"]},
+        "confidence": {"$ref": "#/$defs/confidence"}, "measurements": {"$ref": "#/$defs/measurements"},
+        "quality_flags": {"type": "array", "items": {"type": "string"}}
+      }, "additionalProperties": false
+    },
+    "assembly": {
+      "type": "object", "required": ["assembly_id", "location", "group_id", "component_ids", "candidate_family_id", "confidence", "alternatives"],
+      "properties": {
+        "assembly_id": {"type": "string"}, "location": {"$ref": "#/$defs/location"},
+        "group_id": {"type": ["string", "null"]}, "component_ids": {"$ref": "#/$defs/ids"},
+        "candidate_family_id": {"type": ["string", "null"]}, "confidence": {"$ref": "#/$defs/confidence"},
+        "measurements": {"$ref": "#/$defs/measurements"}, "alternatives": {"$ref": "#/$defs/ids"},
+        "description": {"type": "string"}
+      }, "additionalProperties": false
+    },
+    "relation": {
+      "type": "object", "required": ["from_id", "to_id", "relation", "status", "observation_ids"],
+      "properties": {
+        "from_id": {"type": "string"}, "to_id": {"type": "string"},
+        "relation": {"enum": ["contains", "shares_trace", "connected_to", "adjacent_to", "inserted_within_candidate_frame"]},
+        "status": {"enum": ["connected", "disconnected", "unresolved", "proposed"]},
+        "observation_ids": {"$ref": "#/$defs/ids"}
+      }, "additionalProperties": false
+    },
+    "segmentation": {
+      "type": "object", "required": ["segmentation_id", "target_id", "node_ids", "model_kind", "relations", "supporting_observations", "contradicting_observations", "status"],
+      "properties": {
+        "segmentation_id": {"type": "string"}, "target_id": {"type": "string"}, "node_ids": {"$ref": "#/$defs/ids"},
+        "model_kind": {"enum": ["fine_components", "assemblies", "compound", "frame_with_insertion", "group_only"]},
+        "relations": {"type": "array", "items": {"$ref": "#/$defs/relation"}},
+        "supporting_observations": {"$ref": "#/$defs/ids"}, "contradicting_observations": {"$ref": "#/$defs/ids"},
+        "status": {"enum": ["open", "provisionally_supported", "rejected"]}
+      }, "additionalProperties": false
+    },
+    "observation": {
+      "type": "object", "required": ["observation_id", "target_id", "location", "statement", "method", "observer_run", "confidence", "quality", "evidence_path"],
+      "properties": {
+        "observation_id": {"type": "string"}, "target_id": {"type": "string"}, "location": {"$ref": "#/$defs/location"},
+        "statement": {"type": "string"}, "method": {"type": "string"}, "observer_run": {"type": "string"},
+        "confidence": {"$ref": "#/$defs/confidence"}, "quality": {"enum": ["adequate", "limited", "unusable"]},
+        "evidence_path": {"type": "string"}, "measurements": {"$ref": "#/$defs/measurements"}
+      }, "additionalProperties": false
+    },
+    "hypothesis": {
+      "type": "object", "required": ["hypothesis_id", "proposition", "supporting_observations", "contradicting_observations", "falsifier", "confidence", "next_test"],
+      "properties": {
+        "hypothesis_id": {"type": "string"}, "proposition": {"type": "string"},
+        "supporting_observations": {"$ref": "#/$defs/ids"}, "contradicting_observations": {"$ref": "#/$defs/ids"},
+        "falsifier": {"type": "string"}, "confidence": {"$ref": "#/$defs/confidence"}, "next_test": {"type": "string"}
+      }, "additionalProperties": false
+    }
+  }
+}

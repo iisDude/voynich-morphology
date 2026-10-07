@@ -1,0 +1,27 @@
+{
+  "registered_at_utc": "2026-10-06T11:18:14.095643+00:00",
+  "primary_contrast": 9,
+  "sensitivity_contrasts": [
+    6,
+    12
+  ],
+  "preblur_sigma": 0.8,
+  "minimum_area": 35,
+  "minimum_height_body": 0.32,
+  "maximum_height_body": 3.8,
+  "minimum_width": 4,
+  "maximum_width_body": 12,
+  "core_band": [
+    -0.95,
+    0.25
+  ],
+  "significant_hole_minimum_area": 8,
+  "significant_hole_area_fraction": 0.012,
+  "split_fragment_fraction": 0.05,
+  "variant_minimum_iou": 0.5,
+  "unit": "Whole threshold-connected raster parent, with detached/compound hypotheses unresolved",
+  "deduplication": "One native-view connected-parent ID, regardless of overlapping row proposals",
+  "ownership": "Row assignment may remain unknown; local source writing field does not certify atomicity or pen lifts",
+  "class_inputs": "Source pixels, connectivity, topology, relative geometry only. No transcription or metadata labels",
+  "status": "Development protocol, not segmentation freeze"
+}

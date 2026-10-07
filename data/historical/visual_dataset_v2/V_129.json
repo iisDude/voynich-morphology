@@ -1,0 +1,36 @@
+{
+  "view_id": "V_129",
+  "native_source": "data/source/yale_native/1006201.jpg",
+  "source_sha256": "c8f24b6be5451aba49eb793784c43cb7fc8341dca8a58ff43fc1eebf4877b60c",
+  "status": "source reviewed partial writing fields",
+  "writing_fields": [],
+  "curved_writing_adjudication": {
+    "case_id": "CURVE_V_129",
+    "kind": "curved_view",
+    "view_id": "V_129",
+    "priority_score": 5,
+    "questions": [
+      "curved_writing_membership",
+      "orientation",
+      "path_seam",
+      "panel_mapping"
+    ],
+    "status": "source_reviewed: writing paths distinguished from diagram/ornament; unit boundaries partly unknown",
+    "native_source": "data/source/yale_native/1006201.jpg",
+    "hypotheses_path": "data/observations/curved_path_candidates_v2/V_129.json",
+    "observation": "Separate circular field with central animal and figure labels. Outer/inner annular writing distinct from animal/figure outlines, tub crosshatching and stars. Native gaps visible locally; photo does not establish matching panel identity with V128.",
+    "writing_paths": "outer/inner annular bands plus figure/center labels",
+    "visible_panel_fractions": [],
+    "orientation": "tangential writing and rotated labels, seam unknown",
+    "native_inspection": "whole capture plus four unscaled 650x650 source crops",
+    "group_boundaries": "unknown except visible local gaps; no complete ring group inventory certified",
+    "pen_lift": "unknown",
+    "horizontal_assay_eligible": false
+  },
+  "prior_proposal_path": "data/observations/regional_candidates_v11/V_129.json",
+  "prior_rows_status": "Unknown unless a reviewed field explicitly supersedes them; no old unit sequences admitted",
+  "unreviewed_prior_rows": 0,
+  "physical_folio_identity": "caption only; panel correspondence unknown",
+  "canonical_graphemes": "unknown",
+  "pen_lifts": "unknown"
+}

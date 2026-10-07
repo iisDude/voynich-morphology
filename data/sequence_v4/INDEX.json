@@ -1,0 +1,931 @@
+{
+  "category": "sequence_v4",
+  "files": [
+    {
+      "logical_path": "data/observations/visual_dataset_v4/boundary_constraints.json",
+      "public_path": "data/sequence_v4/frozen/boundary_constraints.json.gz",
+      "storage": "gzip"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v4/competing_group_sequences.json",
+      "public_path": "data/sequence_v4/frozen/competing_group_sequences.json.gz",
+      "storage": "gzip"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v4/model_contract.json",
+      "public_path": "data/sequence_v4/frozen/model_contract.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v4/optional_membership_constraints.json",
+      "public_path": "data/sequence_v4/frozen/optional_membership_constraints.json.gz",
+      "storage": "gzip"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v4/row_sequences.json",
+      "public_path": "data/sequence_v4/frozen/row_sequences.json.gz",
+      "storage": "gzip"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v4/source_parent_states.json",
+      "public_path": "data/sequence_v4/frozen/source_parent_states.json.gz",
+      "storage": "gzip"
+    },
+    {
+      "logical_path": "figures/sequence_v4/boundary_L_001.png",
+      "public_path": "figures/sequence_v4/boundary_L_001.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/boundary_L_007.png",
+      "public_path": "figures/sequence_v4/boundary_L_007.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/boundary_L_013.png",
+      "public_path": "figures/sequence_v4/boundary_L_013.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/boundary_L_019.png",
+      "public_path": "figures/sequence_v4/boundary_L_019.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/boundary_M_001.png",
+      "public_path": "figures/sequence_v4/boundary_M_001.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/boundary_M_007.png",
+      "public_path": "figures/sequence_v4/boundary_M_007.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/boundary_M_013.png",
+      "public_path": "figures/sequence_v4/boundary_M_013.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/boundary_M_019.png",
+      "public_path": "figures/sequence_v4/boundary_M_019.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/class_pairs_001.png",
+      "public_path": "figures/sequence_v4/class_pairs_001.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/class_pairs_011.png",
+      "public_path": "figures/sequence_v4/class_pairs_011.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/class_pairs_021.png",
+      "public_path": "figures/sequence_v4/class_pairs_021.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/class_pairs_031.png",
+      "public_path": "figures/sequence_v4/class_pairs_031.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/class_pairs_041.png",
+      "public_path": "figures/sequence_v4/class_pairs_041.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/class_pairs_051.png",
+      "public_path": "figures/sequence_v4/class_pairs_051.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/class_pairs_061.png",
+      "public_path": "figures/sequence_v4/class_pairs_061.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/class_pairs_071.png",
+      "public_path": "figures/sequence_v4/class_pairs_071.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/class_repeat_001.png",
+      "public_path": "figures/sequence_v4/class_repeat_001.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/class_repeat_011.png",
+      "public_path": "figures/sequence_v4/class_repeat_011.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/examples/field_01.png",
+      "public_path": "figures/sequence_v4/examples/field_01.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/examples/field_02.png",
+      "public_path": "figures/sequence_v4/examples/field_02.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/examples/field_03.png",
+      "public_path": "figures/sequence_v4/examples/field_03.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/examples/field_04.png",
+      "public_path": "figures/sequence_v4/examples/field_04.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/examples/field_05.png",
+      "public_path": "figures/sequence_v4/examples/field_05.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/examples/field_06.png",
+      "public_path": "figures/sequence_v4/examples/field_06.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/examples/field_07.png",
+      "public_path": "figures/sequence_v4/examples/field_07.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/examples/field_08.png",
+      "public_path": "figures/sequence_v4/examples/field_08.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/examples/field_09.png",
+      "public_path": "figures/sequence_v4/examples/field_09.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/examples/field_10.png",
+      "public_path": "figures/sequence_v4/examples/field_10.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/examples/field_11.png",
+      "public_path": "figures/sequence_v4/examples/field_11.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/examples/field_12.png",
+      "public_path": "figures/sequence_v4/examples/field_12.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/masked_A_01.png",
+      "public_path": "figures/sequence_v4/masked_A_01.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/masked_A_07.png",
+      "public_path": "figures/sequence_v4/masked_A_07.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/masked_A_13.png",
+      "public_path": "figures/sequence_v4/masked_A_13.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/masked_A_19.png",
+      "public_path": "figures/sequence_v4/masked_A_19.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/masked_B_01.png",
+      "public_path": "figures/sequence_v4/masked_B_01.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/masked_B_07.png",
+      "public_path": "figures/sequence_v4/masked_B_07.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/masked_B_13.png",
+      "public_path": "figures/sequence_v4/masked_B_13.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/masked_B_19.png",
+      "public_path": "figures/sequence_v4/masked_B_19.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_001.png",
+      "public_path": "figures/sequence_v4/overviews_001.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_007.png",
+      "public_path": "figures/sequence_v4/overviews_007.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_013.png",
+      "public_path": "figures/sequence_v4/overviews_013.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_019.png",
+      "public_path": "figures/sequence_v4/overviews_019.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_025.png",
+      "public_path": "figures/sequence_v4/overviews_025.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_031.png",
+      "public_path": "figures/sequence_v4/overviews_031.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_037.png",
+      "public_path": "figures/sequence_v4/overviews_037.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_043.png",
+      "public_path": "figures/sequence_v4/overviews_043.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_049.png",
+      "public_path": "figures/sequence_v4/overviews_049.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_055.png",
+      "public_path": "figures/sequence_v4/overviews_055.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_061.png",
+      "public_path": "figures/sequence_v4/overviews_061.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_067.png",
+      "public_path": "figures/sequence_v4/overviews_067.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_073.png",
+      "public_path": "figures/sequence_v4/overviews_073.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_079.png",
+      "public_path": "figures/sequence_v4/overviews_079.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_085.png",
+      "public_path": "figures/sequence_v4/overviews_085.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_091.png",
+      "public_path": "figures/sequence_v4/overviews_091.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/overviews_097.png",
+      "public_path": "figures/sequence_v4/overviews_097.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/queue_001.png",
+      "public_path": "figures/sequence_v4/queue_001.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/queue_007.png",
+      "public_path": "figures/sequence_v4/queue_007.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/queue_013.png",
+      "public_path": "figures/sequence_v4/queue_013.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/queue_019.png",
+      "public_path": "figures/sequence_v4/queue_019.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/queue_025.png",
+      "public_path": "figures/sequence_v4/queue_025.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/queue_031.png",
+      "public_path": "figures/sequence_v4/queue_031.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/queue_037.png",
+      "public_path": "figures/sequence_v4/queue_037.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/queue_043.png",
+      "public_path": "figures/sequence_v4/queue_043.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/queue_049.png",
+      "public_path": "figures/sequence_v4/queue_049.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/queue_055.png",
+      "public_path": "figures/sequence_v4/queue_055.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/sequence_completeness.png",
+      "public_path": "figures/sequence_v4/sequence_completeness.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_007_overview.png",
+      "public_path": "figures/sequence_v4/V_007_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_009_overview.png",
+      "public_path": "figures/sequence_v4/V_009_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_012_overview.png",
+      "public_path": "figures/sequence_v4/V_012_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_013_overview.png",
+      "public_path": "figures/sequence_v4/V_013_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_016_overview.png",
+      "public_path": "figures/sequence_v4/V_016_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_017_overview.png",
+      "public_path": "figures/sequence_v4/V_017_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_020_overview.png",
+      "public_path": "figures/sequence_v4/V_020_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_021_overview.png",
+      "public_path": "figures/sequence_v4/V_021_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_023_overview.png",
+      "public_path": "figures/sequence_v4/V_023_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_024_overview.png",
+      "public_path": "figures/sequence_v4/V_024_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_025_overview.png",
+      "public_path": "figures/sequence_v4/V_025_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_026_overview.png",
+      "public_path": "figures/sequence_v4/V_026_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_027_overview.png",
+      "public_path": "figures/sequence_v4/V_027_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_029_overview.png",
+      "public_path": "figures/sequence_v4/V_029_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_031_overview.png",
+      "public_path": "figures/sequence_v4/V_031_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_032_overview.png",
+      "public_path": "figures/sequence_v4/V_032_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_033_overview.png",
+      "public_path": "figures/sequence_v4/V_033_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_034_overview.png",
+      "public_path": "figures/sequence_v4/V_034_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_037_overview.png",
+      "public_path": "figures/sequence_v4/V_037_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_038_overview.png",
+      "public_path": "figures/sequence_v4/V_038_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_039_overview.png",
+      "public_path": "figures/sequence_v4/V_039_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_041_overview.png",
+      "public_path": "figures/sequence_v4/V_041_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_042_overview.png",
+      "public_path": "figures/sequence_v4/V_042_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_043_overview.png",
+      "public_path": "figures/sequence_v4/V_043_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_044_overview.png",
+      "public_path": "figures/sequence_v4/V_044_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_046_overview.png",
+      "public_path": "figures/sequence_v4/V_046_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_047_overview.png",
+      "public_path": "figures/sequence_v4/V_047_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_048_overview.png",
+      "public_path": "figures/sequence_v4/V_048_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_049_overview.png",
+      "public_path": "figures/sequence_v4/V_049_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_050_overview.png",
+      "public_path": "figures/sequence_v4/V_050_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_051_overview.png",
+      "public_path": "figures/sequence_v4/V_051_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_055_overview.png",
+      "public_path": "figures/sequence_v4/V_055_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_057_overview.png",
+      "public_path": "figures/sequence_v4/V_057_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_058_overview.png",
+      "public_path": "figures/sequence_v4/V_058_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_059_overview.png",
+      "public_path": "figures/sequence_v4/V_059_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_060_overview.png",
+      "public_path": "figures/sequence_v4/V_060_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_061_overview.png",
+      "public_path": "figures/sequence_v4/V_061_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_062_overview.png",
+      "public_path": "figures/sequence_v4/V_062_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_063_overview.png",
+      "public_path": "figures/sequence_v4/V_063_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_065_overview.png",
+      "public_path": "figures/sequence_v4/V_065_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_066_overview.png",
+      "public_path": "figures/sequence_v4/V_066_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_067_overview.png",
+      "public_path": "figures/sequence_v4/V_067_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_068_overview.png",
+      "public_path": "figures/sequence_v4/V_068_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_069_overview.png",
+      "public_path": "figures/sequence_v4/V_069_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_072_overview.png",
+      "public_path": "figures/sequence_v4/V_072_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_074_overview.png",
+      "public_path": "figures/sequence_v4/V_074_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_076_overview.png",
+      "public_path": "figures/sequence_v4/V_076_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_077_overview.png",
+      "public_path": "figures/sequence_v4/V_077_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_078_overview.png",
+      "public_path": "figures/sequence_v4/V_078_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_079_overview.png",
+      "public_path": "figures/sequence_v4/V_079_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_088_overview.png",
+      "public_path": "figures/sequence_v4/V_088_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_090_overview.png",
+      "public_path": "figures/sequence_v4/V_090_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_091_overview.png",
+      "public_path": "figures/sequence_v4/V_091_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_092_overview.png",
+      "public_path": "figures/sequence_v4/V_092_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_093_overview.png",
+      "public_path": "figures/sequence_v4/V_093_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_094_overview.png",
+      "public_path": "figures/sequence_v4/V_094_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_095_overview.png",
+      "public_path": "figures/sequence_v4/V_095_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_096_overview.png",
+      "public_path": "figures/sequence_v4/V_096_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_100_overview.png",
+      "public_path": "figures/sequence_v4/V_100_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_101_overview.png",
+      "public_path": "figures/sequence_v4/V_101_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_103_overview.png",
+      "public_path": "figures/sequence_v4/V_103_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_104_overview.png",
+      "public_path": "figures/sequence_v4/V_104_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_105_overview.png",
+      "public_path": "figures/sequence_v4/V_105_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_106_overview.png",
+      "public_path": "figures/sequence_v4/V_106_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_107_overview.png",
+      "public_path": "figures/sequence_v4/V_107_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_108_overview.png",
+      "public_path": "figures/sequence_v4/V_108_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_109_overview.png",
+      "public_path": "figures/sequence_v4/V_109_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_110_overview.png",
+      "public_path": "figures/sequence_v4/V_110_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_111_overview.png",
+      "public_path": "figures/sequence_v4/V_111_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_112_overview.png",
+      "public_path": "figures/sequence_v4/V_112_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_113_overview.png",
+      "public_path": "figures/sequence_v4/V_113_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_114_overview.png",
+      "public_path": "figures/sequence_v4/V_114_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_119_overview.png",
+      "public_path": "figures/sequence_v4/V_119_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_121_overview.png",
+      "public_path": "figures/sequence_v4/V_121_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_148_overview.png",
+      "public_path": "figures/sequence_v4/V_148_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_149_overview.png",
+      "public_path": "figures/sequence_v4/V_149_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_153_overview.png",
+      "public_path": "figures/sequence_v4/V_153_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_155_overview.png",
+      "public_path": "figures/sequence_v4/V_155_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_160_overview.png",
+      "public_path": "figures/sequence_v4/V_160_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_161_overview.png",
+      "public_path": "figures/sequence_v4/V_161_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_169_overview.png",
+      "public_path": "figures/sequence_v4/V_169_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_170_overview.png",
+      "public_path": "figures/sequence_v4/V_170_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_171_overview.png",
+      "public_path": "figures/sequence_v4/V_171_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_172_overview.png",
+      "public_path": "figures/sequence_v4/V_172_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_173_overview.png",
+      "public_path": "figures/sequence_v4/V_173_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_174_overview.png",
+      "public_path": "figures/sequence_v4/V_174_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_175_overview.png",
+      "public_path": "figures/sequence_v4/V_175_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_178_overview.png",
+      "public_path": "figures/sequence_v4/V_178_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_180_overview.png",
+      "public_path": "figures/sequence_v4/V_180_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_181_overview.png",
+      "public_path": "figures/sequence_v4/V_181_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_182_overview.png",
+      "public_path": "figures/sequence_v4/V_182_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_183_overview.png",
+      "public_path": "figures/sequence_v4/V_183_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_191_overview.png",
+      "public_path": "figures/sequence_v4/V_191_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_194_overview.png",
+      "public_path": "figures/sequence_v4/V_194_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_197_overview.png",
+      "public_path": "figures/sequence_v4/V_197_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_201_overview.png",
+      "public_path": "figures/sequence_v4/V_201_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_203_overview.png",
+      "public_path": "figures/sequence_v4/V_203_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_204_overview.png",
+      "public_path": "figures/sequence_v4/V_204_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_205_overview.png",
+      "public_path": "figures/sequence_v4/V_205_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "figures/sequence_v4/V_207_overview.png",
+      "public_path": "figures/sequence_v4/V_207_overview.png",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/sequence_v4/class_generalization.json",
+      "public_path": "tests/sequence_v4/class_generalization.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/sequence_v4/config.json",
+      "public_path": "tests/sequence_v4/config.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/sequence_v4/conservation_and_integrity.json",
+      "public_path": "tests/sequence_v4/conservation_and_integrity.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/sequence_v4/coverage_accounting.json",
+      "public_path": "tests/sequence_v4/coverage_accounting.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/sequence_v4/extraction_summary.json",
+      "public_path": "tests/sequence_v4/extraction_summary.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/sequence_v4/initial_frozen_integrity.json",
+      "public_path": "tests/sequence_v4/initial_frozen_integrity.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/sequence_v4/input_manifest.json",
+      "public_path": "tests/sequence_v4/input_manifest.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/sequence_v4/qualification.json",
+      "public_path": "tests/sequence_v4/qualification.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/sequence_v4/README.md",
+      "public_path": "tests/sequence_v4/README.md",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/sequence_v4/repeatability_results.json",
+      "public_path": "tests/sequence_v4/repeatability_results.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/sequence_v4/sequence_metrics.json",
+      "public_path": "tests/sequence_v4/sequence_metrics.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/sequence_v4/source_pair_results.json",
+      "public_path": "tests/sequence_v4/source_pair_results.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v4/FREEZE_MANIFEST.json",
+      "public_path": "data/sequence_v4/frozen/FREEZE_MANIFEST.json",
+      "storage": "file"
+    }
+  ],
+  "authoritative_transport_index": "../../manifests/FILE_INDEX.json"
+}

@@ -1,0 +1,87 @@
+{
+  "created_at_utc": "2026-10-07T05:34:11.626634+00:00",
+  "pairs": [
+    {
+      "kind": "unaccepted_nearest_candidate_challenge",
+      "candidate": "NC02",
+      "left": "V_094_P012837",
+      "right": "B015_O024",
+      "distance": 1.0166447131684986,
+      "pair_id": "C001"
+    },
+    {
+      "kind": "unaccepted_nearest_candidate_challenge",
+      "candidate": "NC02",
+      "left": "V_094_P012775",
+      "right": "B015_O024",
+      "distance": 0.8196356941683209,
+      "pair_id": "C002"
+    },
+    {
+      "kind": "unaccepted_nearest_candidate_challenge",
+      "candidate": "NC02",
+      "left": "V_032_P006475",
+      "right": "B015_O024",
+      "distance": 1.077834188933673,
+      "pair_id": "C003"
+    },
+    {
+      "kind": "unaccepted_nearest_candidate_challenge",
+      "candidate": "NC02",
+      "left": "V_170_P006925",
+      "right": "B005_O154",
+      "distance": 1.0355467765055288,
+      "pair_id": "C004"
+    },
+    {
+      "kind": "unaccepted_nearest_candidate_challenge",
+      "candidate": "NC02",
+      "left": "V_170_P005968",
+      "right": "B006_O167",
+      "distance": 0.9840217754832496,
+      "pair_id": "C005"
+    },
+    {
+      "kind": "unaccepted_nearest_candidate_challenge",
+      "candidate": "NC02",
+      "left": "V_170_P006692",
+      "right": "B015_O024",
+      "distance": 1.0261228131840487,
+      "pair_id": "C006"
+    },
+    {
+      "kind": "unaccepted_nearest_candidate_challenge",
+      "candidate": "NC02",
+      "left": "V_094_P012595",
+      "right": "B002_O041",
+      "distance": 0.7116851234850659,
+      "pair_id": "C007"
+    },
+    {
+      "kind": "unaccepted_nearest_candidate_challenge",
+      "candidate": "NC02",
+      "left": "V_032_P006410",
+      "right": "B015_O024",
+      "distance": 0.9511534831752616,
+      "pair_id": "C008"
+    },
+    {
+      "kind": "unaccepted_nearest_candidate_challenge",
+      "candidate": "NC02",
+      "left": "V_094_P012707",
+      "right": "B008_O146",
+      "distance": 0.7240304446090116,
+      "pair_id": "C009"
+    },
+    {
+      "kind": "unaccepted_nearest_candidate_challenge",
+      "candidate": "NC02",
+      "left": "V_032_P005749",
+      "right": "B008_O146",
+      "distance": 1.033524173988316,
+      "pair_id": "C010"
+    }
+  ],
+  "registered_acceptance_audit": false,
+  "reason": "No nominal accepted fresh NC02 parent exists. Balanced nearest retrieval is a source-form failure diagnostic only; cannot manufacture10 accepted positives or enlarge model radius."
+}

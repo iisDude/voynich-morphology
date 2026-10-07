@@ -1,0 +1,1107 @@
+{
+  "candidates": [
+    {
+      "k": 16,
+      "validation_contour_geometry_loss": 0.5927785652521835,
+      "complexity_penalty": 0.04990659700031606,
+      "selection_score": 0.6426851622524996
+    },
+    {
+      "k": 24,
+      "validation_contour_geometry_loss": 0.5139551201263649,
+      "complexity_penalty": 0.05720496894626302,
+      "selection_score": 0.5711600890726279
+    },
+    {
+      "k": 32,
+      "validation_contour_geometry_loss": 0.4767251289981758,
+      "complexity_penalty": 0.062383246250395076,
+      "selection_score": 0.5391083752485709
+    },
+    {
+      "k": 48,
+      "validation_contour_geometry_loss": 0.423580457134334,
+      "complexity_penalty": 0.06968161819634204,
+      "selection_score": 0.49326207533067606
+    },
+    {
+      "k": 64,
+      "validation_contour_geometry_loss": 0.3911202170488548,
+      "complexity_penalty": 0.07485989550047407,
+      "selection_score": 0.46598011254932886
+    }
+  ],
+  "selected_k": 64,
+  "topology_partition_classes": 178,
+  "training_class_summary": {
+    "SC001": {
+      "training_instances": 16,
+      "training_captions": 11,
+      "other_caption_calibration_instances": 16,
+      "radius": 0.6743088020685583
+    },
+    "SC002": {
+      "training_instances": 127,
+      "training_captions": 20,
+      "other_caption_calibration_instances": 127,
+      "radius": 0.5286484645256543
+    },
+    "SC003": {
+      "training_instances": 41,
+      "training_captions": 16,
+      "other_caption_calibration_instances": 41,
+      "radius": 0.760785935944858
+    },
+    "SC004": {
+      "training_instances": 167,
+      "training_captions": 22,
+      "other_caption_calibration_instances": 167,
+      "radius": 0.5584445235224161
+    },
+    "SC005": {
+      "training_instances": 74,
+      "training_captions": 16,
+      "other_caption_calibration_instances": 74,
+      "radius": 0.4788484659326792
+    },
+    "SC006": {
+      "training_instances": 175,
+      "training_captions": 18,
+      "other_caption_calibration_instances": 175,
+      "radius": 0.45120993037262386
+    },
+    "SC007": {
+      "training_instances": 3,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 3,
+      "radius": 0.5373974488686597
+    },
+    "SC008": {
+      "training_instances": 90,
+      "training_captions": 15,
+      "other_caption_calibration_instances": 90,
+      "radius": 0.8266879895026609
+    },
+    "SC009": {
+      "training_instances": 5,
+      "training_captions": 5,
+      "other_caption_calibration_instances": 5,
+      "radius": 0.8131457601032831
+    },
+    "SC010": {
+      "training_instances": 179,
+      "training_captions": 22,
+      "other_caption_calibration_instances": 179,
+      "radius": 0.5351665270523523
+    },
+    "SC011": {
+      "training_instances": 42,
+      "training_captions": 12,
+      "other_caption_calibration_instances": 42,
+      "radius": 0.49917361622359646
+    },
+    "SC012": {
+      "training_instances": 220,
+      "training_captions": 20,
+      "other_caption_calibration_instances": 220,
+      "radius": 0.5781424267790936
+    },
+    "SC013": {
+      "training_instances": 6,
+      "training_captions": 5,
+      "other_caption_calibration_instances": 6,
+      "radius": 0.8295102578687664
+    },
+    "SC014": {
+      "training_instances": 30,
+      "training_captions": 10,
+      "other_caption_calibration_instances": 30,
+      "radius": 0.6389646539398561
+    },
+    "SC015": {
+      "training_instances": 86,
+      "training_captions": 18,
+      "other_caption_calibration_instances": 86,
+      "radius": 0.6659739692235898
+    },
+    "SC016": {
+      "training_instances": 3,
+      "training_captions": 3,
+      "other_caption_calibration_instances": 3,
+      "radius": 1.083409248160219
+    },
+    "SC017": {
+      "training_instances": 58,
+      "training_captions": 12,
+      "other_caption_calibration_instances": 58,
+      "radius": 0.6627488877080301
+    },
+    "SC018": {
+      "training_instances": 23,
+      "training_captions": 10,
+      "other_caption_calibration_instances": 23,
+      "radius": 0.7800459195653988
+    },
+    "SC019": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 1.5924947624634662
+    },
+    "SC020": {
+      "training_instances": 17,
+      "training_captions": 13,
+      "other_caption_calibration_instances": 17,
+      "radius": 0.7354451371539112
+    },
+    "SC021": {
+      "training_instances": 175,
+      "training_captions": 21,
+      "other_caption_calibration_instances": 175,
+      "radius": 0.503850125370815
+    },
+    "SC022": {
+      "training_instances": 2,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC023": {
+      "training_instances": 3,
+      "training_captions": 3,
+      "other_caption_calibration_instances": 3,
+      "radius": 0.8231859369154509
+    },
+    "SC024": {
+      "training_instances": 34,
+      "training_captions": 10,
+      "other_caption_calibration_instances": 34,
+      "radius": 0.5287015716581678
+    },
+    "SC025": {
+      "training_instances": 117,
+      "training_captions": 11,
+      "other_caption_calibration_instances": 117,
+      "radius": 0.44301237392931697
+    },
+    "SC026": {
+      "training_instances": 6,
+      "training_captions": 4,
+      "other_caption_calibration_instances": 6,
+      "radius": 0.9578391477820993
+    },
+    "SC027": {
+      "training_instances": 83,
+      "training_captions": 16,
+      "other_caption_calibration_instances": 83,
+      "radius": 0.7361583626089012
+    },
+    "SC028": {
+      "training_instances": 82,
+      "training_captions": 17,
+      "other_caption_calibration_instances": 82,
+      "radius": 0.7372813686508206
+    },
+    "SC029": {
+      "training_instances": 18,
+      "training_captions": 8,
+      "other_caption_calibration_instances": 18,
+      "radius": 0.7980993951658171
+    },
+    "SC030": {
+      "training_instances": 4,
+      "training_captions": 3,
+      "other_caption_calibration_instances": 4,
+      "radius": 0.6687143360004714
+    },
+    "SC031": {
+      "training_instances": 60,
+      "training_captions": 13,
+      "other_caption_calibration_instances": 60,
+      "radius": 0.6821209872132272
+    },
+    "SC032": {
+      "training_instances": 99,
+      "training_captions": 12,
+      "other_caption_calibration_instances": 99,
+      "radius": 0.5369344137643427
+    },
+    "SC033": {
+      "training_instances": 5,
+      "training_captions": 5,
+      "other_caption_calibration_instances": 5,
+      "radius": 0.8690781959203883
+    },
+    "SC034": {
+      "training_instances": 64,
+      "training_captions": 17,
+      "other_caption_calibration_instances": 64,
+      "radius": 0.8173309127746106
+    },
+    "SC035": {
+      "training_instances": 97,
+      "training_captions": 18,
+      "other_caption_calibration_instances": 97,
+      "radius": 0.6031576280522215
+    },
+    "SC036": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC037": {
+      "training_instances": 50,
+      "training_captions": 13,
+      "other_caption_calibration_instances": 50,
+      "radius": 0.6394846395226111
+    },
+    "SC038": {
+      "training_instances": 56,
+      "training_captions": 14,
+      "other_caption_calibration_instances": 56,
+      "radius": 0.5179985330703731
+    },
+    "SC039": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC040": {
+      "training_instances": 225,
+      "training_captions": 22,
+      "other_caption_calibration_instances": 225,
+      "radius": 0.5819625010002751
+    },
+    "SC041": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 0.7641161518776963
+    },
+    "SC042": {
+      "training_instances": 83,
+      "training_captions": 15,
+      "other_caption_calibration_instances": 83,
+      "radius": 0.8419750133652285
+    },
+    "SC043": {
+      "training_instances": 10,
+      "training_captions": 7,
+      "other_caption_calibration_instances": 10,
+      "radius": 0.9966050812971483
+    },
+    "SC044": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC045": {
+      "training_instances": 128,
+      "training_captions": 22,
+      "other_caption_calibration_instances": 128,
+      "radius": 0.7478224009399094
+    },
+    "SC046": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC047": {
+      "training_instances": 226,
+      "training_captions": 20,
+      "other_caption_calibration_instances": 226,
+      "radius": 0.6552196577713256
+    },
+    "SC048": {
+      "training_instances": 3,
+      "training_captions": 3,
+      "other_caption_calibration_instances": 3,
+      "radius": 0.7908596655489891
+    },
+    "SC049": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 0.6967301878893102
+    },
+    "SC050": {
+      "training_instances": 12,
+      "training_captions": 5,
+      "other_caption_calibration_instances": 12,
+      "radius": 1.007325076949346
+    },
+    "SC051": {
+      "training_instances": 22,
+      "training_captions": 11,
+      "other_caption_calibration_instances": 22,
+      "radius": 0.8970589900753032
+    },
+    "SC052": {
+      "training_instances": 25,
+      "training_captions": 8,
+      "other_caption_calibration_instances": 25,
+      "radius": 1.0225965790929936
+    },
+    "SC053": {
+      "training_instances": 8,
+      "training_captions": 6,
+      "other_caption_calibration_instances": 8,
+      "radius": 1.0913385604065746
+    },
+    "SC054": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 1.2751026474281122
+    },
+    "SC055": {
+      "training_instances": 55,
+      "training_captions": 18,
+      "other_caption_calibration_instances": 55,
+      "radius": 0.7168727181427003
+    },
+    "SC056": {
+      "training_instances": 126,
+      "training_captions": 18,
+      "other_caption_calibration_instances": 126,
+      "radius": 0.6627680973289357
+    },
+    "SC057": {
+      "training_instances": 8,
+      "training_captions": 5,
+      "other_caption_calibration_instances": 8,
+      "radius": 0.6700596931694153
+    },
+    "SC058": {
+      "training_instances": 36,
+      "training_captions": 16,
+      "other_caption_calibration_instances": 36,
+      "radius": 0.8013993382259175
+    },
+    "SC059": {
+      "training_instances": 196,
+      "training_captions": 21,
+      "other_caption_calibration_instances": 196,
+      "radius": 0.5224916311338477
+    },
+    "SC060": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 0.9124230420929331
+    },
+    "SC061": {
+      "training_instances": 25,
+      "training_captions": 11,
+      "other_caption_calibration_instances": 25,
+      "radius": 0.5760392560561463
+    },
+    "SC062": {
+      "training_instances": 219,
+      "training_captions": 21,
+      "other_caption_calibration_instances": 219,
+      "radius": 0.46706931548376734
+    },
+    "SC063": {
+      "training_instances": 151,
+      "training_captions": 21,
+      "other_caption_calibration_instances": 151,
+      "radius": 0.4857470359992553
+    },
+    "SC064": {
+      "training_instances": 50,
+      "training_captions": 14,
+      "other_caption_calibration_instances": 50,
+      "radius": 0.6098706960765622
+    },
+    "SC065": {
+      "training_instances": 93,
+      "training_captions": 20,
+      "other_caption_calibration_instances": 93,
+      "radius": 0.4680105366530801
+    },
+    "SC066": {
+      "training_instances": 3,
+      "training_captions": 3,
+      "other_caption_calibration_instances": 3,
+      "radius": 0.6462652320954746
+    },
+    "SC067": {
+      "training_instances": 241,
+      "training_captions": 17,
+      "other_caption_calibration_instances": 241,
+      "radius": 0.49132038790675264
+    },
+    "SC068": {
+      "training_instances": 26,
+      "training_captions": 13,
+      "other_caption_calibration_instances": 26,
+      "radius": 0.8310547484947102
+    },
+    "SC069": {
+      "training_instances": 65,
+      "training_captions": 15,
+      "other_caption_calibration_instances": 65,
+      "radius": 0.6167413769172198
+    },
+    "SC070": {
+      "training_instances": 11,
+      "training_captions": 8,
+      "other_caption_calibration_instances": 11,
+      "radius": 0.9212416700869525
+    },
+    "SC071": {
+      "training_instances": 4,
+      "training_captions": 4,
+      "other_caption_calibration_instances": 4,
+      "radius": 0.8183158818075396
+    },
+    "SC072": {
+      "training_instances": 7,
+      "training_captions": 7,
+      "other_caption_calibration_instances": 7,
+      "radius": 0.6739067205111492
+    },
+    "SC073": {
+      "training_instances": 62,
+      "training_captions": 13,
+      "other_caption_calibration_instances": 62,
+      "radius": 0.5366932114070319
+    },
+    "SC074": {
+      "training_instances": 45,
+      "training_captions": 16,
+      "other_caption_calibration_instances": 45,
+      "radius": 0.5303134311012454
+    },
+    "SC075": {
+      "training_instances": 38,
+      "training_captions": 12,
+      "other_caption_calibration_instances": 38,
+      "radius": 0.6499840689518205
+    },
+    "SC076": {
+      "training_instances": 207,
+      "training_captions": 20,
+      "other_caption_calibration_instances": 207,
+      "radius": 0.4357664690771445
+    },
+    "SC077": {
+      "training_instances": 100,
+      "training_captions": 16,
+      "other_caption_calibration_instances": 100,
+      "radius": 0.5545953518231129
+    },
+    "SC078": {
+      "training_instances": 197,
+      "training_captions": 17,
+      "other_caption_calibration_instances": 197,
+      "radius": 0.44855371530301813
+    },
+    "SC079": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC080": {
+      "training_instances": 9,
+      "training_captions": 7,
+      "other_caption_calibration_instances": 9,
+      "radius": 0.8142059924870115
+    },
+    "SC081": {
+      "training_instances": 40,
+      "training_captions": 16,
+      "other_caption_calibration_instances": 40,
+      "radius": 0.9372499732661571
+    },
+    "SC082": {
+      "training_instances": 24,
+      "training_captions": 11,
+      "other_caption_calibration_instances": 24,
+      "radius": 0.8857439830984
+    },
+    "SC083": {
+      "training_instances": 7,
+      "training_captions": 6,
+      "other_caption_calibration_instances": 7,
+      "radius": 1.0578481224936949
+    },
+    "SC084": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 1.3450182491086793
+    },
+    "SC085": {
+      "training_instances": 50,
+      "training_captions": 13,
+      "other_caption_calibration_instances": 50,
+      "radius": 0.7570357005681322
+    },
+    "SC086": {
+      "training_instances": 130,
+      "training_captions": 16,
+      "other_caption_calibration_instances": 130,
+      "radius": 0.4730403806953941
+    },
+    "SC087": {
+      "training_instances": 6,
+      "training_captions": 6,
+      "other_caption_calibration_instances": 6,
+      "radius": 0.5014508399297248
+    },
+    "SC088": {
+      "training_instances": 10,
+      "training_captions": 7,
+      "other_caption_calibration_instances": 10,
+      "radius": 0.7172888105350524
+    },
+    "SC089": {
+      "training_instances": 82,
+      "training_captions": 19,
+      "other_caption_calibration_instances": 82,
+      "radius": 0.5674900093689766
+    },
+    "SC090": {
+      "training_instances": 16,
+      "training_captions": 9,
+      "other_caption_calibration_instances": 16,
+      "radius": 0.5876963133662101
+    },
+    "SC091": {
+      "training_instances": 148,
+      "training_captions": 15,
+      "other_caption_calibration_instances": 148,
+      "radius": 0.45889961541340113
+    },
+    "SC092": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC093": {
+      "training_instances": 109,
+      "training_captions": 18,
+      "other_caption_calibration_instances": 109,
+      "radius": 0.7859324187957674
+    },
+    "SC094": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 0.9428621680621075
+    },
+    "SC095": {
+      "training_instances": 60,
+      "training_captions": 18,
+      "other_caption_calibration_instances": 60,
+      "radius": 0.5968560507712001
+    },
+    "SC096": {
+      "training_instances": 88,
+      "training_captions": 17,
+      "other_caption_calibration_instances": 88,
+      "radius": 0.6720912305782315
+    },
+    "SC097": {
+      "training_instances": 3,
+      "training_captions": 3,
+      "other_caption_calibration_instances": 3,
+      "radius": 0.8655760446812213
+    },
+    "SC098": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC099": {
+      "training_instances": 102,
+      "training_captions": 19,
+      "other_caption_calibration_instances": 102,
+      "radius": 0.8207638631418515
+    },
+    "SC100": {
+      "training_instances": 11,
+      "training_captions": 8,
+      "other_caption_calibration_instances": 11,
+      "radius": 0.8739261307646846
+    },
+    "SC101": {
+      "training_instances": 9,
+      "training_captions": 7,
+      "other_caption_calibration_instances": 9,
+      "radius": 0.9318647542056746
+    },
+    "SC102": {
+      "training_instances": 56,
+      "training_captions": 12,
+      "other_caption_calibration_instances": 56,
+      "radius": 0.6451270511214184
+    },
+    "SC103": {
+      "training_instances": 92,
+      "training_captions": 11,
+      "other_caption_calibration_instances": 92,
+      "radius": 0.5100563493307628
+    },
+    "SC104": {
+      "training_instances": 135,
+      "training_captions": 17,
+      "other_caption_calibration_instances": 135,
+      "radius": 0.6154444477240651
+    },
+    "SC105": {
+      "training_instances": 14,
+      "training_captions": 9,
+      "other_caption_calibration_instances": 14,
+      "radius": 0.7083773786789
+    },
+    "SC106": {
+      "training_instances": 203,
+      "training_captions": 22,
+      "other_caption_calibration_instances": 203,
+      "radius": 0.49881100472685863
+    },
+    "SC107": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 0.7193594556885454
+    },
+    "SC108": {
+      "training_instances": 15,
+      "training_captions": 6,
+      "other_caption_calibration_instances": 15,
+      "radius": 0.5998457761430546
+    },
+    "SC109": {
+      "training_instances": 269,
+      "training_captions": 19,
+      "other_caption_calibration_instances": 269,
+      "radius": 0.48174679946007304
+    },
+    "SC110": {
+      "training_instances": 178,
+      "training_captions": 21,
+      "other_caption_calibration_instances": 178,
+      "radius": 0.5943661999650587
+    },
+    "SC111": {
+      "training_instances": 8,
+      "training_captions": 7,
+      "other_caption_calibration_instances": 8,
+      "radius": 0.845529503255987
+    },
+    "SC112": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 0.884388608626892
+    },
+    "SC113": {
+      "training_instances": 369,
+      "training_captions": 22,
+      "other_caption_calibration_instances": 369,
+      "radius": 0.42898330190492384
+    },
+    "SC114": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC115": {
+      "training_instances": 9,
+      "training_captions": 7,
+      "other_caption_calibration_instances": 9,
+      "radius": 0.9151190066822211
+    },
+    "SC116": {
+      "training_instances": 97,
+      "training_captions": 13,
+      "other_caption_calibration_instances": 97,
+      "radius": 0.4749797919990077
+    },
+    "SC117": {
+      "training_instances": 126,
+      "training_captions": 21,
+      "other_caption_calibration_instances": 126,
+      "radius": 0.7804280110639915
+    },
+    "SC118": {
+      "training_instances": 4,
+      "training_captions": 4,
+      "other_caption_calibration_instances": 4,
+      "radius": 1.2139259895659151
+    },
+    "SC119": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 1.2815656258576669
+    },
+    "SC120": {
+      "training_instances": 30,
+      "training_captions": 13,
+      "other_caption_calibration_instances": 30,
+      "radius": 0.8776598623212626
+    },
+    "SC121": {
+      "training_instances": 69,
+      "training_captions": 13,
+      "other_caption_calibration_instances": 69,
+      "radius": 0.7294151924939501
+    },
+    "SC122": {
+      "training_instances": 36,
+      "training_captions": 10,
+      "other_caption_calibration_instances": 36,
+      "radius": 0.9193066649492218
+    },
+    "SC123": {
+      "training_instances": 8,
+      "training_captions": 5,
+      "other_caption_calibration_instances": 8,
+      "radius": 0.9979536477779153
+    },
+    "SC124": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC125": {
+      "training_instances": 43,
+      "training_captions": 13,
+      "other_caption_calibration_instances": 43,
+      "radius": 0.808099190493148
+    },
+    "SC126": {
+      "training_instances": 14,
+      "training_captions": 8,
+      "other_caption_calibration_instances": 14,
+      "radius": 0.7007349238389152
+    },
+    "SC127": {
+      "training_instances": 26,
+      "training_captions": 13,
+      "other_caption_calibration_instances": 26,
+      "radius": 0.6704602644730671
+    },
+    "SC128": {
+      "training_instances": 38,
+      "training_captions": 12,
+      "other_caption_calibration_instances": 38,
+      "radius": 0.6310916752277226
+    },
+    "SC129": {
+      "training_instances": 41,
+      "training_captions": 9,
+      "other_caption_calibration_instances": 41,
+      "radius": 0.5822941435183001
+    },
+    "SC130": {
+      "training_instances": 9,
+      "training_captions": 6,
+      "other_caption_calibration_instances": 9,
+      "radius": 0.6343428435588148
+    },
+    "SC131": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC132": {
+      "training_instances": 58,
+      "training_captions": 14,
+      "other_caption_calibration_instances": 58,
+      "radius": 0.8223800162604691
+    },
+    "SC133": {
+      "training_instances": 61,
+      "training_captions": 12,
+      "other_caption_calibration_instances": 61,
+      "radius": 0.5730987521705474
+    },
+    "SC134": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC135": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 1.2896021349354354
+    },
+    "SC136": {
+      "training_instances": 35,
+      "training_captions": 14,
+      "other_caption_calibration_instances": 35,
+      "radius": 0.9538541404688857
+    },
+    "SC137": {
+      "training_instances": 42,
+      "training_captions": 14,
+      "other_caption_calibration_instances": 42,
+      "radius": 0.8555933090621161
+    },
+    "SC138": {
+      "training_instances": 12,
+      "training_captions": 7,
+      "other_caption_calibration_instances": 12,
+      "radius": 0.9768462438220241
+    },
+    "SC139": {
+      "training_instances": 3,
+      "training_captions": 3,
+      "other_caption_calibration_instances": 3,
+      "radius": 1.2261659647191006
+    },
+    "SC140": {
+      "training_instances": 11,
+      "training_captions": 8,
+      "other_caption_calibration_instances": 11,
+      "radius": 0.9449659938760929
+    },
+    "SC141": {
+      "training_instances": 77,
+      "training_captions": 16,
+      "other_caption_calibration_instances": 77,
+      "radius": 0.5896411672065084
+    },
+    "SC142": {
+      "training_instances": 87,
+      "training_captions": 17,
+      "other_caption_calibration_instances": 87,
+      "radius": 0.5596464803972532
+    },
+    "SC143": {
+      "training_instances": 102,
+      "training_captions": 15,
+      "other_caption_calibration_instances": 102,
+      "radius": 0.7208402762788382
+    },
+    "SC144": {
+      "training_instances": 37,
+      "training_captions": 13,
+      "other_caption_calibration_instances": 37,
+      "radius": 0.9025594465611844
+    },
+    "SC145": {
+      "training_instances": 43,
+      "training_captions": 10,
+      "other_caption_calibration_instances": 43,
+      "radius": 0.7099061081246697
+    },
+    "SC146": {
+      "training_instances": 2,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC147": {
+      "training_instances": 106,
+      "training_captions": 21,
+      "other_caption_calibration_instances": 106,
+      "radius": 0.6786226093692729
+    },
+    "SC148": {
+      "training_instances": 76,
+      "training_captions": 14,
+      "other_caption_calibration_instances": 76,
+      "radius": 0.6713711371428911
+    },
+    "SC149": {
+      "training_instances": 93,
+      "training_captions": 15,
+      "other_caption_calibration_instances": 93,
+      "radius": 0.5440673458623281
+    },
+    "SC150": {
+      "training_instances": 9,
+      "training_captions": 7,
+      "other_caption_calibration_instances": 9,
+      "radius": 0.7137956456895588
+    },
+    "SC151": {
+      "training_instances": 3,
+      "training_captions": 3,
+      "other_caption_calibration_instances": 3,
+      "radius": 0.7815072033059898
+    },
+    "SC152": {
+      "training_instances": 18,
+      "training_captions": 8,
+      "other_caption_calibration_instances": 18,
+      "radius": 0.7024543361023914
+    },
+    "SC153": {
+      "training_instances": 29,
+      "training_captions": 8,
+      "other_caption_calibration_instances": 29,
+      "radius": 0.7313028688089529
+    },
+    "SC154": {
+      "training_instances": 16,
+      "training_captions": 8,
+      "other_caption_calibration_instances": 16,
+      "radius": 0.924559317621649
+    },
+    "SC155": {
+      "training_instances": 5,
+      "training_captions": 4,
+      "other_caption_calibration_instances": 5,
+      "radius": 0.8497135056734894
+    },
+    "SC156": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 1.0763661579143557
+    },
+    "SC157": {
+      "training_instances": 2,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC158": {
+      "training_instances": 36,
+      "training_captions": 10,
+      "other_caption_calibration_instances": 36,
+      "radius": 0.7411649110282676
+    },
+    "SC159": {
+      "training_instances": 73,
+      "training_captions": 13,
+      "other_caption_calibration_instances": 73,
+      "radius": 0.7562694018801186
+    },
+    "SC160": {
+      "training_instances": 14,
+      "training_captions": 9,
+      "other_caption_calibration_instances": 14,
+      "radius": 1.131360764641759
+    },
+    "SC161": {
+      "training_instances": 117,
+      "training_captions": 20,
+      "other_caption_calibration_instances": 117,
+      "radius": 0.6129414082381425
+    },
+    "SC162": {
+      "training_instances": 202,
+      "training_captions": 18,
+      "other_caption_calibration_instances": 202,
+      "radius": 0.43805201744418115
+    },
+    "SC163": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC164": {
+      "training_instances": 193,
+      "training_captions": 19,
+      "other_caption_calibration_instances": 193,
+      "radius": 0.6510312002368017
+    },
+    "SC165": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 0.8281242166897046
+    },
+    "SC166": {
+      "training_instances": 57,
+      "training_captions": 18,
+      "other_caption_calibration_instances": 57,
+      "radius": 0.6842188231602684
+    },
+    "SC167": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC168": {
+      "training_instances": 147,
+      "training_captions": 20,
+      "other_caption_calibration_instances": 147,
+      "radius": 0.6226233586422066
+    },
+    "SC169": {
+      "training_instances": 434,
+      "training_captions": 22,
+      "other_caption_calibration_instances": 434,
+      "radius": 0.3981564462271385
+    },
+    "SC170": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "other_caption_calibration_instances": 2,
+      "radius": 0.790722067682204
+    },
+    "SC171": {
+      "training_instances": 140,
+      "training_captions": 20,
+      "other_caption_calibration_instances": 140,
+      "radius": 0.6694189207652016
+    },
+    "SC172": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC173": {
+      "training_instances": 22,
+      "training_captions": 8,
+      "other_caption_calibration_instances": 22,
+      "radius": 0.5960784858566076
+    },
+    "SC174": {
+      "training_instances": 223,
+      "training_captions": 19,
+      "other_caption_calibration_instances": 223,
+      "radius": 0.47213038424565085
+    },
+    "SC175": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    },
+    "SC176": {
+      "training_instances": 25,
+      "training_captions": 16,
+      "other_caption_calibration_instances": 25,
+      "radius": 0.6332199159044898
+    },
+    "SC177": {
+      "training_instances": 101,
+      "training_captions": 19,
+      "other_caption_calibration_instances": 101,
+      "radius": 0.5627003747452117
+    },
+    "SC178": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "other_caption_calibration_instances": 0,
+      "radius": 0.0
+    }
+  },
+  "selection_note": "Held-out recurrence, pair audit and perturbation gates have not yet been tested. No segmentation freeze."
+}

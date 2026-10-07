@@ -1,0 +1,423 @@
+{
+  "recorded_at_utc": "2026-10-07T01:42:12.415990+00:00",
+  "reason": "Initial context clips tall traces above3.5body. Extend native review context without replacing selected rows or changing annotation/class parameters.",
+  "rows": [
+    {
+      "row_id": "B001",
+      "view_id": "V_012",
+      "caption": "5",
+      "native_source": "data/source/yale_native/1006084.jpg",
+      "native_dimensions": [
+        2636,
+        3723
+      ],
+      "source_anchor_y": 622.16875,
+      "body_proxy": 29.0,
+      "selection_proposal_id": "V_012_R01_L001",
+      "source_context_bbox": [
+        0,
+        520,
+        2636,
+        700
+      ],
+      "split": "development",
+      "review_context_bbox": [
+        0,
+        448,
+        2636,
+        738
+      ]
+    },
+    {
+      "row_id": "B002",
+      "view_id": "V_012",
+      "caption": "5",
+      "native_source": "data/source/yale_native/1006084.jpg",
+      "native_dimensions": [
+        2636,
+        3723
+      ],
+      "source_anchor_y": 785.1895833333333,
+      "body_proxy": 29.0,
+      "selection_proposal_id": "V_012_R01_L003",
+      "source_context_bbox": [
+        0,
+        683,
+        2636,
+        863
+      ],
+      "split": "development",
+      "review_context_bbox": [
+        0,
+        611,
+        2636,
+        901
+      ]
+    },
+    {
+      "row_id": "B003",
+      "view_id": "V_023",
+      "caption": "10",
+      "native_source": "data/source/yale_native/1006095.jpg",
+      "native_dimensions": [
+        2839,
+        3797
+      ],
+      "source_anchor_y": 557.3924999999999,
+      "body_proxy": 38.599999999999994,
+      "selection_proposal_id": "V_023_R01_L001",
+      "source_context_bbox": [
+        0,
+        422,
+        2839,
+        661
+      ],
+      "split": "heldout",
+      "review_context_bbox": [
+        0,
+        325,
+        2839,
+        711
+      ]
+    },
+    {
+      "row_id": "B004",
+      "view_id": "V_023",
+      "caption": "10",
+      "native_source": "data/source/yale_native/1006095.jpg",
+      "native_dimensions": [
+        2839,
+        3797
+      ],
+      "source_anchor_y": 793.7674999999999,
+      "body_proxy": 38.599999999999994,
+      "selection_proposal_id": "V_023_R01_L004",
+      "source_context_bbox": [
+        0,
+        658,
+        2839,
+        897
+      ],
+      "split": "heldout",
+      "review_context_bbox": [
+        0,
+        562,
+        2839,
+        948
+      ]
+    },
+    {
+      "row_id": "B005",
+      "view_id": "V_069",
+      "caption": "34",
+      "native_source": "data/source/yale_native/1006141.jpg",
+      "native_dimensions": [
+        2881,
+        3787
+      ],
+      "source_anchor_y": 535.378125,
+      "body_proxy": 36.0,
+      "selection_proposal_id": "V_069_R01_L001",
+      "source_context_bbox": [
+        0,
+        409,
+        2881,
+        632
+      ],
+      "split": "development",
+      "review_context_bbox": [
+        0,
+        319,
+        2881,
+        679
+      ]
+    },
+    {
+      "row_id": "B006",
+      "view_id": "V_069",
+      "caption": "34",
+      "native_source": "data/source/yale_native/1006141.jpg",
+      "native_dimensions": [
+        2881,
+        3787
+      ],
+      "source_anchor_y": 758.8,
+      "body_proxy": 36.0,
+      "selection_proposal_id": "V_069_R01_L005",
+      "source_context_bbox": [
+        0,
+        632,
+        2881,
+        856
+      ],
+      "split": "development",
+      "review_context_bbox": [
+        0,
+        542,
+        2881,
+        902
+      ]
+    },
+    {
+      "row_id": "B007",
+      "view_id": "V_079",
+      "caption": "39",
+      "native_source": "data/source/yale_native/1006151.jpg",
+      "native_dimensions": [
+        2882,
+        3769
+      ],
+      "source_anchor_y": 431.4,
+      "body_proxy": 38.0,
+      "selection_proposal_id": "V_079_R01_L001",
+      "source_context_bbox": [
+        0,
+        298,
+        2882,
+        534
+      ],
+      "split": "development",
+      "review_context_bbox": [
+        0,
+        203,
+        2882,
+        583
+      ]
+    },
+    {
+      "row_id": "B008",
+      "view_id": "V_079",
+      "caption": "39",
+      "native_source": "data/source/yale_native/1006151.jpg",
+      "native_dimensions": [
+        2882,
+        3769
+      ],
+      "source_anchor_y": 568.4,
+      "body_proxy": 38.0,
+      "selection_proposal_id": "V_079_R01_L002",
+      "source_context_bbox": [
+        0,
+        435,
+        2882,
+        671
+      ],
+      "split": "development",
+      "review_context_bbox": [
+        0,
+        340,
+        2882,
+        720
+      ]
+    },
+    {
+      "row_id": "B009",
+      "view_id": "V_110",
+      "caption": "55",
+      "native_source": "data/source/yale_native/1006182.jpg",
+      "native_dimensions": [
+        2793,
+        3738
+      ],
+      "source_anchor_y": 489.08125,
+      "body_proxy": 36.0,
+      "selection_proposal_id": "V_110_R01_L001",
+      "source_context_bbox": [
+        0,
+        363,
+        2793,
+        586
+      ],
+      "split": "development",
+      "review_context_bbox": [
+        0,
+        273,
+        2793,
+        633
+      ]
+    },
+    {
+      "row_id": "B010",
+      "view_id": "V_110",
+      "caption": "55",
+      "native_source": "data/source/yale_native/1006182.jpg",
+      "native_dimensions": [
+        2793,
+        3738
+      ],
+      "source_anchor_y": 693.5604166666667,
+      "body_proxy": 36.0,
+      "selection_proposal_id": "V_110_R01_L004",
+      "source_context_bbox": [
+        0,
+        567,
+        2793,
+        790
+      ],
+      "split": "development",
+      "review_context_bbox": [
+        0,
+        477,
+        2793,
+        837
+      ]
+    },
+    {
+      "row_id": "B011",
+      "view_id": "V_148",
+      "caption": "81",
+      "native_source": "data/source/yale_native/1006220.jpg",
+      "native_dimensions": [
+        2776,
+        3737
+      ],
+      "source_anchor_y": 888.10625,
+      "body_proxy": 39.0,
+      "selection_proposal_id": "V_148_R01_L001",
+      "source_context_bbox": [
+        0,
+        751,
+        2776,
+        993
+      ],
+      "split": "development",
+      "review_context_bbox": [
+        0,
+        654,
+        2776,
+        1044
+      ]
+    },
+    {
+      "row_id": "B012",
+      "view_id": "V_148",
+      "caption": "81",
+      "native_source": "data/source/yale_native/1006220.jpg",
+      "native_dimensions": [
+        2776,
+        3737
+      ],
+      "source_anchor_y": 1009.1947916666667,
+      "body_proxy": 39.0,
+      "selection_proposal_id": "V_148_R01_L003",
+      "source_context_bbox": [
+        0,
+        872,
+        2776,
+        1114
+      ],
+      "split": "development",
+      "review_context_bbox": [
+        0,
+        775,
+        2776,
+        1165
+      ]
+    },
+    {
+      "row_id": "B013",
+      "view_id": "V_191",
+      "caption": "106",
+      "native_source": "data/source/yale_native/1006261.jpg",
+      "native_dimensions": [
+        2670,
+        3697
+      ],
+      "source_anchor_y": 248.29166666666666,
+      "body_proxy": 40.0,
+      "selection_proposal_id": "V_191_R01_L001",
+      "source_context_bbox": [
+        0,
+        108,
+        2670,
+        356
+      ],
+      "split": "heldout",
+      "review_context_bbox": [
+        0,
+        8,
+        2670,
+        408
+      ]
+    },
+    {
+      "row_id": "B014",
+      "view_id": "V_191",
+      "caption": "106",
+      "native_source": "data/source/yale_native/1006261.jpg",
+      "native_dimensions": [
+        2670,
+        3697
+      ],
+      "source_anchor_y": 687.0416666666666,
+      "body_proxy": 40.0,
+      "selection_proposal_id": "V_191_R01_L004",
+      "source_context_bbox": [
+        0,
+        547,
+        2670,
+        795
+      ],
+      "split": "heldout",
+      "review_context_bbox": [
+        0,
+        447,
+        2670,
+        847
+      ]
+    },
+    {
+      "row_id": "B015",
+      "view_id": "V_204",
+      "caption": "115",
+      "native_source": "data/source/yale_native/1006274.jpg",
+      "native_dimensions": [
+        2584,
+        3786
+      ],
+      "source_anchor_y": 282.440625,
+      "body_proxy": 41.0,
+      "selection_proposal_id": "V_204_R01_L002",
+      "source_context_bbox": [
+        0,
+        138,
+        2584,
+        393
+      ],
+      "split": "development",
+      "review_context_bbox": [
+        0,
+        36,
+        2584,
+        446
+      ]
+    },
+    {
+      "row_id": "B016",
+      "view_id": "V_204",
+      "caption": "115",
+      "native_source": "data/source/yale_native/1006274.jpg",
+      "native_dimensions": [
+        2584,
+        3786
+      ],
+      "source_anchor_y": 587.7270833333333,
+      "body_proxy": 41.0,
+      "selection_proposal_id": "V_204_R01_L003",
+      "source_context_bbox": [
+        0,
+        444,
+        2584,
+        698
+      ],
+      "split": "development",
+      "review_context_bbox": [
+        0,
+        341,
+        2584,
+        751
+      ]
+    }
+  ],
+  "classes_unseen": true
+}

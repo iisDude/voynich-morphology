@@ -1,0 +1,2719 @@
+[
+  {
+    "case_id": "ROW_V_042_R01_L010",
+    "kind": "whole_row",
+    "view_id": "V_042",
+    "line_id": "V_042_R01_L010",
+    "split": "train",
+    "folio_component": "21",
+    "bbox_xyxy": [
+      375,
+      1405,
+      1936,
+      1546
+    ],
+    "body_height_proxy_px": 34.0,
+    "groups": 8,
+    "priority_score": 2.933333333333333,
+    "uncertain_unit_fraction": 0.875,
+    "multiline_contact_fraction": 0.03125,
+    "gap_count_range": [
+      9,
+      8,
+      3
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006114.jpg",
+    "seed_y": 1513,
+    "body": 30,
+    "x_extent": [
+      375,
+      1940
+    ],
+    "other_rows": [
+      1368,
+      1435,
+      1590
+    ],
+    "exclude": [],
+    "note": "Candidate combines two body rows. Lower row is writing across a dark substrate stain; paired tall uprights continue into lower horizontal/return traces. Frame topology is visible; order/pen lifts unknown.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.163926+00:00"
+  },
+  {
+    "case_id": "ROW_V_017_R01_L009",
+    "kind": "whole_row",
+    "view_id": "V_017",
+    "line_id": "V_017_R01_L009",
+    "split": "train",
+    "folio_component": "7",
+    "bbox_xyxy": [
+      611,
+      1057,
+      2045,
+      1256
+    ],
+    "body_height_proxy_px": 41.0,
+    "groups": 3,
+    "priority_score": 2.9250000000000003,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.03125,
+    "gap_count_range": [
+      5,
+      3,
+      2
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006089.jpg",
+    "seed_y": 1204,
+    "body": 30,
+    "x_extent": [
+      610,
+      2055
+    ],
+    "other_rows": [
+      1043,
+      1124
+    ],
+    "exclude": [
+      [
+        1610,
+        1050,
+        1780,
+        1270
+      ]
+    ],
+    "note": "Two rows and a plant branch are merged. Plant stem/pods are drawing. Target lower body has separate left/right writing fields around plant; row continuation across drawing retained as uncertain.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.163926+00:00"
+  },
+  {
+    "case_id": "ROW_V_007_R01_L003",
+    "kind": "whole_row",
+    "view_id": "V_007",
+    "line_id": "V_007_R01_L003",
+    "split": "train",
+    "folio_component": "2",
+    "bbox_xyxy": [
+      745,
+      805,
+      2347,
+      926
+    ],
+    "body_height_proxy_px": 30.0,
+    "groups": 7,
+    "priority_score": 2.842200328407225,
+    "uncertain_unit_fraction": 0.8571428571428571,
+    "multiline_contact_fraction": 0.13793103448275862,
+    "gap_count_range": [
+      12,
+      7,
+      7
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006079.jpg",
+    "seed_y": 895,
+    "seed_slope": 0.014,
+    "body": 28,
+    "x_extent": [
+      745,
+      2450
+    ],
+    "other_rows": [
+      788,
+      841,
+      969
+    ],
+    "exclude": [
+      [
+        1910,
+        740,
+        2035,
+        1000
+      ]
+    ],
+    "note": "Body rows are distinct; plant stem divides writing flow. Tall connected assemblies retained by lower body contact, not by bounding-box center. Final right writing extends beyond old bbox.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.163926+00:00"
+  },
+  {
+    "case_id": "ROW_V_032_R01_L005",
+    "kind": "whole_row",
+    "view_id": "V_032",
+    "line_id": "V_032_R01_L005",
+    "split": "train",
+    "folio_component": "16",
+    "bbox_xyxy": [
+      406,
+      725,
+      2171,
+      893
+    ],
+    "body_height_proxy_px": 44.0,
+    "groups": 4,
+    "priority_score": 2.765884652981427,
+    "uncertain_unit_fraction": 0.5,
+    "multiline_contact_fraction": 0.0967741935483871,
+    "gap_count_range": [
+      9,
+      4,
+      3
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "seed_y": 861,
+    "body": 32,
+    "x_extent": [
+      405,
+      1590
+    ],
+    "other_rows": [
+      693,
+      776,
+      951
+    ],
+    "exclude": [
+      [
+        1595,
+        630,
+        2300,
+        990
+      ]
+    ],
+    "note": "Plant twigs, leaves and red buds occupy the old right half. Target lower writing body ends before plant; separate short upper row is not part of it.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.163926+00:00"
+  },
+  {
+    "case_id": "ROW_V_015_R01_L011",
+    "kind": "whole_row",
+    "view_id": "V_015",
+    "line_id": "V_015_R01_L011",
+    "split": "train",
+    "folio_component": "6",
+    "bbox_xyxy": [
+      585,
+      1232,
+      2146,
+      1394
+    ],
+    "body_height_proxy_px": 37.0,
+    "groups": 4,
+    "priority_score": 2.7372549019607844,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.11764705882352941,
+    "gap_count_range": [
+      6,
+      4,
+      4
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006087.jpg",
+    "seed_y": 1334,
+    "body": 30,
+    "x_extent": [
+      585,
+      1315
+    ],
+    "other_rows": [
+      1248,
+      1410,
+      1460
+    ],
+    "exclude": [
+      [
+        1320,
+        1158,
+        2200,
+        1470
+      ]
+    ],
+    "note": "Blue-green flower disks and radiating petals are drawing. Target middle writing row ends before first flower; upper/lower rows remain distinct.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.163926+00:00"
+  },
+  {
+    "case_id": "ROW_V_033_R01_L002",
+    "kind": "whole_row",
+    "view_id": "V_033",
+    "line_id": "V_033_R01_L002",
+    "split": "train",
+    "folio_component": "16",
+    "bbox_xyxy": [
+      577,
+      615,
+      2053,
+      752
+    ],
+    "body_height_proxy_px": 36.0,
+    "groups": 5,
+    "priority_score": 2.6527777777777777,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.027777777777777776,
+    "gap_count_range": [
+      8,
+      5,
+      4
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006105.jpg",
+    "seed_y": 718,
+    "seed_slope": 0.04,
+    "body": 27,
+    "x_extent": [
+      575,
+      1620
+    ],
+    "other_rows": [
+      626,
+      793
+    ],
+    "exclude": [
+      [
+        1640,
+        540,
+        2670,
+        830
+      ]
+    ],
+    "note": "Large blue serrated leaf is drawing. Two candidate body rows are disentangled; target middle row slopes downward across the capture and includes high paired structures with connected lower traces.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_027_R01_L005",
+    "kind": "whole_row",
+    "view_id": "V_027",
+    "line_id": "V_027_R01_L005",
+    "split": "validation",
+    "folio_component": "13",
+    "bbox_xyxy": [
+      908,
+      776,
+      1939,
+      928
+    ],
+    "body_height_proxy_px": 35.400000000000006,
+    "groups": 7,
+    "priority_score": 3.767582417582418,
+    "uncertain_unit_fraction": 0.5714285714285714,
+    "multiline_contact_fraction": 0.46153846153846156,
+    "gap_count_range": [
+      8,
+      7,
+      5
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006099.jpg",
+    "seed_y": 917,
+    "seed_slope": 0.04,
+    "body": 29,
+    "x_extent": [
+      908,
+      1270
+    ],
+    "other_rows": [
+      759,
+      842
+    ],
+    "exclude": [],
+    "note": "The old row combines a long upper row and short final lower row. Lower final row is a short writing field sloping down to right and ending well before the large plant.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_025_R01_L005",
+    "kind": "whole_row",
+    "view_id": "V_025",
+    "line_id": "V_025_R01_L005",
+    "split": "validation",
+    "folio_component": "11",
+    "bbox_xyxy": [
+      782,
+      2248,
+      2467,
+      2466
+    ],
+    "body_height_proxy_px": 44.599999999999994,
+    "groups": 6,
+    "priority_score": 2.982882882882883,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.05405405405405406,
+    "gap_count_range": [
+      12,
+      6,
+      5
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006097.jpg",
+    "seed_y": 2396,
+    "seed_slope": -0.005,
+    "body": 31,
+    "x_extent": [
+      785,
+      2500
+    ],
+    "other_rows": [
+      2237,
+      2329,
+      2510
+    ],
+    "exclude": [
+      [
+        1830,
+        2150,
+        2020,
+        2560
+      ]
+    ],
+    "note": "Red vertical plant stem is drawing and splits left/right writing fields. Candidate mixes successive body rows. Source-recomposed review corrects a too-low initial seed; lower fields have distinct wide visible gaps and uncertain continuation across plant.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_045_R01_L009",
+    "kind": "whole_row",
+    "view_id": "V_045",
+    "line_id": "V_045_R01_L009",
+    "split": "test",
+    "folio_component": "22",
+    "bbox_xyxy": [
+      739,
+      1108,
+      1739,
+      1273
+    ],
+    "body_height_proxy_px": 43.0,
+    "groups": 5,
+    "priority_score": 3.7424671385237613,
+    "uncertain_unit_fraction": 0.8,
+    "multiline_contact_fraction": 0.34782608695652173,
+    "gap_count_range": [
+      6,
+      5,
+      3
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006117.jpg",
+    "seed_y": 1218,
+    "body": 30,
+    "x_extent": [
+      735,
+      1840
+    ],
+    "other_rows": [
+      1134,
+      1326
+    ],
+    "exclude": [
+      [
+        1840,
+        1020,
+        2250,
+        1360
+      ],
+      [
+        1150,
+        1270,
+        1690,
+        1400
+      ]
+    ],
+    "note": "Target middle row is writing; neighboring tall ascenders belong to different body rows. Recomposed source review corrects a too-low initial seed. Large green flower below and leaf stems right are drawing.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_019_R01_L010",
+    "kind": "whole_row",
+    "view_id": "V_019",
+    "line_id": "V_019_R01_L010",
+    "split": "test",
+    "folio_component": "8",
+    "bbox_xyxy": [
+      551,
+      1168,
+      2259,
+      1364
+    ],
+    "body_height_proxy_px": 31.0,
+    "groups": 8,
+    "priority_score": 3.1694444444444447,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.1111111111111111,
+    "gap_count_range": [
+      16,
+      8,
+      7
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006091.jpg",
+    "seed_y": 1337,
+    "seed_slope": -0.01,
+    "body": 28,
+    "x_extent": [
+      550,
+      2340
+    ],
+    "other_rows": [
+      1155,
+      1239,
+      1415
+    ],
+    "exclude": [
+      [
+        890,
+        1100,
+        1340,
+        1440
+      ],
+      [
+        1880,
+        1330,
+        2030,
+        1450
+      ]
+    ],
+    "primary_eligible": false,
+    "note": "Plant leaves/stems are drawing. Left/right lower writing fields have differing baselines; continuation and a single complete physical row are unknown, so excluded from primary endpoints.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_044_R01_L005",
+    "kind": "whole_row",
+    "view_id": "V_044",
+    "line_id": "V_044_R01_L005",
+    "split": "test",
+    "folio_component": "22",
+    "bbox_xyxy": [
+      312,
+      746,
+      2033,
+      898
+    ],
+    "body_height_proxy_px": 39.39999999999999,
+    "groups": 5,
+    "priority_score": 3.0119058606368254,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.0,
+    "gap_count_range": [
+      11,
+      5,
+      3
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006116.jpg",
+    "seed_y": 886,
+    "body": 29,
+    "x_extent": [
+      312,
+      890
+    ],
+    "other_rows": [
+      729,
+      811
+    ],
+    "exclude": [
+      [
+        1460,
+        720,
+        1730,
+        980
+      ]
+    ],
+    "note": "Candidate combines long upper body and short lower final row. Lower final row ends around x890; blue disk belongs to drawing beside upper row and is excluded.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_004_R01_L019",
+    "kind": "whole_row",
+    "view_id": "V_004",
+    "line_id": "V_004_R01_L019",
+    "split": "calibration",
+    "folio_component": "1",
+    "bbox_xyxy": [
+      333,
+      2188,
+      2570,
+      2294
+    ],
+    "body_height_proxy_px": 27.0,
+    "groups": 17,
+    "priority_score": 3.343432426734135,
+    "uncertain_unit_fraction": 0.5882352941176471,
+    "multiline_contact_fraction": 0.41935483870967744,
+    "gap_count_range": [
+      20,
+      17,
+      15
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006076.jpg",
+    "seed_y": 2276,
+    "body": 28,
+    "x_extent": [
+      570,
+      2610
+    ],
+    "other_rows": [
+      2179,
+      2335
+    ],
+    "exclude": [
+      [
+        0,
+        2100,
+        390,
+        2380
+      ]
+    ],
+    "primary_eligible": false,
+    "note": "Very faint lower row, with dark writing clearer on left and uncertain right extent/ghost traces. Margin pits are nonwriting. Writing is retained, but complete membership and right endpoint are unknown.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_070_R02_L007",
+    "kind": "whole_row",
+    "view_id": "V_070",
+    "line_id": "V_070_R02_L007",
+    "split": "train",
+    "folio_component": "35",
+    "bbox_xyxy": [
+      478,
+      2627,
+      2103,
+      2767
+    ],
+    "body_height_proxy_px": 31.19999999999999,
+    "groups": 10,
+    "priority_score": 3.6176178660049625,
+    "uncertain_unit_fraction": 0.7,
+    "multiline_contact_fraction": 0.3870967741935484,
+    "gap_count_range": [
+      13,
+      10,
+      8
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006142.jpg",
+    "seed_y": 2740,
+    "body": 27,
+    "x_extent": [
+      478,
+      1375
+    ],
+    "other_rows": [
+      2599,
+      2662
+    ],
+    "exclude": [
+      [
+        1710,
+        2500,
+        1780,
+        2830
+      ]
+    ],
+    "note": "Short final lower row is distinct from long preceding row. Faint writing on colored substrate remains visible; red vertical plant stem lies outside final row.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_071_R01_L002",
+    "kind": "whole_row",
+    "view_id": "V_071",
+    "line_id": "V_071_R01_L002",
+    "split": "train",
+    "folio_component": "35",
+    "bbox_xyxy": [
+      899,
+      544,
+      1695,
+      661
+    ],
+    "body_height_proxy_px": 32.0,
+    "groups": 2,
+    "priority_score": 3.096875,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.0,
+    "gap_count_range": [
+      5,
+      2,
+      1
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006143.jpg",
+    "seed_y": 651,
+    "seed_slope": 0.015,
+    "body": 27,
+    "x_extent": [
+      835,
+      1640
+    ],
+    "other_rows": [
+      735
+    ],
+    "exclude": [
+      [
+        1640,
+        480,
+        2790,
+        730
+      ]
+    ],
+    "note": "Clear writing row before large green leaf. Old boundary extends into leaf edge; leaf outline/color excluded. High paired construction belongs to body row below it.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_075_R01_L005",
+    "kind": "whole_row",
+    "view_id": "V_075",
+    "line_id": "V_075_R01_L005",
+    "split": "train",
+    "folio_component": "37",
+    "bbox_xyxy": [
+      854,
+      850,
+      1874,
+      997
+    ],
+    "body_height_proxy_px": 41.0,
+    "groups": 4,
+    "priority_score": 2.975609756097561,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.125,
+    "gap_count_range": [
+      6,
+      4,
+      3
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006147.jpg",
+    "seed_y": 974,
+    "body": 29,
+    "x_extent": [
+      854,
+      1640
+    ],
+    "other_rows": [
+      808,
+      885,
+      1057
+    ],
+    "exclude": [
+      [
+        1640,
+        760,
+        2660,
+        1085
+      ]
+    ],
+    "note": "Candidate spans upper and lower writing bodies plus green leaf. Lower target ends before leaf; stacked tall forms from neighboring rows can touch and stay unknown if ownership is shared.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_073_R02_L009",
+    "kind": "whole_row",
+    "view_id": "V_073",
+    "line_id": "V_073_R02_L009",
+    "split": "train",
+    "folio_component": "36",
+    "bbox_xyxy": [
+      1709,
+      1545,
+      2308,
+      1658
+    ],
+    "body_height_proxy_px": 40.0,
+    "groups": 2,
+    "priority_score": 2.914166666666667,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.0,
+    "gap_count_range": [
+      6,
+      2,
+      1
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006145.jpg",
+    "seed_y": 1623,
+    "body": 29,
+    "x_extent": [
+      1910,
+      2310
+    ],
+    "other_rows": [
+      1532
+    ],
+    "exclude": [
+      [
+        1200,
+        1460,
+        1920,
+        1750
+      ]
+    ],
+    "note": "Lower right short row contains writing; plant leaves occupy left old group. Physical body row ends before right blank parchment.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_060_R01_L002",
+    "kind": "whole_row",
+    "view_id": "V_060",
+    "line_id": "V_060_R01_L002",
+    "split": "train",
+    "folio_component": "30",
+    "bbox_xyxy": [
+      390,
+      588,
+      2091,
+      722
+    ],
+    "body_height_proxy_px": 34.0,
+    "groups": 11,
+    "priority_score": 2.867716226539756,
+    "uncertain_unit_fraction": 0.8181818181818182,
+    "multiline_contact_fraction": 0.08108108108108109,
+    "gap_count_range": [
+      14,
+      11,
+      6
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006132.jpg",
+    "seed_y": 691,
+    "seed_slope": 0.025,
+    "body": 29,
+    "x_extent": [
+      390,
+      2095
+    ],
+    "other_rows": [
+      572,
+      755
+    ],
+    "exclude": [],
+    "note": "Target middle row slopes down to right and is writing, not plant. Candidate includes tops from lower row. Pale small detached traces above body are retained as membership-unknown unless visibly continuous.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_086_R01_L008",
+    "kind": "whole_row",
+    "view_id": "V_086",
+    "line_id": "V_086_R01_L008",
+    "split": "train",
+    "folio_component": "43",
+    "bbox_xyxy": [
+      351,
+      766,
+      2503,
+      934
+    ],
+    "body_height_proxy_px": 36.0,
+    "groups": 11,
+    "priority_score": 2.827150208282284,
+    "uncertain_unit_fraction": 0.9090909090909091,
+    "multiline_contact_fraction": 0.1509433962264151,
+    "gap_count_range": [
+      14,
+      11,
+      9
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006158.jpg",
+    "seed_y": 908,
+    "seed_slope": -0.015,
+    "body": 28,
+    "x_extent": [
+      350,
+      2320
+    ],
+    "other_rows": [
+      752,
+      831,
+      982
+    ],
+    "exclude": [],
+    "note": "Two dense body rows are merged. Target lower row has a long descending return from preceding row crossing toward it; contact ownership unknown. Red isolated stain is nonwriting.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_057_R01_L003",
+    "kind": "whole_row",
+    "view_id": "V_057",
+    "line_id": "V_057_R01_L003",
+    "split": "validation",
+    "folio_component": "28",
+    "bbox_xyxy": [
+      914,
+      604,
+      2619,
+      726
+    ],
+    "body_height_proxy_px": 31.400000000000006,
+    "groups": 10,
+    "priority_score": 3.319451249387555,
+    "uncertain_unit_fraction": 0.6,
+    "multiline_contact_fraction": 0.4230769230769231,
+    "gap_count_range": [
+      13,
+      10,
+      10
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006129.jpg",
+    "seed_y": 723,
+    "body": 27,
+    "x_extent": [
+      914,
+      1495
+    ],
+    "other_rows": [
+      577,
+      647,
+      797
+    ],
+    "exclude": [],
+    "note": "Short lower final row distinct from long upper row. Low horizontal connected traces are writing; upper-row groups to the right are not in this row.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_085_R01_L001",
+    "kind": "whole_row",
+    "view_id": "V_085",
+    "line_id": "V_085_R01_L001",
+    "split": "validation",
+    "folio_component": "42",
+    "bbox_xyxy": [
+      915,
+      565,
+      2602,
+      715
+    ],
+    "body_height_proxy_px": 34.0,
+    "groups": 7,
+    "priority_score": 2.687912087912088,
+    "uncertain_unit_fraction": 0.8571428571428571,
+    "multiline_contact_fraction": 0.0,
+    "gap_count_range": [
+      13,
+      7,
+      5
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006157.jpg",
+    "seed_y": 715,
+    "body": 29,
+    "x_extent": [
+      937,
+      2605
+    ],
+    "other_rows": [
+      552,
+      788
+    ],
+    "exclude": [
+      [
+        1930,
+        497,
+        2150,
+        785
+      ]
+    ],
+    "note": "Long target writing row lies around a pale plant stem. Narrow straight line at left is drawing or substrate trace, not a reusable writing assembly; connected tall structures remain writing.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_104_R01_L003",
+    "kind": "whole_row",
+    "view_id": "V_104",
+    "line_id": "V_104_R01_L003",
+    "split": "test",
+    "folio_component": "52",
+    "bbox_xyxy": [
+      360,
+      514,
+      2109,
+      684
+    ],
+    "body_height_proxy_px": 39.0,
+    "groups": 4,
+    "priority_score": 3.1,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.0,
+    "gap_count_range": [
+      8,
+      4,
+      2
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006176.jpg",
+    "seed_y": 674,
+    "body": 29,
+    "x_extent": [
+      360,
+      2115
+    ],
+    "other_rows": [
+      490,
+      578,
+      751
+    ],
+    "exclude": [
+      [
+        1620,
+        500,
+        1895,
+        780
+      ]
+    ],
+    "note": "Candidate merges two body rows and blue flowering/seed-pod drawing. Lower writing fields remain on either side; pod outlines excluded, uncertain contacts at plant edge retained.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_095_R02_L007",
+    "kind": "whole_row",
+    "view_id": "V_095",
+    "line_id": "V_095_R02_L007",
+    "split": "test",
+    "folio_component": "47",
+    "bbox_xyxy": [
+      706,
+      2886,
+      2213,
+      3038
+    ],
+    "body_height_proxy_px": 33.39999999999999,
+    "groups": 10,
+    "priority_score": 3.0692307692307694,
+    "uncertain_unit_fraction": 0.7,
+    "multiline_contact_fraction": 0.25,
+    "gap_count_range": [
+      13,
+      10,
+      8
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006167.jpg",
+    "seed_y": 3022,
+    "seed_slope": -0.018,
+    "body": 28,
+    "x_extent": [
+      760,
+      1725
+    ],
+    "other_rows": [
+      2862,
+      2944
+    ],
+    "exclude": [
+      [
+        1760,
+        2800,
+        2030,
+        3150
+      ]
+    ],
+    "note": "Candidate merges short final lower-left writing row, upper-right writing and green/red plant. Target final lower-left row ends before plant; upper-right text is a different physical body row.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_103_R02_L006",
+    "kind": "whole_row",
+    "view_id": "V_103",
+    "line_id": "V_103_R02_L006",
+    "split": "test",
+    "folio_component": "51",
+    "bbox_xyxy": [
+      2217,
+      812,
+      2685,
+      948
+    ],
+    "body_height_proxy_px": 43.0,
+    "groups": 2,
+    "priority_score": 2.964221824686941,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.15384615384615385,
+    "gap_count_range": [
+      2,
+      2,
+      1
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006175.jpg",
+    "seed_y": 933,
+    "seed_slope": -0.007,
+    "body": 28,
+    "x_extent": [
+      935,
+      2705
+    ],
+    "other_rows": [
+      786,
+      856,
+      1007
+    ],
+    "exclude": [
+      [
+        1940,
+        720,
+        2220,
+        1050
+      ]
+    ],
+    "note": "Lower left and right writing fields share a body level around branching plant. Old candidate retains only right and mixes upper row. Blue disks/thin stems excluded; physical continuation is not logical reading.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_082_R01_L002",
+    "kind": "whole_row",
+    "view_id": "V_082",
+    "line_id": "V_082_R01_L002",
+    "split": "calibration",
+    "folio_component": "41",
+    "bbox_xyxy": [
+      365,
+      300,
+      2300,
+      455
+    ],
+    "body_height_proxy_px": 31.0,
+    "groups": 13,
+    "priority_score": 2.774042174042174,
+    "uncertain_unit_fraction": 0.9230769230769231,
+    "multiline_contact_fraction": 0.02702702702702703,
+    "gap_count_range": [
+      21,
+      13,
+      9
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006154.jpg",
+    "seed_y": 425,
+    "body": 27,
+    "x_extent": [
+      355,
+      2310
+    ],
+    "other_rows": [
+      333,
+      485
+    ],
+    "exclude": [],
+    "uncertain_zones": [
+      [
+        1050,
+        270,
+        1480,
+        530
+      ],
+      [
+        1520,
+        310,
+        1605,
+        485
+      ]
+    ],
+    "primary_eligible": false,
+    "note": "Writing bodies are distinct, but severe smear/overwriting and faint traces in middle prevent complete membership and boundary decisions. Dark diagonal material is not safely assignable as drawing or writing.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_144_R01_L040",
+    "kind": "whole_row",
+    "view_id": "V_144",
+    "line_id": "V_144_R01_L040",
+    "split": "train",
+    "folio_component": "79",
+    "bbox_xyxy": [
+      258,
+      2927,
+      1957,
+      3049
+    ],
+    "body_height_proxy_px": 38.0,
+    "groups": 11,
+    "priority_score": 3.4713830029619506,
+    "uncertain_unit_fraction": 0.8181818181818182,
+    "multiline_contact_fraction": 0.3939393939393939,
+    "gap_count_range": [
+      14,
+      11,
+      9
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006216.jpg",
+    "seed_y": 3028,
+    "body": 27,
+    "x_extent": [
+      475,
+      1965
+    ],
+    "other_rows": [
+      2899,
+      2958,
+      3086
+    ],
+    "exclude": [
+      [
+        0,
+        2800,
+        465,
+        3150
+      ]
+    ],
+    "note": "Human head/green bath outline on left is drawing. Lower target row starts to its right and is distinct from upper and short final rows; long descenders may share raster contact.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_142_R02_L023",
+    "kind": "whole_row",
+    "view_id": "V_142",
+    "line_id": "V_142_R02_L023",
+    "split": "train",
+    "folio_component": "78",
+    "bbox_xyxy": [
+      371,
+      2752,
+      1465,
+      2919
+    ],
+    "body_height_proxy_px": 40.0,
+    "groups": 4,
+    "priority_score": 3.3922077922077922,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.09090909090909091,
+    "gap_count_range": [
+      7,
+      4,
+      2
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006214.jpg",
+    "seed_y": 2882,
+    "body": 29,
+    "x_extent": [
+      371,
+      1285
+    ],
+    "other_rows": [
+      2710,
+      2804,
+      2960,
+      3032
+    ],
+    "exclude": [
+      [
+        1285,
+        2640,
+        2350,
+        3070
+      ]
+    ],
+    "note": "Bathing figures/green vessel are drawing. Target middle writing row ends before figure. Old candidate combines successive body rows and drawing shoulder.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_138_R01_L025",
+    "kind": "whole_row",
+    "view_id": "V_138",
+    "line_id": "V_138_R01_L025",
+    "split": "train",
+    "folio_component": "76",
+    "bbox_xyxy": [
+      393,
+      1505,
+      2323,
+      1681
+    ],
+    "body_height_proxy_px": 41.0,
+    "groups": 9,
+    "priority_score": 3.197979797979798,
+    "uncertain_unit_fraction": 0.8888888888888888,
+    "multiline_contact_fraction": 0.2,
+    "gap_count_range": [
+      11,
+      9,
+      6
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006210.jpg",
+    "seed_y": 1650,
+    "seed_slope": -0.003,
+    "body": 26,
+    "x_extent": [
+      355,
+      2330
+    ],
+    "other_rows": [
+      1486,
+      1538,
+      1594,
+      1705,
+      1769
+    ],
+    "exclude": [
+      [
+        0,
+        1490,
+        330,
+        1630
+      ]
+    ],
+    "note": "Dense writing, with several distinct body rows inside old one. Connected vertical descenders touch subsequent tall/frame structures. Shared contact components remain unknown rather than split by skeleton necks.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_149_R01_L014",
+    "kind": "whole_row",
+    "view_id": "V_149",
+    "line_id": "V_149_R01_L014",
+    "split": "train",
+    "folio_component": "81",
+    "bbox_xyxy": [
+      966,
+      1287,
+      2468,
+      1443
+    ],
+    "body_height_proxy_px": 40.0,
+    "groups": 9,
+    "priority_score": 3.1699999999999995,
+    "uncertain_unit_fraction": 0.6666666666666666,
+    "multiline_contact_fraction": 0.3333333333333333,
+    "gap_count_range": [
+      10,
+      9,
+      7
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006221.jpg",
+    "seed_y": 1409,
+    "seed_slope": -0.006,
+    "body": 28,
+    "x_extent": [
+      965,
+      2490
+    ],
+    "other_rows": [
+      1239,
+      1300,
+      1358,
+      1469,
+      1530
+    ],
+    "exclude": [],
+    "note": "Several dense writing rows are merged; target lower body distinct. Long descending returns and high inserted/tall frame-like structures frequently touch neighboring rows; ambiguous connected ownership stays unknown.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_146_R01_L006",
+    "kind": "whole_row",
+    "view_id": "V_146",
+    "line_id": "V_146_R01_L006",
+    "split": "train",
+    "folio_component": "80",
+    "bbox_xyxy": [
+      271,
+      804,
+      2158,
+      983
+    ],
+    "body_height_proxy_px": 36.0,
+    "groups": 6,
+    "priority_score": 3.1555555555555554,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.1111111111111111,
+    "gap_count_range": [
+      9,
+      6,
+      4
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006218.jpg",
+    "seed_y": 960,
+    "seed_slope": -0.005,
+    "body": 27,
+    "x_extent": [
+      270,
+      2180
+    ],
+    "other_rows": [
+      785,
+      845,
+      906,
+      1019,
+      1076
+    ],
+    "exclude": [],
+    "note": "Several dense writing bodies within old candidate. Target lower body is distinct; long hooked uprights and descending curves cause multirow connected components, retained with unknown owners.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_143_R01_L010",
+    "kind": "whole_row",
+    "view_id": "V_143",
+    "line_id": "V_143_R01_L010",
+    "split": "train",
+    "folio_component": "78",
+    "bbox_xyxy": [
+      1029,
+      1120,
+      2594,
+      1286
+    ],
+    "body_height_proxy_px": 40.0,
+    "groups": 8,
+    "priority_score": 3.138793103448276,
+    "uncertain_unit_fraction": 0.625,
+    "multiline_contact_fraction": 0.10344827586206896,
+    "gap_count_range": [
+      8,
+      8,
+      2
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006215.jpg",
+    "seed_y": 1248,
+    "seed_slope": -0.006,
+    "body": 28,
+    "x_extent": [
+      1025,
+      2605
+    ],
+    "other_rows": [
+      1082,
+      1140,
+      1200,
+      1310,
+      1370
+    ],
+    "exclude": [],
+    "note": "Dense writing panel at right; candidate mixes several adjacent body rows. Target lower body selected by source y and tall forms recovered whole only with unambiguous body ownership.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_156_R01_L006",
+    "kind": "whole_row",
+    "view_id": "V_156",
+    "line_id": "V_156_R01_L006",
+    "split": "validation",
+    "folio_component": "85",
+    "bbox_xyxy": [
+      333,
+      1314,
+      2166,
+      1440
+    ],
+    "body_height_proxy_px": 30.0,
+    "groups": 12,
+    "priority_score": 2.2904761904761903,
+    "uncertain_unit_fraction": 0.8333333333333334,
+    "multiline_contact_fraction": 0.0,
+    "gap_count_range": [
+      14,
+      12,
+      8
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006228.jpg",
+    "seed_y": 1431,
+    "seed_slope": 0.006,
+    "body": 27,
+    "x_extent": [
+      330,
+      2180
+    ],
+    "other_rows": [
+      1289,
+      1366,
+      1481
+    ],
+    "exclude": [],
+    "note": "Three writing body rows visible; lower target row retains high paired structures. Tiny detached marks between rows have uncertain ownership; old row combined upper and lower bodies.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_140_R01_L008",
+    "kind": "whole_row",
+    "view_id": "V_140",
+    "line_id": "V_140_R01_L008",
+    "split": "test",
+    "folio_component": "77",
+    "bbox_xyxy": [
+      199,
+      900,
+      2288,
+      1067
+    ],
+    "body_height_proxy_px": 39.0,
+    "groups": 11,
+    "priority_score": 3.5298809298809304,
+    "uncertain_unit_fraction": 0.9090909090909091,
+    "multiline_contact_fraction": 0.35135135135135137,
+    "gap_count_range": [
+      13,
+      11,
+      9
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006212.jpg",
+    "seed_y": 1019,
+    "seed_slope": -0.008,
+    "body": 28,
+    "x_extent": [
+      420,
+      2160
+    ],
+    "other_rows": [
+      849,
+      902,
+      957,
+      1080,
+      1135
+    ],
+    "exclude": [
+      [
+        0,
+        800,
+        405,
+        1170
+      ],
+      [
+        2160,
+        800,
+        2440,
+        1170
+      ]
+    ],
+    "note": "Blue vessel/water outline left and thin drainage lines right are drawing. Target dense writing row lies between these fields; row-crossing descenders stay ambiguous.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_154_R01_L004",
+    "kind": "whole_row",
+    "view_id": "V_154",
+    "line_id": "V_154_R01_L004",
+    "split": "test",
+    "folio_component": "84",
+    "bbox_xyxy": [
+      303,
+      976,
+      2325,
+      1120
+    ],
+    "body_height_proxy_px": 40.0,
+    "groups": 8,
+    "priority_score": 3.4005426356589146,
+    "uncertain_unit_fraction": 0.75,
+    "multiline_contact_fraction": 0.20930232558139536,
+    "gap_count_range": [
+      12,
+      8,
+      4
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006226.jpg",
+    "seed_y": 1106,
+    "seed_slope": -0.004,
+    "body": 27,
+    "x_extent": [
+      265,
+      2335
+    ],
+    "other_rows": [
+      925,
+      987,
+      1050,
+      1170,
+      1232
+    ],
+    "exclude": [],
+    "note": "Dense writing body rows are distinct; old bbox clips true left start and mixes tall constructions from several rows. Source full-width review recovers left writing extent.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_110_R01_L005",
+    "kind": "whole_row",
+    "view_id": "V_110",
+    "line_id": "V_110_R01_L005",
+    "split": "test",
+    "folio_component": "55",
+    "bbox_xyxy": [
+      352,
+      648,
+      2211,
+      798
+    ],
+    "body_height_proxy_px": 36.0,
+    "groups": 10,
+    "priority_score": 3.0454545454545454,
+    "uncertain_unit_fraction": 0.4,
+    "multiline_contact_fraction": 0.375,
+    "gap_count_range": [
+      11,
+      10,
+      8
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006182.jpg",
+    "seed_y": 774,
+    "seed_slope": 0.008,
+    "body": 28,
+    "x_extent": [
+      310,
+      1995
+    ],
+    "other_rows": [
+      629,
+      699,
+      842
+    ],
+    "exclude": [
+      [
+        0,
+        570,
+        260,
+        900
+      ]
+    ],
+    "note": "Body rows distinct; target middle-lower writing ends before old right bbox. Left vessel/figure outline is drawing. Green substrate stain near left glyphs is not a separable written sign.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_117_R01_L030",
+    "kind": "whole_row",
+    "view_id": "V_117",
+    "line_id": "V_117_R01_L030",
+    "split": "calibration",
+    "folio_component": "58",
+    "bbox_xyxy": [
+      945,
+      2259,
+      2608,
+      2438
+    ],
+    "body_height_proxy_px": 41.0,
+    "groups": 6,
+    "priority_score": 3.3373737373737375,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.21212121212121213,
+    "gap_count_range": [
+      9,
+      6,
+      5
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006189.jpg",
+    "seed_y": 2383,
+    "seed_slope": -0.018,
+    "body": 28,
+    "x_extent": [
+      945,
+      2650
+    ],
+    "other_rows": [
+      2198,
+      2270,
+      2328,
+      2440,
+      2530
+    ],
+    "exclude": [],
+    "note": "Pale dense writing, several body rows inside candidate. Target lower row has paired tall traces; vertically stacked assemblies sometimes touch and remain unassigned to a single row.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_187_R01_L028",
+    "kind": "whole_row",
+    "view_id": "V_187",
+    "line_id": "V_187_R01_L028",
+    "split": "train",
+    "folio_component": "104",
+    "bbox_xyxy": [
+      388,
+      1971,
+      2689,
+      2126
+    ],
+    "body_height_proxy_px": 38.0,
+    "groups": 8,
+    "priority_score": 3.475,
+    "uncertain_unit_fraction": 0.875,
+    "multiline_contact_fraction": 0.25,
+    "gap_count_range": [
+      12,
+      8,
+      6
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006257.jpg",
+    "seed_y": 2102,
+    "seed_slope": -0.005,
+    "body": 28,
+    "x_extent": [
+      540,
+      2495
+    ],
+    "other_rows": [
+      1930,
+      1985,
+      2048,
+      2160,
+      2220
+    ],
+    "exclude": [
+      [
+        0,
+        1870,
+        530,
+        2240
+      ],
+      [
+        2580,
+        1870,
+        2744,
+        2240
+      ]
+    ],
+    "note": "Red-centered margin stars and their connecting marginal curves are decoration. Main lower writing body remains distinct from upper row; ornament is not a group or writing-unit instance.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_196_R01_L022",
+    "kind": "whole_row",
+    "view_id": "V_196",
+    "line_id": "V_196_R01_L022",
+    "split": "train",
+    "folio_component": "111",
+    "bbox_xyxy": [
+      335,
+      1230,
+      2206,
+      1361
+    ],
+    "body_height_proxy_px": 37.0,
+    "groups": 7,
+    "priority_score": 3.443114543114543,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.09523809523809523,
+    "gap_count_range": [
+      10,
+      7,
+      2
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006266.jpg",
+    "seed_y": 1342,
+    "seed_slope": -0.01,
+    "body": 27,
+    "x_extent": [
+      335,
+      2250
+    ],
+    "other_rows": [
+      1208,
+      1274,
+      1390,
+      1450
+    ],
+    "exclude": [
+      [
+        0,
+        1150,
+        315,
+        1470
+      ]
+    ],
+    "note": "Two dense writing bodies merged; margin stars/curves excluded. Target lower body extends slightly beyond old right bbox; high constructions with shared upper contacts remain unknown.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_169_R01_L002",
+    "kind": "whole_row",
+    "view_id": "V_169",
+    "line_id": "V_169_R01_L002",
+    "split": "train",
+    "folio_component": "93",
+    "bbox_xyxy": [
+      801,
+      271,
+      2627,
+      456
+    ],
+    "body_height_proxy_px": 39.0,
+    "groups": 5,
+    "priority_score": 3.4181818181818184,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.0,
+    "gap_count_range": [
+      11,
+      5,
+      1
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006239.jpg",
+    "seed_y": 425,
+    "body": 28,
+    "x_extent": [
+      800,
+      2635
+    ],
+    "other_rows": [
+      359,
+      491
+    ],
+    "exclude": [
+      [
+        1780,
+        190,
+        1955,
+        600
+      ],
+      [
+        2030,
+        190,
+        2140,
+        600
+      ],
+      [
+        2260,
+        190,
+        2470,
+        600
+      ]
+    ],
+    "note": "Red berries and connecting stems are drawing. Lower target writing remains in several separated fields. Where drawing touches a written trace, the boundary/membership stays unknown instead of reconstructing through the berry.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_195_R01_L029",
+    "kind": "whole_row",
+    "view_id": "V_195",
+    "line_id": "V_195_R01_L029",
+    "split": "train",
+    "folio_component": "108",
+    "bbox_xyxy": [
+      659,
+      1991,
+      2371,
+      2142
+    ],
+    "body_height_proxy_px": 39.0,
+    "groups": 7,
+    "priority_score": 3.2131901131901133,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.13513513513513514,
+    "gap_count_range": [
+      9,
+      7,
+      4
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006265.jpg",
+    "seed_y": 2095,
+    "seed_slope": -0.006,
+    "body": 27,
+    "x_extent": [
+      665,
+      2460
+    ],
+    "other_rows": [
+      1959,
+      2026,
+      2152,
+      2210
+    ],
+    "exclude": [
+      [
+        0,
+        1900,
+        645,
+        2250
+      ],
+      [
+        2580,
+        1900,
+        2649,
+        2250
+      ]
+    ],
+    "note": "Dense writing with margin stars. Several body rows mixed in candidate; target lower body includes tall paired assemblies and detached small marks with unresolved owner.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_193_R01_L013",
+    "kind": "whole_row",
+    "view_id": "V_193",
+    "line_id": "V_193_R01_L013",
+    "split": "train",
+    "folio_component": "107",
+    "bbox_xyxy": [
+      386,
+      1860,
+      2538,
+      2099
+    ],
+    "body_height_proxy_px": 39.200000000000045,
+    "groups": 6,
+    "priority_score": 3.2,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.0,
+    "gap_count_range": [
+      10,
+      6,
+      2
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006263.jpg",
+    "seed_y": 2003,
+    "seed_slope": 0.012,
+    "body": 29,
+    "x_extent": [
+      535,
+      2400
+    ],
+    "other_rows": [
+      1845,
+      1920,
+      2080,
+      2150
+    ],
+    "exclude": [
+      [
+        0,
+        1770,
+        515,
+        2180
+      ],
+      [
+        2570,
+        1770,
+        2689,
+        2180
+      ]
+    ],
+    "uncertain_zones": [
+      [
+        600,
+        1950,
+        740,
+        2070
+      ]
+    ],
+    "note": "Three writing bodies mixed. Margin stars are decoration; round translucent substrate feature obscures part of lower writing. Its circular edge is not a reusable written unit.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_168_R01_L014",
+    "kind": "whole_row",
+    "view_id": "V_168",
+    "line_id": "V_168_R01_L014",
+    "split": "train",
+    "folio_component": "93",
+    "bbox_xyxy": [
+      389,
+      1300,
+      1066,
+      1437
+    ],
+    "body_height_proxy_px": 34.0,
+    "groups": 3,
+    "priority_score": 3.1,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.0,
+    "gap_count_range": [
+      4,
+      3,
+      1
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006238.jpg",
+    "seed_y": 1421,
+    "body": 28,
+    "x_extent": [
+      389,
+      1068
+    ],
+    "other_rows": [
+      1340,
+      1494
+    ],
+    "exclude": [
+      [
+        1080,
+        1210,
+        2550,
+        1530
+      ]
+    ],
+    "uncertain_zones": [
+      [
+        685,
+        1300,
+        1080,
+        1450
+      ]
+    ],
+    "note": "Short writing row overlaps pale painted leaf, with large green leaf to right. Clear low writing remains; leaf edges excluded as drawing, overlapping faint ink stays unknown.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_157_R01_L034",
+    "kind": "whole_row",
+    "view_id": "V_157",
+    "line_id": "V_157_R01_L034",
+    "split": "validation",
+    "folio_component": "85",
+    "bbox_xyxy": [
+      5583,
+      2615,
+      7287,
+      2762
+    ],
+    "body_height_proxy_px": 38.0,
+    "groups": 8,
+    "priority_score": 3.521637426900585,
+    "uncertain_unit_fraction": 0.75,
+    "multiline_contact_fraction": 0.275,
+    "gap_count_range": [
+      9,
+      8,
+      4
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006229.jpg",
+    "seed_y": 2733,
+    "body": 27,
+    "x_extent": [
+      5555,
+      7335
+    ],
+    "other_rows": [
+      2560,
+      2638,
+      2798,
+      2860
+    ],
+    "exclude": [
+      [
+        0,
+        2500,
+        5400,
+        2880
+      ]
+    ],
+    "note": "Right-hand rectangular writing field in a very wide foldout is distinct from circular fields to left. Candidate merges successive body rows; native crop preserves small high connected structures. Physical crease/panel identity remains separately adjudicated.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_191_R01_L005",
+    "kind": "whole_row",
+    "view_id": "V_191",
+    "line_id": "V_191_R01_L005",
+    "split": "validation",
+    "folio_component": "106",
+    "bbox_xyxy": [
+      361,
+      713,
+      2456,
+      899
+    ],
+    "body_height_proxy_px": 40.0,
+    "groups": 8,
+    "priority_score": 2.933333333333333,
+    "uncertain_unit_fraction": 1.0,
+    "multiline_contact_fraction": 0.0,
+    "gap_count_range": [
+      9,
+      8,
+      3
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006261.jpg",
+    "seed_y": 835,
+    "body": 28,
+    "x_extent": [
+      520,
+      1900
+    ],
+    "other_rows": [
+      687,
+      761,
+      912,
+      976
+    ],
+    "exclude": [
+      [
+        0,
+        630,
+        500,
+        990
+      ],
+      [
+        2580,
+        630,
+        2670,
+        990
+      ]
+    ],
+    "note": "Margin star/curve is decoration. Candidate mixes paragraph bodies; middle target is a shorter writing row before following full row. Right endpoint requires recomposed source review before pixel normalization.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_189_R01_L020",
+    "kind": "whole_row",
+    "view_id": "V_189",
+    "line_id": "V_189_R01_L020",
+    "split": "test",
+    "folio_component": "105",
+    "bbox_xyxy": [
+      437,
+      1968,
+      2416,
+      2082
+    ],
+    "body_height_proxy_px": 39.0,
+    "groups": 7,
+    "priority_score": 4.201735106998266,
+    "uncertain_unit_fraction": 0.7142857142857143,
+    "multiline_contact_fraction": 0.5526315789473685,
+    "gap_count_range": [
+      12,
+      7,
+      6
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006259.jpg",
+    "seed_y": 2068,
+    "body": 28,
+    "x_extent": [
+      437,
+      2440
+    ],
+    "other_rows": [
+      1928,
+      1996,
+      2143,
+      2208
+    ],
+    "exclude": [
+      [
+        0,
+        1880,
+        415,
+        2240
+      ]
+    ],
+    "note": "Target lower full writing row distinct from upper and following short paragraph row. Red margin star and curve excluded. Tall/descender contacts among adjacent rows remain unknown.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_202_R01_L019",
+    "kind": "whole_row",
+    "view_id": "V_202",
+    "line_id": "V_202_R01_L019",
+    "split": "test",
+    "folio_component": "114",
+    "bbox_xyxy": [
+      246,
+      1446,
+      2230,
+      1596
+    ],
+    "body_height_proxy_px": 35.0,
+    "groups": 12,
+    "priority_score": 3.397619047619048,
+    "uncertain_unit_fraction": 0.5833333333333334,
+    "multiline_contact_fraction": 0.42857142857142855,
+    "gap_count_range": [
+      12,
+      12,
+      9
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006272.jpg",
+    "seed_y": 1553,
+    "body": 29,
+    "x_extent": [
+      246,
+      2235
+    ],
+    "other_rows": [
+      1435,
+      1481,
+      1632,
+      1700
+    ],
+    "exclude": [
+      [
+        0,
+        1350,
+        230,
+        1720
+      ]
+    ],
+    "note": "Main long target writing row lies beneath short prior row and above next full row. Margin star and right substrate tear are nonwriting; high connected constructions remain writing.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_188_R01_L024",
+    "kind": "whole_row",
+    "view_id": "V_188",
+    "line_id": "V_188_R01_L024",
+    "split": "test",
+    "folio_component": "105",
+    "bbox_xyxy": [
+      388,
+      2457,
+      2434,
+      2692
+    ],
+    "body_height_proxy_px": 40.0,
+    "groups": 7,
+    "priority_score": 3.3365079365079366,
+    "uncertain_unit_fraction": 0.7142857142857143,
+    "multiline_contact_fraction": 0.05555555555555555,
+    "gap_count_range": [
+      10,
+      7,
+      1
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006258.jpg",
+    "seed_y": 2645,
+    "seed_slope": -0.01,
+    "body": 28,
+    "x_extent": [
+      388,
+      2440
+    ],
+    "other_rows": [
+      2413,
+      2481,
+      2560,
+      2720,
+      2790
+    ],
+    "exclude": [
+      [
+        0,
+        2350,
+        370,
+        2820
+      ]
+    ],
+    "note": "Three dense writing bodies combined; target lower body has unusually tall connected constructions. Margin star/curve excluded; vertically continuous shared components keep unknown ownership.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  },
+  {
+    "case_id": "ROW_V_185_R01_L012",
+    "kind": "whole_row",
+    "view_id": "V_185",
+    "line_id": "V_185_R01_L012",
+    "split": "calibration",
+    "folio_component": "103",
+    "bbox_xyxy": [
+      654,
+      1123,
+      2449,
+      1313
+    ],
+    "body_height_proxy_px": 41.0,
+    "groups": 6,
+    "priority_score": 3.045736434108527,
+    "uncertain_unit_fraction": 0.6666666666666666,
+    "multiline_contact_fraction": 0.06976744186046512,
+    "gap_count_range": [
+      8,
+      6,
+      2
+    ],
+    "questions": [
+      "writing_membership",
+      "row_ownership",
+      "visible_group_gaps",
+      "detached_marks"
+    ],
+    "status": "source_reviewed: row correction with explicit residual unknowns",
+    "native_source": "data/source/yale_native/1006255.jpg",
+    "seed_y": 1291,
+    "body": 28,
+    "x_extent": [
+      650,
+      2490
+    ],
+    "other_rows": [
+      1087,
+      1154,
+      1231,
+      1360,
+      1435
+    ],
+    "exclude": [
+      [
+        0,
+        1030,
+        635,
+        1470
+      ]
+    ],
+    "note": "Dense writing bodies and margin stars. Target lower body differs from upper bodies in old candidate; long descenders bridge rows and stay unknown rather than becoming compound unit IDs.",
+    "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+    "pen_lift": "unknown",
+    "logical_reading_direction": "unknown",
+    "reviewer": "Codex source image inspection",
+    "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "category": "robustness",
+  "files": [
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/ANALYSIS_SEAL.json",
+      "public_path": "data/robustness/trial2/ANALYSIS_SEAL.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/analysis_selections.json",
+      "public_path": "data/robustness/trial2/analysis_selections.json.gz",
+      "storage": "gzip"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/caption_bootstrap_draws.npz",
+      "public_path": "data/robustness/trial2/caption_bootstrap_draws.npz",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/ENVIRONMENT.json",
+      "public_path": "data/robustness/trial2/ENVIRONMENT.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/PLAN.json",
+      "public_path": "data/robustness/trial2/PLAN.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/PRIOR_POSTFREEZE_SNAPSHOT.json",
+      "public_path": "data/robustness/trial2/PRIOR_POSTFREEZE_SNAPSHOT.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/PROTOCOL_SEAL.json",
+      "public_path": "data/robustness/trial2/PROTOCOL_SEAL.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/repeat_display_mapping.json",
+      "public_path": "data/robustness/trial2/repeat_display_mapping.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/repeat_hidden_key.json",
+      "public_path": "data/robustness/trial2/repeat_hidden_key.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/REPEAT_POOL_SEAL.json",
+      "public_path": "data/robustness/trial2/REPEAT_POOL_SEAL.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/REPEAT_RATINGS_SEAL.json",
+      "public_path": "data/robustness/trial2/REPEAT_RATINGS_SEAL.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/repeat_source_ratings.json",
+      "public_path": "data/robustness/trial2/repeat_source_ratings.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/source_filter_audit.json",
+      "public_path": "data/robustness/trial2/source_filter_audit.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/SUBSET_SEAL.json",
+      "public_path": "data/robustness/trial2/SUBSET_SEAL.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/FREEZE_MANIFEST.json",
+      "public_path": "data/robustness/trial2/FREEZE_MANIFEST.json",
+      "storage": "file"
+    }
+  ],
+  "authoritative_transport_index": "../../manifests/FILE_INDEX.json"
+}

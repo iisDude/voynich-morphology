@@ -1,0 +1,17 @@
+{
+  "counts": {
+    "positive:same_structural_hypothesis": 33,
+    "hard_negative:same_structural_hypothesis": 27,
+    "positive:unknown": 7,
+    "hard_negative:different": 6,
+    "hard_negative:unknown": 7
+  },
+  "positive_agreement": 0.825,
+  "apparent_hard_negative_same_structure_fraction": 0.675,
+  "false_acceptance_among_source_judged_different_pairs": 0.0,
+  "definition": "Model-class-different nearest neighbors are proposed hard negatives, not ground truth. Same-structure judgment on a proposed negative measures false separation. Actual false acceptance uses source-judged different pairs. Unknowns are not positive agreement.",
+  "independent_raters": 1,
+  "limitation": "Single-agent source judgments, not independent inter-rater reproducibility. Native crops can include adjacent ink; uncertain parent ownership remains unknown.",
+  "freeze_allowed": false,
+  "freeze_failure": "Threshold assignment stability below registered minimum; pair audit may also expose over-specific partitions/false acceptance."
+}

@@ -1,0 +1,33 @@
+{
+  "sealed_at_utc": "2026-10-07T07:27:38.036044+00:00",
+  "files": [
+    {
+      "path": "data/observations/direct_morphology_trial1/native_candidate_masks.npz",
+      "sha256": "6c6fbd9271064e82bb706f411c3fe686ddb25d688f29e3031fe47c68503cf9c3"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial1/direct_image_fields.npz",
+      "sha256": "c377cded632717cd5c2526088c8bb8588bc1611093f7e5c548250bdf0394f21e"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial1/source_parent_ensembles.json",
+      "sha256": "902c5526417da8d369952e3c04c7b62dbb05dd68448c8cc4f8b2f9f34f73daf2"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial1/reused_source_pairs.json",
+      "sha256": "7788c7fbfd5eb3ab02637c8cef9fb5ab006cd7770a9da7da06e5897268d10ae1"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial1/reused_source_ratings.json",
+      "sha256": "bf2d3cc7ded8fbc0cb5130814b3299fc35b6f6b9baf3dbbe2bc6f0703bcd99f9"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial1/IMPLEMENTATION.json",
+      "sha256": "c54371988a85f412cd914af29bb593afeac1bff30984c63362d8dd07b0bcec61"
+    },
+    {
+      "path": "src/build_direct_morphology.py",
+      "sha256": "472ec3436beb76dce6ecafc6f91ba0dcc6f7c2ea1bc124db5f0ddf8e38b36e06"
+    }
+  ]
+}

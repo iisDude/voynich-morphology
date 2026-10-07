@@ -1,0 +1,938 @@
+{
+  "registered_at_utc": "2026-10-07T06:26:57.987887+00:00",
+  "trial": "Neutral Structural Feature Profiles Trial2",
+  "seed": 20261015,
+  "dependencies": {
+    "data/observations/visual_dataset_v3/FREEZE_MANIFEST.json": "4f593cc679e6395c164425bb9eca5ca3df01abda7dc0be5a4ad9a0a3ba6050fc",
+    "data/observations/visual_dataset_v4/FREEZE_MANIFEST.json": "07fa88ae01152f9ba18a187987e61d93989f2c23045f2ff6c7e332c7428d9955",
+    "data/observations/visual_dataset_v5/FREEZE_MANIFEST.json": "16f040e6e80f8a1fd47b796811935df4c5546021d4b41f79933ee18cd668fed8",
+    "data/observations/visual_dataset_v6/FREEZE_MANIFEST.json": "22b5a69c31ffdf907bf2c32e4ee8116252d9a5989ad59c76bd11a2ddb3848f0a",
+    "data/observations/neutral_feature_trial_v1/EVIDENCE_SEAL.json": "9f5d65c0d5d72e59bb0c6c57ec3332b6029393928d9ebfac830b2c1e4774bb64",
+    "data/observations/recurrence_v3_structural_candidate/sealed_class_model.pkl": "6f4653ba9abef085c67118bcbe7f4e4869f6f14ab318355a0c10c40d91147732"
+  },
+  "question": "Can partial source-qualified feature profiles describe most confirmed writing, including class-resistant forms, and predict heldout visual similarity?",
+  "methodology_changes": {
+    "basis": "Trial1 overall descriptor perturbation results and documented normalization/semantic limitations, not V3-class-stratified rates or downstream outcomes.",
+    "retained": "Aspect, density, centroid/spread,3x3 ink distribution, run and cavity measurements; original tolerances retained except dimensions.",
+    "secondary": "Skeleton endpoints/branches, component count and redundant thirds retained but neither required for usability nor used in similarity distances. Native dimensions recorded separately and excluded from cross-capture similarity.",
+    "normalization": "Full body±10% reference range log(1.1/0.9)=0.20067 plus permitted native log-dimension measurement span0.18 totals0.38067. Fixed0.40 normalized tolerance accommodates both; native log dimensions retain0.18 tolerance. No body-scale perturbation can alone force failure.",
+    "source_qualification": "Raw raster repeatability and source-visible feature evidence remain separate. Cavity descriptors enter source-qualified core profiles only with matching resolved source-visible count; upper/lower/centroid fields additionally require resolved compatible source placement. Counts disagreeing with source or unaudited remain source-unknown, never imputed."
+  },
+  "features": {
+    "log_height_body": {
+      "family": "geometry",
+      "range_tolerance": 0.4,
+      "definition": "log envelope height/body proxy; full image and±10% reference interval",
+      "core": true
+    },
+    "log_width_body": {
+      "family": "geometry",
+      "range_tolerance": 0.4,
+      "definition": "log envelope width/body proxy; full image and±10% reference interval",
+      "core": true
+    },
+    "log_aspect": {
+      "family": "geometry",
+      "range_tolerance": 0.18,
+      "definition": "log native width/height",
+      "core": true
+    },
+    "ink_density": {
+      "family": "geometry",
+      "range_tolerance": 0.1,
+      "definition": "ink pixel fraction of tight parent envelope",
+      "core": true
+    },
+    "ink_centroid_x": {
+      "family": "distribution",
+      "range_tolerance": 0.1,
+      "definition": "ink centroid relative to own envelope width",
+      "core": true
+    },
+    "ink_centroid_y": {
+      "family": "distribution",
+      "range_tolerance": 0.1,
+      "definition": "ink centroid relative to own envelope height",
+      "core": true
+    },
+    "ink_spread_x": {
+      "family": "distribution",
+      "range_tolerance": 0.08,
+      "definition": "ink x standard deviation/envelope width",
+      "core": true
+    },
+    "ink_spread_y": {
+      "family": "distribution",
+      "range_tolerance": 0.08,
+      "definition": "ink y standard deviation/envelope height",
+      "core": true
+    },
+    "raster_components": {
+      "family": "connectivity",
+      "range_tolerance": 0,
+      "definition": "eight-connected raster components, not pen lifts",
+      "core": false
+    },
+    "significant_cavity_count": {
+      "family": "cavity",
+      "range_tolerance": 0,
+      "definition": "enclosed background regions, area>=max(8px,1.2%ink)",
+      "core": true
+    },
+    "cavity_area_fraction": {
+      "family": "cavity",
+      "range_tolerance": 0.08,
+      "definition": "significant enclosed background area/envelope area",
+      "core": true
+    },
+    "cavity_centroid_x": {
+      "family": "cavity",
+      "range_tolerance": 0.1,
+      "definition": "area-weighted cavity centroid relative width; absent if no cavity",
+      "core": true
+    },
+    "cavity_centroid_y": {
+      "family": "cavity",
+      "range_tolerance": 0.1,
+      "definition": "area-weighted cavity centroid relative height; absent if no cavity",
+      "core": true
+    },
+    "cavity_upper_count": {
+      "family": "cavity",
+      "range_tolerance": 0,
+      "definition": "significant cavity centroids above parent mid-height",
+      "core": true
+    },
+    "cavity_lower_count": {
+      "family": "cavity",
+      "range_tolerance": 0,
+      "definition": "significant cavity centroids at/below parent mid-height",
+      "core": true
+    },
+    "skeleton_endpoint_count": {
+      "family": "graph",
+      "range_tolerance": 0,
+      "definition": "skeleton endpoint pixels; nuisance-sensitive, not stroke ends",
+      "core": false
+    },
+    "skeleton_branch_cluster_count": {
+      "family": "graph",
+      "range_tolerance": 0,
+      "definition": "connected clusters of skeleton pixels with>=3 neighbors",
+      "core": false
+    },
+    "horizontal_run_fraction": {
+      "family": "run",
+      "range_tolerance": 0.12,
+      "definition": "longest horizontal contiguous ink run/envelope width",
+      "core": true
+    },
+    "vertical_run_fraction": {
+      "family": "run",
+      "range_tolerance": 0.12,
+      "definition": "longest vertical contiguous ink run/envelope height",
+      "core": true
+    },
+    "ink_row_band_0": {
+      "family": "distribution",
+      "range_tolerance": 0.1,
+      "definition": "fraction of ink in vertical third0",
+      "core": false
+    },
+    "ink_col_band_0": {
+      "family": "distribution",
+      "range_tolerance": 0.1,
+      "definition": "fraction of ink in horizontal third0",
+      "core": false
+    },
+    "ink_row_band_1": {
+      "family": "distribution",
+      "range_tolerance": 0.1,
+      "definition": "fraction of ink in vertical third1",
+      "core": false
+    },
+    "ink_col_band_1": {
+      "family": "distribution",
+      "range_tolerance": 0.1,
+      "definition": "fraction of ink in horizontal third1",
+      "core": false
+    },
+    "ink_row_band_2": {
+      "family": "distribution",
+      "range_tolerance": 0.1,
+      "definition": "fraction of ink in vertical third2",
+      "core": false
+    },
+    "ink_col_band_2": {
+      "family": "distribution",
+      "range_tolerance": 0.1,
+      "definition": "fraction of ink in horizontal third2",
+      "core": false
+    },
+    "ink_grid_00": {
+      "family": "distribution",
+      "range_tolerance": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin",
+      "core": true
+    },
+    "ink_grid_01": {
+      "family": "distribution",
+      "range_tolerance": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin",
+      "core": true
+    },
+    "ink_grid_02": {
+      "family": "distribution",
+      "range_tolerance": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin",
+      "core": true
+    },
+    "ink_grid_10": {
+      "family": "distribution",
+      "range_tolerance": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin",
+      "core": true
+    },
+    "ink_grid_11": {
+      "family": "distribution",
+      "range_tolerance": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin",
+      "core": true
+    },
+    "ink_grid_12": {
+      "family": "distribution",
+      "range_tolerance": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin",
+      "core": true
+    },
+    "ink_grid_20": {
+      "family": "distribution",
+      "range_tolerance": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin",
+      "core": true
+    },
+    "ink_grid_21": {
+      "family": "distribution",
+      "range_tolerance": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin",
+      "core": true
+    },
+    "ink_grid_22": {
+      "family": "distribution",
+      "range_tolerance": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin",
+      "core": true
+    },
+    "log_height_native": {
+      "family": "native_dimensions",
+      "range_tolerance": 0.18,
+      "definition": "log native ink-envelope height in source pixels, interval retained",
+      "core": false
+    },
+    "log_width_native": {
+      "family": "native_dimensions",
+      "range_tolerance": 0.18,
+      "definition": "log native ink-envelope width in source pixels, interval retained",
+      "core": false
+    }
+  },
+  "core_features": [
+    "log_height_body",
+    "log_width_body",
+    "log_aspect",
+    "ink_density",
+    "ink_centroid_x",
+    "ink_centroid_y",
+    "ink_spread_x",
+    "ink_spread_y",
+    "ink_grid_00",
+    "ink_grid_01",
+    "ink_grid_02",
+    "ink_grid_10",
+    "ink_grid_11",
+    "ink_grid_12",
+    "ink_grid_20",
+    "ink_grid_21",
+    "ink_grid_22",
+    "significant_cavity_count",
+    "cavity_area_fraction",
+    "cavity_centroid_x",
+    "cavity_centroid_y",
+    "cavity_upper_count",
+    "cavity_lower_count",
+    "horizontal_run_fraction",
+    "vertical_run_fraction"
+  ],
+  "usable": "Confirmed writing and resolved whole parent, unique whole-parent raster correspondence across6/9/12(IoU>=0.5, no split/merge),>=8 stable source-qualified core fields, geometry+distribution+at least run or cavity. Source contacts/insufficient evidence block usability; all confirmed writing remains in primary coverage denominator. Secondary graph failures do not block.",
+  "perturbations": [
+    "native9/6/12 whole-parent rasters",
+    "native±0.04 slant",
+    "source-body±10%"
+  ],
+  "samples": {
+    "reference": "Seeded up to8 source-resolved confirmed parents in each of11 Trial1 caption groups; no class selection; reference image features source-audited after specification. Historical source data additionally reported as sensitivity, not fresh test.",
+    "fresh_fields": [
+      {
+        "view_id": "V_034",
+        "row_number": 1,
+        "safe_x": [
+          424,
+          1060
+        ],
+        "body_height": 32.0,
+        "body_path_knots": [
+          [
+            345,
+            562.6
+          ],
+          [
+            441,
+            560.6
+          ],
+          [
+            537,
+            559.6
+          ],
+          [
+            633,
+            557.6
+          ],
+          [
+            729,
+            555.6
+          ],
+          [
+            825,
+            554.6
+          ],
+          [
+            921,
+            552.6
+          ],
+          [
+            1017,
+            549.6
+          ],
+          [
+            1113,
+            546.6
+          ],
+          [
+            1209,
+            544.6
+          ],
+          [
+            1305,
+            542.6
+          ],
+          [
+            1401,
+            541.6
+          ],
+          [
+            1497,
+            541.6
+          ],
+          [
+            1593,
+            540.6
+          ],
+          [
+            1689,
+            540.6
+          ],
+          [
+            1785,
+            540.6
+          ],
+          [
+            1881,
+            540.6
+          ],
+          [
+            1977,
+            541.6
+          ],
+          [
+            2073,
+            539.6
+          ],
+          [
+            2169,
+            535.6
+          ],
+          [
+            2265,
+            531.6
+          ],
+          [
+            2277,
+            530.6
+          ]
+        ],
+        "native_source": "data/source/yale_native/1006106.jpg",
+        "source_row_bbox": [
+          386,
+          448,
+          2271,
+          575
+        ],
+        "caption": "17"
+      },
+      {
+        "view_id": "V_038",
+        "row_number": 1,
+        "safe_x": [
+          424,
+          1060
+        ],
+        "body_height": 39.0,
+        "body_path_knots": [
+          [
+            318,
+            523.7
+          ],
+          [
+            414,
+            521.7
+          ],
+          [
+            510,
+            521.7
+          ],
+          [
+            606,
+            521.7
+          ],
+          [
+            702,
+            522.7
+          ],
+          [
+            798,
+            526.7
+          ],
+          [
+            894,
+            529.7
+          ],
+          [
+            990,
+            529.7
+          ],
+          [
+            1086,
+            528.7
+          ],
+          [
+            1182,
+            527.7
+          ],
+          [
+            1278,
+            526.7
+          ],
+          [
+            1374,
+            525.7
+          ],
+          [
+            1470,
+            526.7
+          ],
+          [
+            1566,
+            525.7
+          ],
+          [
+            1662,
+            523.7
+          ],
+          [
+            1758,
+            519.7
+          ],
+          [
+            1854,
+            516.7
+          ],
+          [
+            1950,
+            515.7
+          ],
+          [
+            2046,
+            516.7
+          ],
+          [
+            2066,
+            517.7
+          ]
+        ],
+        "native_source": "data/source/yale_native/1006110.jpg",
+        "source_row_bbox": [
+          353,
+          437,
+          1939,
+          568
+        ],
+        "caption": "19"
+      },
+      {
+        "view_id": "V_044",
+        "row_number": 1,
+        "safe_x": [
+          318,
+          1060
+        ],
+        "body_height": 39.39999999999999,
+        "body_path_knots": [
+          [
+            292,
+            473.82
+          ],
+          [
+            388,
+            483.82
+          ],
+          [
+            484,
+            485.82
+          ],
+          [
+            580,
+            485.82
+          ],
+          [
+            676,
+            485.82
+          ],
+          [
+            772,
+            487.82
+          ],
+          [
+            868,
+            492.82
+          ],
+          [
+            964,
+            496.82
+          ],
+          [
+            1060,
+            498.82
+          ],
+          [
+            1156,
+            500.82
+          ],
+          [
+            1252,
+            504.82
+          ],
+          [
+            1348,
+            510.82
+          ],
+          [
+            1444,
+            516.8199999999999
+          ],
+          [
+            1540,
+            518.8199999999999
+          ],
+          [
+            1636,
+            516.8199999999999
+          ],
+          [
+            1732,
+            518.8199999999999
+          ],
+          [
+            1828,
+            520.8199999999999
+          ],
+          [
+            1924,
+            523.8199999999999
+          ],
+          [
+            2020,
+            530.8199999999999
+          ],
+          [
+            2066,
+            532.8199999999999
+          ]
+        ],
+        "native_source": "data/source/yale_native/1006116.jpg",
+        "source_row_bbox": [
+          331,
+          369,
+          2014,
+          539
+        ],
+        "caption": "22"
+      },
+      {
+        "view_id": "V_104",
+        "row_number": 1,
+        "safe_x": [
+          424,
+          1978
+        ],
+        "body_height": 39.0,
+        "body_path_knots": [
+          [
+            310,
+            501.7
+          ],
+          [
+            406,
+            502.7
+          ],
+          [
+            502,
+            499.7
+          ],
+          [
+            598,
+            497.7
+          ],
+          [
+            694,
+            495.7
+          ],
+          [
+            790,
+            491.7
+          ],
+          [
+            886,
+            487.7
+          ],
+          [
+            982,
+            485.7
+          ],
+          [
+            1078,
+            485.7
+          ],
+          [
+            1174,
+            484.7
+          ],
+          [
+            1270,
+            483.7
+          ],
+          [
+            1366,
+            483.7
+          ],
+          [
+            1462,
+            482.7
+          ],
+          [
+            1558,
+            481.7
+          ],
+          [
+            1654,
+            482.7
+          ],
+          [
+            1750,
+            485.7
+          ],
+          [
+            1846,
+            485.7
+          ],
+          [
+            1942,
+            484.7
+          ],
+          [
+            2038,
+            482.7
+          ],
+          [
+            2134,
+            481.7
+          ],
+          [
+            2230,
+            482.7
+          ],
+          [
+            2316,
+            482.7
+          ]
+        ],
+        "native_source": "data/source/yale_native/1006176.jpg",
+        "source_row_bbox": [
+          345,
+          374,
+          2097,
+          517
+        ],
+        "caption": "52"
+      },
+      {
+        "view_id": "V_112",
+        "row_number": 1,
+        "safe_x": [
+          363,
+          1117
+        ],
+        "body_height": 31.0,
+        "body_path_knots": [
+          [
+            252,
+            539.3
+          ],
+          [
+            348,
+            536.3
+          ],
+          [
+            444,
+            536.3
+          ],
+          [
+            540,
+            539.3
+          ],
+          [
+            636,
+            541.3
+          ],
+          [
+            732,
+            542.3
+          ],
+          [
+            828,
+            542.3
+          ],
+          [
+            924,
+            545.3
+          ],
+          [
+            1020,
+            549.3
+          ],
+          [
+            1116,
+            553.3
+          ],
+          [
+            1212,
+            560.3
+          ],
+          [
+            1308,
+            567.3
+          ],
+          [
+            1396,
+            568.3
+          ]
+        ],
+        "native_source": "data/source/yale_native/1006184.jpg",
+        "source_row_bbox": [
+          346,
+          397,
+          1392,
+          588
+        ],
+        "caption": "56"
+      },
+      {
+        "view_id": "V_178",
+        "row_number": 1,
+        "safe_x": [
+          428,
+          1472
+        ],
+        "body_height": 35.0,
+        "body_path_knots": [
+          [
+            321,
+            1403.5
+          ],
+          [
+            417,
+            1404.5
+          ],
+          [
+            513,
+            1405.5
+          ],
+          [
+            609,
+            1405.5
+          ],
+          [
+            705,
+            1405.5
+          ],
+          [
+            801,
+            1405.5
+          ],
+          [
+            897,
+            1407.5
+          ],
+          [
+            993,
+            1407.5
+          ],
+          [
+            1089,
+            1405.5
+          ],
+          [
+            1185,
+            1402.5
+          ],
+          [
+            1281,
+            1398.5
+          ],
+          [
+            1377,
+            1396.5
+          ],
+          [
+            1473,
+            1394.5
+          ],
+          [
+            1569,
+            1393.5
+          ],
+          [
+            1665,
+            1391.5
+          ],
+          [
+            1761,
+            1388.5
+          ],
+          [
+            1857,
+            1391.5
+          ],
+          [
+            1953,
+            1396.5
+          ],
+          [
+            2049,
+            1398.5
+          ],
+          [
+            2145,
+            1400.5
+          ],
+          [
+            2241,
+            1403.5
+          ],
+          [
+            2337,
+            1407.5
+          ],
+          [
+            2354,
+            1408.5
+          ]
+        ],
+        "native_source": "data/source/yale_native/1006248.jpg",
+        "source_row_bbox": [
+          328,
+          1271,
+          2164,
+          1422
+        ],
+        "caption": "100"
+      }
+    ],
+    "selection": "First existing overview-triaged ordinary horizontal field per6 captions unused for Trial1/V6 feature tuning, source-only geometry/contrast/layout. All primary CC proposals with area>=35 and core support>=8 inspected. Photographic failure retained; no replacement based on results. Report parent-proposal sampling limits, not full writing-ink recall.",
+    "exposure": "Some source captions had old V3/V4 imagery exposure; fresh for Trial2 specification, not globally unseen photographs.",
+    "source_membership": "Every selected proposal reviewed native RGB/whole field before feature/V3 suggestions; nonwriting/unresolved excluded from confirmed denominator but enumerated. Visible missing parent fragments may be added as explicit source cases, never assumed recovered."
+  },
+  "source_audit": {
+    "all_new_and_reference": true,
+    "questions": [
+      "writing/nonwriting/unresolved",
+      "whole-parent contact or insufficient evidence",
+      "visible cavity count or unknown",
+      "cavity placement upper/lower/both/none/unknown relative envelope mid-height, near-midpoint±0.05 ambiguous",
+      "coarse source aspect taller(W/H<0.8)/wide(>1.25)/near-square/unknown",
+      "evident long near-horizontal source span/absent/unknown"
+    ],
+    "same_AI_adjudicator": true,
+    "not_independent_interrater": true,
+    "numeric_and_V3_suggestions_hidden": true,
+    "definition_discordance": "Visible vs significant raster cavities can differ; score agreement and source qualification separately without retuning cutoff."
+  },
+  "similarity": {
+    "profile_distance": "Equal-weight family means of stable shared-core absolute midpoint differences divided by preregistered tolerance(counts scale1), clipped3. Geometry/distribution/run/cavity. At least8 shared fields and geometry+distribution+run/cavity. Add0.10*(1-shared_core/25) observability penalty. No learned label weights.",
+    "baselines": [
+      "absolute log aspect difference",
+      "symmetric24px contour Chamfer from frozen aspect-preserving48px normalization",
+      "50/50 contour+aspect, each scaled by reference-only cross-caption95th percentile and clipped1"
+    ],
+    "pairs": "Seeded up to12 resolved writing anchors per fresh caption. For each: closest eligible feature reference, closest contour reference, and seeded aspect-matched(log aspect difference<=0.35) random reference. Deduplicate; retain selector provenance. Pair proposals formed without V3 labels or source similarity outcomes.",
+    "source_judgment": "Randomized anonymous RGB pairs, predictions/selectors/V3 hidden; rate2=same whole visual organization allowing ink/size/slant variation,1=partial shared organization,0=different organization,U=unresolvable. These pair judgments do not define transitive discrete classes or internal units.",
+    "metrics": "Primary AUROC rating2 vs0; exclude1/U but report all four counts. Secondary ordinal association on0/1/2. Paired6-caption bootstrap of AUROC differences; reference/anchor repeats acknowledged. No fit on test judgments.",
+    "better_than_baseline_gate": "Feature AUROC≥0.75; delta≥0.05 with bootstrap95% lower>0 against each of aspect,contour,combined;>=120 resolved2/0 pairs,>=30 per category and6 captions. If not, preserve failure, no feature/weight tuning."
+  },
+  "V3_diagnostics": "Only after source decisions/feature specification/metric seal. Apply frozen V3 unchanged to fresh resolved writing. Existing source labels projected for reporting only. Known-family cross-caption feature distances vs within-caption shuffled labels(999 nulls), classes with>=5 parents and>=3 captions; no learned class metric. Report coherence and leave-caption retrieval without altering profiles.",
+  "unknown_recurrence": "Continuous neighborhood evidence, not clusters: threshold distance<=0.25 with>=8 common core and3 families; count unknown confirmed parents having a neighbor in another caption and support in>=3 captions. Reference-to-fresh transport separately. Null999 within-caption independent whole-family vector permutations retaining missingness and exact caption size; observed/null both dependence-limited. No new class label, equivalence relation or sequence token.",
+  "validation_gates": {
+    "fresh_confirmed_n_min": 120,
+    "fresh_caption_n_min": 6,
+    "overall_usable_confirmed_min": 0.8,
+    "resolved_usable_min": 0.85,
+    "each_caption_overall_min": 0.7,
+    "V3_unknown_usable_confirmed_min": 0.7,
+    "source_cavity_adjudicable_n_min": 50,
+    "source_cavity_numeric_agreement_min": 0.85,
+    "source_aspect_agreement_min": 0.85,
+    "source_uncertainty_preserved": true,
+    "deterministic_replay_required": true
+  },
+  "acceptance": "Coverage/source agreement and similarity superiority are separate gates. Report descriptive partial-profile support separately from prediction superiority; no single combined accuracy score. No classes required to occupy compact regions; coherent V3/unknown neighborhoods remain validation results, not tuning inputs.",
+  "stages": [
+    "seal protocol before fresh images",
+    "prepare and source-adjudicate all reference/new objects and visual fields",
+    "seal source judgments before feature suggestions",
+    "extract fixed features/source qualification",
+    "seal metric inputs before similarity rating/V3 analyses",
+    "anonymous heldout similarity review and repeat subset",
+    "V3 diagnostic and continuous unknown recurrence tests",
+    "report all failures/support thresholds",
+    "freeze Trial2 before any position/section/transcription/sequence correlation"
+  ],
+  "repeat": "Seeded12 similarity pairs shown anonymously again after source/feature work with original IDs and decisions hidden. Same-adjudicator repeatability only; unresolved/ties retained.",
+  "prohibited_tuning": [
+    "V3 membership",
+    "sequence recurrence",
+    "Currier",
+    "EVA/RF/v101",
+    "positional effects",
+    "decipherment outcomes"
+  ],
+  "downstream": "No position, section, conventional transcription or sequence correlation before Trial2 freeze; this task does not authorize reopening them afterwards."
+}

@@ -1,0 +1,3853 @@
+{
+  "view": {
+    "view_id": "V_012",
+    "pdf_page": "12",
+    "caption": "5r",
+    "yale_image_id": "1006084",
+    "folio_component": "5",
+    "split": "train",
+    "image_path": "data/page_images/all/V_012.png",
+    "image_sha256": "074575919b91c20163229e8287781f4b5947949c22f5a3eb541ceb3e1aa940ca",
+    "width_px": "1416",
+    "height_px": "2000",
+    "panel_mapping": "caption_only; multiple visible panels may occur"
+  },
+  "groups": [
+    {
+      "group_id": "V_012_R01_L001_G001",
+      "line_id": "V_012_R01_L001",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        416,
+        496,
+        592,
+        610
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 0,
+      "group_count": 8,
+      "normalized_group_rank": 0.0,
+      "normalized_pixel_center": 0.0547945205479452,
+      "source_pixel_center_x": 504.0,
+      "source_pixel_center_y": 553.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        416,
+        2022
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L001_G001_F001",
+          "V_012_R01_L001_G001_F002",
+          "V_012_R01_L001_G001_F003",
+          "V_012_R01_L001_G001_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L001_G001_M001",
+          "V_012_R01_L001_G001_M002",
+          "V_012_R01_L001_G001_M003"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L001_G001_C001",
+          "V_012_R01_L001_G001_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L001_G001_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.19119878603945373,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L001_G002",
+      "line_id": "V_012_R01_L001",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        652,
+        579,
+        777,
+        612
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 1,
+      "group_count": 8,
+      "normalized_group_rank": 0.14285714285714285,
+      "normalized_pixel_center": 0.18586550435865504,
+      "source_pixel_center_x": 714.5,
+      "source_pixel_center_y": 595.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        416,
+        2022
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L001_G002_F001",
+          "V_012_R01_L001_G002_F002",
+          "V_012_R01_L001_G002_F003",
+          "V_012_R01_L001_G002_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L001_G002_M001",
+          "V_012_R01_L001_G002_M002",
+          "V_012_R01_L001_G002_M003",
+          "V_012_R01_L001_G002_M004"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L001_G002_C001",
+          "V_012_R01_L001_G002_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L001_G002_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.2710546282245827,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L001_G003",
+      "line_id": "V_012_R01_L001",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        828,
+        524,
+        1013,
+        646
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 2,
+      "group_count": 8,
+      "normalized_group_rank": 0.2857142857142857,
+      "normalized_pixel_center": 0.31413449564134494,
+      "source_pixel_center_x": 920.5,
+      "source_pixel_center_y": 585.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        416,
+        2022
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L001_G003_F001",
+          "V_012_R01_L001_G003_F002",
+          "V_012_R01_L001_G003_F003",
+          "V_012_R01_L001_G003_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L001_G003_M001",
+          "V_012_R01_L001_G003_M002",
+          "V_012_R01_L001_G003_M003"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L001_G003_C001",
+          "V_012_R01_L001_G003_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L001_G003_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.34920333839150225,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L001_G004",
+      "line_id": "V_012_R01_L001",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1068,
+        567,
+        1228,
+        619
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 3,
+      "group_count": 8,
+      "normalized_group_rank": 0.42857142857142855,
+      "normalized_pixel_center": 0.45579078455790784,
+      "source_pixel_center_x": 1148.0,
+      "source_pixel_center_y": 593.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        416,
+        2022
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L001_G004_F001",
+          "V_012_R01_L001_G004_F002",
+          "V_012_R01_L001_G004_F003",
+          "V_012_R01_L001_G004_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L001_G004_M001",
+          "V_012_R01_L001_G004_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L001_G004_C001",
+          "V_012_R01_L001_G004_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L001_G004_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_108",
+        "VF_fine_components_K128_067",
+        "VF_fine_components_K128_126",
+        "VF_fine_components_K128_038"
+      ],
+      "visual_merged_units": [
+        "VS01",
+        "VS05",
+        "VS05",
+        "VS02"
+      ],
+      "visual_factored_units": [
+        "VS01",
+        "VS05",
+        "VS05",
+        "VS02"
+      ],
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_018",
+        "VF_medium_assemblies_K128_114"
+      ],
+      "source_pixel_x_page_fraction": 0.4355083459787557,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L001_G005",
+      "line_id": "V_012_R01_L001",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1284,
+        583,
+        1525,
+        667
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 4,
+      "group_count": 8,
+      "normalized_group_rank": 0.5714285714285714,
+      "normalized_pixel_center": 0.6155043586550436,
+      "source_pixel_center_x": 1404.5,
+      "source_pixel_center_y": 625.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        416,
+        2022
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L001_G005_F001",
+          "V_012_R01_L001_G005_F002",
+          "V_012_R01_L001_G005_F003",
+          "V_012_R01_L001_G005_F004",
+          "V_012_R01_L001_G005_F005",
+          "V_012_R01_L001_G005_F006",
+          "V_012_R01_L001_G005_F007"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L001_G005_M001",
+          "V_012_R01_L001_G005_M002",
+          "V_012_R01_L001_G005_M003",
+          "V_012_R01_L001_G005_M004",
+          "V_012_R01_L001_G005_M005",
+          "V_012_R01_L001_G005_M006"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L001_G005_C001",
+          "V_012_R01_L001_G005_C002",
+          "V_012_R01_L001_G005_C003",
+          "V_012_R01_L001_G005_C004"
+        ],
+        "group_only": [
+          "V_012_R01_L001_G005_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_044",
+        "VF_fine_components_K128_067",
+        "VF_fine_components_K128_089",
+        "VF_fine_components_K128_023",
+        "VF_fine_components_K128_118",
+        "VF_fine_components_K128_016",
+        "VF_fine_components_K128_105"
+      ],
+      "visual_merged_units": [
+        "VS01",
+        "VS05",
+        "VS03",
+        "VS01",
+        "VS07",
+        "VS03",
+        "VS11"
+      ],
+      "visual_factored_units": [
+        "VS01",
+        "VS05",
+        "VS03",
+        "VS01",
+        "VS07",
+        "VS03",
+        "VS11"
+      ],
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_116",
+        "VF_medium_assemblies_K128_038",
+        "VF_medium_assemblies_K128_018",
+        "VF_medium_assemblies_K128_069",
+        "VF_medium_assemblies_K128_020",
+        "VF_medium_assemblies_K128_057"
+      ],
+      "source_pixel_x_page_fraction": 0.532814871016692,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L001_G006",
+      "line_id": "V_012_R01_L001",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1558,
+        613,
+        1725,
+        669
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 5,
+      "group_count": 8,
+      "normalized_group_rank": 0.7142857142857143,
+      "normalized_pixel_center": 0.7630759651307597,
+      "source_pixel_center_x": 1641.5,
+      "source_pixel_center_y": 641.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        416,
+        2022
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L001_G006_F001",
+          "V_012_R01_L001_G006_F002",
+          "V_012_R01_L001_G006_F003",
+          "V_012_R01_L001_G006_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L001_G006_M001",
+          "V_012_R01_L001_G006_M002",
+          "V_012_R01_L001_G006_M003",
+          "V_012_R01_L001_G006_M004"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L001_G006_C001",
+          "V_012_R01_L001_G006_C002",
+          "V_012_R01_L001_G006_C003"
+        ],
+        "group_only": [
+          "V_012_R01_L001_G006_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_025",
+        "VF_fine_components_K128_057",
+        "VF_fine_components_K128_040",
+        "VF_fine_components_K128_063"
+      ],
+      "visual_merged_units": [
+        "VS04",
+        "VS01",
+        "VS07",
+        "VS11"
+      ],
+      "visual_factored_units": [
+        "VS04",
+        "VS01",
+        "VS07",
+        "VS11"
+      ],
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_017",
+        "VF_medium_assemblies_K128_018",
+        "VF_medium_assemblies_K128_106",
+        "VF_medium_assemblies_K128_057"
+      ],
+      "source_pixel_x_page_fraction": 0.6227238239757208,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L001_G007",
+      "line_id": "V_012_R01_L001",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1756,
+        569,
+        1907,
+        663
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 6,
+      "group_count": 8,
+      "normalized_group_rank": 0.8571428571428571,
+      "normalized_pixel_center": 0.8813823163138231,
+      "source_pixel_center_x": 1831.5,
+      "source_pixel_center_y": 616.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        416,
+        2022
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L001_G007_F001",
+          "V_012_R01_L001_G007_F002",
+          "V_012_R01_L001_G007_F003"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L001_G007_M001",
+          "V_012_R01_L001_G007_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L001_G007_C001",
+          "V_012_R01_L001_G007_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L001_G007_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_040",
+        "VF_fine_components_K128_037",
+        "VF_fine_components_K128_025"
+      ],
+      "visual_merged_units": [
+        "VS07",
+        "VS08",
+        "VS04"
+      ],
+      "visual_factored_units": [
+        "VS07",
+        "VS08",
+        "VS04"
+      ],
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.6948027314112292,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L001_G008",
+      "line_id": "V_012_R01_L001",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1959,
+        620,
+        2022,
+        685
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 7,
+      "group_count": 8,
+      "normalized_group_rank": 1.0,
+      "normalized_pixel_center": 0.9803860523038606,
+      "source_pixel_center_x": 1990.5,
+      "source_pixel_center_y": 652.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        416,
+        2022
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L001_G008_F001",
+          "V_012_R01_L001_G008_F002"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L001_G008_M001",
+          "V_012_R01_L001_G008_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L001_G008_C001"
+        ],
+        "group_only": [
+          "V_012_R01_L001_G008_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_098",
+        "VF_fine_components_K128_063"
+      ],
+      "visual_merged_units": [
+        "VS07",
+        "VS11"
+      ],
+      "visual_factored_units": [
+        "VS07",
+        "VS11"
+      ],
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_066",
+        "VF_medium_assemblies_K128_057"
+      ],
+      "source_pixel_x_page_fraction": 0.7551213960546282,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L002_G001",
+      "line_id": "V_012_R01_L002",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        406,
+        651,
+        544,
+        687
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 0,
+      "group_count": 9,
+      "normalized_group_rank": 0.0,
+      "normalized_pixel_center": 0.043125,
+      "source_pixel_center_x": 475.0,
+      "source_pixel_center_y": 669.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        406,
+        2006
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L002_G001_F001",
+          "V_012_R01_L002_G001_F002"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L002_G001_M001",
+          "V_012_R01_L002_G001_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L002_G001_C001"
+        ],
+        "group_only": [
+          "V_012_R01_L002_G001_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.18019726858877086,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L002_G002",
+      "line_id": "V_012_R01_L002",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        574,
+        608,
+        692,
+        702
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 1,
+      "group_count": 9,
+      "normalized_group_rank": 0.125,
+      "normalized_pixel_center": 0.141875,
+      "source_pixel_center_x": 633.0,
+      "source_pixel_center_y": 655.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        406,
+        2006
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L002_G002_F001",
+          "V_012_R01_L002_G002_F002",
+          "V_012_R01_L002_G002_F003",
+          "V_012_R01_L002_G002_F004",
+          "V_012_R01_L002_G002_F005",
+          "V_012_R01_L002_G002_F006"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L002_G002_M001",
+          "V_012_R01_L002_G002_M002",
+          "V_012_R01_L002_G002_M003"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L002_G002_C001",
+          "V_012_R01_L002_G002_C002",
+          "V_012_R01_L002_G002_C003"
+        ],
+        "group_only": [
+          "V_012_R01_L002_G002_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_096",
+        "VF_medium_assemblies_K128_064",
+        "VF_medium_assemblies_K128_101"
+      ],
+      "source_pixel_x_page_fraction": 0.24013657056145676,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L002_G003",
+      "line_id": "V_012_R01_L002",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        729,
+        632,
+        969,
+        704
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 2,
+      "group_count": 9,
+      "normalized_group_rank": 0.25,
+      "normalized_pixel_center": 0.276875,
+      "source_pixel_center_x": 849.0,
+      "source_pixel_center_y": 668.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        406,
+        2006
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L002_G003_F001",
+          "V_012_R01_L002_G003_F002",
+          "V_012_R01_L002_G003_F003",
+          "V_012_R01_L002_G003_F004",
+          "V_012_R01_L002_G003_F005",
+          "V_012_R01_L002_G003_F006",
+          "V_012_R01_L002_G003_F007",
+          "V_012_R01_L002_G003_F008"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L002_G003_M001",
+          "V_012_R01_L002_G003_M002",
+          "V_012_R01_L002_G003_M003",
+          "V_012_R01_L002_G003_M004",
+          "V_012_R01_L002_G003_M005"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L002_G003_C001",
+          "V_012_R01_L002_G003_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L002_G003_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.3220789074355083,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L002_G004",
+      "line_id": "V_012_R01_L002",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1015,
+        681,
+        1108,
+        708
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 3,
+      "group_count": 9,
+      "normalized_group_rank": 0.375,
+      "normalized_pixel_center": 0.4096875,
+      "source_pixel_center_x": 1061.5,
+      "source_pixel_center_y": 694.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        406,
+        2006
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L002_G004_F001",
+          "V_012_R01_L002_G004_F002"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L002_G004_M001",
+          "V_012_R01_L002_G004_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L002_G004_C001",
+          "V_012_R01_L002_G004_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L002_G004_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.40269347496206376,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L002_G005",
+      "line_id": "V_012_R01_L002",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1138,
+        645,
+        1299,
+        739
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 4,
+      "group_count": 9,
+      "normalized_group_rank": 0.5,
+      "normalized_pixel_center": 0.5078125,
+      "source_pixel_center_x": 1218.5,
+      "source_pixel_center_y": 692.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        406,
+        2006
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L002_G005_F001",
+          "V_012_R01_L002_G005_F002",
+          "V_012_R01_L002_G005_F003",
+          "V_012_R01_L002_G005_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L002_G005_M001",
+          "V_012_R01_L002_G005_M002",
+          "V_012_R01_L002_G005_M003"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L002_G005_C001",
+          "V_012_R01_L002_G005_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L002_G005_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.46225341426403643,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L002_G006",
+      "line_id": "V_012_R01_L002",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1328,
+        636,
+        1474,
+        738
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 5,
+      "group_count": 9,
+      "normalized_group_rank": 0.625,
+      "normalized_pixel_center": 0.621875,
+      "source_pixel_center_x": 1401.0,
+      "source_pixel_center_y": 687.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        406,
+        2006
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L002_G006_F001",
+          "V_012_R01_L002_G006_F002",
+          "V_012_R01_L002_G006_F003",
+          "V_012_R01_L002_G006_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L002_G006_M001",
+          "V_012_R01_L002_G006_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L002_G006_C001",
+          "V_012_R01_L002_G006_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L002_G006_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_079",
+        "VF_medium_assemblies_K128_101"
+      ],
+      "source_pixel_x_page_fraction": 0.5314871016691958,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L002_G007",
+      "line_id": "V_012_R01_L002",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1502,
+        702,
+        1609,
+        737
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 6,
+      "group_count": 9,
+      "normalized_group_rank": 0.75,
+      "normalized_pixel_center": 0.7184375,
+      "source_pixel_center_x": 1555.5,
+      "source_pixel_center_y": 719.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        406,
+        2006
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L002_G007_F001",
+          "V_012_R01_L002_G007_F002",
+          "V_012_R01_L002_G007_F003",
+          "V_012_R01_L002_G007_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L002_G007_M001",
+          "V_012_R01_L002_G007_M002",
+          "V_012_R01_L002_G007_M003"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L002_G007_C001"
+        ],
+        "group_only": [
+          "V_012_R01_L002_G007_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_102",
+        "VF_medium_assemblies_K128_086",
+        "VF_medium_assemblies_K128_075"
+      ],
+      "source_pixel_x_page_fraction": 0.5900986342943855,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L002_G008",
+      "line_id": "V_012_R01_L002",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1654,
+        679,
+        1840,
+        774
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 7,
+      "group_count": 9,
+      "normalized_group_rank": 0.875,
+      "normalized_pixel_center": 0.838125,
+      "source_pixel_center_x": 1747.0,
+      "source_pixel_center_y": 726.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        406,
+        2006
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L002_G008_F001",
+          "V_012_R01_L002_G008_F002",
+          "V_012_R01_L002_G008_F003",
+          "V_012_R01_L002_G008_F004",
+          "V_012_R01_L002_G008_F005",
+          "V_012_R01_L002_G008_F006",
+          "V_012_R01_L002_G008_F007"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L002_G008_M001",
+          "V_012_R01_L002_G008_M002",
+          "V_012_R01_L002_G008_M003",
+          "V_012_R01_L002_G008_M004"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L002_G008_C001"
+        ],
+        "group_only": [
+          "V_012_R01_L002_G008_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.6627465857359636,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L002_G009",
+      "line_id": "V_012_R01_L002",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1863,
+        636,
+        2006,
+        748
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 8,
+      "group_count": 9,
+      "normalized_group_rank": 1.0,
+      "normalized_pixel_center": 0.9553125,
+      "source_pixel_center_x": 1934.5,
+      "source_pixel_center_y": 692.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        406,
+        2006
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L002_G009_F001",
+          "V_012_R01_L002_G009_F002",
+          "V_012_R01_L002_G009_F003",
+          "V_012_R01_L002_G009_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L002_G009_M001",
+          "V_012_R01_L002_G009_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L002_G009_C001"
+        ],
+        "group_only": [
+          "V_012_R01_L002_G009_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.733877086494689,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L003_G001",
+      "line_id": "V_012_R01_L003",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        402,
+        728,
+        562,
+        790
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 0,
+      "group_count": 8,
+      "normalized_group_rank": 0.0,
+      "normalized_pixel_center": 0.04941321803582458,
+      "source_pixel_center_x": 482.0,
+      "source_pixel_center_y": 759.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        402,
+        2021
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L003_G001_F001",
+          "V_012_R01_L003_G001_F002",
+          "V_012_R01_L003_G001_F003",
+          "V_012_R01_L003_G001_F004",
+          "V_012_R01_L003_G001_F005"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L003_G001_M001",
+          "V_012_R01_L003_G001_M002",
+          "V_012_R01_L003_G001_M003"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L003_G001_C001"
+        ],
+        "group_only": [
+          "V_012_R01_L003_G001_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_088",
+        "VF_medium_assemblies_K128_004",
+        "VF_medium_assemblies_K128_029"
+      ],
+      "source_pixel_x_page_fraction": 0.18285280728376327,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L003_G002",
+      "line_id": "V_012_R01_L003",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        600,
+        685,
+        748,
+        760
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 1,
+      "group_count": 8,
+      "normalized_group_rank": 0.14285714285714285,
+      "normalized_pixel_center": 0.16800494132180357,
+      "source_pixel_center_x": 674.0,
+      "source_pixel_center_y": 722.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        402,
+        2021
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L003_G002_F001",
+          "V_012_R01_L003_G002_F002",
+          "V_012_R01_L003_G002_F003",
+          "V_012_R01_L003_G002_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L003_G002_M001",
+          "V_012_R01_L003_G002_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L003_G002_C001",
+          "V_012_R01_L003_G002_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L003_G002_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.255690440060698,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L003_G003",
+      "line_id": "V_012_R01_L003",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        773,
+        735,
+        875,
+        782
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 2,
+      "group_count": 8,
+      "normalized_group_rank": 0.2857142857142857,
+      "normalized_pixel_center": 0.2606547251389747,
+      "source_pixel_center_x": 824.0,
+      "source_pixel_center_y": 758.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        402,
+        2021
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L003_G003_F001",
+          "V_012_R01_L003_G003_F002"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L003_G003_M001",
+          "V_012_R01_L003_G003_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L003_G003_C001",
+          "V_012_R01_L003_G003_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L003_G003_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_052",
+        "VF_fine_components_K128_063"
+      ],
+      "visual_merged_units": [
+        "VS04",
+        "VS11"
+      ],
+      "visual_factored_units": [
+        "VS04",
+        "VS11"
+      ],
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_047",
+        "VF_medium_assemblies_K128_057"
+      ],
+      "source_pixel_x_page_fraction": 0.3125948406676783,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L003_G004",
+      "line_id": "V_012_R01_L003",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        923,
+        730,
+        1076,
+        776
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 3,
+      "group_count": 8,
+      "normalized_group_rank": 0.42857142857142855,
+      "normalized_pixel_center": 0.36905497220506484,
+      "source_pixel_center_x": 999.5,
+      "source_pixel_center_y": 753.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        402,
+        2021
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L003_G004_F001",
+          "V_012_R01_L003_G004_F002",
+          "V_012_R01_L003_G004_F003"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L003_G004_M001"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L003_G004_C001"
+        ],
+        "group_only": [
+          "V_012_R01_L003_G004_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.3791729893778452,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L003_G005",
+      "line_id": "V_012_R01_L003",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1115,
+        714,
+        1288,
+        791
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 4,
+      "group_count": 8,
+      "normalized_group_rank": 0.5714285714285714,
+      "normalized_pixel_center": 0.49382334774552195,
+      "source_pixel_center_x": 1201.5,
+      "source_pixel_center_y": 752.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        402,
+        2021
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L003_G005_F001",
+          "V_012_R01_L003_G005_F002",
+          "V_012_R01_L003_G005_F003",
+          "V_012_R01_L003_G005_F004",
+          "V_012_R01_L003_G005_F005"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L003_G005_M001",
+          "V_012_R01_L003_G005_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L003_G005_C001"
+        ],
+        "group_only": [
+          "V_012_R01_L003_G005_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_125",
+        "VF_medium_assemblies_K128_114"
+      ],
+      "source_pixel_x_page_fraction": 0.455804248861912,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L003_G006",
+      "line_id": "V_012_R01_L003",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1312,
+        737,
+        1541,
+        828
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 5,
+      "group_count": 8,
+      "normalized_group_rank": 0.7142857142857143,
+      "normalized_pixel_center": 0.6327980234712786,
+      "source_pixel_center_x": 1426.5,
+      "source_pixel_center_y": 782.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        402,
+        2021
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L003_G006_F001",
+          "V_012_R01_L003_G006_F002",
+          "V_012_R01_L003_G006_F003",
+          "V_012_R01_L003_G006_F004",
+          "V_012_R01_L003_G006_F005"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L003_G006_M001",
+          "V_012_R01_L003_G006_M002",
+          "V_012_R01_L003_G006_M003",
+          "V_012_R01_L003_G006_M004"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L003_G006_C001",
+          "V_012_R01_L003_G006_C002",
+          "V_012_R01_L003_G006_C003"
+        ],
+        "group_only": [
+          "V_012_R01_L003_G006_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_047",
+        "VF_medium_assemblies_K128_063",
+        "VF_medium_assemblies_K128_079",
+        "VF_medium_assemblies_K128_057"
+      ],
+      "source_pixel_x_page_fraction": 0.5411608497723824,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L003_G007",
+      "line_id": "V_012_R01_L003",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1574,
+        748,
+        1747,
+        833
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 6,
+      "group_count": 8,
+      "normalized_group_rank": 0.8571428571428571,
+      "normalized_pixel_center": 0.7773316862260655,
+      "source_pixel_center_x": 1660.5,
+      "source_pixel_center_y": 790.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        402,
+        2021
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L003_G007_F001",
+          "V_012_R01_L003_G007_F002",
+          "V_012_R01_L003_G007_F003",
+          "V_012_R01_L003_G007_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L003_G007_M001",
+          "V_012_R01_L003_G007_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L003_G007_C001"
+        ],
+        "group_only": [
+          "V_012_R01_L003_G007_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_061",
+        "VF_fine_components_K128_097",
+        "VF_fine_components_K128_128",
+        "VF_fine_components_K128_063"
+      ],
+      "visual_merged_units": [
+        "VS01",
+        "VS08",
+        "VS04",
+        "VS11"
+      ],
+      "visual_factored_units": [
+        "VS01",
+        "VS08",
+        "VS04",
+        "VS11"
+      ],
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.6299317147192717,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L003_G008",
+      "line_id": "V_012_R01_L003",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1764,
+        758,
+        2021,
+        847
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 7,
+      "group_count": 8,
+      "normalized_group_rank": 1.0,
+      "normalized_pixel_center": 0.9206300185299567,
+      "source_pixel_center_x": 1892.5,
+      "source_pixel_center_y": 802.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        402,
+        2021
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L003_G008_F001",
+          "V_012_R01_L003_G008_F002",
+          "V_012_R01_L003_G008_F003",
+          "V_012_R01_L003_G008_F004",
+          "V_012_R01_L003_G008_F005",
+          "V_012_R01_L003_G008_F006"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L003_G008_M001",
+          "V_012_R01_L003_G008_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L003_G008_C001",
+          "V_012_R01_L003_G008_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L003_G008_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.7179438543247344,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L004_G001",
+      "line_id": "V_012_R01_L004",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        411,
+        859,
+        542,
+        964
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 0,
+      "group_count": 8,
+      "normalized_group_rank": 0.0,
+      "normalized_pixel_center": 0.040208717004297116,
+      "source_pixel_center_x": 476.5,
+      "source_pixel_center_y": 911.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        411,
+        2040
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L004_G001_F001",
+          "V_012_R01_L004_G001_F002",
+          "V_012_R01_L004_G001_F003",
+          "V_012_R01_L004_G001_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L004_G001_M001",
+          "V_012_R01_L004_G001_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L004_G001_C001",
+          "V_012_R01_L004_G001_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L004_G001_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.18076631259484066,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L004_G002",
+      "line_id": "V_012_R01_L004",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        578,
+        909,
+        728,
+        967
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 1,
+      "group_count": 8,
+      "normalized_group_rank": 0.14285714285714285,
+      "normalized_pixel_center": 0.14855739717618172,
+      "source_pixel_center_x": 653.0,
+      "source_pixel_center_y": 938.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        411,
+        2040
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L004_G002_F001",
+          "V_012_R01_L004_G002_F002",
+          "V_012_R01_L004_G002_F003",
+          "V_012_R01_L004_G002_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L004_G002_M001",
+          "V_012_R01_L004_G002_M002",
+          "V_012_R01_L004_G002_M003"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L004_G002_C001",
+          "V_012_R01_L004_G002_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L004_G002_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.2477238239757208,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L004_G003",
+      "line_id": "V_012_R01_L004",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        753,
+        934,
+        962,
+        990
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 2,
+      "group_count": 8,
+      "normalized_group_rank": 0.2857142857142857,
+      "normalized_pixel_center": 0.2740945365254758,
+      "source_pixel_center_x": 857.5,
+      "source_pixel_center_y": 962.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        411,
+        2040
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L004_G003_F001",
+          "V_012_R01_L004_G003_F002",
+          "V_012_R01_L004_G003_F003",
+          "V_012_R01_L004_G003_F004",
+          "V_012_R01_L004_G003_F005"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L004_G003_M001",
+          "V_012_R01_L004_G003_M002",
+          "V_012_R01_L004_G003_M003"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L004_G003_C001",
+          "V_012_R01_L004_G003_C002"
+        ],
+        "group_only": [
+          "V_012_R01_L004_G003_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.32530349013657056,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L004_G004",
+      "line_id": "V_012_R01_L004",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        996,
+        909,
+        1232,
+        978
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 3,
+      "group_count": 8,
+      "normalized_group_rank": 0.42857142857142855,
+      "normalized_pixel_center": 0.43155310006138736,
+      "source_pixel_center_x": 1114.0,
+      "source_pixel_center_y": 943.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        411,
+        2040
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L004_G004_F001",
+          "V_012_R01_L004_G004_F002",
+          "V_012_R01_L004_G004_F003",
+          "V_012_R01_L004_G004_F004",
+          "V_012_R01_L004_G004_F005",
+          "V_012_R01_L004_G004_F006",
+          "V_012_R01_L004_G004_F007"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L004_G004_M001",
+          "V_012_R01_L004_G004_M002",
+          "V_012_R01_L004_G004_M003",
+          "V_012_R01_L004_G004_M004",
+          "V_012_R01_L004_G004_M005",
+          "V_012_R01_L004_G004_M006"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L004_G004_C001",
+          "V_012_R01_L004_G004_C002",
+          "V_012_R01_L004_G004_C003",
+          "V_012_R01_L004_G004_C004"
+        ],
+        "group_only": [
+          "V_012_R01_L004_G004_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.4226100151745068,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L004_G005",
+      "line_id": "V_012_R01_L004",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1260,
+        946,
+        1344,
+        976
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 4,
+      "group_count": 8,
+      "normalized_group_rank": 0.5714285714285714,
+      "normalized_pixel_center": 0.5469613259668509,
+      "source_pixel_center_x": 1302.0,
+      "source_pixel_center_y": 961.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        411,
+        2040
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L004_G005_F001",
+          "V_012_R01_L004_G005_F002",
+          "V_012_R01_L004_G005_F003"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L004_G005_M001"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L004_G005_C001"
+        ],
+        "group_only": [
+          "V_012_R01_L004_G005_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_004"
+      ],
+      "source_pixel_x_page_fraction": 0.4939301972685888,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L004_G006",
+      "line_id": "V_012_R01_L004",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1365,
+        908,
+        1582,
+        1014
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 5,
+      "group_count": 8,
+      "normalized_group_rank": 0.7142857142857143,
+      "normalized_pixel_center": 0.6522406384284838,
+      "source_pixel_center_x": 1473.5,
+      "source_pixel_center_y": 961.0,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        411,
+        2040
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L004_G006_F001",
+          "V_012_R01_L004_G006_F002",
+          "V_012_R01_L004_G006_F003",
+          "V_012_R01_L004_G006_F004",
+          "V_012_R01_L004_G006_F005"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L004_G006_M001",
+          "V_012_R01_L004_G006_M002"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L004_G006_C001"
+        ],
+        "group_only": [
+          "V_012_R01_L004_G006_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_099",
+        "VF_fine_components_K128_023",
+        "VF_fine_components_K128_042",
+        "VF_fine_components_K128_017",
+        "VF_fine_components_K128_061"
+      ],
+      "visual_merged_units": [
+        "VS11",
+        "VS01",
+        "VS08",
+        "VS12",
+        "VS01"
+      ],
+      "visual_factored_units": [
+        "VS11",
+        "VS01",
+        "VS08",
+        "VS04",
+        "VS01",
+        "VS01"
+      ],
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.5589908952959028,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L004_G007",
+      "line_id": "V_012_R01_L004",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1626,
+        940,
+        1764,
+        987
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 6,
+      "group_count": 8,
+      "normalized_group_rank": 0.8571428571428571,
+      "normalized_pixel_center": 0.7882136279926335,
+      "source_pixel_center_x": 1695.0,
+      "source_pixel_center_y": 963.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        411,
+        2040
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L004_G007_F001",
+          "V_012_R01_L004_G007_F002",
+          "V_012_R01_L004_G007_F003",
+          "V_012_R01_L004_G007_F004"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L004_G007_M001",
+          "V_012_R01_L004_G007_M002",
+          "V_012_R01_L004_G007_M003",
+          "V_012_R01_L004_G007_M004"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L004_G007_C001"
+        ],
+        "group_only": [
+          "V_012_R01_L004_G007_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_040",
+        "VF_fine_components_K128_032",
+        "VF_fine_components_K128_126",
+        "VF_fine_components_K128_038"
+      ],
+      "visual_merged_units": [
+        "VS07",
+        "VS01",
+        "VS05",
+        "VS02"
+      ],
+      "visual_factored_units": [
+        "VS07",
+        "VS01",
+        "VS05",
+        "VS02"
+      ],
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_066",
+        "VF_medium_assemblies_K128_118",
+        "VF_medium_assemblies_K128_024",
+        "VF_medium_assemblies_K128_096"
+      ],
+      "source_pixel_x_page_fraction": 0.6430197268588771,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_012_R01_L004_G008",
+      "line_id": "V_012_R01_L004",
+      "view_id": "V_012",
+      "split": "train",
+      "folio_component": "5",
+      "bbox_xyxy": [
+        1799,
+        934,
+        2040,
+        989
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 7,
+      "group_count": 8,
+      "normalized_group_rank": 1.0,
+      "normalized_pixel_center": 0.9260282381829343,
+      "source_pixel_center_x": 1919.5,
+      "source_pixel_center_y": 961.5,
+      "native_image_width_px": 2636,
+      "native_image_height_px": 3723,
+      "line_x_extent_px": [
+        411,
+        2040
+      ],
+      "body_height_proxy_px": 29.0,
+      "models": {
+        "fine_components": [
+          "V_012_R01_L004_G008_F001",
+          "V_012_R01_L004_G008_F002",
+          "V_012_R01_L004_G008_F003",
+          "V_012_R01_L004_G008_F004",
+          "V_012_R01_L004_G008_F005",
+          "V_012_R01_L004_G008_F006",
+          "V_012_R01_L004_G008_F007"
+        ],
+        "medium_assemblies": [
+          "V_012_R01_L004_G008_M001",
+          "V_012_R01_L004_G008_M002",
+          "V_012_R01_L004_G008_M003",
+          "V_012_R01_L004_G008_M004",
+          "V_012_R01_L004_G008_M005"
+        ],
+        "compound_candidates": [
+          "V_012_R01_L004_G008_C001",
+          "V_012_R01_L004_G008_C002",
+          "V_012_R01_L004_G008_C003"
+        ],
+        "group_only": [
+          "V_012_R01_L004_G008_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.7281866464339909,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    }
+  ],
+  "units": {
+    "V_012_R01_L001_G001_F001": {
+      "family": "VF_fine_components_K128_021",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 3.8217380046844482,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G001_F002": {
+      "family": "VF_fine_components_K128_009",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.669445991516113,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L001_G001_F003": {
+      "family": "VF_fine_components_K128_102",
+      "broad_structure": "VS12",
+      "admitted": false,
+      "distance": 5.858660697937012,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G001_F004": {
+      "family": "VF_fine_components_K128_068",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.006914138793945,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L001_G002_F001": {
+      "family": "VF_fine_components_K128_090",
+      "broad_structure": "VS13",
+      "admitted": true,
+      "distance": 4.151402473449707,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G002_F002": {
+      "family": "VF_fine_components_K128_045",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.7875566482543945,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L001_G002_F003": {
+      "family": "VF_fine_components_K128_023",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.3051328659057617,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G002_F004": {
+      "family": "VF_fine_components_K128_063",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 5.2820143699646,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G003_F001": {
+      "family": "VF_fine_components_K128_025",
+      "broad_structure": "VS04",
+      "admitted": true,
+      "distance": 3.5188889503479004,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G003_F002": {
+      "family": "VF_fine_components_K128_029",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 4.481624603271484,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G003_F003": {
+      "family": "VF_fine_components_K128_044",
+      "broad_structure": "VS01",
+      "admitted": false,
+      "distance": 5.6683502197265625,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G003_F004": {
+      "family": "VF_fine_components_K128_068",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.489182472229004,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L001_G004_F001": {
+      "family": "VF_fine_components_K128_108",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 2.6988930702209473,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G004_F002": {
+      "family": "VF_fine_components_K128_067",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 3.234391927719116,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G004_F003": {
+      "family": "VF_fine_components_K128_126",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 3.4135937690734863,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G004_F004": {
+      "family": "VF_fine_components_K128_038",
+      "broad_structure": "VS02",
+      "admitted": true,
+      "distance": 5.229312419891357,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G005_F001": {
+      "family": "VF_fine_components_K128_044",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.943628311157227,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G005_F002": {
+      "family": "VF_fine_components_K128_067",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 4.267254829406738,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G005_F003": {
+      "family": "VF_fine_components_K128_089",
+      "broad_structure": "VS03",
+      "admitted": true,
+      "distance": 3.3492586612701416,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G005_F004": {
+      "family": "VF_fine_components_K128_023",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.485356569290161,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G005_F005": {
+      "family": "VF_fine_components_K128_118",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 5.155056953430176,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G005_F006": {
+      "family": "VF_fine_components_K128_016",
+      "broad_structure": "VS03",
+      "admitted": true,
+      "distance": 2.999746084213257,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G005_F007": {
+      "family": "VF_fine_components_K128_105",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 3.8922929763793945,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G006_F001": {
+      "family": "VF_fine_components_K128_025",
+      "broad_structure": "VS04",
+      "admitted": true,
+      "distance": 3.9415957927703857,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G006_F002": {
+      "family": "VF_fine_components_K128_057",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.513646602630615,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G006_F003": {
+      "family": "VF_fine_components_K128_040",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 5.297856330871582,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G006_F004": {
+      "family": "VF_fine_components_K128_063",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 4.03521728515625,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G007_F001": {
+      "family": "VF_fine_components_K128_040",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 3.585676670074463,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G007_F002": {
+      "family": "VF_fine_components_K128_037",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 3.632568120956421,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G007_F003": {
+      "family": "VF_fine_components_K128_025",
+      "broad_structure": "VS04",
+      "admitted": true,
+      "distance": 3.202073335647583,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G008_F001": {
+      "family": "VF_fine_components_K128_098",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 4.031084060668945,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G008_F002": {
+      "family": "VF_fine_components_K128_063",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 3.1365878582000732,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G001_F001": {
+      "family": "VF_fine_components_K128_061",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.731047630310059,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G001_F002": {
+      "family": "VF_fine_components_K128_035",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.0589256286621094,
+      "review_category": "writing_variable"
+    },
+    "V_012_R01_L002_G002_F001": {
+      "family": "VF_fine_components_K128_023",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.474728107452393,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G002_F002": {
+      "family": "VF_fine_components_K128_046",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 4.854540824890137,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G002_F003": {
+      "family": "VF_fine_components_K128_065",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.5916054248809814,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L002_G002_F004": {
+      "family": "VF_fine_components_K128_056",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.139138221740723,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L002_G002_F005": {
+      "family": "VF_fine_components_K128_030",
+      "broad_structure": "VS13",
+      "admitted": true,
+      "distance": 4.29852294921875,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G002_F006": {
+      "family": "VF_fine_components_K128_049",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.191596031188965,
+      "review_category": "artifact"
+    },
+    "V_012_R01_L002_G003_F001": {
+      "family": "VF_fine_components_K128_064",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 5.1645684242248535,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G003_F002": {
+      "family": "VF_fine_components_K128_049",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.214476585388184,
+      "review_category": "artifact"
+    },
+    "V_012_R01_L002_G003_F003": {
+      "family": "VF_fine_components_K128_109",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 4.130244731903076,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G003_F004": {
+      "family": "VF_fine_components_K128_011",
+      "broad_structure": "VS06",
+      "admitted": true,
+      "distance": 3.1482977867126465,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G003_F005": {
+      "family": "VF_fine_components_K128_039",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.796113967895508,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L002_G003_F006": {
+      "family": "VF_fine_components_K128_095",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.2694501876831055,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L002_G003_F007": {
+      "family": "VF_fine_components_K128_104",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.679563283920288,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L002_G003_F008": {
+      "family": "VF_fine_components_K128_101",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.515233039855957,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L002_G004_F001": {
+      "family": "VF_fine_components_K128_124",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.146844863891602,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L002_G004_F002": {
+      "family": "VF_fine_components_K128_045",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.296777248382568,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L002_G005_F001": {
+      "family": "VF_fine_components_K128_044",
+      "broad_structure": "VS01",
+      "admitted": false,
+      "distance": 5.913909912109375,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G005_F002": {
+      "family": "VF_fine_components_K128_125",
+      "broad_structure": "VS17",
+      "admitted": true,
+      "distance": 4.507512092590332,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G005_F003": {
+      "family": "VF_fine_components_K128_002",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.000864267349243,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G005_F004": {
+      "family": "VF_fine_components_K128_027",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 3.499478340148926,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G006_F001": {
+      "family": "VF_fine_components_K128_107",
+      "broad_structure": "VS09",
+      "admitted": false,
+      "distance": 6.033006191253662,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G006_F002": {
+      "family": "VF_fine_components_K128_124",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.520218372344971,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L002_G006_F003": {
+      "family": "VF_fine_components_K128_030",
+      "broad_structure": "VS13",
+      "admitted": true,
+      "distance": 5.182888507843018,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G006_F004": {
+      "family": "VF_fine_components_K128_105",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 3.6632115840911865,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G007_F001": {
+      "family": "VF_fine_components_K128_060",
+      "broad_structure": "VS13",
+      "admitted": false,
+      "distance": 6.157994270324707,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G007_F002": {
+      "family": "VF_fine_components_K128_020",
+      "broad_structure": "VS15",
+      "admitted": true,
+      "distance": 5.437495231628418,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G007_F003": {
+      "family": "VF_fine_components_K128_030",
+      "broad_structure": "VS13",
+      "admitted": true,
+      "distance": 3.843409299850464,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G007_F004": {
+      "family": "VF_fine_components_K128_020",
+      "broad_structure": "VS15",
+      "admitted": true,
+      "distance": 5.5055694580078125,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G008_F001": {
+      "family": "VF_fine_components_K128_108",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.480353355407715,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G008_F002": {
+      "family": "VF_fine_components_K128_037",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 4.208327293395996,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G008_F003": {
+      "family": "VF_fine_components_K128_058",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.2130446434021,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L002_G008_F004": {
+      "family": "VF_fine_components_K128_004",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.85466194152832,
+      "review_category": "artifact"
+    },
+    "V_012_R01_L002_G008_F005": {
+      "family": "VF_fine_components_K128_007",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.932459831237793,
+      "review_category": "artifact"
+    },
+    "V_012_R01_L002_G008_F006": {
+      "family": "VF_fine_components_K128_020",
+      "broad_structure": "VS15",
+      "admitted": true,
+      "distance": 6.077367305755615,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G008_F007": {
+      "family": "VF_fine_components_K128_111",
+      "broad_structure": "VS03",
+      "admitted": true,
+      "distance": 4.743556022644043,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G009_F001": {
+      "family": "VF_fine_components_K128_054",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.890816688537598,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G009_F002": {
+      "family": "VF_fine_components_K128_051",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.245748043060303,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L002_G009_F003": {
+      "family": "VF_fine_components_K128_050",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.255796432495117,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G009_F004": {
+      "family": "VF_fine_components_K128_118",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 4.105445384979248,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G001_F001": {
+      "family": "VF_fine_components_K128_107",
+      "broad_structure": "VS09",
+      "admitted": true,
+      "distance": 4.705147743225098,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G001_F002": {
+      "family": "VF_fine_components_K128_067",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 3.6312599182128906,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G001_F003": {
+      "family": "VF_fine_components_K128_019",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.239356517791748,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L003_G001_F004": {
+      "family": "VF_fine_components_K128_047",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.089498281478882,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L003_G001_F005": {
+      "family": "VF_fine_components_K128_104",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.701700210571289,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L003_G002_F001": {
+      "family": "VF_fine_components_K128_110",
+      "broad_structure": "VS15",
+      "admitted": false,
+      "distance": 6.633105754852295,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G002_F002": {
+      "family": "VF_fine_components_K128_007",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.9124298095703125,
+      "review_category": "artifact"
+    },
+    "V_012_R01_L003_G002_F003": {
+      "family": "VF_fine_components_K128_067",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 4.428763389587402,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G002_F004": {
+      "family": "VF_fine_components_K128_089",
+      "broad_structure": "VS03",
+      "admitted": false,
+      "distance": 5.789312839508057,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G003_F001": {
+      "family": "VF_fine_components_K128_052",
+      "broad_structure": "VS04",
+      "admitted": true,
+      "distance": 2.7634589672088623,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G003_F002": {
+      "family": "VF_fine_components_K128_063",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 3.366575002670288,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G004_F001": {
+      "family": "VF_fine_components_K128_040",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 3.889092445373535,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G004_F002": {
+      "family": "VF_fine_components_K128_011",
+      "broad_structure": "VS06",
+      "admitted": true,
+      "distance": 3.5369315147399902,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G004_F003": {
+      "family": "VF_fine_components_K128_078",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.0113461017608643,
+      "review_category": "writing_variable"
+    },
+    "V_012_R01_L003_G005_F001": {
+      "family": "VF_fine_components_K128_023",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.244333267211914,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G005_F002": {
+      "family": "VF_fine_components_K128_051",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.964340686798096,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L003_G005_F003": {
+      "family": "VF_fine_components_K128_021",
+      "broad_structure": "VS08",
+      "admitted": false,
+      "distance": 5.999292850494385,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G005_F004": {
+      "family": "VF_fine_components_K128_119",
+      "broad_structure": "VS04",
+      "admitted": false,
+      "distance": 5.390422821044922,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G005_F005": {
+      "family": "VF_fine_components_K128_038",
+      "broad_structure": "VS02",
+      "admitted": true,
+      "distance": 5.7603759765625,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G006_F001": {
+      "family": "VF_fine_components_K128_124",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.912789821624756,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L003_G006_F002": {
+      "family": "VF_fine_components_K128_004",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.824466228485107,
+      "review_category": "artifact"
+    },
+    "V_012_R01_L003_G006_F003": {
+      "family": "VF_fine_components_K128_050",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.3521366119384766,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G006_F004": {
+      "family": "VF_fine_components_K128_120",
+      "broad_structure": "VS18",
+      "admitted": true,
+      "distance": 3.9065566062927246,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G006_F005": {
+      "family": "VF_fine_components_K128_105",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 3.9486379623413086,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G007_F001": {
+      "family": "VF_fine_components_K128_061",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.547018527984619,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G007_F002": {
+      "family": "VF_fine_components_K128_097",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 3.2214250564575195,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G007_F003": {
+      "family": "VF_fine_components_K128_128",
+      "broad_structure": "VS04",
+      "admitted": true,
+      "distance": 3.005943536758423,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G007_F004": {
+      "family": "VF_fine_components_K128_063",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 3.7951126098632812,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G008_F001": {
+      "family": "VF_fine_components_K128_053",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.0642924308776855,
+      "review_category": "writing_variable"
+    },
+    "V_012_R01_L003_G008_F002": {
+      "family": "VF_fine_components_K128_042",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 3.760694980621338,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G008_F003": {
+      "family": "VF_fine_components_K128_119",
+      "broad_structure": "VS04",
+      "admitted": true,
+      "distance": 3.8299524784088135,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G008_F004": {
+      "family": "VF_fine_components_K128_050",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.018823623657227,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G008_F005": {
+      "family": "VF_fine_components_K128_073",
+      "broad_structure": "VS14",
+      "admitted": false,
+      "distance": 8.028704643249512,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G008_F006": {
+      "family": "VF_fine_components_K128_101",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.407164573669434,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L004_G001_F001": {
+      "family": "VF_fine_components_K128_101",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.2873690128326416,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L004_G001_F002": {
+      "family": "VF_fine_components_K128_007",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.283499240875244,
+      "review_category": "artifact"
+    },
+    "V_012_R01_L004_G001_F003": {
+      "family": "VF_fine_components_K128_124",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.372727870941162,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L004_G001_F004": {
+      "family": "VF_fine_components_K128_062",
+      "broad_structure": "VS19",
+      "admitted": true,
+      "distance": 4.193065166473389,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G002_F001": {
+      "family": "VF_fine_components_K128_090",
+      "broad_structure": "VS13",
+      "admitted": false,
+      "distance": 5.639358043670654,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G002_F002": {
+      "family": "VF_fine_components_K128_085",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.597982883453369,
+      "review_category": "artifact"
+    },
+    "V_012_R01_L004_G002_F003": {
+      "family": "VF_fine_components_K128_070",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 3.5053131580352783,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G002_F004": {
+      "family": "VF_fine_components_K128_063",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 4.297835826873779,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G003_F001": {
+      "family": "VF_fine_components_K128_027",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 4.430552959442139,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G003_F002": {
+      "family": "VF_fine_components_K128_057",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.168127059936523,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G003_F003": {
+      "family": "VF_fine_components_K128_006",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 3.7111411094665527,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G003_F004": {
+      "family": "VF_fine_components_K128_035",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.753180980682373,
+      "review_category": "writing_variable"
+    },
+    "V_012_R01_L004_G003_F005": {
+      "family": "VF_fine_components_K128_101",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.43621301651001,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L004_G004_F001": {
+      "family": "VF_fine_components_K128_124",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.780994415283203,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L004_G004_F002": {
+      "family": "VF_fine_components_K128_021",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 4.923459529876709,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G004_F003": {
+      "family": "VF_fine_components_K128_010",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.979763507843018,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G004_F004": {
+      "family": "VF_fine_components_K128_054",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 5.981843948364258,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G004_F005": {
+      "family": "VF_fine_components_K128_023",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.1079366207122803,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G004_F006": {
+      "family": "VF_fine_components_K128_118",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 4.074196815490723,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G004_F007": {
+      "family": "VF_fine_components_K128_016",
+      "broad_structure": "VS03",
+      "admitted": true,
+      "distance": 3.0472593307495117,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G005_F001": {
+      "family": "VF_fine_components_K128_126",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 4.631877899169922,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G005_F002": {
+      "family": "VF_fine_components_K128_085",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.9621522426605225,
+      "review_category": "artifact"
+    },
+    "V_012_R01_L004_G005_F003": {
+      "family": "VF_fine_components_K128_061",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.601782321929932,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G006_F001": {
+      "family": "VF_fine_components_K128_099",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 4.295142650604248,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G006_F002": {
+      "family": "VF_fine_components_K128_023",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.8214077949523926,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G006_F003": {
+      "family": "VF_fine_components_K128_042",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 3.593972682952881,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G006_F004": {
+      "family": "VF_fine_components_K128_017",
+      "broad_structure": "VS12",
+      "admitted": true,
+      "distance": 2.8889243602752686,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G006_F005": {
+      "family": "VF_fine_components_K128_061",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.592233419418335,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G007_F001": {
+      "family": "VF_fine_components_K128_040",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 3.870959758758545,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G007_F002": {
+      "family": "VF_fine_components_K128_032",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.86181640625,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G007_F003": {
+      "family": "VF_fine_components_K128_126",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 3.459566116333008,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G007_F004": {
+      "family": "VF_fine_components_K128_038",
+      "broad_structure": "VS02",
+      "admitted": true,
+      "distance": 4.577450752258301,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G008_F001": {
+      "family": "VF_fine_components_K128_124",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.595877647399902,
+      "review_category": "fragment"
+    },
+    "V_012_R01_L004_G008_F002": {
+      "family": "VF_fine_components_K128_028",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.330761432647705,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L004_G008_F003": {
+      "family": "VF_fine_components_K128_061",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.3260416984558105,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G008_F004": {
+      "family": "VF_fine_components_K128_040",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 3.3626368045806885,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G008_F005": {
+      "family": "VF_fine_components_K128_067",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 2.7939090728759766,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G008_F006": {
+      "family": "VF_fine_components_K128_126",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 3.943051815032959,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G008_F007": {
+      "family": "VF_fine_components_K128_087",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.009513854980469,
+      "review_category": "writing_variable"
+    },
+    "V_012_R01_L001_G001_M001": {
+      "family": "VF_medium_assemblies_K128_003",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.094768047332764,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L001_G001_M002": {
+      "family": "VF_medium_assemblies_K128_120",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.658275127410889,
+      "review_category": "writing_variable"
+    },
+    "V_012_R01_L001_G001_M003": {
+      "family": "VF_medium_assemblies_K128_115",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.77676248550415,
+      "review_category": "artifact"
+    },
+    "V_012_R01_L001_G002_M001": {
+      "family": "VF_medium_assemblies_K128_046",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.171072483062744,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G002_M002": {
+      "family": "VF_medium_assemblies_K128_069",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.54106330871582,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G002_M003": {
+      "family": "VF_medium_assemblies_K128_096",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.862346649169922,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G002_M004": {
+      "family": "VF_medium_assemblies_K128_062",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 7.191257953643799,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L001_G003_M001": {
+      "family": "VF_medium_assemblies_K128_031",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.093244552612305,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G003_M002": {
+      "family": "VF_medium_assemblies_K128_091",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.767640113830566,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G003_M003": {
+      "family": "VF_medium_assemblies_K128_062",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.125277996063232,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L001_G004_M001": {
+      "family": "VF_medium_assemblies_K128_018",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.1894664764404297,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G004_M002": {
+      "family": "VF_medium_assemblies_K128_114",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 2.1966583728790283,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G005_M001": {
+      "family": "VF_medium_assemblies_K128_116",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.331734657287598,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G005_M002": {
+      "family": "VF_medium_assemblies_K128_038",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.950005531311035,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G005_M003": {
+      "family": "VF_medium_assemblies_K128_018",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.093515634536743,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G005_M004": {
+      "family": "VF_medium_assemblies_K128_069",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.86675500869751,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G005_M005": {
+      "family": "VF_medium_assemblies_K128_020",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.3771963119506836,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G005_M006": {
+      "family": "VF_medium_assemblies_K128_057",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.422128677368164,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G006_M001": {
+      "family": "VF_medium_assemblies_K128_017",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.373819351196289,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G006_M002": {
+      "family": "VF_medium_assemblies_K128_018",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.0951385498046875,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G006_M003": {
+      "family": "VF_medium_assemblies_K128_106",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.968388080596924,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G006_M004": {
+      "family": "VF_medium_assemblies_K128_057",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.840602874755859,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G007_M001": {
+      "family": "VF_medium_assemblies_K128_066",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.497397422790527,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G007_M002": {
+      "family": "VF_medium_assemblies_K128_003",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.077254295349121,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L001_G008_M001": {
+      "family": "VF_medium_assemblies_K128_066",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.237827301025391,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L001_G008_M002": {
+      "family": "VF_medium_assemblies_K128_057",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.798494815826416,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G001_M001": {
+      "family": "VF_medium_assemblies_K128_096",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.353516101837158,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G001_M002": {
+      "family": "VF_medium_assemblies_K128_007",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.8220443725585938,
+      "review_category": "writing_variable"
+    },
+    "V_012_R01_L002_G002_M001": {
+      "family": "VF_medium_assemblies_K128_096",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.829082489013672,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G002_M002": {
+      "family": "VF_medium_assemblies_K128_064",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.910198211669922,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G002_M003": {
+      "family": "VF_medium_assemblies_K128_101",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.4140191078186035,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G003_M001": {
+      "family": "VF_medium_assemblies_K128_062",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.68009090423584,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L002_G003_M002": {
+      "family": "VF_medium_assemblies_K128_026",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.5626912117004395,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L002_G003_M003": {
+      "family": "VF_medium_assemblies_K128_050",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.594104766845703,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G003_M004": {
+      "family": "VF_medium_assemblies_K128_095",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.310876369476318,
+      "review_category": "artifact"
+    },
+    "V_012_R01_L002_G003_M005": {
+      "family": "VF_medium_assemblies_K128_035",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.003143310546875,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G004_M001": {
+      "family": "VF_medium_assemblies_K128_046",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.347161769866943,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G004_M002": {
+      "family": "VF_medium_assemblies_K128_114",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.191498279571533,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G005_M001": {
+      "family": "VF_medium_assemblies_K128_053",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.767026424407959,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G005_M002": {
+      "family": "VF_medium_assemblies_K128_050",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.270528316497803,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G005_M003": {
+      "family": "VF_medium_assemblies_K128_057",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.4879560470581055,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G006_M001": {
+      "family": "VF_medium_assemblies_K128_079",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.5677266120910645,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G006_M002": {
+      "family": "VF_medium_assemblies_K128_101",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.099867343902588,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G007_M001": {
+      "family": "VF_medium_assemblies_K128_102",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.9457576274871826,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G007_M002": {
+      "family": "VF_medium_assemblies_K128_086",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.593824863433838,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G007_M003": {
+      "family": "VF_medium_assemblies_K128_075",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.952085494995117,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G008_M001": {
+      "family": "VF_medium_assemblies_K128_018",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.815367698669434,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G008_M002": {
+      "family": "VF_medium_assemblies_K128_037",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.087067604064941,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G008_M003": {
+      "family": "VF_medium_assemblies_K128_021",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 7.227977275848389,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L002_G008_M004": {
+      "family": "VF_medium_assemblies_K128_077",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.027390956878662,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L002_G009_M001": {
+      "family": "VF_medium_assemblies_K128_054",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.318676948547363,
+      "review_category": "mixed"
+    },
+    "V_012_R01_L002_G009_M002": {
+      "family": "VF_medium_assemblies_K128_069",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.011106491088867,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G001_M001": {
+      "family": "VF_medium_assemblies_K128_088",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.373824119567871,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G001_M002": {
+      "family": "VF_medium_assemblies_K128_004",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.557732105255127,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G001_M003": {
+      "family": "VF_medium_assemblies_K128_029",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.07435417175293,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G002_M001": {
+      "family": "VF_medium_assemblies_K128_124",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.4108686447143555,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G002_M002": {
+      "family": "VF_medium_assemblies_K128_004",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.8437676429748535,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G003_M001": {
+      "family": "VF_medium_assemblies_K128_047",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.560955762863159,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G003_M002": {
+      "family": "VF_medium_assemblies_K128_057",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.222173690795898,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G004_M001": {
+      "family": "VF_medium_assemblies_K128_045",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.0343947410583496,
+      "review_category": "writing_variable"
+    },
+    "V_012_R01_L003_G005_M001": {
+      "family": "VF_medium_assemblies_K128_125",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.298591613769531,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G005_M002": {
+      "family": "VF_medium_assemblies_K128_114",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.4521894454956055,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G006_M001": {
+      "family": "VF_medium_assemblies_K128_047",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.8269379138946533,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G006_M002": {
+      "family": "VF_medium_assemblies_K128_063",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.426882743835449,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G006_M003": {
+      "family": "VF_medium_assemblies_K128_079",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.738682270050049,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G006_M004": {
+      "family": "VF_medium_assemblies_K128_057",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.0875630378723145,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G007_M001": {
+      "family": "VF_medium_assemblies_K128_111",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.3641598224639893,
+      "review_category": "writing_variable"
+    },
+    "V_012_R01_L003_G007_M002": {
+      "family": "VF_medium_assemblies_K128_057",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.636455535888672,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L003_G008_M001": {
+      "family": "VF_medium_assemblies_K128_040",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.230273723602295,
+      "review_category": "writing_variable"
+    },
+    "V_012_R01_L003_G008_M002": {
+      "family": "VF_medium_assemblies_K128_055",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.411426067352295,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G001_M001": {
+      "family": "VF_medium_assemblies_K128_042",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.2008719444274902,
+      "review_category": "artifact"
+    },
+    "V_012_R01_L004_G001_M002": {
+      "family": "VF_medium_assemblies_K128_109",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.4112420082092285,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G002_M001": {
+      "family": "VF_medium_assemblies_K128_086",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 7.591174602508545,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G002_M002": {
+      "family": "VF_medium_assemblies_K128_071",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.205669403076172,
+      "review_category": "writing_variable"
+    },
+    "V_012_R01_L004_G002_M003": {
+      "family": "VF_medium_assemblies_K128_055",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.221563816070557,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G003_M001": {
+      "family": "VF_medium_assemblies_K128_057",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.283356189727783,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G003_M002": {
+      "family": "VF_medium_assemblies_K128_083",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.335434913635254,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G003_M003": {
+      "family": "VF_medium_assemblies_K128_007",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.793491840362549,
+      "review_category": "writing_variable"
+    },
+    "V_012_R01_L004_G004_M001": {
+      "family": "VF_medium_assemblies_K128_031",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.7340569496154785,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G004_M002": {
+      "family": "VF_medium_assemblies_K128_018",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.790527820587158,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G004_M003": {
+      "family": "VF_medium_assemblies_K128_075",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 7.009324073791504,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G004_M004": {
+      "family": "VF_medium_assemblies_K128_063",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.80713152885437,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G004_M005": {
+      "family": "VF_medium_assemblies_K128_069",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.112299919128418,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G004_M006": {
+      "family": "VF_medium_assemblies_K128_020",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.6197235584259033,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G005_M001": {
+      "family": "VF_medium_assemblies_K128_004",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.6724853515625,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G006_M001": {
+      "family": "VF_medium_assemblies_K128_040",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.7528281211853027,
+      "review_category": "writing_variable"
+    },
+    "V_012_R01_L004_G006_M002": {
+      "family": "VF_medium_assemblies_K128_098",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.271312236785889,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G007_M001": {
+      "family": "VF_medium_assemblies_K128_066",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.8007569313049316,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G007_M002": {
+      "family": "VF_medium_assemblies_K128_118",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.093600273132324,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G007_M003": {
+      "family": "VF_medium_assemblies_K128_024",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.7376275062561035,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G007_M004": {
+      "family": "VF_medium_assemblies_K128_096",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.662125110626221,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G008_M001": {
+      "family": "VF_medium_assemblies_K128_031",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.890009880065918,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G008_M002": {
+      "family": "VF_medium_assemblies_K128_018",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.116832256317139,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G008_M003": {
+      "family": "VF_medium_assemblies_K128_066",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.926328182220459,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G008_M004": {
+      "family": "VF_medium_assemblies_K128_036",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.839219570159912,
+      "review_category": "writing_consistent"
+    },
+    "V_012_R01_L004_G008_M005": {
+      "family": "VF_medium_assemblies_K128_038",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.237143039703369,
+      "review_category": "writing_consistent"
+    }
+  },
+  "source_candidate_sha256": "3b52be4fcaf3e07ccd759a24edc845a48961e02f1504583d195d235cfeadcdf2",
+  "status": "Frozen v4 image prototypes transferred without refitting; source geometry v11; not a recovered alphabet"
+}

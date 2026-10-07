@@ -1,0 +1,213 @@
+{
+  "registered_at_utc": "2026-10-07T05:57:12.970332+00:00",
+  "question": "Can confirmed-writing parents support reproducible neutral partial feature profiles without discrete class assignment?",
+  "dependencies": {
+    "data/observations/visual_dataset_v3/FREEZE_MANIFEST.json": "4f593cc679e6395c164425bb9eca5ca3df01abda7dc0be5a4ad9a0a3ba6050fc",
+    "data/observations/visual_dataset_v4/FREEZE_MANIFEST.json": "07fa88ae01152f9ba18a187987e61d93989f2c23045f2ff6c7e332c7428d9955",
+    "data/observations/visual_dataset_v5/FREEZE_MANIFEST.json": "16f040e6e80f8a1fd47b796811935df4c5546021d4b41f79933ee18cd668fed8",
+    "data/observations/visual_dataset_v6/FREEZE_MANIFEST.json": "22b5a69c31ffdf907bf2c32e4ee8116252d9a5989ad59c76bd11a2ddb3848f0a",
+    "data/observations/structural_inventory_v6_development/discovery_parents.json": "dbf31196b27c1a08ebc6a6f743c8e2cb9bb0ebb559933d5f9aa1deef58d2eb03",
+    "data/observations/structural_inventory_v6_development/fresh_source_reference.json": "8f9f37a1de243214fcaebc6b0608f341e29ee6e691648451e78c11887f6620e4",
+    "data/observations/visual_dataset_v6/expanded_parent_assignments.json": "48d4fe9c31612b6524b6bb6ccbb1e7e0ae6a9959fb50fc6f73a11d37f583b695",
+    "src/neutral_feature_trial_v1.py": "8045fe6341dacbce9f74a8f58a17f21a762a9277bbd0990d2858d44857f7ed66"
+  },
+  "features": {
+    "log_height_body": {
+      "family": "geometry",
+      "max_variant_range": 0.18,
+      "definition": "log native ink-envelope height/body proxy"
+    },
+    "log_width_body": {
+      "family": "geometry",
+      "max_variant_range": 0.18,
+      "definition": "log native ink-envelope width/body proxy"
+    },
+    "log_aspect": {
+      "family": "geometry",
+      "max_variant_range": 0.18,
+      "definition": "log native width/height"
+    },
+    "ink_density": {
+      "family": "geometry",
+      "max_variant_range": 0.1,
+      "definition": "ink pixel fraction of tight parent envelope"
+    },
+    "ink_centroid_x": {
+      "family": "distribution",
+      "max_variant_range": 0.1,
+      "definition": "ink centroid relative to own envelope width"
+    },
+    "ink_centroid_y": {
+      "family": "distribution",
+      "max_variant_range": 0.1,
+      "definition": "ink centroid relative to own envelope height"
+    },
+    "ink_spread_x": {
+      "family": "distribution",
+      "max_variant_range": 0.08,
+      "definition": "ink x standard deviation/envelope width"
+    },
+    "ink_spread_y": {
+      "family": "distribution",
+      "max_variant_range": 0.08,
+      "definition": "ink y standard deviation/envelope height"
+    },
+    "raster_components": {
+      "family": "connectivity",
+      "max_variant_range": 0,
+      "definition": "eight-connected raster components, not pen lifts"
+    },
+    "significant_cavity_count": {
+      "family": "cavity",
+      "max_variant_range": 0,
+      "definition": "enclosed background regions, area>=max(8px,1.2%ink)"
+    },
+    "cavity_area_fraction": {
+      "family": "cavity",
+      "max_variant_range": 0.08,
+      "definition": "significant enclosed background area/envelope area"
+    },
+    "cavity_centroid_x": {
+      "family": "cavity",
+      "max_variant_range": 0.1,
+      "definition": "area-weighted cavity centroid relative width; absent if no cavity"
+    },
+    "cavity_centroid_y": {
+      "family": "cavity",
+      "max_variant_range": 0.1,
+      "definition": "area-weighted cavity centroid relative height; absent if no cavity"
+    },
+    "cavity_upper_count": {
+      "family": "cavity",
+      "max_variant_range": 0,
+      "definition": "significant cavity centroids above parent mid-height"
+    },
+    "cavity_lower_count": {
+      "family": "cavity",
+      "max_variant_range": 0,
+      "definition": "significant cavity centroids at/below parent mid-height"
+    },
+    "skeleton_endpoint_count": {
+      "family": "graph",
+      "max_variant_range": 0,
+      "definition": "skeleton endpoint pixels; nuisance-sensitive, not stroke ends"
+    },
+    "skeleton_branch_cluster_count": {
+      "family": "graph",
+      "max_variant_range": 0,
+      "definition": "connected clusters of skeleton pixels with>=3 neighbors"
+    },
+    "horizontal_run_fraction": {
+      "family": "run",
+      "max_variant_range": 0.12,
+      "definition": "longest horizontal contiguous ink run/envelope width"
+    },
+    "vertical_run_fraction": {
+      "family": "run",
+      "max_variant_range": 0.12,
+      "definition": "longest vertical contiguous ink run/envelope height"
+    },
+    "ink_row_band_0": {
+      "family": "distribution",
+      "max_variant_range": 0.1,
+      "definition": "fraction of ink in vertical third0"
+    },
+    "ink_col_band_0": {
+      "family": "distribution",
+      "max_variant_range": 0.1,
+      "definition": "fraction of ink in horizontal third0"
+    },
+    "ink_row_band_1": {
+      "family": "distribution",
+      "max_variant_range": 0.1,
+      "definition": "fraction of ink in vertical third1"
+    },
+    "ink_col_band_1": {
+      "family": "distribution",
+      "max_variant_range": 0.1,
+      "definition": "fraction of ink in horizontal third1"
+    },
+    "ink_row_band_2": {
+      "family": "distribution",
+      "max_variant_range": 0.1,
+      "definition": "fraction of ink in vertical third2"
+    },
+    "ink_col_band_2": {
+      "family": "distribution",
+      "max_variant_range": 0.1,
+      "definition": "fraction of ink in horizontal third2"
+    },
+    "ink_grid_00": {
+      "family": "distribution",
+      "max_variant_range": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin"
+    },
+    "ink_grid_01": {
+      "family": "distribution",
+      "max_variant_range": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin"
+    },
+    "ink_grid_02": {
+      "family": "distribution",
+      "max_variant_range": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin"
+    },
+    "ink_grid_10": {
+      "family": "distribution",
+      "max_variant_range": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin"
+    },
+    "ink_grid_11": {
+      "family": "distribution",
+      "max_variant_range": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin"
+    },
+    "ink_grid_12": {
+      "family": "distribution",
+      "max_variant_range": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin"
+    },
+    "ink_grid_20": {
+      "family": "distribution",
+      "max_variant_range": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin"
+    },
+    "ink_grid_21": {
+      "family": "distribution",
+      "max_variant_range": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin"
+    },
+    "ink_grid_22": {
+      "family": "distribution",
+      "max_variant_range": 0.08,
+      "definition": "fraction of ink in3x3 cell, top-left origin"
+    }
+  },
+  "source": "All638 V5 confirmed target parents plus66 V6 source-confirmed parents from three captions. Existing source/raster exposure; reused validation corpus, not globally fresh or independent adjudicators.",
+  "inputs": "Native source masks and RGB, physical relative geometry only; old class labels used for reporting strata after measurement, never for defining features/tolerances or fitting.",
+  "variants": [
+    "native contrasts9/6/12 matched whole parents",
+    "native+0.04 and-0.04 slant without clipping, nearest raster interpolation",
+    "body proxy0.90 and1.10"
+  ],
+  "stability": "Descriptor robust if full range over all variants<=fixed tolerance. Counts require exact agreement. Cavity centroids absent when no cavity; mixed presence is unknown. Output primary value and full range plus stable/unknown/not_applicable, never substitute a guessed value.",
+  "source_uncertainty": "All contact and insufficient-photo states retained. A stable numeric descriptor cannot resolve source ownership or source parent ambiguity. Split/merge or IoU<0.5 across thresholds blocks a usable whole-parent profile but per-feature measurements remain diagnostic.",
+  "usable_profile": "Source-resolved parent, matched whole-parent correspondence, >=8 stable applicable descriptors in>=3 families, requiring geometry+distribution+at least one of cavity/run/graph. Connectivity count alone cannot meet the third-family gate. Correlated descriptors are not independent evidence.",
+  "support_gates": {
+    "resolved_discovery_usable_min": 0.8,
+    "resolved_validation_usable_min": 0.8,
+    "each_validation_caption_usable_min": 0.7
+  },
+  "statistics": "Caption bootstrap, not iid parent CI. Contrast/slant robustness is operational repeatability, not independent source-feature annotation accuracy.",
+  "reproducibility": "Deterministic re-execution required; no post-result feature/tolerance edits",
+  "prohibited": [
+    "new classes",
+    "V3/V4/V5/V6 retuning",
+    "EVA/RF/v101",
+    "Currier",
+    "global pixel-x or ordinal outcomes",
+    "sequence reconstruction",
+    "decipherment"
+  ],
+  "scope": "Partial descriptor feasibility study, not V7 segmentation/model freeze or validated compositional writing alphabet."
+}

@@ -1,0 +1,37 @@
+{
+  "sealed_at_utc": "2026-10-07T05:30:10.878776+00:00",
+  "files": [
+    {
+      "path": "data/observations/structural_inventory_v6_development/sealed_candidate_model.json",
+      "sha256": "842933004e8ee116ba939901027aeea553817546fb115f74d735490d3d1701ea"
+    },
+    {
+      "path": "data/observations/structural_inventory_v6_development/source_candidate_reviews.json",
+      "sha256": "e91254c0f869b21177e543d578e2f4e9724d24b251796579ea79a977e1c8a177"
+    },
+    {
+      "path": "data/observations/structural_inventory_v6_development/calibrated_whole_candidate_discovery.json",
+      "sha256": "289fba0086a9cedd82ccdbc72cf5d59ba86d977e2cd30cfdd731649819a29cac"
+    },
+    {
+      "path": "data/observations/structural_inventory_v6_development/whole_candidate_embedding.npz",
+      "sha256": "de4c801942cc4776269f82ba1b5d464a9459ab3268ab3a5a2ec183acdd6eab16"
+    },
+    {
+      "path": "data/observations/structural_inventory_v6_development/composition_discovery.json",
+      "sha256": "54774d2583a982132f4c8e28df395c25352f4a99f74b5bbb15610412f2c76d7c"
+    },
+    {
+      "path": "data/observations/structural_inventory_v6_development/PLAN.json",
+      "sha256": "1850a032a6ee550bebbbc0513b04006332534e537274f079e42ffd050f0d6e6d"
+    },
+    {
+      "path": "data/observations/structural_inventory_v6_development/DEVELOPMENT_AMENDMENT.json",
+      "sha256": "aac01120ed3f4f630ccc91958627b25755ea448ffd68d0c19eaffe8b6731133a"
+    },
+    {
+      "path": "src/seal_inventory_candidates_v6.py",
+      "sha256": "6052ab19b045f64342b2b3ae13fd3d9c2d1ca798375f955c3fb956df3edd8b4a"
+    }
+  ]
+}

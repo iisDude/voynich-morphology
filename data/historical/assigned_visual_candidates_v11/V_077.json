@@ -1,0 +1,4582 @@
+{
+  "view": {
+    "view_id": "V_077",
+    "pdf_page": "77",
+    "caption": "38v",
+    "yale_image_id": "1006149",
+    "folio_component": "38",
+    "split": "train",
+    "image_path": "data/page_images/all/V_077.png",
+    "image_sha256": "c291db92a6a1d9ca314ae4d32afb4d32a497980faa248be034c7306a4d8267f7",
+    "width_px": "1529",
+    "height_px": "2000",
+    "panel_mapping": "caption_only; multiple visible panels may occur"
+  },
+  "groups": [
+    {
+      "group_id": "V_077_R01_L001_G001",
+      "line_id": "V_077_R01_L001",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        537,
+        2283,
+        557,
+        2316
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 0,
+      "group_count": 5,
+      "normalized_group_rank": 0.0,
+      "normalized_pixel_center": 0.0074794315632011965,
+      "source_pixel_center_x": 547.0,
+      "source_pixel_center_y": 2299.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        537,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L001_G001_F001",
+          "V_077_R01_L001_G001_F002"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L001_G001_M001"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L001_G001_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L001_G001_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.18979875086745315,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L001_G002",
+      "line_id": "V_077_R01_L001",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        865,
+        2243,
+        1219,
+        2368
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 1,
+      "group_count": 5,
+      "normalized_group_rank": 0.25,
+      "normalized_pixel_center": 0.3777112939416604,
+      "source_pixel_center_x": 1042.0,
+      "source_pixel_center_y": 2305.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        537,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L001_G002_F001",
+          "V_077_R01_L001_G002_F002",
+          "V_077_R01_L001_G002_F003",
+          "V_077_R01_L001_G002_F004",
+          "V_077_R01_L001_G002_F005",
+          "V_077_R01_L001_G002_F006",
+          "V_077_R01_L001_G002_F007",
+          "V_077_R01_L001_G002_F008",
+          "V_077_R01_L001_G002_F009",
+          "V_077_R01_L001_G002_F010",
+          "V_077_R01_L001_G002_F011"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L001_G002_M001",
+          "V_077_R01_L001_G002_M002",
+          "V_077_R01_L001_G002_M003",
+          "V_077_R01_L001_G002_M004",
+          "V_077_R01_L001_G002_M005"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L001_G002_C001",
+          "V_077_R01_L001_G002_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L001_G002_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.36155447605829283,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L001_G003",
+      "line_id": "V_077_R01_L001",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1240,
+        2276,
+        1473,
+        2367
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 2,
+      "group_count": 5,
+      "normalized_group_rank": 0.5,
+      "normalized_pixel_center": 0.612939416604338,
+      "source_pixel_center_x": 1356.5,
+      "source_pixel_center_y": 2321.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        537,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L001_G003_F001",
+          "V_077_R01_L001_G003_F002",
+          "V_077_R01_L001_G003_F003",
+          "V_077_R01_L001_G003_F004",
+          "V_077_R01_L001_G003_F005",
+          "V_077_R01_L001_G003_F006"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L001_G003_M001",
+          "V_077_R01_L001_G003_M002",
+          "V_077_R01_L001_G003_M003"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L001_G003_C001",
+          "V_077_R01_L001_G003_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L001_G003_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.47068008327550315,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L001_G004",
+      "line_id": "V_077_R01_L001",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1510,
+        2258,
+        1681,
+        2361
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 3,
+      "group_count": 5,
+      "normalized_group_rank": 0.75,
+      "normalized_pixel_center": 0.7916978309648467,
+      "source_pixel_center_x": 1595.5,
+      "source_pixel_center_y": 2309.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        537,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L001_G004_F001",
+          "V_077_R01_L001_G004_F002",
+          "V_077_R01_L001_G004_F003",
+          "V_077_R01_L001_G004_F004",
+          "V_077_R01_L001_G004_F005"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L001_G004_M001",
+          "V_077_R01_L001_G004_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L001_G004_C001",
+          "V_077_R01_L001_G004_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L001_G004_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.5536086051353227,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L001_G005",
+      "line_id": "V_077_R01_L001",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1707,
+        2280,
+        1874,
+        2359
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 4,
+      "group_count": 5,
+      "normalized_group_rank": 1.0,
+      "normalized_pixel_center": 0.93754674644727,
+      "source_pixel_center_x": 1790.5,
+      "source_pixel_center_y": 2319.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        537,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L001_G005_F001",
+          "V_077_R01_L001_G005_F002",
+          "V_077_R01_L001_G005_F003"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L001_G005_M001"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L001_G005_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L001_G005_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.6212699514226232,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L002_G001",
+      "line_id": "V_077_R01_L002",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        623,
+        2421,
+        633,
+        2432
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 0,
+      "group_count": 9,
+      "normalized_group_rank": 0.0,
+      "normalized_pixel_center": 0.004048582995951417,
+      "source_pixel_center_x": 628.0,
+      "source_pixel_center_y": 2426.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        623,
+        1858
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L002_G001_F001"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L002_G001_M001"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L002_G001_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L002_G001_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.21790423317140875,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L002_G002",
+      "line_id": "V_077_R01_L002",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        871,
+        2379,
+        1039,
+        2434
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 1,
+      "group_count": 9,
+      "normalized_group_rank": 0.125,
+      "normalized_pixel_center": 0.2688259109311741,
+      "source_pixel_center_x": 955.0,
+      "source_pixel_center_y": 2406.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        623,
+        1858
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L002_G002_F001",
+          "V_077_R01_L002_G002_F002",
+          "V_077_R01_L002_G002_F003",
+          "V_077_R01_L002_G002_F004",
+          "V_077_R01_L002_G002_F005"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L002_G002_M001",
+          "V_077_R01_L002_G002_M002",
+          "V_077_R01_L002_G002_M003"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L002_G002_C001",
+          "V_077_R01_L002_G002_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L002_G002_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.33136710617626647,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L002_G003",
+      "line_id": "V_077_R01_L002",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1078,
+        2413,
+        1205,
+        2441
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 2,
+      "group_count": 9,
+      "normalized_group_rank": 0.25,
+      "normalized_pixel_center": 0.41983805668016194,
+      "source_pixel_center_x": 1141.5,
+      "source_pixel_center_y": 2427.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        623,
+        1858
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L002_G003_F001",
+          "V_077_R01_L002_G003_F002"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L002_G003_M001",
+          "V_077_R01_L002_G003_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L002_G003_C001",
+          "V_077_R01_L002_G003_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L002_G003_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_052",
+        "VF_fine_components_K128_102"
+      ],
+      "visual_merged_units": [
+        "VS04",
+        "VS12"
+      ],
+      "visual_factored_units": [
+        "VS04",
+        "VS04",
+        "VS01"
+      ],
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_047",
+        "VF_medium_assemblies_K128_114"
+      ],
+      "source_pixel_x_page_fraction": 0.39607911172796667,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L002_G004",
+      "line_id": "V_077_R01_L002",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1234,
+        2374,
+        1342,
+        2444
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 3,
+      "group_count": 9,
+      "normalized_group_rank": 0.375,
+      "normalized_pixel_center": 0.5384615384615384,
+      "source_pixel_center_x": 1288.0,
+      "source_pixel_center_y": 2409.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        623,
+        1858
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L002_G004_F001",
+          "V_077_R01_L002_G004_F002",
+          "V_077_R01_L002_G004_F003",
+          "V_077_R01_L002_G004_F004"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L002_G004_M001"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L002_G004_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L002_G004_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_065"
+      ],
+      "source_pixel_x_page_fraction": 0.44691186675919503,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L002_G005",
+      "line_id": "V_077_R01_L002",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1382,
+        2412,
+        1404,
+        2435
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 4,
+      "group_count": 9,
+      "normalized_group_rank": 0.5,
+      "normalized_pixel_center": 0.6234817813765182,
+      "source_pixel_center_x": 1393.0,
+      "source_pixel_center_y": 2423.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        623,
+        1858
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L002_G005_F001"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L002_G005_M001"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L002_G005_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L002_G005_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.48334489937543373,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L002_G006",
+      "line_id": "V_077_R01_L002",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1424,
+        2410,
+        1487,
+        2435
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 5,
+      "group_count": 9,
+      "normalized_group_rank": 0.625,
+      "normalized_pixel_center": 0.6740890688259109,
+      "source_pixel_center_x": 1455.5,
+      "source_pixel_center_y": 2422.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        623,
+        1858
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L002_G006_F001",
+          "V_077_R01_L002_G006_F002"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L002_G006_M001",
+          "V_077_R01_L002_G006_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L002_G006_C001",
+          "V_077_R01_L002_G006_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L002_G006_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_029",
+        "VF_medium_assemblies_K128_116"
+      ],
+      "source_pixel_x_page_fraction": 0.5050312283136711,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L002_G007",
+      "line_id": "V_077_R01_L002",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1518,
+        2377,
+        1645,
+        2430
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 6,
+      "group_count": 9,
+      "normalized_group_rank": 0.75,
+      "normalized_pixel_center": 0.7761133603238867,
+      "source_pixel_center_x": 1581.5,
+      "source_pixel_center_y": 2403.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        623,
+        1858
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L002_G007_F001",
+          "V_077_R01_L002_G007_F002",
+          "V_077_R01_L002_G007_F003",
+          "V_077_R01_L002_G007_F004"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L002_G007_M001",
+          "V_077_R01_L002_G007_M002",
+          "V_077_R01_L002_G007_M003"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L002_G007_C001",
+          "V_077_R01_L002_G007_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L002_G007_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.5487508674531575,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L002_G008",
+      "line_id": "V_077_R01_L002",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1675,
+        2374,
+        1709,
+        2427
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 7,
+      "group_count": 9,
+      "normalized_group_rank": 0.875,
+      "normalized_pixel_center": 0.8655870445344129,
+      "source_pixel_center_x": 1692.0,
+      "source_pixel_center_y": 2400.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        623,
+        1858
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L002_G008_F001",
+          "V_077_R01_L002_G008_F002"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L002_G008_M001"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L002_G008_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L002_G008_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_066"
+      ],
+      "source_pixel_x_page_fraction": 0.5870922970159611,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L002_G009",
+      "line_id": "V_077_R01_L002",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1733,
+        2396,
+        1858,
+        2441
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 8,
+      "group_count": 9,
+      "normalized_group_rank": 1.0,
+      "normalized_pixel_center": 0.9493927125506073,
+      "source_pixel_center_x": 1795.5,
+      "source_pixel_center_y": 2418.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        623,
+        1858
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L002_G009_F001",
+          "V_077_R01_L002_G009_F002",
+          "V_077_R01_L002_G009_F003"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L002_G009_M001",
+          "V_077_R01_L002_G009_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L002_G009_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L002_G009_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_128",
+        "VF_fine_components_K128_054",
+        "VF_fine_components_K128_071"
+      ],
+      "visual_merged_units": [
+        "VS04",
+        "VS01",
+        "VS10"
+      ],
+      "visual_factored_units": [
+        "VS04",
+        "VS01",
+        "VS10"
+      ],
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_019",
+        "VF_medium_assemblies_K128_084"
+      ],
+      "source_pixel_x_page_fraction": 0.6230048577376822,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L003_G001",
+      "line_id": "V_077_R01_L003",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        857,
+        2438,
+        1063,
+        2509
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 0,
+      "group_count": 6,
+      "normalized_group_rank": 0.0,
+      "normalized_pixel_center": 0.10127826941986234,
+      "source_pixel_center_x": 960.0,
+      "source_pixel_center_y": 2473.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        857,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L003_G001_F001",
+          "V_077_R01_L003_G001_F002",
+          "V_077_R01_L003_G001_F003",
+          "V_077_R01_L003_G001_F004",
+          "V_077_R01_L003_G001_F005"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L003_G001_M001",
+          "V_077_R01_L003_G001_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L003_G001_C001",
+          "V_077_R01_L003_G001_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L003_G001_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.3331020124913255,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L003_G002",
+      "line_id": "V_077_R01_L003",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1091,
+        2450,
+        1235,
+        2515
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 1,
+      "group_count": 6,
+      "normalized_group_rank": 0.2,
+      "normalized_pixel_center": 0.3008849557522124,
+      "source_pixel_center_x": 1163.0,
+      "source_pixel_center_y": 2482.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        857,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L003_G002_F001",
+          "V_077_R01_L003_G002_F002",
+          "V_077_R01_L003_G002_F003",
+          "V_077_R01_L003_G002_F004"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L003_G002_M001",
+          "V_077_R01_L003_G002_M002",
+          "V_077_R01_L003_G002_M003"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L003_G002_C001",
+          "V_077_R01_L003_G002_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L003_G002_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_050",
+        "VF_medium_assemblies_K128_116",
+        "VF_medium_assemblies_K128_077"
+      ],
+      "source_pixel_x_page_fraction": 0.4035392088827203,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L003_G003",
+      "line_id": "V_077_R01_L003",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1257,
+        2463,
+        1410,
+        2510
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 2,
+      "group_count": 6,
+      "normalized_group_rank": 0.4,
+      "normalized_pixel_center": 0.46853490658800395,
+      "source_pixel_center_x": 1333.5,
+      "source_pixel_center_y": 2486.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        857,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L003_G003_F001",
+          "V_077_R01_L003_G003_F002",
+          "V_077_R01_L003_G003_F003",
+          "V_077_R01_L003_G003_F004"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L003_G003_M001",
+          "V_077_R01_L003_G003_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L003_G003_C001",
+          "V_077_R01_L003_G003_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L003_G003_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_014",
+        "VF_medium_assemblies_K128_114"
+      ],
+      "source_pixel_x_page_fraction": 0.4626995142262318,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L003_G004",
+      "line_id": "V_077_R01_L003",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1451,
+        2440,
+        1597,
+        2507
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 3,
+      "group_count": 6,
+      "normalized_group_rank": 0.6,
+      "normalized_pixel_center": 0.655850540806293,
+      "source_pixel_center_x": 1524.0,
+      "source_pixel_center_y": 2473.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        857,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L003_G004_F001",
+          "V_077_R01_L003_G004_F002",
+          "V_077_R01_L003_G004_F003",
+          "V_077_R01_L003_G004_F004",
+          "V_077_R01_L003_G004_F005"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L003_G004_M001",
+          "V_077_R01_L003_G004_M002",
+          "V_077_R01_L003_G004_M003"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L003_G004_C001",
+          "V_077_R01_L003_G004_C002",
+          "V_077_R01_L003_G004_C003"
+        ],
+        "group_only": [
+          "V_077_R01_L003_G004_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.5287994448299792,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L003_G005",
+      "line_id": "V_077_R01_L003",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1617,
+        2432,
+        1745,
+        2501
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 4,
+      "group_count": 6,
+      "normalized_group_rank": 0.8,
+      "normalized_pixel_center": 0.8102261553588987,
+      "source_pixel_center_x": 1681.0,
+      "source_pixel_center_y": 2466.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        857,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L003_G005_F001",
+          "V_077_R01_L003_G005_F002",
+          "V_077_R01_L003_G005_F003"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L003_G005_M001",
+          "V_077_R01_L003_G005_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L003_G005_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L003_G005_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.5832755031228314,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L003_G006",
+      "line_id": "V_077_R01_L003",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1783,
+        2455,
+        1874,
+        2503
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 5,
+      "group_count": 6,
+      "normalized_group_rank": 1.0,
+      "normalized_pixel_center": 0.9552605703048181,
+      "source_pixel_center_x": 1828.5,
+      "source_pixel_center_y": 2479.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        857,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L003_G006_F001",
+          "V_077_R01_L003_G006_F002",
+          "V_077_R01_L003_G006_F003"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L003_G006_M001",
+          "V_077_R01_L003_G006_M002",
+          "V_077_R01_L003_G006_M003"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L003_G006_C001",
+          "V_077_R01_L003_G006_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L003_G006_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.6344552394170715,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L004_G001",
+      "line_id": "V_077_R01_L004",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        405,
+        2543,
+        415,
+        2581
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 0,
+      "group_count": 6,
+      "normalized_group_rank": 0.0,
+      "normalized_pixel_center": 0.0034036759700476512,
+      "source_pixel_center_x": 410.0,
+      "source_pixel_center_y": 2562.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        405,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L004_G001_F001"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L004_G001_M001"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L004_G001_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L004_G001_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.14226231783483692,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L004_G002",
+      "line_id": "V_077_R01_L004",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        865,
+        2509,
+        1026,
+        2584
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 1,
+      "group_count": 6,
+      "normalized_group_rank": 0.2,
+      "normalized_pixel_center": 0.3679373723621511,
+      "source_pixel_center_x": 945.5,
+      "source_pixel_center_y": 2546.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        405,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L004_G002_F001",
+          "V_077_R01_L004_G002_F002",
+          "V_077_R01_L004_G002_F003",
+          "V_077_R01_L004_G002_F004"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L004_G002_M001",
+          "V_077_R01_L004_G002_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L004_G002_C001",
+          "V_077_R01_L004_G002_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L004_G002_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_126",
+        "VF_medium_assemblies_K128_008"
+      ],
+      "source_pixel_x_page_fraction": 0.3280707841776544,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L004_G003",
+      "line_id": "V_077_R01_L004",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1070,
+        2531,
+        1104,
+        2581
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 2,
+      "group_count": 6,
+      "normalized_group_rank": 0.4,
+      "normalized_pixel_center": 0.46426140231449964,
+      "source_pixel_center_x": 1087.0,
+      "source_pixel_center_y": 2556.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        405,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L004_G003_F001"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L004_G003_M001"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L004_G003_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L004_G003_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_098"
+      ],
+      "visual_merged_units": [
+        "VS07"
+      ],
+      "visual_factored_units": [
+        "VS07"
+      ],
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_066"
+      ],
+      "source_pixel_x_page_fraction": 0.37716863289382374,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L004_G004",
+      "line_id": "V_077_R01_L004",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1126,
+        2525,
+        1258,
+        2584
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 3,
+      "group_count": 6,
+      "normalized_group_rank": 0.6,
+      "normalized_pixel_center": 0.5357385976855004,
+      "source_pixel_center_x": 1192.0,
+      "source_pixel_center_y": 2554.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        405,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L004_G004_F001",
+          "V_077_R01_L004_G004_F002",
+          "V_077_R01_L004_G004_F003",
+          "V_077_R01_L004_G004_F004",
+          "V_077_R01_L004_G004_F005"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L004_G004_M001",
+          "V_077_R01_L004_G004_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L004_G004_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L004_G004_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_036",
+        "VF_medium_assemblies_K128_035"
+      ],
+      "source_pixel_x_page_fraction": 0.41360166551006244,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L004_G005",
+      "line_id": "V_077_R01_L004",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1293,
+        2513,
+        1527,
+        2586
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 4,
+      "group_count": 6,
+      "normalized_group_rank": 0.8,
+      "normalized_pixel_center": 0.684138869979578,
+      "source_pixel_center_x": 1410.0,
+      "source_pixel_center_y": 2549.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        405,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L004_G005_F001",
+          "V_077_R01_L004_G005_F002",
+          "V_077_R01_L004_G005_F003",
+          "V_077_R01_L004_G005_F004",
+          "V_077_R01_L004_G005_F005",
+          "V_077_R01_L004_G005_F006"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L004_G005_M001",
+          "V_077_R01_L004_G005_M002",
+          "V_077_R01_L004_G005_M003",
+          "V_077_R01_L004_G005_M004"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L004_G005_C001",
+          "V_077_R01_L004_G005_C002",
+          "V_077_R01_L004_G005_C003"
+        ],
+        "group_only": [
+          "V_077_R01_L004_G005_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.4892435808466343,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L004_G006",
+      "line_id": "V_077_R01_L004",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1573,
+        2506,
+        1874,
+        2586
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 5,
+      "group_count": 6,
+      "normalized_group_rank": 1.0,
+      "normalized_pixel_center": 0.8975493533015657,
+      "source_pixel_center_x": 1723.5,
+      "source_pixel_center_y": 2546.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        405,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L004_G006_F001",
+          "V_077_R01_L004_G006_F002",
+          "V_077_R01_L004_G006_F003",
+          "V_077_R01_L004_G006_F004",
+          "V_077_R01_L004_G006_F005",
+          "V_077_R01_L004_G006_F006"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L004_G006_M001",
+          "V_077_R01_L004_G006_M002",
+          "V_077_R01_L004_G006_M003",
+          "V_077_R01_L004_G006_M004"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L004_G006_C001",
+          "V_077_R01_L004_G006_C002",
+          "V_077_R01_L004_G006_C003"
+        ],
+        "group_only": [
+          "V_077_R01_L004_G006_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.5980222068008327,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L005_G001",
+      "line_id": "V_077_R01_L005",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        858,
+        2589,
+        1042,
+        2671
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 0,
+      "group_count": 5,
+      "normalized_group_rank": 0.0,
+      "normalized_pixel_center": 0.09055118110236221,
+      "source_pixel_center_x": 950.0,
+      "source_pixel_center_y": 2630.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        858,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L005_G001_F001",
+          "V_077_R01_L005_G001_F002",
+          "V_077_R01_L005_G001_F003",
+          "V_077_R01_L005_G001_F004",
+          "V_077_R01_L005_G001_F005"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L005_G001_M001"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L005_G001_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L005_G001_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.3296321998612075,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L005_G002",
+      "line_id": "V_077_R01_L005",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1096,
+        2608,
+        1258,
+        2662
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 1,
+      "group_count": 5,
+      "normalized_group_rank": 0.25,
+      "normalized_pixel_center": 0.3139763779527559,
+      "source_pixel_center_x": 1177.0,
+      "source_pixel_center_y": 2635.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        858,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L005_G002_F001",
+          "V_077_R01_L005_G002_F002",
+          "V_077_R01_L005_G002_F003",
+          "V_077_R01_L005_G002_F004",
+          "V_077_R01_L005_G002_F005",
+          "V_077_R01_L005_G002_F006"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L005_G002_M001",
+          "V_077_R01_L005_G002_M002",
+          "V_077_R01_L005_G002_M003",
+          "V_077_R01_L005_G002_M004",
+          "V_077_R01_L005_G002_M005"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L005_G002_C001",
+          "V_077_R01_L005_G002_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L005_G002_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.4083969465648855,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L005_G003",
+      "line_id": "V_077_R01_L005",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1323,
+        2615,
+        1463,
+        2663
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 2,
+      "group_count": 5,
+      "normalized_group_rank": 0.5,
+      "normalized_pixel_center": 0.5265748031496063,
+      "source_pixel_center_x": 1393.0,
+      "source_pixel_center_y": 2639.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        858,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L005_G003_F001",
+          "V_077_R01_L005_G003_F002",
+          "V_077_R01_L005_G003_F003",
+          "V_077_R01_L005_G003_F004",
+          "V_077_R01_L005_G003_F005"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L005_G003_M001",
+          "V_077_R01_L005_G003_M002",
+          "V_077_R01_L005_G003_M003"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L005_G003_C001",
+          "V_077_R01_L005_G003_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L005_G003_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.48334489937543373,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L005_G004",
+      "line_id": "V_077_R01_L005",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1521,
+        2584,
+        1739,
+        2665
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 3,
+      "group_count": 5,
+      "normalized_group_rank": 0.75,
+      "normalized_pixel_center": 0.7598425196850394,
+      "source_pixel_center_x": 1630.0,
+      "source_pixel_center_y": 2624.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        858,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L005_G004_F001",
+          "V_077_R01_L005_G004_F002",
+          "V_077_R01_L005_G004_F003",
+          "V_077_R01_L005_G004_F004",
+          "V_077_R01_L005_G004_F005"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L005_G004_M001",
+          "V_077_R01_L005_G004_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L005_G004_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L005_G004_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.5655794587092297,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L005_G005",
+      "line_id": "V_077_R01_L005",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1767,
+        2612,
+        1874,
+        2666
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 4,
+      "group_count": 5,
+      "normalized_group_rank": 1.0,
+      "normalized_pixel_center": 0.9473425196850394,
+      "source_pixel_center_x": 1820.5,
+      "source_pixel_center_y": 2639.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        858,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L005_G005_F001",
+          "V_077_R01_L005_G005_F002",
+          "V_077_R01_L005_G005_F003"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L005_G005_M001",
+          "V_077_R01_L005_G005_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L005_G005_C001",
+          "V_077_R01_L005_G005_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L005_G005_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_115",
+        "VF_fine_components_K128_010",
+        "VF_fine_components_K128_040"
+      ],
+      "visual_merged_units": [
+        "VS07",
+        "VS01",
+        "VS07"
+      ],
+      "visual_factored_units": [
+        "VS07",
+        "VS01",
+        "VS07"
+      ],
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.6316793893129771,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L006_G001",
+      "line_id": "V_077_R01_L006",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        874,
+        2682,
+        976,
+        2746
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 0,
+      "group_count": 6,
+      "normalized_group_rank": 0.0,
+      "normalized_pixel_center": 0.051,
+      "source_pixel_center_x": 925.0,
+      "source_pixel_center_y": 2714.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        874,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L006_G001_F001",
+          "V_077_R01_L006_G001_F002",
+          "V_077_R01_L006_G001_F003",
+          "V_077_R01_L006_G001_F004"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L006_G001_M001",
+          "V_077_R01_L006_G001_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L006_G001_C001",
+          "V_077_R01_L006_G001_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L006_G001_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_112",
+        "VF_medium_assemblies_K128_096"
+      ],
+      "source_pixel_x_page_fraction": 0.32095766828591255,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L006_G002",
+      "line_id": "V_077_R01_L006",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1011,
+        2669,
+        1191,
+        2749
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 1,
+      "group_count": 6,
+      "normalized_group_rank": 0.2,
+      "normalized_pixel_center": 0.227,
+      "source_pixel_center_x": 1101.0,
+      "source_pixel_center_y": 2709.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        874,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L006_G002_F001",
+          "V_077_R01_L006_G002_F002",
+          "V_077_R01_L006_G002_F003",
+          "V_077_R01_L006_G002_F004",
+          "V_077_R01_L006_G002_F005",
+          "V_077_R01_L006_G002_F006"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L006_G002_M001",
+          "V_077_R01_L006_G002_M002",
+          "V_077_R01_L006_G002_M003",
+          "V_077_R01_L006_G002_M004"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L006_G002_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L006_G002_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_037",
+        "VF_medium_assemblies_K128_086",
+        "VF_medium_assemblies_K128_046",
+        "VF_medium_assemblies_K128_075"
+      ],
+      "source_pixel_x_page_fraction": 0.38202637057598887,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L006_G003",
+      "line_id": "V_077_R01_L006",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1225,
+        2661,
+        1345,
+        2742
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 2,
+      "group_count": 6,
+      "normalized_group_rank": 0.4,
+      "normalized_pixel_center": 0.411,
+      "source_pixel_center_x": 1285.0,
+      "source_pixel_center_y": 2701.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        874,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L006_G003_F001",
+          "V_077_R01_L006_G003_F002",
+          "V_077_R01_L006_G003_F003",
+          "V_077_R01_L006_G003_F004"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L006_G003_M001",
+          "V_077_R01_L006_G003_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L006_G003_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L006_G003_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_037",
+        "VF_medium_assemblies_K128_036"
+      ],
+      "source_pixel_x_page_fraction": 0.4458709229701596,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L006_G004",
+      "line_id": "V_077_R01_L006",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1368,
+        2670,
+        1497,
+        2744
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 3,
+      "group_count": 6,
+      "normalized_group_rank": 0.6,
+      "normalized_pixel_center": 0.5585,
+      "source_pixel_center_x": 1432.5,
+      "source_pixel_center_y": 2707.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        874,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L006_G004_F001",
+          "V_077_R01_L006_G004_F002",
+          "V_077_R01_L006_G004_F003"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L006_G004_M001",
+          "V_077_R01_L006_G004_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L006_G004_C001",
+          "V_077_R01_L006_G004_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L006_G004_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_037",
+        "VF_fine_components_K128_060",
+        "VF_fine_components_K128_020"
+      ],
+      "visual_merged_units": [
+        "VS08",
+        "VS13",
+        "VS15"
+      ],
+      "visual_factored_units": [
+        "VS08",
+        "VS13",
+        "VS15"
+      ],
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.49705065926439973,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L006_G005",
+      "line_id": "V_077_R01_L006",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1541,
+        2680,
+        1729,
+        2737
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 4,
+      "group_count": 6,
+      "normalized_group_rank": 0.8,
+      "normalized_pixel_center": 0.761,
+      "source_pixel_center_x": 1635.0,
+      "source_pixel_center_y": 2708.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        874,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L006_G005_F001",
+          "V_077_R01_L006_G005_F002",
+          "V_077_R01_L006_G005_F003",
+          "V_077_R01_L006_G005_F004",
+          "V_077_R01_L006_G005_F005"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L006_G005_M001",
+          "V_077_R01_L006_G005_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L006_G005_C001",
+          "V_077_R01_L006_G005_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L006_G005_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.5673143650242887,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L006_G006",
+      "line_id": "V_077_R01_L006",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1759,
+        2681,
+        1874,
+        2726
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 5,
+      "group_count": 6,
+      "normalized_group_rank": 1.0,
+      "normalized_pixel_center": 0.9425,
+      "source_pixel_center_x": 1816.5,
+      "source_pixel_center_y": 2703.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        874,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L006_G006_F001",
+          "V_077_R01_L006_G006_F002",
+          "V_077_R01_L006_G006_F003"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L006_G006_M001",
+          "V_077_R01_L006_G006_M002",
+          "V_077_R01_L006_G006_M003"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L006_G006_C001",
+          "V_077_R01_L006_G006_C002",
+          "V_077_R01_L006_G006_C003"
+        ],
+        "group_only": [
+          "V_077_R01_L006_G006_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.6302914642609299,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L007_G001",
+      "line_id": "V_077_R01_L007",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        384,
+        2770,
+        392,
+        2836
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 0,
+      "group_count": 8,
+      "normalized_group_rank": 0.0,
+      "normalized_pixel_center": 0.0026845637583892616,
+      "source_pixel_center_x": 388.0,
+      "source_pixel_center_y": 2803.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        384,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L007_G001_F001"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L007_G001_M001"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L007_G001_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L007_G001_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.13462873004857737,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L007_G002",
+      "line_id": "V_077_R01_L007",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        869,
+        2765,
+        1032,
+        2815
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 1,
+      "group_count": 8,
+      "normalized_group_rank": 0.14285714285714285,
+      "normalized_pixel_center": 0.3802013422818792,
+      "source_pixel_center_x": 950.5,
+      "source_pixel_center_y": 2790.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        384,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L007_G002_F001",
+          "V_077_R01_L007_G002_F002",
+          "V_077_R01_L007_G002_F003",
+          "V_077_R01_L007_G002_F004",
+          "V_077_R01_L007_G002_F005"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L007_G002_M001",
+          "V_077_R01_L007_G002_M002",
+          "V_077_R01_L007_G002_M003",
+          "V_077_R01_L007_G002_M004"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L007_G002_C001",
+          "V_077_R01_L007_G002_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L007_G002_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.3298056904927134,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L007_G003",
+      "line_id": "V_077_R01_L007",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1073,
+        2775,
+        1198,
+        2849
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 2,
+      "group_count": 8,
+      "normalized_group_rank": 0.2857142857142857,
+      "normalized_pixel_center": 0.5043624161073825,
+      "source_pixel_center_x": 1135.5,
+      "source_pixel_center_y": 2812.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        384,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L007_G003_F001",
+          "V_077_R01_L007_G003_F002"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L007_G003_M001"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L007_G003_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L007_G003_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.3939972241498959,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L007_G004",
+      "line_id": "V_077_R01_L007",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1222,
+        2782,
+        1330,
+        2840
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 3,
+      "group_count": 8,
+      "normalized_group_rank": 0.42857142857142855,
+      "normalized_pixel_center": 0.5986577181208054,
+      "source_pixel_center_x": 1276.0,
+      "source_pixel_center_y": 2811.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        384,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L007_G004_F001",
+          "V_077_R01_L007_G004_F002",
+          "V_077_R01_L007_G004_F003"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L007_G004_M001",
+          "V_077_R01_L007_G004_M002",
+          "V_077_R01_L007_G004_M003"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L007_G004_C001",
+          "V_077_R01_L007_G004_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L007_G004_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.44274809160305345,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L007_G005",
+      "line_id": "V_077_R01_L007",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1355,
+        2758,
+        1522,
+        2828
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 4,
+      "group_count": 8,
+      "normalized_group_rank": 0.5714285714285714,
+      "normalized_pixel_center": 0.7077181208053691,
+      "source_pixel_center_x": 1438.5,
+      "source_pixel_center_y": 2793.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        384,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L007_G005_F001",
+          "V_077_R01_L007_G005_F002",
+          "V_077_R01_L007_G005_F003"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L007_G005_M001",
+          "V_077_R01_L007_G005_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L007_G005_C001",
+          "V_077_R01_L007_G005_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L007_G005_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_066",
+        "VF_medium_assemblies_K128_114"
+      ],
+      "source_pixel_x_page_fraction": 0.4991325468424705,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L007_G006",
+      "line_id": "V_077_R01_L007",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1585,
+        2783,
+        1638,
+        2817
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 5,
+      "group_count": 8,
+      "normalized_group_rank": 0.7142857142857143,
+      "normalized_pixel_center": 0.8238255033557047,
+      "source_pixel_center_x": 1611.5,
+      "source_pixel_center_y": 2800.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        384,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L007_G006_F001"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L007_G006_M001"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L007_G006_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L007_G006_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": null,
+      "source_pixel_x_page_fraction": 0.5591603053435115,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L007_G007",
+      "line_id": "V_077_R01_L007",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1671,
+        2754,
+        1744,
+        2816
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 6,
+      "group_count": 8,
+      "normalized_group_rank": 0.8571428571428571,
+      "normalized_pixel_center": 0.8882550335570469,
+      "source_pixel_center_x": 1707.5,
+      "source_pixel_center_y": 2785.0,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        384,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L007_G007_F001",
+          "V_077_R01_L007_G007_F002"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L007_G007_M001"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L007_G007_C001"
+        ],
+        "group_only": [
+          "V_077_R01_L007_G007_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": null,
+      "visual_merged_units": null,
+      "visual_factored_units": null,
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_099"
+      ],
+      "source_pixel_x_page_fraction": 0.592470506592644,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    },
+    {
+      "group_id": "V_077_R01_L007_G008",
+      "line_id": "V_077_R01_L007",
+      "view_id": "V_077",
+      "split": "train",
+      "folio_component": "38",
+      "bbox_xyxy": [
+        1795,
+        2758,
+        1874,
+        2809
+      ],
+      "coordinate_frame": "native_yale_image",
+      "group_rank": 7,
+      "group_count": 8,
+      "normalized_group_rank": 1.0,
+      "normalized_pixel_center": 0.973489932885906,
+      "source_pixel_center_x": 1834.5,
+      "source_pixel_center_y": 2783.5,
+      "native_image_width_px": 2882,
+      "native_image_height_px": 3769,
+      "line_x_extent_px": [
+        384,
+        1874
+      ],
+      "body_height_proxy_px": 33.0,
+      "models": {
+        "fine_components": [
+          "V_077_R01_L007_G008_F001",
+          "V_077_R01_L007_G008_F002"
+        ],
+        "medium_assemblies": [
+          "V_077_R01_L007_G008_M001",
+          "V_077_R01_L007_G008_M002"
+        ],
+        "compound_candidates": [
+          "V_077_R01_L007_G008_C001",
+          "V_077_R01_L007_G008_C002"
+        ],
+        "group_only": [
+          "V_077_R01_L007_G008_G001"
+        ]
+      },
+      "status": "space-gap candidate; not assumed word",
+      "visual_fine_units": [
+        "VF_fine_components_K128_040",
+        "VF_fine_components_K128_108"
+      ],
+      "visual_merged_units": [
+        "VS07",
+        "VS01"
+      ],
+      "visual_factored_units": [
+        "VS07",
+        "VS01"
+      ],
+      "primary_candidate_units": [
+        "VF_medium_assemblies_K128_106",
+        "VF_medium_assemblies_K128_126"
+      ],
+      "source_pixel_x_page_fraction": 0.6365371269951423,
+      "section": null,
+      "hand": null,
+      "currier": null,
+      "conventional_mapping": null,
+      "source_quality": "Candidate tracked row and gray-gap boundary; complete-writing membership unvalidated",
+      "row_multiline_components": 0
+    }
+  ],
+  "units": {
+    "V_077_R01_L001_G001_F001": {
+      "family": "VF_fine_components_K128_055",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.507776260375977,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L001_G001_F002": {
+      "family": "VF_fine_components_K128_066",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.236929416656494,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L001_G002_F001": {
+      "family": "VF_fine_components_K128_061",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.019702911376953,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G002_F002": {
+      "family": "VF_fine_components_K128_007",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.9596288204193115,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L001_G002_F003": {
+      "family": "VF_fine_components_K128_107",
+      "broad_structure": "VS09",
+      "admitted": true,
+      "distance": 4.639674663543701,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G002_F004": {
+      "family": "VF_fine_components_K128_075",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.360191345214844,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L001_G002_F005": {
+      "family": "VF_fine_components_K128_045",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.188875198364258,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L001_G002_F006": {
+      "family": "VF_fine_components_K128_032",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.1590046882629395,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G002_F007": {
+      "family": "VF_fine_components_K128_100",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.675454139709473,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L001_G002_F008": {
+      "family": "VF_fine_components_K128_128",
+      "broad_structure": "VS04",
+      "admitted": true,
+      "distance": 3.032668113708496,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G002_F009": {
+      "family": "VF_fine_components_K128_108",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.6209208965301514,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G002_F010": {
+      "family": "VF_fine_components_K128_123",
+      "broad_structure": "VS10",
+      "admitted": true,
+      "distance": 5.585237979888916,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G002_F011": {
+      "family": "VF_fine_components_K128_121",
+      "broad_structure": "VS19",
+      "admitted": true,
+      "distance": 6.17636775970459,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G003_F001": {
+      "family": "VF_fine_components_K128_124",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.653106689453125,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L001_G003_F002": {
+      "family": "VF_fine_components_K128_060",
+      "broad_structure": "VS13",
+      "admitted": true,
+      "distance": 4.448396682739258,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G003_F003": {
+      "family": "VF_fine_components_K128_057",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.4868390560150146,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G003_F004": {
+      "family": "VF_fine_components_K128_037",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 3.6907827854156494,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G003_F005": {
+      "family": "VF_fine_components_K128_010",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.591549396514893,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G003_F006": {
+      "family": "VF_fine_components_K128_077",
+      "broad_structure": "VS10",
+      "admitted": true,
+      "distance": 4.296071529388428,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G004_F001": {
+      "family": "VF_fine_components_K128_061",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.782144069671631,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G004_F002": {
+      "family": "VF_fine_components_K128_007",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.698936939239502,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L001_G004_F003": {
+      "family": "VF_fine_components_K128_049",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.3024044036865234,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L001_G004_F004": {
+      "family": "VF_fine_components_K128_102",
+      "broad_structure": "VS12",
+      "admitted": true,
+      "distance": 3.12947678565979,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G004_F005": {
+      "family": "VF_fine_components_K128_118",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 3.4342386722564697,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G005_F001": {
+      "family": "VF_fine_components_K128_010",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.918397903442383,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G005_F002": {
+      "family": "VF_fine_components_K128_029",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 3.124579668045044,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G005_F003": {
+      "family": "VF_fine_components_K128_035",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.5711658000946045,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L002_G001_F001": {
+      "family": "VF_fine_components_K128_058",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.56804084777832,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L002_G002_F001": {
+      "family": "VF_fine_components_K128_052",
+      "broad_structure": "VS04",
+      "admitted": true,
+      "distance": 3.55544114112854,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G002_F002": {
+      "family": "VF_fine_components_K128_020",
+      "broad_structure": "VS15",
+      "admitted": true,
+      "distance": 3.4894165992736816,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G002_F003": {
+      "family": "VF_fine_components_K128_004",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.014067649841309,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L002_G002_F004": {
+      "family": "VF_fine_components_K128_039",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.0312581062316895,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L002_G002_F005": {
+      "family": "VF_fine_components_K128_096",
+      "broad_structure": "VS03",
+      "admitted": true,
+      "distance": 4.866390228271484,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G003_F001": {
+      "family": "VF_fine_components_K128_052",
+      "broad_structure": "VS04",
+      "admitted": true,
+      "distance": 2.653550148010254,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G003_F002": {
+      "family": "VF_fine_components_K128_102",
+      "broad_structure": "VS12",
+      "admitted": true,
+      "distance": 3.424983263015747,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G004_F001": {
+      "family": "VF_fine_components_K128_109",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 5.240610122680664,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G004_F002": {
+      "family": "VF_fine_components_K128_049",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.6306488513946533,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L002_G004_F003": {
+      "family": "VF_fine_components_K128_060",
+      "broad_structure": "VS13",
+      "admitted": true,
+      "distance": 4.794332981109619,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G004_F004": {
+      "family": "VF_fine_components_K128_020",
+      "broad_structure": "VS15",
+      "admitted": true,
+      "distance": 5.604464054107666,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G005_F001": {
+      "family": "VF_fine_components_K128_075",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.787972450256348,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L002_G006_F001": {
+      "family": "VF_fine_components_K128_041",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.29062032699585,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L002_G006_F002": {
+      "family": "VF_fine_components_K128_108",
+      "broad_structure": "VS01",
+      "admitted": false,
+      "distance": 5.502213001251221,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G007_F001": {
+      "family": "VF_fine_components_K128_108",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.778559684753418,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G007_F002": {
+      "family": "VF_fine_components_K128_004",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.129146575927734,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L002_G007_F003": {
+      "family": "VF_fine_components_K128_083",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.230830669403076,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L002_G007_F004": {
+      "family": "VF_fine_components_K128_038",
+      "broad_structure": "VS02",
+      "admitted": true,
+      "distance": 4.2640252113342285,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G008_F001": {
+      "family": "VF_fine_components_K128_126",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 4.064660549163818,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G008_F002": {
+      "family": "VF_fine_components_K128_010",
+      "broad_structure": "VS01",
+      "admitted": false,
+      "distance": 6.25347375869751,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G009_F001": {
+      "family": "VF_fine_components_K128_128",
+      "broad_structure": "VS04",
+      "admitted": true,
+      "distance": 2.593569278717041,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G009_F002": {
+      "family": "VF_fine_components_K128_054",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.616596698760986,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G009_F003": {
+      "family": "VF_fine_components_K128_071",
+      "broad_structure": "VS10",
+      "admitted": true,
+      "distance": 2.7977752685546875,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G001_F001": {
+      "family": "VF_fine_components_K128_085",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.8531012535095215,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L003_G001_F002": {
+      "family": "VF_fine_components_K128_049",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.7810592651367188,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L003_G001_F003": {
+      "family": "VF_fine_components_K128_046",
+      "broad_structure": "VS08",
+      "admitted": false,
+      "distance": 5.223906517028809,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G001_F004": {
+      "family": "VF_fine_components_K128_075",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.173552513122559,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L003_G001_F005": {
+      "family": "VF_fine_components_K128_102",
+      "broad_structure": "VS12",
+      "admitted": true,
+      "distance": 3.1154069900512695,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G002_F001": {
+      "family": "VF_fine_components_K128_046",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 3.686739206314087,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G002_F002": {
+      "family": "VF_fine_components_K128_044",
+      "broad_structure": "VS01",
+      "admitted": false,
+      "distance": 5.672494888305664,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G002_F003": {
+      "family": "VF_fine_components_K128_108",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.334900379180908,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G002_F004": {
+      "family": "VF_fine_components_K128_092",
+      "broad_structure": "VS03",
+      "admitted": true,
+      "distance": 2.8587417602539062,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G003_F001": {
+      "family": "VF_fine_components_K128_098",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 3.580373764038086,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G003_F002": {
+      "family": "VF_fine_components_K128_006",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 4.927011489868164,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G003_F003": {
+      "family": "VF_fine_components_K128_083",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.599112033843994,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L003_G003_F004": {
+      "family": "VF_fine_components_K128_082",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.661588191986084,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L003_G004_F001": {
+      "family": "VF_fine_components_K128_108",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.432431221008301,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G004_F002": {
+      "family": "VF_fine_components_K128_007",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.0771141052246094,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L003_G004_F003": {
+      "family": "VF_fine_components_K128_021",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 4.829543590545654,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G004_F004": {
+      "family": "VF_fine_components_K128_126",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 5.497066974639893,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G004_F005": {
+      "family": "VF_fine_components_K128_020",
+      "broad_structure": "VS15",
+      "admitted": true,
+      "distance": 5.067513465881348,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G005_F001": {
+      "family": "VF_fine_components_K128_024",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 3.6334564685821533,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G005_F002": {
+      "family": "VF_fine_components_K128_067",
+      "broad_structure": "VS05",
+      "admitted": false,
+      "distance": 6.168939113616943,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G005_F003": {
+      "family": "VF_fine_components_K128_059",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 5.949748516082764,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G006_F001": {
+      "family": "VF_fine_components_K128_098",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 3.772761583328247,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G006_F002": {
+      "family": "VF_fine_components_K128_031",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.843535423278809,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L003_G006_F003": {
+      "family": "VF_fine_components_K128_039",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.541274070739746,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L004_G001_F001": {
+      "family": "VF_fine_components_K128_007",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.416750907897949,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L004_G002_F001": {
+      "family": "VF_fine_components_K128_108",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.581881999969482,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G002_F002": {
+      "family": "VF_fine_components_K128_049",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.1842715740203857,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L004_G002_F003": {
+      "family": "VF_fine_components_K128_056",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.723016738891602,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L004_G002_F004": {
+      "family": "VF_fine_components_K128_017",
+      "broad_structure": "VS12",
+      "admitted": true,
+      "distance": 3.497249126434326,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G003_F001": {
+      "family": "VF_fine_components_K128_098",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 3.8768980503082275,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G004_F001": {
+      "family": "VF_fine_components_K128_075",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.847714900970459,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L004_G004_F002": {
+      "family": "VF_fine_components_K128_083",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.9135749340057373,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L004_G004_F003": {
+      "family": "VF_fine_components_K128_009",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.238945007324219,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L004_G004_F004": {
+      "family": "VF_fine_components_K128_104",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.479597568511963,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L004_G004_F005": {
+      "family": "VF_fine_components_K128_038",
+      "broad_structure": "VS02",
+      "admitted": true,
+      "distance": 4.804380416870117,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G005_F001": {
+      "family": "VF_fine_components_K128_035",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.8302161693573,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L004_G005_F002": {
+      "family": "VF_fine_components_K128_024",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 4.885264873504639,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G005_F003": {
+      "family": "VF_fine_components_K128_049",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.8729119300842285,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L004_G005_F004": {
+      "family": "VF_fine_components_K128_060",
+      "broad_structure": "VS13",
+      "admitted": true,
+      "distance": 4.982834815979004,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G005_F005": {
+      "family": "VF_fine_components_K128_069",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.381638526916504,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L004_G005_F006": {
+      "family": "VF_fine_components_K128_113",
+      "broad_structure": "VS15",
+      "admitted": true,
+      "distance": 4.8911871910095215,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G006_F001": {
+      "family": "VF_fine_components_K128_003",
+      "broad_structure": "VS04",
+      "admitted": true,
+      "distance": 3.028747320175171,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G006_F002": {
+      "family": "VF_fine_components_K128_106",
+      "broad_structure": "VS20",
+      "admitted": true,
+      "distance": 4.472610950469971,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G006_F003": {
+      "family": "VF_fine_components_K128_037",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 4.871679306030273,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G006_F004": {
+      "family": "VF_fine_components_K128_035",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.747784614562988,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L004_G006_F005": {
+      "family": "VF_fine_components_K128_063",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 5.086770057678223,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G006_F006": {
+      "family": "VF_fine_components_K128_107",
+      "broad_structure": "VS09",
+      "admitted": true,
+      "distance": 5.79790735244751,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G001_F001": {
+      "family": "VF_fine_components_K128_035",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.198678493499756,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L005_G001_F002": {
+      "family": "VF_fine_components_K128_042",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 4.994591236114502,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G001_F003": {
+      "family": "VF_fine_components_K128_065",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.172860145568848,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L005_G001_F004": {
+      "family": "VF_fine_components_K128_060",
+      "broad_structure": "VS13",
+      "admitted": true,
+      "distance": 4.565055847167969,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G001_F005": {
+      "family": "VF_fine_components_K128_019",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.375210285186768,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L005_G002_F001": {
+      "family": "VF_fine_components_K128_098",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 3.928412437438965,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G002_F002": {
+      "family": "VF_fine_components_K128_075",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.727715015411377,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L005_G002_F003": {
+      "family": "VF_fine_components_K128_083",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.455073118209839,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L005_G002_F004": {
+      "family": "VF_fine_components_K128_039",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.7930402755737305,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L005_G002_F005": {
+      "family": "VF_fine_components_K128_047",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.4387834072113037,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L005_G002_F006": {
+      "family": "VF_fine_components_K128_038",
+      "broad_structure": "VS02",
+      "admitted": true,
+      "distance": 4.496399402618408,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G003_F001": {
+      "family": "VF_fine_components_K128_007",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.821498870849609,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L005_G003_F002": {
+      "family": "VF_fine_components_K128_041",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.172924518585205,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L005_G003_F003": {
+      "family": "VF_fine_components_K128_102",
+      "broad_structure": "VS12",
+      "admitted": true,
+      "distance": 3.839017152786255,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G003_F004": {
+      "family": "VF_fine_components_K128_118",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 4.919995307922363,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G003_F005": {
+      "family": "VF_fine_components_K128_079",
+      "broad_structure": "VS04",
+      "admitted": false,
+      "distance": 4.876785755157471,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G004_F001": {
+      "family": "VF_fine_components_K128_023",
+      "broad_structure": "VS01",
+      "admitted": false,
+      "distance": 5.4385480880737305,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G004_F002": {
+      "family": "VF_fine_components_K128_037",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 4.616720199584961,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G004_F003": {
+      "family": "VF_fine_components_K128_049",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.007662296295166,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L005_G004_F004": {
+      "family": "VF_fine_components_K128_017",
+      "broad_structure": "VS12",
+      "admitted": true,
+      "distance": 2.5696449279785156,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G004_F005": {
+      "family": "VF_fine_components_K128_118",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 4.811070442199707,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G005_F001": {
+      "family": "VF_fine_components_K128_115",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 4.268388271331787,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G005_F002": {
+      "family": "VF_fine_components_K128_010",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.454562664031982,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G005_F003": {
+      "family": "VF_fine_components_K128_040",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 4.897999286651611,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G001_F001": {
+      "family": "VF_fine_components_K128_124",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.886089324951172,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L006_G001_F002": {
+      "family": "VF_fine_components_K128_101",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.357451915740967,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L006_G001_F003": {
+      "family": "VF_fine_components_K128_021",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 4.974395751953125,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G001_F004": {
+      "family": "VF_fine_components_K128_061",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 3.820906162261963,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G002_F001": {
+      "family": "VF_fine_components_K128_046",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 3.6121366024017334,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G002_F002": {
+      "family": "VF_fine_components_K128_090",
+      "broad_structure": "VS13",
+      "admitted": true,
+      "distance": 4.560715675354004,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G002_F003": {
+      "family": "VF_fine_components_K128_060",
+      "broad_structure": "VS13",
+      "admitted": true,
+      "distance": 4.163751125335693,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G002_F004": {
+      "family": "VF_fine_components_K128_022",
+      "broad_structure": "VS13",
+      "admitted": true,
+      "distance": 3.0373170375823975,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G002_F005": {
+      "family": "VF_fine_components_K128_065",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.824563026428223,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L006_G002_F006": {
+      "family": "VF_fine_components_K128_101",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.903073310852051,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L006_G003_F001": {
+      "family": "VF_fine_components_K128_049",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.157719612121582,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L006_G003_F002": {
+      "family": "VF_fine_components_K128_024",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 4.2461838722229,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G003_F003": {
+      "family": "VF_fine_components_K128_060",
+      "broad_structure": "VS13",
+      "admitted": true,
+      "distance": 4.063022613525391,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G003_F004": {
+      "family": "VF_fine_components_K128_043",
+      "broad_structure": "VS06",
+      "admitted": true,
+      "distance": 4.010310649871826,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G004_F001": {
+      "family": "VF_fine_components_K128_037",
+      "broad_structure": "VS08",
+      "admitted": true,
+      "distance": 5.249476909637451,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G004_F002": {
+      "family": "VF_fine_components_K128_060",
+      "broad_structure": "VS13",
+      "admitted": true,
+      "distance": 4.6577887535095215,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G004_F003": {
+      "family": "VF_fine_components_K128_020",
+      "broad_structure": "VS15",
+      "admitted": true,
+      "distance": 5.300833225250244,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G005_F001": {
+      "family": "VF_fine_components_K128_098",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 3.15916109085083,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G005_F002": {
+      "family": "VF_fine_components_K128_006",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 3.4868764877319336,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G005_F003": {
+      "family": "VF_fine_components_K128_058",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.2689151763916016,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L006_G005_F004": {
+      "family": "VF_fine_components_K128_082",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.852599620819092,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L006_G005_F005": {
+      "family": "VF_fine_components_K128_126",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 4.370783805847168,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G006_F001": {
+      "family": "VF_fine_components_K128_031",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.750093460083008,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L006_G006_F002": {
+      "family": "VF_fine_components_K128_113",
+      "broad_structure": "VS15",
+      "admitted": true,
+      "distance": 3.6751012802124023,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G006_F003": {
+      "family": "VF_fine_components_K128_039",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.637671709060669,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L007_G001_F001": {
+      "family": "VF_fine_components_K128_007",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.626542091369629,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L007_G002_F001": {
+      "family": "VF_fine_components_K128_098",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 3.46378755569458,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G002_F002": {
+      "family": "VF_fine_components_K128_113",
+      "broad_structure": "VS15",
+      "admitted": false,
+      "distance": 5.815098762512207,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G002_F003": {
+      "family": "VF_fine_components_K128_039",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.28562331199646,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L007_G002_F004": {
+      "family": "VF_fine_components_K128_083",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.925912380218506,
+      "review_category": "fragment"
+    },
+    "V_077_R01_L007_G002_F005": {
+      "family": "VF_fine_components_K128_020",
+      "broad_structure": "VS15",
+      "admitted": false,
+      "distance": 6.80923318862915,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G003_F001": {
+      "family": "VF_fine_components_K128_053",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.7557051181793213,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L007_G003_F002": {
+      "family": "VF_fine_components_K128_036",
+      "broad_structure": "VS10",
+      "admitted": true,
+      "distance": 2.6044180393218994,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G004_F001": {
+      "family": "VF_fine_components_K128_126",
+      "broad_structure": "VS05",
+      "admitted": false,
+      "distance": 6.036974906921387,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G004_F002": {
+      "family": "VF_fine_components_K128_055",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.044610500335693,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L007_G004_F003": {
+      "family": "VF_fine_components_K128_063",
+      "broad_structure": "VS11",
+      "admitted": true,
+      "distance": 3.705646514892578,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G005_F001": {
+      "family": "VF_fine_components_K128_040",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 4.304873466491699,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G005_F002": {
+      "family": "VF_fine_components_K128_006",
+      "broad_structure": "VS05",
+      "admitted": true,
+      "distance": 2.3020124435424805,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G005_F003": {
+      "family": "VF_fine_components_K128_028",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.019227027893066,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L007_G006_F001": {
+      "family": "VF_fine_components_K128_085",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.292850494384766,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L007_G007_F001": {
+      "family": "VF_fine_components_K128_108",
+      "broad_structure": "VS01",
+      "admitted": false,
+      "distance": 5.34246826171875,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G007_F002": {
+      "family": "VF_fine_components_K128_028",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.838293552398682,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L007_G008_F001": {
+      "family": "VF_fine_components_K128_040",
+      "broad_structure": "VS07",
+      "admitted": true,
+      "distance": 4.9930548667907715,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G008_F002": {
+      "family": "VF_fine_components_K128_108",
+      "broad_structure": "VS01",
+      "admitted": true,
+      "distance": 4.933393955230713,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G001_M001": {
+      "family": "VF_medium_assemblies_K128_048",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.412618637084961,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L001_G002_M001": {
+      "family": "VF_medium_assemblies_K128_083",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.355420112609863,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G002_M002": {
+      "family": "VF_medium_assemblies_K128_065",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.52673864364624,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G002_M003": {
+      "family": "VF_medium_assemblies_K128_072",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.284715175628662,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L001_G002_M004": {
+      "family": "VF_medium_assemblies_K128_126",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.179484844207764,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G002_M005": {
+      "family": "VF_medium_assemblies_K128_069",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.121079444885254,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G003_M001": {
+      "family": "VF_medium_assemblies_K128_047",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.4900636672973633,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G003_M002": {
+      "family": "VF_medium_assemblies_K128_067",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.2998015880584717,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L001_G003_M003": {
+      "family": "VF_medium_assemblies_K128_084",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.5666351318359375,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G004_M001": {
+      "family": "VF_medium_assemblies_K128_054",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.304873943328857,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L001_G004_M002": {
+      "family": "VF_medium_assemblies_K128_069",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.92157506942749,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L001_G005_M001": {
+      "family": "VF_medium_assemblies_K128_111",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 1.7842333316802979,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L002_G001_M001": {
+      "family": "VF_medium_assemblies_K128_086",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 7.253747463226318,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G002_M001": {
+      "family": "VF_medium_assemblies_K128_019",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.278604507446289,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G002_M002": {
+      "family": "VF_medium_assemblies_K128_095",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.9083967208862305,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L002_G002_M003": {
+      "family": "VF_medium_assemblies_K128_075",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 7.615742206573486,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G003_M001": {
+      "family": "VF_medium_assemblies_K128_047",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.46431565284729,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G003_M002": {
+      "family": "VF_medium_assemblies_K128_114",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.37297248840332,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G004_M001": {
+      "family": "VF_medium_assemblies_K128_065",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.9621291160583496,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G005_M001": {
+      "family": "VF_medium_assemblies_K128_086",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.978597164154053,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G006_M001": {
+      "family": "VF_medium_assemblies_K128_029",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.988147258758545,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G006_M002": {
+      "family": "VF_medium_assemblies_K128_116",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.3600616455078125,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G007_M001": {
+      "family": "VF_medium_assemblies_K128_018",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.887121677398682,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G007_M002": {
+      "family": "VF_medium_assemblies_K128_024",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.02000093460083,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G007_M003": {
+      "family": "VF_medium_assemblies_K128_096",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.030941963195801,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G008_M001": {
+      "family": "VF_medium_assemblies_K128_066",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.0944318771362305,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G009_M001": {
+      "family": "VF_medium_assemblies_K128_019",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 2.521608829498291,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L002_G009_M002": {
+      "family": "VF_medium_assemblies_K128_084",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.7051212787628174,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G001_M001": {
+      "family": "VF_medium_assemblies_K128_109",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.7918853759765625,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G001_M002": {
+      "family": "VF_medium_assemblies_K128_008",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 2.800323486328125,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G002_M001": {
+      "family": "VF_medium_assemblies_K128_050",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.0531792640686035,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G002_M002": {
+      "family": "VF_medium_assemblies_K128_116",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.149450778961182,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G002_M003": {
+      "family": "VF_medium_assemblies_K128_077",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.247048854827881,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G003_M001": {
+      "family": "VF_medium_assemblies_K128_014",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.666464328765869,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G003_M002": {
+      "family": "VF_medium_assemblies_K128_114",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 2.279650926589966,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G004_M001": {
+      "family": "VF_medium_assemblies_K128_018",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.438202381134033,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G004_M002": {
+      "family": "VF_medium_assemblies_K128_037",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.598536014556885,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G004_M003": {
+      "family": "VF_medium_assemblies_K128_107",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 7.334353446960449,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G005_M001": {
+      "family": "VF_medium_assemblies_K128_050",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.091216087341309,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G005_M002": {
+      "family": "VF_medium_assemblies_K128_118",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 7.105228900909424,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G006_M001": {
+      "family": "VF_medium_assemblies_K128_069",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.3972954750061035,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G006_M002": {
+      "family": "VF_medium_assemblies_K128_014",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.437526702880859,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L003_G006_M003": {
+      "family": "VF_medium_assemblies_K128_095",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.8126091957092285,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L004_G001_M001": {
+      "family": "VF_medium_assemblies_K128_026",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.7107138633728027,
+      "review_category": "mixed"
+    },
+    "V_077_R01_L004_G002_M001": {
+      "family": "VF_medium_assemblies_K128_126",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.306895732879639,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G002_M002": {
+      "family": "VF_medium_assemblies_K128_008",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.680966377258301,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G003_M001": {
+      "family": "VF_medium_assemblies_K128_066",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.116470813751221,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G004_M001": {
+      "family": "VF_medium_assemblies_K128_036",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.430291175842285,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G004_M002": {
+      "family": "VF_medium_assemblies_K128_035",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.614201784133911,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G005_M001": {
+      "family": "VF_medium_assemblies_K128_045",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.691891670227051,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L004_G005_M002": {
+      "family": "VF_medium_assemblies_K128_037",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.621269702911377,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G005_M003": {
+      "family": "VF_medium_assemblies_K128_086",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.338967800140381,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G005_M004": {
+      "family": "VF_medium_assemblies_K128_118",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.04070520401001,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G006_M001": {
+      "family": "VF_medium_assemblies_K128_031",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.771846055984497,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G006_M002": {
+      "family": "VF_medium_assemblies_K128_022",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.460583448410034,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L004_G006_M003": {
+      "family": "VF_medium_assemblies_K128_107",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.770956993103027,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L004_G006_M004": {
+      "family": "VF_medium_assemblies_K128_069",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.590318202972412,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G001_M001": {
+      "family": "VF_medium_assemblies_K128_093",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.1185836791992188,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L005_G002_M001": {
+      "family": "VF_medium_assemblies_K128_066",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.308664798736572,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G002_M002": {
+      "family": "VF_medium_assemblies_K128_036",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.848941326141357,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G002_M003": {
+      "family": "VF_medium_assemblies_K128_095",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.288590431213379,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L005_G002_M004": {
+      "family": "VF_medium_assemblies_K128_095",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.547887325286865,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L005_G002_M005": {
+      "family": "VF_medium_assemblies_K128_015",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.76939058303833,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G003_M001": {
+      "family": "VF_medium_assemblies_K128_095",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.125397682189941,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L005_G003_M002": {
+      "family": "VF_medium_assemblies_K128_047",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.836684703826904,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G003_M003": {
+      "family": "VF_medium_assemblies_K128_069",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.944351673126221,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G004_M001": {
+      "family": "VF_medium_assemblies_K128_111",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.233894109725952,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L005_G004_M002": {
+      "family": "VF_medium_assemblies_K128_069",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.277574062347412,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G005_M001": {
+      "family": "VF_medium_assemblies_K128_055",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.659348011016846,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L005_G005_M002": {
+      "family": "VF_medium_assemblies_K128_066",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.4653401374816895,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G001_M001": {
+      "family": "VF_medium_assemblies_K128_112",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.701447010040283,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G001_M002": {
+      "family": "VF_medium_assemblies_K128_096",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.150027751922607,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G002_M001": {
+      "family": "VF_medium_assemblies_K128_037",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.270527362823486,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G002_M002": {
+      "family": "VF_medium_assemblies_K128_086",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.69651985168457,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G002_M003": {
+      "family": "VF_medium_assemblies_K128_046",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.6111979484558105,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G002_M004": {
+      "family": "VF_medium_assemblies_K128_075",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.866068363189697,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G003_M001": {
+      "family": "VF_medium_assemblies_K128_037",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.169730186462402,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G003_M002": {
+      "family": "VF_medium_assemblies_K128_036",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.564456939697266,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G004_M001": {
+      "family": "VF_medium_assemblies_K128_064",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.91156530380249,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G004_M002": {
+      "family": "VF_medium_assemblies_K128_107",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 8.458527565002441,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G005_M001": {
+      "family": "VF_medium_assemblies_K128_056",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 3.1890387535095215,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L006_G005_M002": {
+      "family": "VF_medium_assemblies_K128_117",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.521653175354004,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L006_G006_M001": {
+      "family": "VF_medium_assemblies_K128_014",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 7.5942277908325195,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G006_M002": {
+      "family": "VF_medium_assemblies_K128_036",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.725869178771973,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L006_G006_M003": {
+      "family": "VF_medium_assemblies_K128_095",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 5.6187262535095215,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L007_G001_M001": {
+      "family": "VF_medium_assemblies_K128_025",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 2.8165929317474365,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L007_G002_M001": {
+      "family": "VF_medium_assemblies_K128_066",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.396753311157227,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G002_M002": {
+      "family": "VF_medium_assemblies_K128_036",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.788084983825684,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G002_M003": {
+      "family": "VF_medium_assemblies_K128_095",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.748818397521973,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L007_G002_M004": {
+      "family": "VF_medium_assemblies_K128_035",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 6.765174388885498,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G003_M001": {
+      "family": "VF_medium_assemblies_K128_027",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 4.143915176391602,
+      "review_category": "writing_variable"
+    },
+    "V_077_R01_L007_G004_M001": {
+      "family": "VF_medium_assemblies_K128_024",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 7.37367582321167,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G004_M002": {
+      "family": "VF_medium_assemblies_K128_086",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.3500895500183105,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G004_M003": {
+      "family": "VF_medium_assemblies_K128_057",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.0053935050964355,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G005_M001": {
+      "family": "VF_medium_assemblies_K128_066",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 4.808578014373779,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G005_M002": {
+      "family": "VF_medium_assemblies_K128_114",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 3.831242799758911,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G006_M001": {
+      "family": "VF_medium_assemblies_K128_048",
+      "broad_structure": null,
+      "admitted": false,
+      "distance": 6.47514009475708,
+      "review_category": "artifact"
+    },
+    "V_077_R01_L007_G007_M001": {
+      "family": "VF_medium_assemblies_K128_099",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.1381072998046875,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G008_M001": {
+      "family": "VF_medium_assemblies_K128_106",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.520955562591553,
+      "review_category": "writing_consistent"
+    },
+    "V_077_R01_L007_G008_M002": {
+      "family": "VF_medium_assemblies_K128_126",
+      "broad_structure": null,
+      "admitted": true,
+      "distance": 5.82811164855957,
+      "review_category": "writing_consistent"
+    }
+  },
+  "source_candidate_sha256": "aa3f0a5222b6c654bed8d366981a434118f7b242f6cec895e14c84624aa7439d",
+  "status": "Frozen v4 image prototypes transferred without refitting; source geometry v11; not a recovered alphabet"
+}

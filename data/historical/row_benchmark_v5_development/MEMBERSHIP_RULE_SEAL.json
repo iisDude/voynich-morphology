@@ -1,0 +1,38 @@
+{
+  "sealed_at_utc": "2026-10-07T02:38:21.039256+00:00",
+  "stage": "Before heldout row RGB review or heldout object labels; no V3 class input",
+  "development_reference_sha256": "462ffe69f07bfcb8ee3c8b5e9ea78ee78192ae028573c3ff0a09421257cbdb54",
+  "development_predictions_sha256": "3440623721a13410c25b52b30b1e9a6034c3f444fda6cf78161ebc38d5cc3a0f",
+  "function_hashes": {
+    "features": "5792be0bdd902147f6af1e687417a8d9aa2d68b218e0b4ba15984c62a7e9213d",
+    "strong": "3503397b592eb85bdb311794b63a632c43d1f5a1bb62cfd9cf5ae6d8cef6b2f8",
+    "track": "bb3738253b6c38fca91e90926794e4ecb6cf84cd9dd57ba6fb2b504f85d06e29",
+    "predict": "399e06e22807daff6413657900d2f86feb267b060d0b7f21af51933659fb0411"
+  },
+  "source_rules": [
+    "Membership and row ownership are separate. Connected raster masks are location aids; mixed source contacts stay unknown.",
+    "Strong source writing candidate: area>=35 px, height>=0.20 body, width>=0.075 body, height<=4.5 body, width<=12 body, raw local gray contrast 90th percentile>=50 and median>=25 against sigma25 background. The larger height allowance concerns membership only; frozen V3 eligibility is unchanged.",
+    "Small weak source detections: area<35 and raw contrast90<45 become texture candidates, retained in the ledger. This is an algorithm prediction, not permission to overwrite source-unresolved truth.",
+    "Remaining faint/large/unstable detections are unknown. No low-to-primary bridge is automatically joined; preserve connected-compound and detached alternatives.",
+    "Fully automatic localized-field path uses source pixel density, compact coherent components, anchor-minus0.3body seed and bidirectional96px windows, maximum12px shift per window. It receives no reference membership or endpoint boxes.",
+    "Target-owner candidate requires>=8 source pixels in body core(-.95,+.25 body), and whole component bottom between-.8 and+.9body of path. Long tails may therefore abstain. Wrong/mixed row-root outcomes remain failure evidence.",
+    "A second diagnostic supplies the source-adjudicated body path but no object labels or endpoint boxes. It is layout-assisted, not automatic row recovery.",
+    "An endpoint estimate is the first/last accepted source object, not a validated physical line end. Unresolved nearby traces remain in the source reference."
+  ],
+  "development_rationale": "RGB audits distinguish coherent brown traces, diffuse substrate connections, drawing contours and dark marginal writing. The initial contrast18 rule admitted raised surface texture; development contrasts gave writing contrast90 median80.45 versus substrate median33.76. Conservative contrast50/median25 thresholds keep weak writing unknown. Source-visible short minims motivate height0.20; ordinary long descenders motivate owner allowance0.90. No recurrence, structural class suggestion or conventional outcome used.",
+  "limitations": [
+    "Same adjudicator; mask-assisted reference dependence; candidate enumeration within source-localized contexts, not page-discovery certification",
+    "Two heldout caption clusters only; source photographs previously overview-seen; heldout for new rule development",
+    "Raster contrast is not chemistry, actual stroke boundaries, pen lifts or glyph truth",
+    "Failed gates will not be retuned on heldout"
+  ],
+  "unchanged_v3_v4": {
+    "v3": "4f593cc679e6395c164425bb9eca5ca3df01abda7dc0be5a4ad9a0a3ba6050fc",
+    "v4": "07fa88ae01152f9ba18a187987e61d93989f2c23045f2ff6c7e332c7428d9955"
+  },
+  "parameters_frozen": true,
+  "heldout_captions": [
+    "10",
+    "106"
+  ]
+}

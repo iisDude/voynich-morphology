@@ -1,0 +1,41 @@
+{
+  "sealed_at_utc": "2026-10-07T08:30:36.604777+00:00",
+  "files": [
+    {
+      "path": "data/observations/direct_morphology_trial2/direct_distance_matrices.npz",
+      "sha256": "87cc58dc073e6fdb755c1e4c34cc03e8bf9483d3d138c299e9088e4cb51801d6"
+    },
+    {
+      "path": "src/evaluate_direct_morphology2.py",
+      "sha256": "3a34956aa42671103467a81470893dbbd58ae4e8924790b26383311e3bb2e488"
+    },
+    {
+      "path": "tests/direct_morphology_trial2/PRE_REPEAT_REPLAY.json",
+      "sha256": "38ab4aaa627971545c1e961d54802a3409d2226348e7d2f936cda5e183c18d11"
+    },
+    {
+      "path": "tests/direct_morphology_trial2/primary_and_secondary_metrics.json",
+      "sha256": "3fffa3ec49721868d40de7aa13e45d97fb2634ccaac66cd6b439474b00ea316f"
+    },
+    {
+      "path": "tests/direct_morphology_trial2/rating_support_after_batch1.json",
+      "sha256": "51259923f69ee8bb93abb738fe96294bdd92e3499f35424d5a55ac1824bb12c4"
+    },
+    {
+      "path": "tests/direct_morphology_trial2/rating_support_after_batch2.json",
+      "sha256": "f9976d3f080bfb0054523cf39e243c87c749ec589d138a85f78312598f1bb494"
+    },
+    {
+      "path": "tests/direct_morphology_trial2/representation_coverage_and_uncertainty.json",
+      "sha256": "434d24c4b797ed1d2b11d2168ac2a1b42f74cb97bd81edbf7b508f10cf6853d2"
+    },
+    {
+      "path": "tests/direct_morphology_trial2/same_adjudicator_repeatability.json",
+      "sha256": "9986df676729c4e365de0644b28e7ba95924ddab5fbb7fb9ebcc301aca8ca2c5"
+    },
+    {
+      "path": "tests/direct_morphology_trial2/uncertainty_and_retrieval.json",
+      "sha256": "7ab47fc69c5f1aca0e4fc551f214784ea52b133f2e0f566616095878635ddd23"
+    }
+  ]
+}

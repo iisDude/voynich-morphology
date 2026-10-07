@@ -1,0 +1,414 @@
+{
+  "registered_at_utc": "2026-10-07T01:36:02.775090+00:00",
+  "version": "V5 source row benchmark",
+  "seed": 20261010,
+  "question": "Can complete source membership and structural sequences be established in carefully adjudicated ordinary rows?",
+  "selection": "16 physical-row targets in8 existing overview-triaged captions; two near top ordinary writing per caption, clear horizontal layout, contrast, broad visible margins and minimal drawing intrusion. Source overviews and geometric row proposals only. No new page coverage. Anchors select a physical row, not a membership truth or character boundary.",
+  "rows": [
+    {
+      "row_id": "B001",
+      "view_id": "V_012",
+      "caption": "5",
+      "native_source": "data/source/yale_native/1006084.jpg",
+      "native_dimensions": [
+        2636,
+        3723
+      ],
+      "source_anchor_y": 622.16875,
+      "body_proxy": 29.0,
+      "selection_proposal_id": "V_012_R01_L001",
+      "source_context_bbox": [
+        0,
+        520,
+        2636,
+        700
+      ],
+      "split": "development"
+    },
+    {
+      "row_id": "B002",
+      "view_id": "V_012",
+      "caption": "5",
+      "native_source": "data/source/yale_native/1006084.jpg",
+      "native_dimensions": [
+        2636,
+        3723
+      ],
+      "source_anchor_y": 785.1895833333333,
+      "body_proxy": 29.0,
+      "selection_proposal_id": "V_012_R01_L003",
+      "source_context_bbox": [
+        0,
+        683,
+        2636,
+        863
+      ],
+      "split": "development"
+    },
+    {
+      "row_id": "B003",
+      "view_id": "V_023",
+      "caption": "10",
+      "native_source": "data/source/yale_native/1006095.jpg",
+      "native_dimensions": [
+        2839,
+        3797
+      ],
+      "source_anchor_y": 557.3924999999999,
+      "body_proxy": 38.599999999999994,
+      "selection_proposal_id": "V_023_R01_L001",
+      "source_context_bbox": [
+        0,
+        422,
+        2839,
+        661
+      ],
+      "split": "heldout"
+    },
+    {
+      "row_id": "B004",
+      "view_id": "V_023",
+      "caption": "10",
+      "native_source": "data/source/yale_native/1006095.jpg",
+      "native_dimensions": [
+        2839,
+        3797
+      ],
+      "source_anchor_y": 793.7674999999999,
+      "body_proxy": 38.599999999999994,
+      "selection_proposal_id": "V_023_R01_L004",
+      "source_context_bbox": [
+        0,
+        658,
+        2839,
+        897
+      ],
+      "split": "heldout"
+    },
+    {
+      "row_id": "B005",
+      "view_id": "V_069",
+      "caption": "34",
+      "native_source": "data/source/yale_native/1006141.jpg",
+      "native_dimensions": [
+        2881,
+        3787
+      ],
+      "source_anchor_y": 535.378125,
+      "body_proxy": 36.0,
+      "selection_proposal_id": "V_069_R01_L001",
+      "source_context_bbox": [
+        0,
+        409,
+        2881,
+        632
+      ],
+      "split": "development"
+    },
+    {
+      "row_id": "B006",
+      "view_id": "V_069",
+      "caption": "34",
+      "native_source": "data/source/yale_native/1006141.jpg",
+      "native_dimensions": [
+        2881,
+        3787
+      ],
+      "source_anchor_y": 758.8,
+      "body_proxy": 36.0,
+      "selection_proposal_id": "V_069_R01_L005",
+      "source_context_bbox": [
+        0,
+        632,
+        2881,
+        856
+      ],
+      "split": "development"
+    },
+    {
+      "row_id": "B007",
+      "view_id": "V_079",
+      "caption": "39",
+      "native_source": "data/source/yale_native/1006151.jpg",
+      "native_dimensions": [
+        2882,
+        3769
+      ],
+      "source_anchor_y": 431.4,
+      "body_proxy": 38.0,
+      "selection_proposal_id": "V_079_R01_L001",
+      "source_context_bbox": [
+        0,
+        298,
+        2882,
+        534
+      ],
+      "split": "development"
+    },
+    {
+      "row_id": "B008",
+      "view_id": "V_079",
+      "caption": "39",
+      "native_source": "data/source/yale_native/1006151.jpg",
+      "native_dimensions": [
+        2882,
+        3769
+      ],
+      "source_anchor_y": 568.4,
+      "body_proxy": 38.0,
+      "selection_proposal_id": "V_079_R01_L002",
+      "source_context_bbox": [
+        0,
+        435,
+        2882,
+        671
+      ],
+      "split": "development"
+    },
+    {
+      "row_id": "B009",
+      "view_id": "V_110",
+      "caption": "55",
+      "native_source": "data/source/yale_native/1006182.jpg",
+      "native_dimensions": [
+        2793,
+        3738
+      ],
+      "source_anchor_y": 489.08125,
+      "body_proxy": 36.0,
+      "selection_proposal_id": "V_110_R01_L001",
+      "source_context_bbox": [
+        0,
+        363,
+        2793,
+        586
+      ],
+      "split": "development"
+    },
+    {
+      "row_id": "B010",
+      "view_id": "V_110",
+      "caption": "55",
+      "native_source": "data/source/yale_native/1006182.jpg",
+      "native_dimensions": [
+        2793,
+        3738
+      ],
+      "source_anchor_y": 693.5604166666667,
+      "body_proxy": 36.0,
+      "selection_proposal_id": "V_110_R01_L004",
+      "source_context_bbox": [
+        0,
+        567,
+        2793,
+        790
+      ],
+      "split": "development"
+    },
+    {
+      "row_id": "B011",
+      "view_id": "V_148",
+      "caption": "81",
+      "native_source": "data/source/yale_native/1006220.jpg",
+      "native_dimensions": [
+        2776,
+        3737
+      ],
+      "source_anchor_y": 888.10625,
+      "body_proxy": 39.0,
+      "selection_proposal_id": "V_148_R01_L001",
+      "source_context_bbox": [
+        0,
+        751,
+        2776,
+        993
+      ],
+      "split": "development"
+    },
+    {
+      "row_id": "B012",
+      "view_id": "V_148",
+      "caption": "81",
+      "native_source": "data/source/yale_native/1006220.jpg",
+      "native_dimensions": [
+        2776,
+        3737
+      ],
+      "source_anchor_y": 1009.1947916666667,
+      "body_proxy": 39.0,
+      "selection_proposal_id": "V_148_R01_L003",
+      "source_context_bbox": [
+        0,
+        872,
+        2776,
+        1114
+      ],
+      "split": "development"
+    },
+    {
+      "row_id": "B013",
+      "view_id": "V_191",
+      "caption": "106",
+      "native_source": "data/source/yale_native/1006261.jpg",
+      "native_dimensions": [
+        2670,
+        3697
+      ],
+      "source_anchor_y": 248.29166666666666,
+      "body_proxy": 40.0,
+      "selection_proposal_id": "V_191_R01_L001",
+      "source_context_bbox": [
+        0,
+        108,
+        2670,
+        356
+      ],
+      "split": "heldout"
+    },
+    {
+      "row_id": "B014",
+      "view_id": "V_191",
+      "caption": "106",
+      "native_source": "data/source/yale_native/1006261.jpg",
+      "native_dimensions": [
+        2670,
+        3697
+      ],
+      "source_anchor_y": 687.0416666666666,
+      "body_proxy": 40.0,
+      "selection_proposal_id": "V_191_R01_L004",
+      "source_context_bbox": [
+        0,
+        547,
+        2670,
+        795
+      ],
+      "split": "heldout"
+    },
+    {
+      "row_id": "B015",
+      "view_id": "V_204",
+      "caption": "115",
+      "native_source": "data/source/yale_native/1006274.jpg",
+      "native_dimensions": [
+        2584,
+        3786
+      ],
+      "source_anchor_y": 282.440625,
+      "body_proxy": 41.0,
+      "selection_proposal_id": "V_204_R01_L002",
+      "source_context_bbox": [
+        0,
+        138,
+        2584,
+        393
+      ],
+      "split": "development"
+    },
+    {
+      "row_id": "B016",
+      "view_id": "V_204",
+      "caption": "115",
+      "native_source": "data/source/yale_native/1006274.jpg",
+      "native_dimensions": [
+        2584,
+        3786
+      ],
+      "source_anchor_y": 587.7270833333333,
+      "body_proxy": 41.0,
+      "selection_proposal_id": "V_204_R01_L003",
+      "source_context_bbox": [
+        0,
+        444,
+        2584,
+        698
+      ],
+      "split": "development"
+    }
+  ],
+  "heldout_captions": [
+    "10",
+    "106"
+  ],
+  "development_captions": [
+    "115",
+    "34",
+    "39",
+    "5",
+    "55",
+    "81"
+  ],
+  "prior_exposure": "Source captures and coarse V4 field triage previously seen. No V3 class suggestion or V4 sequence list used in row selection/annotation. Heldout is for new membership rules; photographs are not globally unseen.",
+  "reference": "Direct native RGB review of full-width context and every visible relevant object, with coordinate boxes/connected-mask aids. Raster proposals assist locating objects; adjudicator can join/split/add missing objects. They do not define writing truth. Unresolvable contacts/marks preserved. Reference is operational photographic ground truth, not independent expert-rater or microscopic stroke truth.",
+  "annotation_categories": [
+    "confirmed_writing",
+    "confirmed_nonwriting",
+    "unresolved",
+    "detached_ownership_unknown",
+    "connected_writing_structure",
+    "possible_compound",
+    "neighbor_row_contact",
+    "possible_showthrough_or_artifact"
+  ],
+  "stages": [
+    "Development native RGB row endpoints/body envelope and full writing sweep",
+    "Development source-only object ledger, missing-object sweep and mask-assisted contacts",
+    "Source-only optional rule development from development errors; seal rules before heldout row ledger",
+    "Heldout native RGB reference adjudication without algorithm rule outcomes/classes",
+    "Repeat masked subset after intervening work; prior decision files hidden; same adjudicator",
+    "Freeze all source membership and physical row judgments before V3 class mapping",
+    "Apply frozen V3 unchanged, report separate accuracy/completeness/recurrence",
+    "Freeze V5 before any conventional input; postfreeze support assessment"
+  ],
+  "repeatability": {
+    "rows": [
+      "B002",
+      "B005",
+      "B010",
+      "B014"
+    ],
+    "minimum_intervening_work": "Other row adjudication and rule development; report actual timing, no independent-rater claim",
+    "masked": "Anonymous source objects/full context, previous labels and V3 class suggestions absent"
+  },
+  "boundary_hypotheses": [
+    0.35,
+    0.55,
+    0.75
+  ],
+  "source_boundary_adjudication": "Record each inter-parent gap as physical contact, clear separation, ambiguous spacing, or unresolved ownership. A visible gap is not a word boundary. Retain3 partitions unless physical continuous writing rules out a split.",
+  "accuracy": "Confirmed writing-object recall; nonwriting false inclusion; optional category handling; owner accuracy; source parent split/merge errors; exact parent recovery; gap boundary precision/recall on physically resolvable boundaries and ambiguity coverage; endpoint pixel error; V3 assigned-parent coverage; exact complete-row/group structural sequence recovery. Separate numerator/denominator and caption intervals; unknown objects excluded from asserted truth but quantified.",
+  "matching": "Mask overlap to manually reviewed source objects and source coordinates; membership overlap>=0.50, exact parent requires unique one-to-one support, source contact adjudication and IoU>=0.75; endpoints within0.25body; unresolved contacts do not count correct or incorrect, coverage reported.",
+  "rule_validation_gates": {
+    "heldout_writing_recall_min": 0.95,
+    "heldout_nonwriting_false_inclusion_max": 0.05,
+    "heldout_resolved_owner_accuracy_min": 0.95,
+    "heldout_exact_parent_recovery_min": 0.9,
+    "heldout_endpoint_accuracy_min": 0.9,
+    "repeatability_resolved_membership_min": 0.9
+  },
+  "downstream_support": {
+    "complete_reference_rows_min": 12,
+    "complete_identified_groups_ge3_min": 100,
+    "heldout_complete_identified_groups_ge3_min": 30,
+    "heldout_recurrence_ge3_min": 0.2,
+    "unknown_confirmed_parent_rate_max": 0.2,
+    "resolved_row_endpoint_fraction_min": 0.9,
+    "source_rule_validation_all_required": true,
+    "all_three_gap_hypotheses_required": true
+  },
+  "failure": "Freeze partial reference if image cannot decide. Validate rules on heldout once; preserve failures without retuning classes, thresholds or membership to conventional or recurrence targets.",
+  "prohibited": [
+    "EVA",
+    "RF",
+    "v101",
+    "Currier",
+    "positional outcomes",
+    "minimal-pair support",
+    "class recurrence selecting rows or membership"
+  ],
+  "immutable_dependencies": {
+    "v3": "4f593cc679e6395c164425bb9eca5ca3df01abda7dc0be5a4ad9a0a3ba6050fc",
+    "v4": "07fa88ae01152f9ba18a187987e61d93989f2c23045f2ff6c7e332c7428d9955"
+  },
+  "v3_model_sha256": "6f4653ba9abef085c67118bcbe7f4e4869f6f14ab318355a0c10c40d91147732"
+}

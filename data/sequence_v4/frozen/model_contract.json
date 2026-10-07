@@ -1,0 +1,69 @@
+{
+  "version": "V4",
+  "v3_immutable_manifest_sha256": "4f593cc679e6395c164425bb9eca5ca3df01abda7dc0be5a4ad9a0a3ba6050fc",
+  "v3_class_model_sha256": "6f4653ba9abef085c67118bcbe7f4e4869f6f14ab318355a0c10c40d91147732",
+  "taxonomy": "Frozen14 V3 core classes; ST09 experimental/UNK",
+  "notation": "STnn or UNK in a candidate native-x parent order; optional UNK states and alternative ownership/partitions are separate constraint graphs. Not letters, words or graphemes.",
+  "boundary_hypotheses": [
+    0.35,
+    0.55,
+    0.75
+  ],
+  "parent_atomicity": "unknown",
+  "native_row_endpoints": "unknown; local field is not line",
+  "qualification": {
+    "evaluated_at_utc": "2026-10-07T00:25:12.826676+00:00",
+    "global_gates": {
+      "new_views": true,
+      "new_row_fields": true,
+      "fresh_test_captions": true,
+      "class_generalization": true,
+      "repeatability": true,
+      "exact_sequence_repeatability_established": false,
+      "native_row_endpoint_certification": false
+    },
+    "per_gap_gates": {
+      "0.35": {
+        "ordered_membership_rows": false,
+        "complete_parent_membership": false,
+        "unknown_parent_rate": false,
+        "boundary_ambiguity": false,
+        "fully_identified_groups": false,
+        "heldout_ge3_recurrence": false
+      },
+      "0.55": {
+        "ordered_membership_rows": false,
+        "complete_parent_membership": false,
+        "unknown_parent_rate": false,
+        "boundary_ambiguity": false,
+        "fully_identified_groups": false,
+        "heldout_ge3_recurrence": false
+      },
+      "0.75": {
+        "ordered_membership_rows": false,
+        "complete_parent_membership": false,
+        "unknown_parent_rate": false,
+        "boundary_ambiguity": false,
+        "fully_identified_groups": false,
+        "heldout_ge3_recurrence": true
+      }
+    },
+    "qualified_as_practical_notation": false,
+    "downstream_support": false,
+    "freeze_status": "Partial source sequence evidence freeze; practical notation qualification failed",
+    "no_conventional_inputs_inspected": true,
+    "preregistered_support_sha256": "33d6a33ea0212dac1d7edfb4770b568f679d014b96d05cb7ac9d38b5f0ef5432",
+    "interpretation": "Frozen V3 classes can label some source parents, but this V4 does not establish complete, stable manuscript sequences. A partial observational representation with coordinates and unknown constraints is supported; an independent functional notation is not yet established."
+  },
+  "observed": "Native pixel regions, geometry, connected threshold parents and visibility judgments",
+  "hypothesized": "Parent-to-writing membership, structural compatibility, optional ownership and gap partition",
+  "forbidden_inputs": [
+    "EVA",
+    "RF",
+    "v101",
+    "Currier",
+    "inherited hand/section",
+    "prior positional outcomes",
+    "minimal-pair existence"
+  ]
+}

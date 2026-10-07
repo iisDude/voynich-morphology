@@ -1,0 +1,71 @@
+{
+  "registered_at_utc": "2026-10-06T11:24:20.311122+00:00",
+  "source_basis": "Train-only RGB atlas 16 contour clusters, eight examples from distinct captions per cluster; no test pairs used to select individual merges",
+  "tags": {
+    "0": "paired_uprights_bridge",
+    "6": "paired_uprights_bridge",
+    "1": "horizontal_arch_bridge",
+    "2": "upper_curve_lower_terminal",
+    "10": "upper_curve_lower_terminal",
+    "14": "upper_curve_lower_terminal",
+    "3": "vertical_loop_pair",
+    "4": "compact_ring",
+    "13": "compact_ring",
+    "5": "compact_loop_upper_right_trace",
+    "7": "vertical_loop_pair_left_appendage",
+    "9": "single_upright_lateral_bridge",
+    "11": "open_compact_hook",
+    "12": "short_oblique_terminal",
+    "15": "upper_loop_oblique_lower_branch"
+  },
+  "allowed_topologies": {
+    "paired_uprights_bridge": [
+      1,
+      2
+    ],
+    "horizontal_arch_bridge": [
+      0,
+      1
+    ],
+    "upper_curve_lower_terminal": [
+      0,
+      1
+    ],
+    "vertical_loop_pair": [
+      2
+    ],
+    "compact_ring": [
+      1
+    ],
+    "compact_loop_upper_right_trace": [
+      1
+    ],
+    "vertical_loop_pair_left_appendage": [
+      2
+    ],
+    "single_upright_lateral_bridge": [
+      1,
+      2
+    ],
+    "open_compact_hook": [
+      0
+    ],
+    "short_oblique_terminal": [
+      0
+    ],
+    "upper_loop_oblique_lower_branch": [
+      1
+    ]
+  },
+  "rejected_cluster": 8,
+  "rejection_reason": "Train examples mix inter-row contacts/stacked parents and compounds; no single reusable structural class asserted",
+  "grouping": "Whole parent, contour organization and stable hole count. Width/slant/ink density and small proportion variation are nuisance dimensions; extra upright, branch, bridge or appended lower trace are competing classes. Open/closed variants remain separate topology hypotheses.",
+  "geometry": "Relative native aspect/height and skeleton geometry weakly weighted (0.25) for matching; topology exact. Pixel x and row ordinal excluded.",
+  "factor_criteria": "Upper/lower spatial contour signatures, hole centroids, uprights/bridge organization. Factors are measurements, not internal grapheme boundaries or asserted pen strokes.",
+  "acceptance": "Training class 90th-percentile cross-caption nearest-neighbor radius and alternative-class distance ratio 1.08; threshold connectivity/topology unstable parents remain unknown",
+  "validation": "Registered original freeze gates unchanged, tested on fresh reserved caption groups. Source pair judgments before key, caption bootstrap and topology-matched nulls.",
+  "model_inputs": "Source pixels, topology, connectivity, relative geometry only; no transcription, inherited hand/section, Currier, positional assay or minimal pairs",
+  "pca_components": 24,
+  "geometry_weight": 0.25,
+  "model_status": "Source-atlas competitor, not segmentation freeze"
+}

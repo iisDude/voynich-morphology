@@ -1,0 +1,20 @@
+{
+  "version": "region_review_v1",
+  "status": "protocol_frozen_before_nonpilot_region_review",
+  "source": "PDF native image for layout; registered Yale native source for stroke measurements",
+  "purpose": "Mark writing regions without naming, matching, or interpreting signs. Region review is acquisition annotation, not training of unit families.",
+  "rules": [
+    "Mark rectangles enclosing visually evident straight writing blocks, preserving source image coordinates.",
+    "Split writing blocks on opposite sides of an illustration into separate regions where paths do not clearly continue through it.",
+    "Record drawings crossing a writing block as contamination; a region rectangle does not prove all enclosed ink is writing.",
+    "Mark circular, radial, rotated, sparse-label and ambiguous writing separately; do not flatten them into horizontal rows.",
+    "Provide an uncertainty margin and preserve omissions. Low-resolution layout previews cannot establish unit boundaries.",
+    "Candidate paths, component memberships, and segmentation cuts remain unaccepted until a source crop audit.",
+    "No EVA, RF, v101, language, hand, or positional-assay output may be consulted to choose region or unit boundaries."
+  ],
+  "independence": "Region annotation may be performed on held-out images after this rule freeze. Unit family learning and parameter choice use train views only; final unit evaluation uses held-out views without refit.",
+  "coverage_required": "Every folio-captioned view must receive a coverage record, including explicit abstentions.",
+  "pixel_measurement_rule": "Native Yale pixel position and ordinal group rank are separate quantities. Reduced contact sheets are for layout review only.",
+  "rejected_methods": ["whole-row classifier with midpoint negative labels", "whole-row classifier with inadequate negative-view diversity", "local-window classifier with poor cross-view recall"],
+  "pen_lift_rule": "Unresolved by default; a raster disconnect does not establish a pen lift."
+}

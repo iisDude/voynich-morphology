@@ -1,0 +1,5042 @@
+[
+  {
+    "parent_id": "V_032_P004727",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      363,
+      408,
+      484,
+      528
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": true,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 406,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          363,
+          408,
+          484,
+          528
+        ],
+        "holes": 3,
+        "connected_components": 1,
+        "area": 2477
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9515943142527853,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          363,
+          408,
+          484,
+          529
+        ],
+        "holes": 3,
+        "connected_components": 1,
+        "area": 2603
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9600322971336294,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          363,
+          409,
+          484,
+          528
+        ],
+        "holes": 3,
+        "connected_components": 1,
+        "area": 2378
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P004727.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P004727.png"
+  },
+  {
+    "parent_id": "V_032_P005502",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      761,
+      445,
+      820,
+      531
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 190,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          761,
+          445,
+          820,
+          531
+        ],
+        "holes": 3,
+        "connected_components": 1,
+        "area": 1223
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9465944272445821,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          761,
+          445,
+          820,
+          531
+        ],
+        "holes": 3,
+        "connected_components": 1,
+        "area": 1292
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9607522485690924,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          762,
+          445,
+          820,
+          530
+        ],
+        "holes": 3,
+        "connected_components": 1,
+        "area": 1175
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P005502.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P005502.png"
+  },
+  {
+    "parent_id": "V_032_P005702",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      912,
+      455,
+      953,
+      541
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 365,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          912,
+          455,
+          953,
+          541
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 759
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9290085679314566,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          911,
+          453,
+          953,
+          541
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 817
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9604743083003953,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          912,
+          455,
+          952,
+          541
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 729
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P005702.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P005702.png"
+  },
+  {
+    "parent_id": "V_032_P005749",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      988,
+      457,
+      1031,
+      546
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 550,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          988,
+          457,
+          1031,
+          546
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 1386
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9377537212449256,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          988,
+          457,
+          1032,
+          546
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 1478
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9444444444444444,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          988,
+          459,
+          1031,
+          546
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 1309
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P005749.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P005749.png"
+  },
+  {
+    "parent_id": "V_032_P006118",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      598,
+      477,
+      624,
+      519
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 554,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          598,
+          477,
+          624,
+          519
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 640
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9711684370257967,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          598,
+          477,
+          624,
+          519
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 659
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9703125,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          598,
+          478,
+          624,
+          519
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 621
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006118.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006118.png"
+  },
+  {
+    "parent_id": "V_032_P006363",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      625,
+      494,
+      656,
+      548
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 562,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          625,
+          494,
+          656,
+          548
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 603
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9571428571428572,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          625,
+          493,
+          656,
+          548
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 630
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9502487562189055,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          626,
+          494,
+          656,
+          548
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 573
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006363.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006363.png"
+  },
+  {
+    "parent_id": "V_032_P006394",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      1092,
+      496,
+      1125,
+      552
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 444,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1092,
+          496,
+          1125,
+          552
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 512
+      },
+      {
+        "contrast": 6,
+        "iou": 0.6183574879227053,
+        "split": false,
+        "merge": true,
+        "native_bbox": [
+          1072,
+          482,
+          1135,
+          553
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 828
+      },
+      {
+        "contrast": 12,
+        "iou": 0.802734375,
+        "split": true,
+        "merge": false,
+        "native_bbox": [
+          1092,
+          508,
+          1124,
+          552
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 411
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006394.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006394.png"
+  },
+  {
+    "parent_id": "V_032_P006409",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      477,
+      499,
+      536,
+      527
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 710,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          477,
+          499,
+          536,
+          527
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 710
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9646739130434783,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          477,
+          499,
+          536,
+          527
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 736
+      },
+      {
+        "contrast": 12,
+        "iou": 0.967605633802817,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          477,
+          499,
+          536,
+          526
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 687
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006409.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006409.png"
+  },
+  {
+    "parent_id": "V_032_P006410",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      563,
+      499,
+      588,
+      523
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 381,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          563,
+          499,
+          588,
+          523
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 381
+      },
+      {
+        "contrast": 6,
+        "iou": 0.6731448763250883,
+        "split": false,
+        "merge": true,
+        "native_bbox": [
+          541,
+          499,
+          588,
+          523
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 566
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9658792650918635,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          563,
+          499,
+          588,
+          523
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 368
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006410.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006410.png"
+  },
+  {
+    "parent_id": "V_032_P006450",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      695,
+      503,
+      766,
+      542
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 912,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          695,
+          503,
+          766,
+          542
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 916
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9682875264270613,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          695,
+          503,
+          766,
+          542
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 946
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9650655021834061,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          695,
+          503,
+          766,
+          541
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 884
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006450.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006450.png"
+  },
+  {
+    "parent_id": "V_032_P006475",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      440,
+      505,
+      468,
+      531
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 385,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          440,
+          505,
+          468,
+          531
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 385
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9625,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          440,
+          505,
+          468,
+          531
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 400
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9636363636363636,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          440,
+          505,
+          468,
+          530
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 371
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006475.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006475.png"
+  },
+  {
+    "parent_id": "V_032_P006476",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      541,
+      504,
+      563,
+      521
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 167,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          541,
+          504,
+          563,
+          521
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 167
+      },
+      {
+        "contrast": 6,
+        "iou": 0.2950530035335689,
+        "split": false,
+        "merge": true,
+        "native_bbox": [
+          541,
+          499,
+          588,
+          523
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 566
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9461077844311377,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          541,
+          505,
+          562,
+          521
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 158
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006476.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006476.png"
+  },
+  {
+    "parent_id": "V_032_P006527",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      866,
+      509,
+      913,
+      626
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 511,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          866,
+          509,
+          913,
+          626
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 1707
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9552322327923894,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          866,
+          509,
+          913,
+          626
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 1787
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9695371997656708,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          866,
+          509,
+          913,
+          626
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 1655
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006527.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006527.png"
+  },
+  {
+    "parent_id": "V_032_P006551",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      787,
+      510,
+      845,
+      535
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 801,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          787,
+          510,
+          845,
+          535
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 801
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9768292682926829,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          787,
+          509,
+          845,
+          536
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 820
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9662921348314607,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          787,
+          510,
+          845,
+          535
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 774
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006551.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006551.png"
+  },
+  {
+    "parent_id": "V_032_P006567",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      842,
+      512,
+      861,
+      535
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 207,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          842,
+          512,
+          861,
+          535
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 207
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9324324324324325,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          842,
+          512,
+          862,
+          535
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 222
+      },
+      {
+        "contrast": 12,
+        "iou": 0.927536231884058,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          842,
+          513,
+          861,
+          534
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 192
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006567.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006567.png"
+  },
+  {
+    "parent_id": "V_032_P006568",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      957,
+      512,
+      982,
+      575
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 529,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          957,
+          512,
+          982,
+          575
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 595
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9399684044233807,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          957,
+          512,
+          982,
+          575
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 633
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9495798319327731,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          957,
+          513,
+          982,
+          575
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 565
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006568.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006568.png"
+  },
+  {
+    "parent_id": "V_032_P006603",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      1021,
+      517,
+      1052,
+      544
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 457,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1021,
+          517,
+          1052,
+          544
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 457
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9723404255319149,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1021,
+          517,
+          1052,
+          544
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 470
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9649890590809628,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1021,
+          517,
+          1052,
+          544
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 441
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006603.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006603.png"
+  },
+  {
+    "parent_id": "V_032_P006645",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      1054,
+      522,
+      1072,
+      546
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 205,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1054,
+          522,
+          1072,
+          546
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 205
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9490740740740741,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1054,
+          522,
+          1073,
+          546
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 216
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9707317073170731,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1054,
+          523,
+          1072,
+          546
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 199
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006645.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006645.png"
+  },
+  {
+    "parent_id": "V_032_P006646",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      1072,
+      522,
+      1090,
+      548
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 227,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1072,
+          522,
+          1090,
+          548
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 227
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9659574468085106,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1072,
+          522,
+          1090,
+          548
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 235
+      },
+      {
+        "contrast": 12,
+        "iou": 0.947136563876652,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1072,
+          523,
+          1090,
+          548
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 215
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006646.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006646.png"
+  },
+  {
+    "parent_id": "V_032_P006714",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      545,
+      531,
+      594,
+      600
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 87,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          545,
+          531,
+          594,
+          600
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 1127
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9766031195840554,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          545,
+          531,
+          594,
+          600
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 1154
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9565217391304348,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          545,
+          531,
+          594,
+          600
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 1078
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006714.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006714.png"
+  },
+  {
+    "parent_id": "V_032_P006717",
+    "view_id": "V_032",
+    "caption": "16",
+    "native_source": "data/source/yale_native/1006104.jpg",
+    "native_bbox": [
+      683,
+      530,
+      692,
+      538
+    ],
+    "body_proxy": 44.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      372,
+      1143
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 35,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          683,
+          530,
+          692,
+          538
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 35
+      },
+      {
+        "contrast": 6,
+        "iou": 0.7,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          680,
+          527,
+          692,
+          538
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 50
+      },
+      {
+        "contrast": 12,
+        "iou": 0.45714285714285713,
+        "split": true,
+        "merge": false,
+        "native_bbox": [
+          683,
+          533,
+          687,
+          537
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 16
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_032_P006717.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_032_P006717.png"
+  },
+  {
+    "parent_id": "V_094_P012346",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      419,
+      626,
+      451,
+      688
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 336,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          419,
+          626,
+          451,
+          688
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 700
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9395973154362416,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          419,
+          626,
+          451,
+          688
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 745
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9528571428571428,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          420,
+          626,
+          451,
+          688
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 667
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012346.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012346.png"
+  },
+  {
+    "parent_id": "V_094_P012457",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      1094,
+      632,
+      1164,
+      695
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 912,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1094,
+          632,
+          1164,
+          695
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 1386
+      },
+      {
+        "contrast": 6,
+        "iou": 0.8988326848249028,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1092,
+          632,
+          1165,
+          695
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 1542
+      },
+      {
+        "contrast": 12,
+        "iou": 0.6810966810966811,
+        "split": true,
+        "merge": false,
+        "native_bbox": [
+          1113,
+          632,
+          1162,
+          693
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 944
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012457.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012457.png"
+  },
+  {
+    "parent_id": "V_094_P012480",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      808,
+      634,
+      824,
+      669
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 46,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          808,
+          634,
+          824,
+          669
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 186
+      },
+      {
+        "contrast": 6,
+        "iou": 0.8773584905660378,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          807,
+          633,
+          824,
+          669
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 212
+      },
+      {
+        "contrast": 12,
+        "iou": 0.8064516129032258,
+        "split": true,
+        "merge": false,
+        "native_bbox": [
+          811,
+          640,
+          824,
+          669
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 150
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012480.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012480.png"
+  },
+  {
+    "parent_id": "V_094_P012544",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      1020,
+      638,
+      1056,
+      692
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 492,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1020,
+          638,
+          1056,
+          692
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 825
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9375,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1020,
+          637,
+          1058,
+          693
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 880
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9515151515151515,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1021,
+          638,
+          1056,
+          692
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 785
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012544.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012544.png"
+  },
+  {
+    "parent_id": "V_094_P012595",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      516,
+      643,
+      545,
+      685
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 399,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          516,
+          643,
+          545,
+          685
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 545
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9380378657487092,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          514,
+          643,
+          545,
+          686
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 581
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9504587155963303,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          516,
+          644,
+          545,
+          685
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 518
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012595.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012595.png"
+  },
+  {
+    "parent_id": "V_094_P012627",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      1245,
+      645,
+      1270,
+      695
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 420,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1245,
+          645,
+          1270,
+          695
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 606
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9439252336448598,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1244,
+          645,
+          1270,
+          695
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 642
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9570957095709571,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1246,
+          645,
+          1270,
+          695
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 580
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012627.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012627.png"
+  },
+  {
+    "parent_id": "V_094_P012707",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      976,
+      652,
+      1001,
+      699
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 477,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          976,
+          652,
+          1001,
+          699
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 587
+      },
+      {
+        "contrast": 6,
+        "iou": 0.942215088282504,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          976,
+          652,
+          1001,
+          699
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 623
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9625212947189097,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          976,
+          653,
+          1001,
+          698
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 565
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012707.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012707.png"
+  },
+  {
+    "parent_id": "V_094_P012755",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      550,
+      657,
+      581,
+      697
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 554,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          550,
+          657,
+          581,
+          697
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 569
+      },
+      {
+        "contrast": 6,
+        "iou": 0.7783857729138167,
+        "split": false,
+        "merge": true,
+        "native_bbox": [
+          544,
+          656,
+          583,
+          716
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 731
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9349736379613357,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          551,
+          657,
+          581,
+          696
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 532
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012755.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012755.png"
+  },
+  {
+    "parent_id": "V_094_P012762",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      1296,
+      656,
+      1315,
+      683
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 90,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1296,
+          656,
+          1315,
+          683
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 103
+      },
+      {
+        "contrast": 6,
+        "iou": 0.6776315789473685,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1286,
+          653,
+          1316,
+          684
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 152
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9029126213592233,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1296,
+          656,
+          1315,
+          683
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 93
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012762.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012762.png"
+  },
+  {
+    "parent_id": "V_094_P012775",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      482,
+      659,
+      511,
+      686
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 473,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          482,
+          659,
+          511,
+          686
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 473
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9517102615694165,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          482,
+          658,
+          512,
+          686
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 497
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9746300211416491,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          482,
+          659,
+          511,
+          686
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 461
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012775.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012775.png"
+  },
+  {
+    "parent_id": "V_094_P012797",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      371,
+      661,
+      400,
+      686
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": true,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 19,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          371,
+          661,
+          400,
+          686
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 354
+      },
+      {
+        "contrast": 6,
+        "iou": 0.944,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          371,
+          661,
+          401,
+          686
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 375
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9378531073446328,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          371,
+          661,
+          400,
+          685
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 332
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012797.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012797.png"
+  },
+  {
+    "parent_id": "V_094_P012798",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      609,
+      661,
+      677,
+      687
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 783,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          609,
+          661,
+          677,
+          687
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 783
+      },
+      {
+        "contrast": 6,
+        "iou": 0.953714981729598,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          609,
+          661,
+          678,
+          687
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 821
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9425287356321839,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          609,
+          661,
+          677,
+          685
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 738
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012798.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012798.png"
+  },
+  {
+    "parent_id": "V_094_P012799",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      716,
+      660,
+      755,
+      691
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 524,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          716,
+          660,
+          755,
+          691
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 524
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9340463458110517,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          716,
+          660,
+          755,
+          691
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 561
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9198473282442748,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          717,
+          660,
+          755,
+          690
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 482
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012799.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012799.png"
+  },
+  {
+    "parent_id": "V_094_P012803",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      1057,
+      661,
+      1092,
+      694
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 555,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1057,
+          661,
+          1092,
+          694
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 559
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9209225700164745,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1056,
+          661,
+          1092,
+          697
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 607
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9212880143112702,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1057,
+          661,
+          1092,
+          693
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 515
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012803.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012803.png"
+  },
+  {
+    "parent_id": "V_094_P012818",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      688,
+      662,
+      715,
+      687
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 267,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          688,
+          662,
+          715,
+          687
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 267
+      },
+      {
+        "contrast": 6,
+        "iou": 0.8585209003215434,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          687,
+          662,
+          715,
+          688
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 311
+      },
+      {
+        "contrast": 12,
+        "iou": 0.947565543071161,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          688,
+          662,
+          712,
+          686
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 253
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012818.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012818.png"
+  },
+  {
+    "parent_id": "V_094_P012819",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      757,
+      662,
+      777,
+      690
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 237,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          757,
+          662,
+          777,
+          690
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 237
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9186046511627907,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          756,
+          661,
+          777,
+          690
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 258
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9071729957805907,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          757,
+          663,
+          775,
+          690
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 215
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012819.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012819.png"
+  },
+  {
+    "parent_id": "V_094_P012835",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      781,
+      665,
+      799,
+      692
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 206,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          781,
+          665,
+          799,
+          692
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 206
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9237668161434978,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          781,
+          665,
+          799,
+          693
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 223
+      },
+      {
+        "contrast": 12,
+        "iou": 0.8932038834951457,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          781,
+          666,
+          798,
+          692
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 184
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012835.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012835.png"
+  },
+  {
+    "parent_id": "V_094_P012837",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      943,
+      665,
+      971,
+      690
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 455,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          943,
+          665,
+          971,
+          690
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 455
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9619450317124736,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          943,
+          664,
+          971,
+          690
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 473
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9714285714285714,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          943,
+          665,
+          971,
+          690
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 442
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012837.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012837.png"
+  },
+  {
+    "parent_id": "V_094_P012850",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      800,
+      667,
+      824,
+      695
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 266,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          800,
+          667,
+          824,
+          695
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 266
+      },
+      {
+        "contrast": 6,
+        "iou": 0.8896321070234113,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          799,
+          664,
+          824,
+          696
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 299
+      },
+      {
+        "contrast": 12,
+        "iou": 0.8421052631578947,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          800,
+          671,
+          824,
+          693
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 224
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012850.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012850.png"
+  },
+  {
+    "parent_id": "V_094_P012868",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      403,
+      668,
+      420,
+      687
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 158,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          403,
+          668,
+          420,
+          687
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 158
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9186046511627907,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          403,
+          668,
+          421,
+          687
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 172
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9556962025316456,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          404,
+          668,
+          420,
+          686
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 151
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012868.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012868.png"
+  },
+  {
+    "parent_id": "V_094_P012870",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      876,
+      668,
+      941,
+      692
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 683,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          876,
+          668,
+          941,
+          692
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 683
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9368998628257887,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          870,
+          668,
+          941,
+          692
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 729
+      },
+      {
+        "contrast": 12,
+        "iou": 0.5109809663250366,
+        "split": true,
+        "merge": false,
+        "native_bbox": [
+          906,
+          668,
+          940,
+          691
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 349
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012870.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012870.png"
+  },
+  {
+    "parent_id": "V_094_P012871",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      1192,
+      668,
+      1218,
+      695
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 328,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1192,
+          668,
+          1218,
+          695
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 328
+      },
+      {
+        "contrast": 6,
+        "iou": 0.5117004680187207,
+        "split": false,
+        "merge": true,
+        "native_bbox": [
+          1192,
+          668,
+          1238,
+          695
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 641
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9573170731707317,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1193,
+          668,
+          1217,
+          694
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 314
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012871.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012871.png"
+  },
+  {
+    "parent_id": "V_094_P012872",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      1217,
+      668,
+      1238,
+      693
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 273,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1217,
+          668,
+          1238,
+          693
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 273
+      },
+      {
+        "contrast": 6,
+        "iou": 0.42589703588143524,
+        "split": false,
+        "merge": true,
+        "native_bbox": [
+          1192,
+          668,
+          1238,
+          695
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 641
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9560439560439561,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1217,
+          669,
+          1238,
+          692
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 261
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012872.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012872.png"
+  },
+  {
+    "parent_id": "V_094_P012891",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      1274,
+      670,
+      1296,
+      718
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 233,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1274,
+          670,
+          1296,
+          718
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 271
+      },
+      {
+        "contrast": 6,
+        "iou": 0.8770226537216829,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1274,
+          670,
+          1299,
+          722
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 309
+      },
+      {
+        "contrast": 12,
+        "iou": 0.8044280442804428,
+        "split": true,
+        "merge": false,
+        "native_bbox": [
+          1275,
+          671,
+          1296,
+          702
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 218
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012891.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012891.png"
+  },
+  {
+    "parent_id": "V_094_P012984",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      1269,
+      684,
+      1285,
+      701
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 135,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1269,
+          684,
+          1285,
+          701
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 135
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1269,
+          684,
+          1285,
+          702
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 150
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9407407407407408,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1270,
+          684,
+          1285,
+          701
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 127
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P012984.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P012984.png"
+  },
+  {
+    "parent_id": "V_094_P013039",
+    "view_id": "V_094",
+    "caption": "47",
+    "native_source": "data/source/yale_native/1006166.jpg",
+    "native_bbox": [
+      1322,
+      691,
+      1338,
+      705
+    ],
+    "body_proxy": 32.0,
+    "split": "fresh_validation",
+    "field_edge": true,
+    "source_field": [
+      396,
+      1328
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 14,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1322,
+          691,
+          1338,
+          705
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 55
+      },
+      {
+        "contrast": 6,
+        "iou": 0.8208955223880597,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1321,
+          690,
+          1338,
+          705
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 67
+      },
+      {
+        "contrast": 12,
+        "iou": 0.8181818181818182,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1323,
+          694,
+          1337,
+          705
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 45
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_094_P013039.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_094_P013039.png"
+  },
+  {
+    "parent_id": "V_170_P005968",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      638,
+      423,
+      709,
+      508
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 168,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          638,
+          423,
+          709,
+          508
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 1493
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9626047711154094,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          638,
+          423,
+          709,
+          508
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 1551
+      },
+      {
+        "contrast": 12,
+        "iou": 0.8653717347622237,
+        "split": true,
+        "merge": false,
+        "native_bbox": [
+          638,
+          423,
+          708,
+          481
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 1292
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P005968.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P005968.png"
+  },
+  {
+    "parent_id": "V_170_P006374",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      1089,
+      453,
+      1109,
+      483
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 36,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1089,
+          453,
+          1109,
+          483
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 238
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9083969465648855,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1089,
+          453,
+          1110,
+          484
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 262
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9201680672268907,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1089,
+          453,
+          1109,
+          483
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 219
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006374.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006374.png"
+  },
+  {
+    "parent_id": "V_170_P006431",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      758,
+      459,
+      784,
+      507
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 302,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          758,
+          459,
+          784,
+          507
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 521
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9507299270072993,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          758,
+          459,
+          784,
+          507
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 548
+      },
+      {
+        "contrast": 12,
+        "iou": 0.982725527831094,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          758,
+          459,
+          783,
+          507
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 512
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006431.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006431.png"
+  },
+  {
+    "parent_id": "V_170_P006474",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      1161,
+      463,
+      1199,
+      503
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": true,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 192,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1161,
+          463,
+          1199,
+          503
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 634
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9738863287250384,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1161,
+          463,
+          1199,
+          503
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 651
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9700315457413249,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1161,
+          463,
+          1198,
+          503
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 615
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006474.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006474.png"
+  },
+  {
+    "parent_id": "V_170_P006515",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      527,
+      466,
+      562,
+      506
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 587,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          527,
+          466,
+          562,
+          506
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 715
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9794520547945206,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          527,
+          465,
+          562,
+          506
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 730
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9902097902097902,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          527,
+          466,
+          562,
+          506
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 708
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006515.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006515.png"
+  },
+  {
+    "parent_id": "V_170_P006571",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      1039,
+      472,
+      1073,
+      513
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 535,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1039,
+          472,
+          1073,
+          513
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 581
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9462540716612378,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1039,
+          472,
+          1073,
+          513
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 614
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9621342512908778,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1040,
+          472,
+          1073,
+          513
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 559
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006571.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006571.png"
+  },
+  {
+    "parent_id": "V_170_P006591",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      899,
+      474,
+      930,
+      509
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 431,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          899,
+          474,
+          930,
+          509
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 458
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9541666666666667,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          898,
+          473,
+          930,
+          509
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 480
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9519650655021834,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          899,
+          474,
+          930,
+          509
+        ],
+        "holes": 2,
+        "connected_components": 1,
+        "area": 436
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006591.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006591.png"
+  },
+  {
+    "parent_id": "V_170_P006641",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      563,
+      481,
+      580,
+      533
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 265,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          563,
+          481,
+          580,
+          533
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 355
+      },
+      {
+        "contrast": 6,
+        "iou": 0.6800766283524904,
+        "split": false,
+        "merge": true,
+        "native_bbox": [
+          555,
+          480,
+          580,
+          534
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 522
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9042253521126761,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          563,
+          481,
+          580,
+          533
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 321
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006641.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006641.png"
+  },
+  {
+    "parent_id": "V_170_P006642",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      979,
+      481,
+      1006,
+      513
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 361,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          979,
+          481,
+          1006,
+          513
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 361
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9425587467362925,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          979,
+          481,
+          1006,
+          513
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 383
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9529085872576177,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          979,
+          481,
+          1006,
+          513
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 344
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006642.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006642.png"
+  },
+  {
+    "parent_id": "V_170_P006660",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      1112,
+      483,
+      1160,
+      506
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 479,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1112,
+          483,
+          1160,
+          506
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 479
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9447731755424064,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1112,
+          483,
+          1160,
+          506
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 507
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9394572025052192,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1112,
+          483,
+          1159,
+          506
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 450
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006660.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006660.png"
+  },
+  {
+    "parent_id": "V_170_P006672",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      464,
+      485,
+      508,
+      510
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 462,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          464,
+          485,
+          508,
+          510
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 462
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9352226720647774,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          464,
+          485,
+          509,
+          510
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 494
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9307359307359307,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          464,
+          485,
+          508,
+          510
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 430
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006672.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006672.png"
+  },
+  {
+    "parent_id": "V_170_P006692",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      630,
+      486,
+      654,
+      510
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 363,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          630,
+          486,
+          654,
+          510
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 363
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9654255319148937,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          630,
+          485,
+          655,
+          510
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 376
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9752066115702479,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          630,
+          486,
+          654,
+          510
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 354
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006692.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006692.png"
+  },
+  {
+    "parent_id": "V_170_P006713",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      510,
+      488,
+      521,
+      505
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 126,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          510,
+          488,
+          521,
+          505
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 126
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9767441860465116,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          510,
+          488,
+          521,
+          505
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 129
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9444444444444444,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          510,
+          488,
+          521,
+          505
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 119
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006713.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006713.png"
+  },
+  {
+    "parent_id": "V_170_P006714",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      683,
+      488,
+      716,
+      512
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 418,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          683,
+          488,
+          716,
+          512
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 418
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9698375870069605,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          683,
+          488,
+          716,
+          512
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 431
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9521531100478469,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          683,
+          488,
+          715,
+          511
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 398
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006714.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006714.png"
+  },
+  {
+    "parent_id": "V_170_P006715",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      718,
+      488,
+      732,
+      508
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 153,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          718,
+          488,
+          732,
+          508
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 153
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9622641509433962,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          718,
+          488,
+          732,
+          508
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 159
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9411764705882353,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          718,
+          488,
+          732,
+          508
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 144
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006715.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006715.png"
+  },
+  {
+    "parent_id": "V_170_P006716",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      737,
+      488,
+      756,
+      504
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 154,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          737,
+          488,
+          756,
+          504
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 154
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9565217391304348,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          737,
+          488,
+          756,
+          504
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 161
+      },
+      {
+        "contrast": 12,
+        "iou": 0.948051948051948,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          737,
+          488,
+          756,
+          503
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 146
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006716.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006716.png"
+  },
+  {
+    "parent_id": "V_170_P006717",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      824,
+      488,
+      895,
+      511
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 869,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          824,
+          488,
+          895,
+          511
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 869
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9518072289156626,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          824,
+          487,
+          896,
+          511
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 913
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9597238204833142,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          824,
+          488,
+          895,
+          511
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 834
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006717.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006717.png"
+  },
+  {
+    "parent_id": "V_170_P006718",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      922,
+      489,
+      946,
+      509
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 299,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          922,
+          489,
+          946,
+          509
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 299
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9614147909967846,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          922,
+          489,
+          946,
+          510
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 311
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9565217391304348,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          922,
+          489,
+          945,
+          509
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 286
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006718.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006718.png"
+  },
+  {
+    "parent_id": "V_170_P006735",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      555,
+      490,
+      568,
+      505
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 124,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          555,
+          490,
+          568,
+          505
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 124
+      },
+      {
+        "contrast": 6,
+        "iou": 0.23754789272030652,
+        "split": false,
+        "merge": true,
+        "native_bbox": [
+          555,
+          480,
+          580,
+          534
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 522
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9032258064516129,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          555,
+          490,
+          567,
+          505
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 112
+      }
+    ],
+    "photo_raster_stable": false,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006735.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006735.png"
+  },
+  {
+    "parent_id": "V_170_P006736",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      1066,
+      490,
+      1107,
+      509
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 487,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1066,
+          490,
+          1107,
+          509
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 487
+      },
+      {
+        "contrast": 6,
+        "iou": 0.941972920696325,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1066,
+          490,
+          1107,
+          509
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 517
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9404517453798767,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          1066,
+          490,
+          1107,
+          509
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 458
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006736.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006736.png"
+  },
+  {
+    "parent_id": "V_170_P006754",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      948,
+      493,
+      960,
+      510
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 123,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          948,
+          493,
+          960,
+          510
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 123
+      },
+      {
+        "contrast": 6,
+        "iou": 0.917910447761194,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          947,
+          492,
+          960,
+          511
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 134
+      },
+      {
+        "contrast": 12,
+        "iou": 0.959349593495935,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          948,
+          493,
+          960,
+          510
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 118
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006754.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006754.png"
+  },
+  {
+    "parent_id": "V_170_P006770",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      962,
+      495,
+      977,
+      512
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 140,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          962,
+          495,
+          977,
+          512
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 140
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9271523178807947,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          961,
+          495,
+          977,
+          512
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 151
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9642857142857143,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          962,
+          495,
+          977,
+          512
+        ],
+        "holes": 0,
+        "connected_components": 1,
+        "area": 135
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006770.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006770.png"
+  },
+  {
+    "parent_id": "V_170_P006925",
+    "view_id": "V_170",
+    "caption": "94",
+    "native_source": "data/source/yale_native/1006240.jpg",
+    "native_bbox": [
+      750,
+      512,
+      790,
+      570
+    ],
+    "body_proxy": 36.0,
+    "split": "fresh_validation",
+    "field_edge": false,
+    "source_field": [
+      464,
+      1173
+    ],
+    "membership": "unadjudicated",
+    "parent_boundary_status": "unadjudicated",
+    "source_core_pixels": 73,
+    "rasters": [
+      {
+        "contrast": 9,
+        "iou": 1.0,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          750,
+          512,
+          790,
+          570
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 809
+      },
+      {
+        "contrast": 6,
+        "iou": 0.9585308056872038,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          750,
+          512,
+          790,
+          571
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 844
+      },
+      {
+        "contrast": 12,
+        "iou": 0.9468479604449939,
+        "split": false,
+        "merge": false,
+        "native_bbox": [
+          750,
+          513,
+          790,
+          570
+        ],
+        "holes": 1,
+        "connected_components": 1,
+        "area": 766
+      }
+    ],
+    "photo_raster_stable": true,
+    "native_crop": "figures/structural_inventory_v6/native_parents/V_170_P006925.png",
+    "mask_path": "data/observations/structural_inventory_v6_development/parent_masks/V_170_P006925.png"
+  }
+]

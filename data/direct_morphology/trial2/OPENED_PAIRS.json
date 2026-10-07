@@ -1,0 +1,17 @@
+{
+  "initial_n": 240,
+  "used_n": 360,
+  "extensions": [
+    {
+      "after_batch": 1,
+      "source_binary_n": 145,
+      "same_n": 25,
+      "different_n": 120,
+      "next_used_n": 360,
+      "rule": "Registered support-only deterministic next120; no morphology results"
+    }
+  ],
+  "prediction_metrics_unopened": true,
+  "final_used_n": 360,
+  "sample_support_reached": true
+}

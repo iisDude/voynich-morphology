@@ -1,0 +1,39 @@
+{
+  "view_id": "V_132",
+  "native_source": "data/source/yale_native/1006204.jpg",
+  "source_sha256": "2552b2eafb7948d182e52ec49e96a5d92a774917924aea594fb1ac3af3bfcdc5",
+  "status": "source reviewed partial writing fields",
+  "writing_fields": [],
+  "curved_writing_adjudication": {
+    "case_id": "CURVE_V_132",
+    "kind": "curved_view",
+    "view_id": "V_132",
+    "priority_score": 5,
+    "questions": [
+      "curved_writing_membership",
+      "orientation",
+      "path_seam",
+      "panel_mapping"
+    ],
+    "status": "source_reviewed: writing paths distinguished from diagram/ornament; unit boundaries partly unknown",
+    "native_source": "data/source/yale_native/1006204.jpg",
+    "hypotheses_path": "data/observations/curved_path_candidates_v2/V_132.json",
+    "observation": "Two faint circular fields in one capture. Native inspection separates some continuous strings from bodies/heads/star outlines; heavily faded sectors retain unknown membership and boundaries. Visible vertical fold runs through left circle and another divides the fields.",
+    "writing_paths": "two faint annular/radial writing field sets",
+    "visible_panel_fractions": [
+      0.25,
+      0.59
+    ],
+    "orientation": "tangential ring sectors, rotated figure labels; completeness unknown",
+    "native_inspection": "whole capture plus four unscaled 650x650 source crops",
+    "group_boundaries": "unknown except visible local gaps; no complete ring group inventory certified",
+    "pen_lift": "unknown",
+    "horizontal_assay_eligible": false
+  },
+  "prior_proposal_path": "data/observations/regional_candidates_v11/V_132.json",
+  "prior_rows_status": "Unknown unless a reviewed field explicitly supersedes them; no old unit sequences admitted",
+  "unreviewed_prior_rows": 0,
+  "physical_folio_identity": "caption only; panel correspondence unknown",
+  "canonical_graphemes": "unknown",
+  "pen_lifts": "unknown"
+}

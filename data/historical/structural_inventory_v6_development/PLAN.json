@@ -1,0 +1,110 @@
+{
+  "registered_at_utc": "2026-10-07T05:18:29.682771+00:00",
+  "version": "V6 separate source structural inventory",
+  "seed": 20261011,
+  "dependencies": {
+    "data/observations/visual_dataset_v3/FREEZE_MANIFEST.json": "4f593cc679e6395c164425bb9eca5ca3df01abda7dc0be5a4ad9a0a3ba6050fc",
+    "data/observations/visual_dataset_v4/FREEZE_MANIFEST.json": "07fa88ae01152f9ba18a187987e61d93989f2c23045f2ff6c7e332c7428d9955",
+    "data/observations/visual_dataset_v5/FREEZE_MANIFEST.json": "16f040e6e80f8a1fd47b796811935df4c5546021d4b41f79933ee18cd668fed8",
+    "data/observations/recurrence_v3_structural_candidate/sealed_class_model.pkl": "6f4653ba9abef085c67118bcbe7f4e4869f6f14ab318355a0c10c40d91147732",
+    "data/observations/visual_dataset_v5/source_reference.json": "c2020f8411dd09c9b995877d386e9ac3eee274621d255df631317e99af2193bd",
+    "data/observations/visual_dataset_v5/parent_class_assignments.json": "f1fc80396d007e60793f6084b4425105d03e4743344b3ed1ef04bee84edc54f1",
+    "data/observations/visual_dataset_v5/group_sequences.json": "2d358c73f23d587ee78c58a7f64dba59edc7e4cbd01e0078199b0e21820b4ad1"
+  },
+  "discovery": "All638 V5 confirmed target writing parents. Existing311 V3 assignments frozen; source-confirmed327 UNK diagnosed before candidate classes. Nonwriting/unresolved membership excluded; competing contacts separated from resolved-parent discovery.",
+  "fresh_validation": {
+    "captions": [
+      "16",
+      "47",
+      "94"
+    ],
+    "views": [
+      "V_032",
+      "V_094",
+      "V_170"
+    ],
+    "field": "First ordinary horizontal source field from existing V4 geometry, source RGB only. All primary parents in safe field reviewed, no predicted-class selection. A bad field is retained as insufficient evidence, not replaced for recurrence.",
+    "exposure": "Captions unused to define V6; existing V4 image/geometry exposure and V3 source-model exposure disclosed. Not globally unseen photographs."
+  },
+  "diagnosis": {
+    "exclusive_precedence": [
+      "unresolved_parent_contact",
+      "insufficient_photo_or_disconnected",
+      "topology_connectivity_instability",
+      "threshold_coverage_instability",
+      "stable_source_structure_pending"
+    ],
+    "overlapping_source_tags": [
+      "V3_family_proportion_variant",
+      "recurrent_different_structure",
+      "connected_compound_candidate",
+      "appendix_branch_insertion_candidate",
+      "detached_association",
+      "source_ambiguity"
+    ],
+    "warning": "Raster instability is not evidence of a new class. Visual source tags are hypotheses with unknown retained."
+  },
+  "candidates": {
+    "basis": "Whole connected RGB-reviewed resolved writing parents only. Frozen V3 embedding and topology; complete-link distance grouping fixed before heldout assignments. No sequence inputs.",
+    "max_candidates": 12,
+    "minimum_train_instances": 8,
+    "minimum_train_captions": 3,
+    "grouping_distance": 0.35,
+    "topology_exact": true,
+    "radius": "90th percentile leave-caption-out nearest exemplar distance; radius capped0.35",
+    "alternative_margin": 1.08,
+    "source_review": "Native RGB examples must exhibit the same whole-parent organization; variants/composites remain separate descriptions, not V3 merges."
+  },
+  "composition": {
+    "primary": "Whole connected parent retained",
+    "search": "Four outside-band removals at0.20/0.30/0.40 parent extent; base requires frozen V3 fit and threshold/slant agreement; residual15..45 percent ink and connected to retained base at primary threshold. Measurement factor only; no pen lift, grapheme or order asserted.",
+    "validation": "Composition candidates must recur on>=3 train captions,>=3 fresh captions and>=5 fresh parents; same native pair standards as whole-parent candidates; unvalidated factors never substitute class tokens.",
+    "competing": "Record all successful base/window explanations, never choose by sequence completeness"
+  },
+  "validation_gates": {
+    "train_instances_min": 8,
+    "train_captions_min": 3,
+    "fresh_stable_instances_min": 5,
+    "fresh_captions_min": 3,
+    "positive_pair_n_min": 10,
+    "positive_agreement_min": 0.85,
+    "negative_pairs_min": 20,
+    "false_grouping_max": 0.1,
+    "threshold_stability_min": 0.9,
+    "alignment_stability_min": 0.9,
+    "source_parent_resolved_required": true
+  },
+  "pair_audit": "Anonymous randomized RGB-only pairs, class/kind hidden. Positive n10 per eligible class from distinct fresh/training pairings where available; negative n20 per class using closest topology-matched nonmember. Unknown judgments counted as failure/abstention. Same AI adjudicator, not independent human-rater validation.",
+  "abstention": "Any unresolved parent contact, insufficient image, inconsistent topology/contact under6/9/12, class-margin failure, rejected visual organization, or failed class gate remains UNK. V3 assignments never changed.",
+  "stages": [
+    "preregister",
+    "diagnose all V5 confirmed UNK/source atlas",
+    "test base/residual factors",
+    "derive source-reviewed separate candidates",
+    "seal candidates before heldout inference",
+    "fresh source confirmation seal before test assignments",
+    "heldout inference and masked native pair validation",
+    "freeze V6 inventory including failures",
+    "only then reuse unchanged V5 sequence partitions",
+    "support assessment"
+  ],
+  "downstream": {
+    "previous_v5_source_support_all_required": true,
+    "unknown_confirmed_rate_max": 0.2,
+    "complete_rows_min": 12,
+    "complete_groups_ge3_min": 100,
+    "heldout_groups_ge3_min": 30,
+    "heldout_recurrence_min": 0.2,
+    "all_gaps_required": true
+  },
+  "forbidden": [
+    "EVA",
+    "RF",
+    "v101",
+    "Currier",
+    "positional outcomes",
+    "decipherment",
+    "minimal-pair support",
+    "sequence recurrence for training or class selection"
+  ]
+}

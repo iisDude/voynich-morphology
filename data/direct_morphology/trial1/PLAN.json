@@ -1,0 +1,63 @@
+{
+  "registered_at_utc": "2026-10-07T07:24:19.704070+00:00",
+  "trial": "Direct continuous contour/morphology space Trial1",
+  "question": "Can source-confirmed whole-parent imagery have a direct continuous representation with explicit extent and correspondence uncertainty, without discrete classes or complete named-feature vectors?",
+  "status": "Post-exposure feasibility and sensitivity; not fresh independent confirmation.",
+  "dependencies": {
+    "data/observations/neutral_feature_trial2/FREEZE_MANIFEST.json": "1af5bfbb18045704f6fac0d4de2c9df7ec50fe784cc082a91b6c0eb4359e2d19",
+    "data/observations/neutral_feature_trial2/source_decisions.json": "e41ab585354ec8b17600fd1db9cd8d04b34083f7f7153714bd9f0f040b583708",
+    "data/observations/neutral_feature_trial2/source_location_aids.json": "3283e37175c138dc55ba11ce3cb504674fb5a9d44841551335c57beceaf3de37",
+    "data/observations/neutral_feature_trial2/similarity_hidden_key.json": "1584d1401d2a722aa847896bd11e799f8ac2d5df231d1b13207b229d8afb7f51",
+    "data/observations/neutral_feature_trial2/similarity_decisions.json": "bf2d3cc7ded8fbc0cb5130814b3299fc35b6f6b9baf3dbbe2bc6f0703bcd99f9",
+    "src/benchmark_membership_v5.py": "de542575c9e10c02fe310ec79369de91fdcfa789ac0b484a0c03c54192216ce5",
+    "src/visual_extract.py": "2873ffeb3e89a91908c1c5e5127e99f0df82f602d0ab09f1ea0ca384bef087d9",
+    "data/observations/visual_protocol_draft.json": "59fec4ffa7e4d07d42ffdeb077ff8231d0e2c88fc92f264ae4a06ea5b91cbf99"
+  },
+  "source": "All217 source-confirmed writing proposals in frozen Trial2:88 reference,129 fresh-for-Trial2 proposals. Exclude3 unresolved and1 nonwriting, enumerate exclusions. Keep11 writing-but-extent-uncertain cases; no source judgment modified.",
+  "selection": "Reuse frozen source-only proposal corpus and frozen185 source pair judgments; pair selection previously pooled profile/contour/aspect selectors, not random independent new pairs. Trial2 contour superiority was already known and motivates this new trial.",
+  "representation": {
+    "primary": "Whole native mask/photo/coordinates remain primary evidence. Source-visible whole-parent certainty stored separately from raster alternatives. No splitting into inferred writing units.",
+    "normalization": "Fit tight ink envelope proportionally into56x56 support in64x64 canvas, centered, preserve aspect and orientation. No rotation/reflection or learned alignment. Native dimension/body proxy/provenance retained as metadata, not required named features.",
+    "ambient_space": "Binary image and normalized signed distance field at64x64; continuous image-function coordinates, not a semantic feature inventory. Source crops always retained to recover detail lost by normalization.",
+    "metric": "Primary symmetric64px contour Chamfer(normalized by56), including all raster boundaries. Secondary signed-distance-field RMS. No label-trained metric/PCA/clusters or feature weights.",
+    "sensitivity": "Separate32/128px primary-mask distance diagnostics and native±0.04 horizontal slant alternatives.64px is fixed primary; no resolution chosen by performance.",
+    "not_semantics": "Contours, interiors and negative space are raster geometry. No source-visible cavity, topology or connectivity truth follows from repeatability."
+  },
+  "uncertainty": {
+    "raster": "At contrast6/12 retain every CC with>=5% primary-mask overlap. Include each candidate and, if split, a union preserving native relative placement. Retain IoU/split/merge/fragment/missing flags.5% is the existing correspondence diagnosis rule, not optimized here. A merged component remains a possible contaminated extent, never accepted solely by similarity.",
+    "parent_extent": "Resolved frozen source extents vs extent-unknown/contact states. Observed candidate shapes for uncertain extents are provisional; complete-parent distance remains unbounded/unknown. Retain frozen N094/N095 possible-join hypothesis as partial union plus unknown bridge/ownership, never paint bridge or promote union to writing class.",
+    "distance_envelope": "For source-resolved extents, report min/max over observed admissible raster/slant candidates along with primary distance. This is a sensitivity envelope, not a posterior/credible interval or proof candidates exhaust physical possibilities. Unknown full extent prevents a bounded physical distance regardless of finite observed-candidate envelope.",
+    "missing": "No absent mask or parent-extent unknown mapped to zero distance. Representation-available differs from source-resolved and from correspondence-stable. No nearest match used to settle source contacts."
+  },
+  "tests": [
+    "representation availability/all-confirmed vs source-resolved coverage",
+    "per-parent threshold/split/merge/missing uncertainty and primary-to-alternative shape spread",
+    "source pair AUROC2vs0 and ordinal association on all available185 pairs; retain partial/U",
+    "paired six-caption bootstrap of primary contour AUROC; no comparison to Trial2 restricted99 subset",
+    "source-pair distance envelopes and interval-overlap/rank identifiability, separate from primary accuracy",
+    "source-resolved anchor cross-caption reference retrieval; whether primary-nearest remains certainly nearest under observed envelopes",
+    "32/64/128 metric sensitivity and slant sensitivity, no winner selection",
+    "exact shape/matrix replay, uncertainty guards and prior-freeze integrity"
+  ],
+  "metrics": "Primary binary score uses frozen54 same/67 different source pairs;64 partial excluded but enumerated. Same-AI ratings with prior exposure, reused anchors/references and six captions; bootstrap only conditional descriptive precision. No independent generalization claim.",
+  "criteria": {
+    "operational_primary_nonempty_fraction": 1.0,
+    "all_uncertain_extents_remain_unknown": true,
+    "no_new_class_or_semantic_fields": true,
+    "descriptive_primary_AUROC_floor": 0.75,
+    "descriptive_binary_pair_n_min": 120,
+    "caption_n_min": 6,
+    "fresh_independent_confirmation": false
+  },
+  "prohibited": [
+    "V3 labels as inputs/targets",
+    "EVA/RF/v101",
+    "Currier",
+    "positions or section outcomes",
+    "sequence recurrence",
+    "decipherment",
+    "source-extent decisions from contour similarity",
+    "metric/tolerance tuning after results"
+  ],
+  "freeze": "Seal separate direct morphology Trial1 before any new downstream analysis. Earlier freezes/feature trials remain immutable. A continuous point or neighborhood is not a writing unit or equivalence class."
+}

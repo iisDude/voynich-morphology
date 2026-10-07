@@ -1,0 +1,1111 @@
+{
+  "category": "source_index",
+  "files": [
+    {
+      "logical_path": "data/source/all_view_manifest.csv",
+      "public_path": "data/source_index/all_view_manifest.csv",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/visual_split_manifest.json",
+      "public_path": "data/source_index/visual_split_manifest.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native_all_manifest.csv",
+      "public_path": "data/source_index/yale_native_all_manifest.csv",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_registration_all.json",
+      "public_path": "data/source_index/yale_registration_all.json.gz",
+      "storage": "gzip"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006076_info.json",
+      "public_path": "data/source_index/yale_native/1006076_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006077_info.json",
+      "public_path": "data/source_index/yale_native/1006077_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006078_info.json",
+      "public_path": "data/source_index/yale_native/1006078_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006079_info.json",
+      "public_path": "data/source_index/yale_native/1006079_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006080_info.json",
+      "public_path": "data/source_index/yale_native/1006080_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006081_info.json",
+      "public_path": "data/source_index/yale_native/1006081_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006082_info.json",
+      "public_path": "data/source_index/yale_native/1006082_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006083_info.json",
+      "public_path": "data/source_index/yale_native/1006083_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006084_info.json",
+      "public_path": "data/source_index/yale_native/1006084_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006085_info.json",
+      "public_path": "data/source_index/yale_native/1006085_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006086_info.json",
+      "public_path": "data/source_index/yale_native/1006086_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006087_info.json",
+      "public_path": "data/source_index/yale_native/1006087_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006088_info.json",
+      "public_path": "data/source_index/yale_native/1006088_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006089_info.json",
+      "public_path": "data/source_index/yale_native/1006089_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006090_info.json",
+      "public_path": "data/source_index/yale_native/1006090_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006091_info.json",
+      "public_path": "data/source_index/yale_native/1006091_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006092_info.json",
+      "public_path": "data/source_index/yale_native/1006092_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006093_info.json",
+      "public_path": "data/source_index/yale_native/1006093_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006094_info.json",
+      "public_path": "data/source_index/yale_native/1006094_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006095_info.json",
+      "public_path": "data/source_index/yale_native/1006095_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006096_info.json",
+      "public_path": "data/source_index/yale_native/1006096_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006097_info.json",
+      "public_path": "data/source_index/yale_native/1006097_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006098_info.json",
+      "public_path": "data/source_index/yale_native/1006098_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006099_info.json",
+      "public_path": "data/source_index/yale_native/1006099_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006100_info.json",
+      "public_path": "data/source_index/yale_native/1006100_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006101_info.json",
+      "public_path": "data/source_index/yale_native/1006101_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006102_info.json",
+      "public_path": "data/source_index/yale_native/1006102_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006103_info.json",
+      "public_path": "data/source_index/yale_native/1006103_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006104_info.json",
+      "public_path": "data/source_index/yale_native/1006104_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006105_info.json",
+      "public_path": "data/source_index/yale_native/1006105_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006106_info.json",
+      "public_path": "data/source_index/yale_native/1006106_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006107_info.json",
+      "public_path": "data/source_index/yale_native/1006107_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006108_info.json",
+      "public_path": "data/source_index/yale_native/1006108_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006109_info.json",
+      "public_path": "data/source_index/yale_native/1006109_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006110_info.json",
+      "public_path": "data/source_index/yale_native/1006110_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006111_info.json",
+      "public_path": "data/source_index/yale_native/1006111_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006112_info.json",
+      "public_path": "data/source_index/yale_native/1006112_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006113_info.json",
+      "public_path": "data/source_index/yale_native/1006113_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006114_info.json",
+      "public_path": "data/source_index/yale_native/1006114_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006115_info.json",
+      "public_path": "data/source_index/yale_native/1006115_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006116_info.json",
+      "public_path": "data/source_index/yale_native/1006116_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006117_info.json",
+      "public_path": "data/source_index/yale_native/1006117_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006118_info.json",
+      "public_path": "data/source_index/yale_native/1006118_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006119_info.json",
+      "public_path": "data/source_index/yale_native/1006119_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006120_info.json",
+      "public_path": "data/source_index/yale_native/1006120_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006121_info.json",
+      "public_path": "data/source_index/yale_native/1006121_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006122_info.json",
+      "public_path": "data/source_index/yale_native/1006122_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006123_info.json",
+      "public_path": "data/source_index/yale_native/1006123_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006124_info.json",
+      "public_path": "data/source_index/yale_native/1006124_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006125_info.json",
+      "public_path": "data/source_index/yale_native/1006125_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006126_info.json",
+      "public_path": "data/source_index/yale_native/1006126_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006127_info.json",
+      "public_path": "data/source_index/yale_native/1006127_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006128_info.json",
+      "public_path": "data/source_index/yale_native/1006128_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006129_info.json",
+      "public_path": "data/source_index/yale_native/1006129_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006130_info.json",
+      "public_path": "data/source_index/yale_native/1006130_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006131_info.json",
+      "public_path": "data/source_index/yale_native/1006131_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006132_info.json",
+      "public_path": "data/source_index/yale_native/1006132_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006133_info.json",
+      "public_path": "data/source_index/yale_native/1006133_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006134_info.json",
+      "public_path": "data/source_index/yale_native/1006134_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006135_info.json",
+      "public_path": "data/source_index/yale_native/1006135_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006136_info.json",
+      "public_path": "data/source_index/yale_native/1006136_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006137_info.json",
+      "public_path": "data/source_index/yale_native/1006137_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006138_info.json",
+      "public_path": "data/source_index/yale_native/1006138_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006139_info.json",
+      "public_path": "data/source_index/yale_native/1006139_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006140_info.json",
+      "public_path": "data/source_index/yale_native/1006140_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006141_info.json",
+      "public_path": "data/source_index/yale_native/1006141_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006142_info.json",
+      "public_path": "data/source_index/yale_native/1006142_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006143_info.json",
+      "public_path": "data/source_index/yale_native/1006143_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006144_info.json",
+      "public_path": "data/source_index/yale_native/1006144_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006145_info.json",
+      "public_path": "data/source_index/yale_native/1006145_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006146_info.json",
+      "public_path": "data/source_index/yale_native/1006146_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006147_info.json",
+      "public_path": "data/source_index/yale_native/1006147_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006148_info.json",
+      "public_path": "data/source_index/yale_native/1006148_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006149_info.json",
+      "public_path": "data/source_index/yale_native/1006149_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006150_info.json",
+      "public_path": "data/source_index/yale_native/1006150_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006151_info.json",
+      "public_path": "data/source_index/yale_native/1006151_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006152_info.json",
+      "public_path": "data/source_index/yale_native/1006152_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006153_info.json",
+      "public_path": "data/source_index/yale_native/1006153_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006154_info.json",
+      "public_path": "data/source_index/yale_native/1006154_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006155_info.json",
+      "public_path": "data/source_index/yale_native/1006155_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006156_info.json",
+      "public_path": "data/source_index/yale_native/1006156_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006157_info.json",
+      "public_path": "data/source_index/yale_native/1006157_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006158_info.json",
+      "public_path": "data/source_index/yale_native/1006158_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006159_info.json",
+      "public_path": "data/source_index/yale_native/1006159_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006160_info.json",
+      "public_path": "data/source_index/yale_native/1006160_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006161_info.json",
+      "public_path": "data/source_index/yale_native/1006161_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006162_info.json",
+      "public_path": "data/source_index/yale_native/1006162_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006163_info.json",
+      "public_path": "data/source_index/yale_native/1006163_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006164_info.json",
+      "public_path": "data/source_index/yale_native/1006164_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006165_info.json",
+      "public_path": "data/source_index/yale_native/1006165_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006166_info.json",
+      "public_path": "data/source_index/yale_native/1006166_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006167_info.json",
+      "public_path": "data/source_index/yale_native/1006167_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006168_info.json",
+      "public_path": "data/source_index/yale_native/1006168_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006169_info.json",
+      "public_path": "data/source_index/yale_native/1006169_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006170_info.json",
+      "public_path": "data/source_index/yale_native/1006170_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006171_info.json",
+      "public_path": "data/source_index/yale_native/1006171_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006172_info.json",
+      "public_path": "data/source_index/yale_native/1006172_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006173_info.json",
+      "public_path": "data/source_index/yale_native/1006173_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006174_info.json",
+      "public_path": "data/source_index/yale_native/1006174_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006175_info.json",
+      "public_path": "data/source_index/yale_native/1006175_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006176_info.json",
+      "public_path": "data/source_index/yale_native/1006176_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006177_info.json",
+      "public_path": "data/source_index/yale_native/1006177_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006178_info.json",
+      "public_path": "data/source_index/yale_native/1006178_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006179_info.json",
+      "public_path": "data/source_index/yale_native/1006179_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006180_info.json",
+      "public_path": "data/source_index/yale_native/1006180_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006181_info.json",
+      "public_path": "data/source_index/yale_native/1006181_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006182_info.json",
+      "public_path": "data/source_index/yale_native/1006182_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006183_info.json",
+      "public_path": "data/source_index/yale_native/1006183_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006184_info.json",
+      "public_path": "data/source_index/yale_native/1006184_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006185_info.json",
+      "public_path": "data/source_index/yale_native/1006185_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006186_info.json",
+      "public_path": "data/source_index/yale_native/1006186_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006187_info.json",
+      "public_path": "data/source_index/yale_native/1006187_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006188_info.json",
+      "public_path": "data/source_index/yale_native/1006188_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006189_info.json",
+      "public_path": "data/source_index/yale_native/1006189_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006190_info.json",
+      "public_path": "data/source_index/yale_native/1006190_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006191_info.json",
+      "public_path": "data/source_index/yale_native/1006191_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006192_info.json",
+      "public_path": "data/source_index/yale_native/1006192_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006193_info.json",
+      "public_path": "data/source_index/yale_native/1006193_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006194_info.json",
+      "public_path": "data/source_index/yale_native/1006194_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006195_info.json",
+      "public_path": "data/source_index/yale_native/1006195_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006196_info.json",
+      "public_path": "data/source_index/yale_native/1006196_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006197_info.json",
+      "public_path": "data/source_index/yale_native/1006197_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006198_info.json",
+      "public_path": "data/source_index/yale_native/1006198_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006199_info.json",
+      "public_path": "data/source_index/yale_native/1006199_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006200_info.json",
+      "public_path": "data/source_index/yale_native/1006200_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006201_info.json",
+      "public_path": "data/source_index/yale_native/1006201_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006202_info.json",
+      "public_path": "data/source_index/yale_native/1006202_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006203_info.json",
+      "public_path": "data/source_index/yale_native/1006203_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006204_info.json",
+      "public_path": "data/source_index/yale_native/1006204_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006205_info.json",
+      "public_path": "data/source_index/yale_native/1006205_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006206_info.json",
+      "public_path": "data/source_index/yale_native/1006206_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006207_info.json",
+      "public_path": "data/source_index/yale_native/1006207_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006208_info.json",
+      "public_path": "data/source_index/yale_native/1006208_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006209_info.json",
+      "public_path": "data/source_index/yale_native/1006209_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006210_info.json",
+      "public_path": "data/source_index/yale_native/1006210_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006211_info.json",
+      "public_path": "data/source_index/yale_native/1006211_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006212_info.json",
+      "public_path": "data/source_index/yale_native/1006212_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006213_info.json",
+      "public_path": "data/source_index/yale_native/1006213_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006214_info.json",
+      "public_path": "data/source_index/yale_native/1006214_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006215_info.json",
+      "public_path": "data/source_index/yale_native/1006215_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006216_info.json",
+      "public_path": "data/source_index/yale_native/1006216_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006217_info.json",
+      "public_path": "data/source_index/yale_native/1006217_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006218_info.json",
+      "public_path": "data/source_index/yale_native/1006218_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006219_info.json",
+      "public_path": "data/source_index/yale_native/1006219_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006220_info.json",
+      "public_path": "data/source_index/yale_native/1006220_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006221_info.json",
+      "public_path": "data/source_index/yale_native/1006221_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006222_info.json",
+      "public_path": "data/source_index/yale_native/1006222_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006223_info.json",
+      "public_path": "data/source_index/yale_native/1006223_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006224_info.json",
+      "public_path": "data/source_index/yale_native/1006224_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006225_info.json",
+      "public_path": "data/source_index/yale_native/1006225_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006226_info.json",
+      "public_path": "data/source_index/yale_native/1006226_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006227_info.json",
+      "public_path": "data/source_index/yale_native/1006227_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006228_info.json",
+      "public_path": "data/source_index/yale_native/1006228_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006229_info.json",
+      "public_path": "data/source_index/yale_native/1006229_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006230_info.json",
+      "public_path": "data/source_index/yale_native/1006230_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006231_info.json",
+      "public_path": "data/source_index/yale_native/1006231_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006232_info.json",
+      "public_path": "data/source_index/yale_native/1006232_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006233_info.json",
+      "public_path": "data/source_index/yale_native/1006233_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006234_info.json",
+      "public_path": "data/source_index/yale_native/1006234_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006235_info.json",
+      "public_path": "data/source_index/yale_native/1006235_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006236_info.json",
+      "public_path": "data/source_index/yale_native/1006236_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006237_info.json",
+      "public_path": "data/source_index/yale_native/1006237_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006238_info.json",
+      "public_path": "data/source_index/yale_native/1006238_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006239_info.json",
+      "public_path": "data/source_index/yale_native/1006239_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006240_info.json",
+      "public_path": "data/source_index/yale_native/1006240_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006241_info.json",
+      "public_path": "data/source_index/yale_native/1006241_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006242_info.json",
+      "public_path": "data/source_index/yale_native/1006242_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006243_info.json",
+      "public_path": "data/source_index/yale_native/1006243_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006244_info.json",
+      "public_path": "data/source_index/yale_native/1006244_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006245_info.json",
+      "public_path": "data/source_index/yale_native/1006245_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006246_info.json",
+      "public_path": "data/source_index/yale_native/1006246_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006247_info.json",
+      "public_path": "data/source_index/yale_native/1006247_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006248_info.json",
+      "public_path": "data/source_index/yale_native/1006248_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006249_info.json",
+      "public_path": "data/source_index/yale_native/1006249_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006250_info.json",
+      "public_path": "data/source_index/yale_native/1006250_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006251_info.json",
+      "public_path": "data/source_index/yale_native/1006251_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006252_info.json",
+      "public_path": "data/source_index/yale_native/1006252_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006253_info.json",
+      "public_path": "data/source_index/yale_native/1006253_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006254_info.json",
+      "public_path": "data/source_index/yale_native/1006254_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006255_info.json",
+      "public_path": "data/source_index/yale_native/1006255_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006256_info.json",
+      "public_path": "data/source_index/yale_native/1006256_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006257_info.json",
+      "public_path": "data/source_index/yale_native/1006257_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006258_info.json",
+      "public_path": "data/source_index/yale_native/1006258_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006259_info.json",
+      "public_path": "data/source_index/yale_native/1006259_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006260_info.json",
+      "public_path": "data/source_index/yale_native/1006260_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006261_info.json",
+      "public_path": "data/source_index/yale_native/1006261_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006262_info.json",
+      "public_path": "data/source_index/yale_native/1006262_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006263_info.json",
+      "public_path": "data/source_index/yale_native/1006263_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006264_info.json",
+      "public_path": "data/source_index/yale_native/1006264_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006265_info.json",
+      "public_path": "data/source_index/yale_native/1006265_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006266_info.json",
+      "public_path": "data/source_index/yale_native/1006266_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006267_info.json",
+      "public_path": "data/source_index/yale_native/1006267_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006268_info.json",
+      "public_path": "data/source_index/yale_native/1006268_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006269_info.json",
+      "public_path": "data/source_index/yale_native/1006269_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006270_info.json",
+      "public_path": "data/source_index/yale_native/1006270_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006271_info.json",
+      "public_path": "data/source_index/yale_native/1006271_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006272_info.json",
+      "public_path": "data/source_index/yale_native/1006272_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006273_info.json",
+      "public_path": "data/source_index/yale_native/1006273_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006274_info.json",
+      "public_path": "data/source_index/yale_native/1006274_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006275_info.json",
+      "public_path": "data/source_index/yale_native/1006275_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006276_info.json",
+      "public_path": "data/source_index/yale_native/1006276_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1006277_info.json",
+      "public_path": "data/source_index/yale_native/1006277_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1037112_info.json",
+      "public_path": "data/source_index/yale_native/1037112_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native/1043429_info.json",
+      "public_path": "data/source_index/yale_native/1043429_info.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/page_folio_map.csv",
+      "public_path": "data/source_index/page_folio_map.csv",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/archive_members.csv",
+      "public_path": "data/source_index/archive_members.csv.gz",
+      "storage": "gzip"
+    },
+    {
+      "logical_path": "data/source/evidence_manifest.csv",
+      "public_path": "data/source_index/evidence_manifest.csv",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/evidence_manifest_initial.csv",
+      "public_path": "data/source_index/evidence_manifest_initial.csv",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/overlapping_view_registrations.json",
+      "public_path": "data/source_index/overlapping_view_registrations.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/pdf_image_inventory.csv",
+      "public_path": "data/source_index/pdf_image_inventory.csv",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/pdf_metadata.json",
+      "public_path": "data/source_index/pdf_metadata.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/runtime_manifest.json",
+      "public_path": "data/source_index/runtime_manifest.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/sample_manifest.csv",
+      "public_path": "data/source_index/sample_manifest.csv",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/scientific_runtime_lock.json",
+      "public_path": "data/source_index/scientific_runtime_lock.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_native_pilot_manifest.csv",
+      "public_path": "data/source_index/yale_native_pilot_manifest.csv",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_registration_pilot.json",
+      "public_path": "data/source_index/yale_registration_pilot.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/source/yale_source_probe.json",
+      "public_path": "data/source_index/yale_source_probe.json",
+      "storage": "file"
+    }
+  ],
+  "authoritative_transport_index": "../../manifests/FILE_INDEX.json"
+}

@@ -1,0 +1,17 @@
+{
+  "counts": {
+    "positive:same_structural_hypothesis": 35,
+    "hard_negative:different": 24,
+    "hard_negative:same_structural_hypothesis": 13,
+    "hard_negative:unknown": 3,
+    "positive:unknown": 2,
+    "positive:different": 3
+  },
+  "positive_agreement": 0.875,
+  "apparent_hard_negative_same_structure_fraction": 0.325,
+  "false_acceptance_among_source_judged_different_pairs": 0.1111111111111111,
+  "definition": "Source-judged different pairs supply the actual negative ground truth. Model-class-different proposals judged same expose false separation; they are not true negatives.",
+  "independent_raters": 1,
+  "unknown_count": 5,
+  "source_pair_agreement_is_single_agent": true
+}

@@ -1,0 +1,37 @@
+{
+  "sealed_before_source_similarity": true,
+  "protocol": {
+    "population": "Fresh-vs-fresh source-confirmed, whole-extent-resolved parents in different selected captions. Old source parents used only for separate retrieval.",
+    "initial_n": 240,
+    "extension_n": 120,
+    "maximum_n": 600,
+    "mixture": "Half broad random cross-caption pairs, half aspect-matched(abs native log width/height difference<=.35) geometric comparisons. Balance caption dyads by cycling all available combinations, cycle anchor native-envelope-area quartiles for size coverage. Seeded tie/pair choice; no contour or source similarity judgment used.",
+    "parent_degree_limit": 12,
+    "extension_rule": "Prepare deterministic ordered600-pair pool and hidden-key/source galleries before first rating. Open initial240. Add next120only if binary n<120, same<30,different<30, endpoint-caption coverage<6 or either rating category spans<4 captions. Stop when support achieved or600 exhausted. All opened pairs included; no metric inspected before final ratings seal. If sampling constraints cannot fill600, retain available pool and not-estimable support if minimum unachieved.",
+    "fallbacks": "If requested aspect-matched dyad/area stratum has no unused pair, cycle next dyad; if no remaining aspect candidates, leave shortfall explicit, do not replace with nearest-contour pairs. Never change parent eligibility after ratings.",
+    "blind_display": "Anonymous sourceRGB crops with source-coordinate bbox as locational aid, equal-size slots, randomized left/right. No caption/parent IDs, selector/aspect values, contour/SDF scores, V3 labels or conventional strings shown.",
+    "ratings": "2 same whole visual organization allowing source-supported ink/size/slant differences;1 partial/related organization;0 different;U unresolved. Preserve1/U, excluded from binary only. Same AI adjudicator, not human inter-rater.",
+    "freeze": "Pair pool/protocol sealed before source-similarity rating. All used ratings sealed before predictions. No outcome-informed choosing of metric or normalization."
+  },
+  "pool_n": 600,
+  "eligible_parent_n": 165,
+  "caption_groups": [
+    "7",
+    "11",
+    "29",
+    "31",
+    "45",
+    "48",
+    "54",
+    "87"
+  ],
+  "degree_limit": 12,
+  "actual_max_degree": 12,
+  "sampling_method_counts": {
+    "broad_random": 300,
+    "aspect_matched": 300
+  },
+  "unfilled_slots": [],
+  "source_unknowns_excluded_from_primary_pool_but_retained_in_representation": true,
+  "contour_distances_not_used": true
+}

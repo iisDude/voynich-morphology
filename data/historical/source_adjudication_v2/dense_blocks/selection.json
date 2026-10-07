@@ -1,0 +1,79 @@
+{
+  "registered_at_utc": "2026-10-05T23:41:57.966036+00:00",
+  "selection": "Highest candidate-row count among portrait noncurved native views width<3000; 4 train,2 validation,2 test; no Currier metadata or visual-family/effect input",
+  "selected": [
+    {
+      "view_id": "V_196",
+      "split": "train",
+      "folio_component": "111",
+      "native_source": "data/source/yale_native/1006266.jpg",
+      "candidate_rows": 48,
+      "width": 2622,
+      "height": 3783
+    },
+    {
+      "view_id": "V_138",
+      "split": "train",
+      "folio_component": "76",
+      "native_source": "data/source/yale_native/1006210.jpg",
+      "candidate_rows": 46,
+      "width": 2793,
+      "height": 3769
+    },
+    {
+      "view_id": "V_195",
+      "split": "train",
+      "folio_component": "108",
+      "native_source": "data/source/yale_native/1006265.jpg",
+      "candidate_rows": 46,
+      "width": 2649,
+      "height": 3706
+    },
+    {
+      "view_id": "V_144",
+      "split": "train",
+      "folio_component": "79",
+      "native_source": "data/source/yale_native/1006216.jpg",
+      "candidate_rows": 42,
+      "width": 2784,
+      "height": 3755
+    },
+    {
+      "view_id": "V_084",
+      "split": "validation",
+      "folio_component": "42",
+      "native_source": "data/source/yale_native/1006156.jpg",
+      "candidate_rows": 30,
+      "width": 2843,
+      "height": 3743
+    },
+    {
+      "view_id": "V_190",
+      "split": "validation",
+      "folio_component": "106",
+      "native_source": "data/source/yale_native/1006260.jpg",
+      "candidate_rows": 21,
+      "width": 2635,
+      "height": 3787
+    },
+    {
+      "view_id": "V_152",
+      "split": "test",
+      "folio_component": "83",
+      "native_source": "data/source/yale_native/1006224.jpg",
+      "candidate_rows": 43,
+      "width": 2753,
+      "height": 3745
+    },
+    {
+      "view_id": "V_202",
+      "split": "test",
+      "folio_component": "114",
+      "native_source": "data/source/yale_native/1006272.jpg",
+      "candidate_rows": 39,
+      "width": 2599,
+      "height": 3787
+    }
+  ],
+  "source_acceptance": "Native overview must show dense writing block. Review every extracted row at native scale. Failed extraction retained unknown. No frequency/effect stopping rule."
+}

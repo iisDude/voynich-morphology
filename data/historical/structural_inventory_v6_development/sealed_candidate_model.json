@@ -1,0 +1,180 @@
+{
+  "created_at_utc": "2026-10-07T05:30:10.873138+00:00",
+  "v3_model_sha256": "6f4653ba9abef085c67118bcbe7f4e4869f6f14ab318355a0c10c40d91147732",
+  "whole_candidates": [
+    {
+      "candidate_id": "NC01",
+      "indices": [
+        19,
+        118,
+        125,
+        150,
+        210,
+        308,
+        351,
+        368,
+        384,
+        460,
+        466,
+        483,
+        544,
+        568,
+        574
+      ],
+      "parent_ids": [
+        "B001_O085",
+        "B005_O187",
+        "B006_O058",
+        "B006_O128",
+        "B007_O158",
+        "B010_O009",
+        "B011_O020",
+        "B012_O016",
+        "B015_O004",
+        "B003_O017",
+        "B003_O027",
+        "B003_O058",
+        "B013_O036",
+        "B013_O101",
+        "B013_O113"
+      ],
+      "holes": 0,
+      "radius": 0.49537523698033126,
+      "source_structure": "Mixes compact ring without appendix, arch with descending right trace and paired minima. Raster hole count0 does not make these the same source structure.",
+      "training_instances": 15,
+      "training_captions": 8,
+      "source_decision": "reject"
+    },
+    {
+      "candidate_id": "NC02",
+      "indices": [
+        27,
+        44,
+        93,
+        103,
+        165,
+        260,
+        397,
+        433,
+        511,
+        625
+      ],
+      "parent_ids": [
+        "B001_O121",
+        "B002_O041",
+        "B005_O119",
+        "B005_O154",
+        "B006_O167",
+        "B008_O146",
+        "B015_O024",
+        "B016_O021",
+        "B004_O039",
+        "B014_O108"
+      ],
+      "holes": 1,
+      "radius": 0.6476430115503415,
+      "source_structure": "Vertically stacked lobes joined at a narrow waist, one significant raster hole and a bulky/filled upper region. A source family/compound variant hypothesis, not a new grapheme; upper/lower cavity placement must agree in native pair review.",
+      "training_instances": 10,
+      "training_captions": 6,
+      "source_decision": "retain_candidate"
+    },
+    {
+      "candidate_id": "NC03",
+      "indices": [
+        25,
+        47,
+        62,
+        72,
+        75,
+        116,
+        206,
+        219,
+        512
+      ],
+      "parent_ids": [
+        "B001_O115",
+        "B002_O049",
+        "B002_O106",
+        "B005_O051",
+        "B005_O066",
+        "B005_O184",
+        "B007_O150",
+        "B007_O181",
+        "B004_O041"
+      ],
+      "holes": 0,
+      "radius": 0.6439803107562881,
+      "source_structure": "Horizontal bench-like frame, repeated low arches and short thick terminals mixed. Different bridge/upright organization; cannot merge for coverage.",
+      "training_instances": 9,
+      "training_captions": 4,
+      "source_decision": "reject"
+    },
+    {
+      "candidate_id": "NC04",
+      "indices": [
+        26,
+        259,
+        343,
+        450,
+        520,
+        538,
+        559,
+        606
+      ],
+      "parent_ids": [
+        "B001_O118",
+        "B008_O144",
+        "B010_O088",
+        "B016_O066",
+        "B004_O057",
+        "B013_O019",
+        "B013_O080",
+        "B014_O073"
+      ],
+      "holes": 0,
+      "radius": 0.8427529398209541,
+      "source_structure": "Open/closed/filled compact forms and loop with right descending branch mixed despite stable one-hole raster labels.",
+      "training_instances": 8,
+      "training_captions": 6,
+      "source_decision": "reject"
+    },
+    {
+      "candidate_id": "NC05",
+      "indices": [
+        38,
+        48,
+        453,
+        457,
+        516,
+        564,
+        621,
+        623
+      ],
+      "parent_ids": [
+        "B002_O023",
+        "B002_O053",
+        "B016_O072",
+        "B016_O081",
+        "B004_O047",
+        "B013_O094",
+        "B014_O101",
+        "B014_O105"
+      ],
+      "holes": 1,
+      "radius": 0.6617406872685347,
+      "source_structure": "Compact rings and rings/arches with substantial right appendix mixed. Added appendices remain competing interpretations.",
+      "training_instances": 8,
+      "training_captions": 4,
+      "source_decision": "reject"
+    }
+  ],
+  "assignable_candidate_ids": [
+    "NC02"
+  ],
+  "validated_classes": [],
+  "composition_assignable": [],
+  "radius_margin": 1.08,
+  "source_parent_resolved_required": true,
+  "perturbations": "Native6/9/12 whole-parent masks; fixed V3 slant transform; exact stable topology/contact required",
+  "class_overlap": "Retain V3 assignment always; new candidate applies only to confirmed-writing UNK. Separate namespace; no V3 fit or threshold change."
+}

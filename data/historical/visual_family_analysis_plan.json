@@ -1,0 +1,20 @@
+{
+  "version": "visual_families_v1",
+  "status": "registered_before_family_training",
+  "seed": 20261005,
+  "data": "Region-localized candidates from all 204 folio-captioned views, with explicit missing/irregular subsets. Only training views learn family templates.",
+  "models": ["fine_components", "medium_assemblies", "compound_candidates", "group_only", "frame_factor_hypotheses"],
+  "input_rule": "Image masks and native geometry only; no conventional transcription identities, hand/Currier labels or positional-assay outputs.",
+  "image_features": "Aspect-preserving 48 by 48 ink samples; PCA learned on training instances only. Native aspect, height, upper/lower extent, raster topology and connector/repetition measures remain explicit.",
+  "candidate_family_counts": [32, 64, 128],
+  "selection_rule": "Compare validation template reconstruction, recurrence across training folios, held-out nearest-template residual and description length. Do not choose a family count to maximize any historical positional effect.",
+  "abstention_rule": "Retain low-quality and outlying instances as unresolved, with alternate nearest families. Empty/failed extraction is a coverage failure, not a blank manuscript page.",
+  "recurrence_rule": "A recurring family requires occurrences on at least three distinct training folio components; report weaker families separately.",
+  "height_tests": "Compare continuous height/upper-extent distributions and mixtures. Height ratios use provisional local body estimates; measurement uncertainty and threshold sensitivity must be shown.",
+  "frame_tests": "A long near-horizontal ink run is a candidate connector. Compare outer-structure similarity with varying middle/upper components and matched random masks; retain indivisible and decomposed models. A connector proxy is not proof of a reusable frame.",
+  "repetition_tests": "Column ridges and recurring near-parallel traces are geometric proxies; compare whole runs versus disconnected fragments, with threshold/repair alternatives.",
+  "pen_lift_tests": "Positive evidence requires source-visible separation or stroke interaction beyond threshold-induced fragmentation. Otherwise unresolved.",
+  "holdout": "Calibration folios excluded from formal validation. Family learning uses train; model choice uses validation; final evaluation uses test without refit. Caption grouping does not establish complete bifolio independence.",
+  "freeze_gate": "A segmentation snapshot must include hashes, all competing boundaries, unresolved identities, coverage exclusions and source-quality failures. No crosswalk before that snapshot; do not describe failed validation as a recovered script alphabet.",
+  "assay_position_rule": "Ordinal group rank, native pixel x, normalized line-box pixel x, and arc position are distinct. Curved paths cannot enter horizontal x assays silently."
+}

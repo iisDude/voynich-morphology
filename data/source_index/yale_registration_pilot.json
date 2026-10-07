@@ -1,0 +1,578 @@
+[
+  {
+    "view_id": "V_004",
+    "image_sha256": "d02e73e9d81daa461d39beda0340b2acccadcd9db898605fc00b4f126e3e60bf",
+    "native_path": "data/source/yale_native/1006076.jpg",
+    "native_width": 2972,
+    "native_height": 3766,
+    "pdf_image_sha256": "f3fac9f60dd1e8f7f7f36e63e22cfa582d634b0314e391fc5c69f0319097c79c",
+    "matched_points": 1495,
+    "inlier_points": 1479,
+    "median_reprojection_error_pdf_px": 0.10967883467674255,
+    "rgb_downsample_mean_absolute_difference": 4.088693071398395,
+    "grayscale_downsample_correlation": 0.9941728889466356,
+    "pdf_to_native_matrix": [
+      [
+        1.8832598186579284,
+        2.1511452284814128e-05,
+        0.07510780281726712
+      ],
+      [
+        -2.150692127232076e-05,
+        1.8828631428011047,
+        0.15064827788305127
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "native_to_pdf_matrix": [
+      [
+        0.5309941782659388,
+        -6.066535410687803e-06,
+        -0.03988089212520257
+      ],
+      [
+        6.065257600739254e-06,
+        0.5311060464978054,
+        -0.08001066682634204
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "status": "verified"
+  },
+  {
+    "view_id": "V_052",
+    "image_sha256": "a593efb741d70ec23ae25c3725dbf2c8e8b3f8d2392cea6eb06921ac5949a6db",
+    "native_path": "data/source/yale_native/1006124.jpg",
+    "native_width": 2727,
+    "native_height": 3743,
+    "pdf_image_sha256": "d470beb0ffd8132a062cbc84bced8ba96e473905c4f5645af70418dc080e352a",
+    "matched_points": 1652,
+    "inlier_points": 1638,
+    "median_reprojection_error_pdf_px": 0.07658956199884415,
+    "rgb_downsample_mean_absolute_difference": 4.736967970716083,
+    "grayscale_downsample_correlation": 0.9943532074597666,
+    "pdf_to_native_matrix": [
+      [
+        1.8716030976450777,
+        -7.059895578893731e-06,
+        0.04845554469092634
+      ],
+      [
+        7.059314373702143e-06,
+        1.8714490181088028,
+        0.025821412556463114
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "native_to_pdf_matrix": [
+      [
+        0.5343013170067998,
+        2.015610080335141e-06,
+        -0.02588991339054323
+      ],
+      [
+        -2.015444145438538e-06,
+        0.5343453069303077,
+        -0.013797452958413522
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "status": "verified"
+  },
+  {
+    "view_id": "V_082",
+    "image_sha256": "7631b874dbb3e2f48ade864485a0210cb207f2c7878181e458582beba86877ba",
+    "native_path": "data/source/yale_native/1006154.jpg",
+    "native_width": 2840,
+    "native_height": 3743,
+    "pdf_image_sha256": "7bd0873d65420cc44d26e014d75e21f46b8bfe2930ff36b5f03b2455960d9ff5",
+    "matched_points": 1474,
+    "inlier_points": 1460,
+    "median_reprojection_error_pdf_px": 0.12863214313983917,
+    "rgb_downsample_mean_absolute_difference": 4.53228367391782,
+    "grayscale_downsample_correlation": 0.9941772352074381,
+    "pdf_to_native_matrix": [
+      [
+        1.8719454945160303,
+        -6.980688388659856e-06,
+        0.1575022969938288
+      ],
+      [
+        6.978391398061546e-06,
+        1.8713295321693313,
+        0.14799666604851874
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "native_to_pdf_matrix": [
+      [
+        0.5342035881470107,
+        1.9927590094916714e-06,
+        -0.08413858711718912
+      ],
+      [
+        -1.9921032935429497e-06,
+        0.5343794253205889,
+        -0.07908605959152598
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "status": "verified"
+  },
+  {
+    "view_id": "V_116",
+    "image_sha256": "2897cf3214d13176c9d708a9f4f9030752a50922271ade7286c0c2cd73b811fd",
+    "native_path": "data/source/yale_native/1006188.jpg",
+    "native_width": 2793,
+    "native_height": 3749,
+    "pdf_image_sha256": "ba7443456ad775beae46c27447fad366ddfec20a4d8e037fdf0a1341c35bd91f",
+    "matched_points": 1556,
+    "inlier_points": 1531,
+    "median_reprojection_error_pdf_px": 0.08346910774707794,
+    "rgb_downsample_mean_absolute_difference": 4.60575581655481,
+    "grayscale_downsample_correlation": 0.9935401497038961,
+    "pdf_to_native_matrix": [
+      [
+        1.874497387437382,
+        -5.004412024382925e-06,
+        0.008535942718036952
+      ],
+      [
+        5.0044209832300875e-06,
+        1.8745007431434106,
+        -0.0026288111340626525
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "native_to_pdf_matrix": [
+      [
+        0.5334763370142481,
+        1.4242381100371807e-06,
+        -0.004553719710128797
+      ],
+      [
+        -1.4242406596936614e-06,
+        0.533475381992082,
+        0.0014024181811657997
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "status": "verified"
+  },
+  {
+    "view_id": "V_122",
+    "image_sha256": "0518312a566ee713a46c9887d8b8b9d7141d14095e360661789c1dad9b5c0d1c",
+    "native_path": "data/source/yale_native/1006194.jpg",
+    "native_width": 4972,
+    "native_height": 3738,
+    "pdf_image_sha256": "8564d40a3d8d9b8da126fd2f685a669f9e8791bdc01366a5e18d96d4d19846aa",
+    "matched_points": 1606,
+    "inlier_points": 1587,
+    "median_reprojection_error_pdf_px": 0.09986254572868347,
+    "rgb_downsample_mean_absolute_difference": 4.68631405141844,
+    "grayscale_downsample_correlation": 0.9925686962500961,
+    "pdf_to_native_matrix": [
+      [
+        2.4861911245823913,
+        9.794064894192902e-06,
+        -0.15081584699518855
+      ],
+      [
+        -9.791592111166435e-06,
+        2.485563416753227,
+        -0.11268216593698036
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "native_to_pdf_matrix": [
+      [
+        0.4022216916860937,
+        -1.5849063933244895e-06,
+        0.060661226520790604
+      ],
+      [
+        1.5845062397957662e-06,
+        0.4023232693417791,
+        0.04533489636492942
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "status": "verified"
+  },
+  {
+    "view_id": "V_127",
+    "image_sha256": "709419c3c6861c216b1746261884e08a38f1b5a2b052ad129e78cdd73697b5e9",
+    "native_path": "data/source/yale_native/1006199.jpg",
+    "native_width": 8886,
+    "native_height": 3876,
+    "pdf_image_sha256": "0e4f9004d27beae05247845e7bb6bf368afeb7656c535c60d5497ff84fce38fa",
+    "matched_points": 1362,
+    "inlier_points": 1346,
+    "median_reprojection_error_pdf_px": 0.11189272999763489,
+    "rgb_downsample_mean_absolute_difference": 4.094142420771287,
+    "grayscale_downsample_correlation": 0.99555860688716,
+    "pdf_to_native_matrix": [
+      [
+        4.443164542047272,
+        -1.2267927657185574e-05,
+        -0.17407105459261912
+      ],
+      [
+        1.2259264570070657e-05,
+        4.440026968810026,
+        -0.1616560438219754
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "native_to_pdf_matrix": [
+      [
+        0.22506481372207016,
+        6.218608292958865e-07,
+        0.0391773700038536
+      ],
+      [
+        -6.214216977091928e-07,
+        0.22522385720111676,
+        0.036408689557927795
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "status": "verified"
+  },
+  {
+    "view_id": "V_136",
+    "image_sha256": "6fd33917722a97ef0c93f905885963332645c1a1c81f60f03a165b12007a7fc3",
+    "native_path": "data/source/yale_native/1006208.jpg",
+    "native_width": 2852,
+    "native_height": 3759,
+    "pdf_image_sha256": "0519a2c8cc4a194517bacc541c0f0c805029a6bf605ce26fd546510bcbf5b725",
+    "matched_points": 1601,
+    "inlier_points": 1581,
+    "median_reprojection_error_pdf_px": 0.09343390166759491,
+    "rgb_downsample_mean_absolute_difference": 4.900246319490222,
+    "grayscale_downsample_correlation": 0.9925556019572097,
+    "pdf_to_native_matrix": [
+      [
+        1.8798530874375108,
+        2.877765465574374e-05,
+        0.09838159694853875
+      ],
+      [
+        -2.8769597517860635e-05,
+        1.8793267681211296,
+        0.17844204913096634
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "native_to_pdf_matrix": [
+      [
+        0.531956463219572,
+        -8.145714545282846e-06,
+        -0.05233327282064301
+      ],
+      [
+        8.143433916578634e-06,
+        0.5321054415488415,
+        -0.09495078650774628
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "status": "verified"
+  },
+  {
+    "view_id": "V_150",
+    "image_sha256": "269cb42307824ab82764f80009429e58d98c649371d8efe10d2a1f54132a21ef",
+    "native_path": "data/source/yale_native/1006222.jpg",
+    "native_width": 2753,
+    "native_height": 3745,
+    "pdf_image_sha256": "caf54f326b7d809f93f3d97bed72205fcdc4c34d893a9894b3de2ff5bb393f47",
+    "matched_points": 1615,
+    "inlier_points": 1593,
+    "median_reprojection_error_pdf_px": 0.0740869790315628,
+    "rgb_downsample_mean_absolute_difference": 4.750933219954648,
+    "grayscale_downsample_correlation": 0.9932627521696659,
+    "pdf_to_native_matrix": [
+      [
+        1.8726887278876767,
+        -2.28768673311001e-05,
+        0.10790615863940362
+      ],
+      [
+        2.2873335667963263e-05,
+        1.8723996277389836,
+        0.05971695142067514
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "native_to_pdf_matrix": [
+      [
+        0.5339915731637531,
+        6.524277293274252e-06,
+        -0.057621369015862824
+      ],
+      [
+        -6.523270094636533e-06,
+        0.5340740219321226,
+        -0.031892568521747475
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "status": "verified"
+  },
+  {
+    "view_id": "V_162",
+    "image_sha256": "a1d21ccad0df430b47f3b3df2829bbefb8c4d1644cb70310e6d1de4b01c20013",
+    "native_path": "data/source/yale_native/1037112.jpg",
+    "native_width": 2714,
+    "native_height": 3735,
+    "pdf_image_sha256": "65a077884c67524af98b661e61ee45632146f3ea8a01efc65f77854353529406",
+    "matched_points": 1595,
+    "inlier_points": 1586,
+    "median_reprojection_error_pdf_px": 0.10207796096801758,
+    "rgb_downsample_mean_absolute_difference": 4.3028123422803395,
+    "grayscale_downsample_correlation": 0.9934869389049508,
+    "pdf_to_native_matrix": [
+      [
+        1.8677465881948871,
+        -1.203251141405881e-05,
+        0.13420878649827953
+      ],
+      [
+        1.2030194911769257e-05,
+        1.8673870091262315,
+        0.10693161911250598
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "native_to_pdf_matrix": [
+      [
+        0.5354045384309671,
+        3.449880066812662e-06,
+        -0.07185636228975285
+      ],
+      [
+        -3.449215894986977e-06,
+        0.535507634502827,
+        -0.05726223548941573
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "status": "verified"
+  },
+  {
+    "view_id": "V_176",
+    "image_sha256": "f17eba5496a1b1d92f589c33ee9be256a379ec8d2bba3da1ebe2ff5a2e3e2901",
+    "native_path": "data/source/yale_native/1006246.jpg",
+    "native_width": 2702,
+    "native_height": 3765,
+    "pdf_image_sha256": "a2d03e371fc483968c7173aef75cf23b335ecf51889bb4921637865361d1d462",
+    "matched_points": 1520,
+    "inlier_points": 1512,
+    "median_reprojection_error_pdf_px": 0.10055314004421234,
+    "rgb_downsample_mean_absolute_difference": 4.524478513356562,
+    "grayscale_downsample_correlation": 0.9929108320523418,
+    "pdf_to_native_matrix": [
+      [
+        1.88280888399726,
+        9.47552051152955e-06,
+        0.07996529403485804
+      ],
+      [
+        -9.473372563227067e-06,
+        1.882382081465266,
+        0.13427695898786496
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "native_to_pdf_matrix": [
+      [
+        0.5311213519726136,
+        -2.6735545956803507e-06,
+        -0.04247091608190058
+      ],
+      [
+        2.6729485437966144e-06,
+        0.5312417759503224,
+        -0.07133374390503823
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "status": "verified"
+  },
+  {
+    "view_id": "V_184",
+    "image_sha256": "28a65644ebf9a16dc41c073e6535117d924765fae6af474dbd1e3fe2b167beda",
+    "native_path": "data/source/yale_native/1006254.jpg",
+    "native_width": 2688,
+    "native_height": 3805,
+    "pdf_image_sha256": "437afc02ec5f79c8a5e3aff2f13dcb3f6749f06aca8a7a025570cc1f998466d2",
+    "matched_points": 1538,
+    "inlier_points": 1525,
+    "median_reprojection_error_pdf_px": 0.07265130430459976,
+    "rgb_downsample_mean_absolute_difference": 4.662228001887238,
+    "grayscale_downsample_correlation": 0.9932498668971305,
+    "pdf_to_native_matrix": [
+      [
+        1.9023709378126654,
+        -1.8611274771782582e-05,
+        -0.021682116943603297
+      ],
+      [
+        1.8612884563964293e-05,
+        1.9025354844060587,
+        -0.050134464190977925
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "native_to_pdf_matrix": [
+      [
+        0.5256598384824376,
+        5.1421903931225e-06,
+        0.01139767589149196
+      ],
+      [
+        -5.142635169635298e-06,
+        0.5256143751854768,
+        0.026351283567782376
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "status": "verified"
+  },
+  {
+    "view_id": "V_198",
+    "image_sha256": "f59b3420ff3fdbe6f360c12993304a12b11acdef1a2978784efcd77541c0d9b3",
+    "native_path": "data/source/yale_native/1006268.jpg",
+    "native_width": 2602,
+    "native_height": 3787,
+    "pdf_image_sha256": "a03acac9efd1f79dbc5a8940b7a8e11397c32d9db3b9c8bfc59905351bb994af",
+    "matched_points": 1640,
+    "inlier_points": 1618,
+    "median_reprojection_error_pdf_px": 0.07084985077381134,
+    "rgb_downsample_mean_absolute_difference": 4.689658175642892,
+    "grayscale_downsample_correlation": 0.9937019658458365,
+    "pdf_to_native_matrix": [
+      [
+        1.8936706198856383,
+        -1.0094826349579013e-05,
+        0.09324345745618848
+      ],
+      [
+        1.0093542188348532e-05,
+        1.893429726351748,
+        0.06194667499683442
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "native_to_pdf_matrix": [
+      [
+        0.52807494052581,
+        2.8154331528552303e-06,
+        -0.04923970765732013
+      ],
+      [
+        -2.8150750020583065e-06,
+        0.5281421254003326,
+        -0.03271638610698558
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "status": "verified"
+  }
+]

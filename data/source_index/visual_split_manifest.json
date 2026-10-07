@@ -1,0 +1,17 @@
+{
+  "seed": 20261005,
+  "source_pdf_sha256": "b048d09835c66522cc7a6d93e3edf4693edacc403aa79f738c47a421d840f761",
+  "unit": "connected components of folio numbers from embedded captions; all sides/views kept together",
+  "calibration": "All folios touched by twelve-view pilot removed from formal train/validation/test",
+  "train_fraction_of_noncalibration": "3/5 hash buckets",
+  "validation_fraction": "1/5",
+  "test_fraction": "1/5",
+  "caveat": "Caption grouping does not prove complete panel-level or bifolio independence.",
+  "counts": {
+    "calibration": 30,
+    "excluded_cover": 9,
+    "test": 48,
+    "train": 90,
+    "validation": 36
+  }
+}

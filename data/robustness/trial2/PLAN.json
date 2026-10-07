@@ -1,0 +1,60 @@
+{
+  "registered_at_utc": "2026-10-07T13:56:41.317025+00:00",
+  "study": "Postfreeze Direct Morphology Trial2 robustness investigation v1",
+  "seed": 20261023,
+  "previous_result_known": true,
+  "independent_validation": false,
+  "not_a_new_validation_pass": true,
+  "metric": "Immutable primary contour64 only; aspect-only baseline retained, no SDF/resolution/learned substitution",
+  "base_manifest_sha256": "82eb82441addc43067e678ae987147b4e8de08e845cdc04141c5230dc70e9836",
+  "source_population": "Frozen360 used source pairs only; unused240 remain unopened. Frozen source judgments and all extents unchanged.",
+  "source_filters": {
+    "all": "All frozen used pairs; original whole extent qualification remains",
+    "extent_clean": "Both parents resolved extent and no frozen possible_join/possible_split/detached_association_unknown/faint_or_insufficient_extent/neighboring_row_contact_possible flags. Report if this excludes nothing; do not invent ambiguity.",
+    "recovery_clean": "Both parents have no missing/split/merge flags in frozen6/12 contrast correspondence; exactly one observed matching candidate at each contrast. Synthetic slant is not source ambiguity.",
+    "extent_and_recovery_clean": "Intersection of the two preceding filters",
+    "field_edge_sensitivity": "Further exclude frozen field_edge_location_aid; field edge is an extraction aid, not certified physical extent ambiguity. Connected compound flag alone does not exclude an already source-resolved whole parent."
+  },
+  "matching": {
+    "eligibility": "Original binary0/2 only for primary conservative matching; no same/different or distance objective",
+    "method": "Maximum-cardinality binary edge matching using parent<=1 constraints; seeded random-priority secondary objective fixing maximal count. Parent+dyad adds dyad<=1. Dyad-only also reported. Caption dependence remains even with disjoint parents.",
+    "tie_seed_rule": "Base seed plus deterministic analysis index; solve cardinality first then seeded priority; retain selected IDs and solver optimality/replay",
+    "strata": "Pooled, broad_random, aspect_matched separately; refit only subset-selection constraints, never the metric",
+    "selection_variability": "50 additional seeded greedy label/distance-blind admissible subsets for each binary condition. These distributions are selection sensitivity, not statistical confidence intervals; no best subset chosen."
+  },
+  "contrasts": {
+    "binary": "2vs0, partial excluded exactly as frozen",
+    "partial_as_same": "2/1 positive versus0 negative",
+    "partial_as_different": "2 positive versus1/0 negative",
+    "same_vs_partial": "2 positive versus1 negative",
+    "partial_vs_different": "1 positive versus0 negative",
+    "recoding_interpretation": "Two uniform partial recodings are sensitivity endpoints, not truths or sharp bounds over every mixed allocation of partials."
+  },
+  "analysis_matrix": "For each source filter and each sampling stratum: original binary under pooled, parent<=1,dyad<=1,parent+dyad<=1. Adjacent contrasts and uniform recodings separately for all/recovery-clean/combined-clean, pooled and both strata, without independence constraints; additionally disjoint-parent pooled contrasts. No contour-based pair selection.",
+  "uncertainty": {
+    "bootstrap_n": 5000,
+    "method": "Frozen-style two-endpoint caption/node bootstrap weights=count(left)*count(right), same weights for contour and aspect. Use all eight original captions in every analysis. Fixed draws shared across subsets; zero-weight edges omitted by weighting. Exact weighted MannWhitney AUROC ties=.5.",
+    "report": "Point AUROC, counts, unique parents, caption/dyad support, valid bootstrap fraction and conditional95% interval for every mathematically estimable condition. Confidence evidence considered adequate only with each category>=5, each spanning>=3 captions,>=4 captions overall and>=4500 valid draws. Smaller subsets remain descriptive, not failed by substitution.",
+    "partial": "Partial inclusion changes the target and membership counts; uncertainty conditional on original labels. No relabeling used to replace frozen success criteria."
+  },
+  "repeat": {
+    "n": 125,
+    "target_original_counts": {
+      "2": 35,
+      "1": 45,
+      "0": 45
+    },
+    "selection": "All35 original same pairs plus seeded uniform45 of149 partial and45 of176 different; shuffle all anonymous IDs and sides. Adequate positive category limited by frozen35. No distance/uncertainty/previous repeat selection.",
+    "blind": "Native RGB pair crops only; original IDs/categories/distances/neighbors/stratum hidden. Original result and earlier source exposures known; same-adjudicator memory not eliminated. No independent human validation.",
+    "rubric": "2 same whole visible organization allowing ink/size/slant variation;1 partial/related;0 different;U unresolved. Do not force binary, infer strokes or writing identities.",
+    "separation": "Intervening sealed matching preparation and source-integrity checks, changed IDs/sides; short-session/global memory limitation disclosed.",
+    "statistics": "Exact all-category agreement, linear ordinal agreement1-|a-b|/2 and quadratic1-(a-b)^2/4 on resolved0/1/2, unweighted/linear/quadratic Cohen kappa, transition counts and per-original-category retention including U. Original-category-frequency reweighting alongside balanced-repeat sample. Caption-aware conditional intervals; source labels not overwritten.",
+    "prediction_diagnostic": "Original and repeat binary AUROC on the same125 selected pairs, plus disagreement-excluded diagnostic; preserve changed label membership and original-selection conditioning. Separate labels, never replace original."
+  },
+  "interpretation": {
+    "rule": "No new validation pass or modification to Trial2. Unsupported under conservative analysis only if both adequate disjoint-parent original-binary and source+recovery-clean disjoint-parent results have AUROC<=.5 or upper95%<=.5. Sensitive if an adequate subset drops>=.10 AUROC relative to pooled baseline, a stratum has contour-aspect advantage<=0 with stratum AUROC gap>=.10, uniform partial-recoding AUROC range>=.10 or either recoding drops>=.10, or repeat same/different retention<.80 or repeat-relabelled binary AUROC drops>=.10. Otherwise robust with important qualifications if any key subset is underpowered, partial retention<.80/exact agreement<.85, adjacent contrast AUROC<.65 or lower95%<=.5. Robust only if no listed sensitivity/qualification applies. These interpretive conventions describe robustness, not retrospective changes to frozen success criteria.",
+    "underpowered": "Do not call a sparse conservative subset failed merely because a meaningful interval cannot be estimated; report loss of support explicitly."
+  },
+  "prohibited": "All conventional transcription/Currier/position/sequence/decipherment and V3-class information remain sealed",
+  "freeze": "Separate package includes protocol, selected subsets, anonymous repeat judgments, all contour64-only analyses, replay, failures and integrity. Prior frozen and prior postfreeze evidence untouched."
+}

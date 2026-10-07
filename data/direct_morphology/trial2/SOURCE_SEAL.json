@@ -1,0 +1,1613 @@
+{
+  "sealed_at_utc": "2026-10-07T08:12:04.270816+00:00",
+  "files": [
+    {
+      "path": "data/observations/direct_morphology_trial2/extended_RGB_source_contexts.json",
+      "sha256": "026306ee1be1ce34c79347eb54c8f226709cc458afe3b37855570d9a2e9ecb93"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P003958.png",
+      "sha256": "327882b83a462f7990962ac05e0836b0afbbcd3d765288b98f2a139c54f045c0"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P004262.png",
+      "sha256": "5a8e7521e161c620a80fc488c0fe7f0f3a6d8a8bc19f4cdd9e6d0b27fb40bf9e"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P005230.png",
+      "sha256": "c1cddffdd457cfc2a541d6b5a8320db91d65fbb97a3c6fbedb38c3d4dec22a9a"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P005394.png",
+      "sha256": "13f28961efce8bb3d7b74ee048f90f07158be1d0bfa3e42846f756231e273ab7"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P005514.png",
+      "sha256": "2db07533896c1ff04758d6c376814e33f6f217cfe2a3969df4b3110761ef6068"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P005537.png",
+      "sha256": "116a880c907dbac0fbddc18476d790cc9c75c17ae8c77517ebdbbf5e7169eafc"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P005584.png",
+      "sha256": "92610ce25adfec5a4b3642c8b5b65415a244a9e17d12f1915c5e4ae239b733ff"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P005608.png",
+      "sha256": "a2aae76d249ab3197f921006ed9b7750d58f1cef02b29c0a4bfa67ddcf6d770c"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P005628.png",
+      "sha256": "a60f753aaa8ebb20de9eae1a06dbf20b17475b15c8a33d6a29d24356785ee368"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P005678.png",
+      "sha256": "ffd546ad659dfe7015c33b99b480abcc5c6cd4ffb33f001e9e7fcb57a0905bf6"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P005982.png",
+      "sha256": "4ecdb6eb703b09f1428b081714a73eea78cd04929389e2b8bf8e2c7936251da3"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P006148.png",
+      "sha256": "e4f55fcd8d999f56e3ec155d9e9dedf6d0fffea21cdc9d030ed0de1bdf8cccb2"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P006149.png",
+      "sha256": "fc26750c3af5b04c1bb4cd22228fa679f83111725e6cd3d9d081558db2abc954"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P006251.png",
+      "sha256": "0435471f8a842a32ff348459bc6d7ed99d8f3573d31bd369b9f786f4b48db7e1"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P006327.png",
+      "sha256": "b164d48c987d1390540915db489715ddef8bb745ce5c4913441f3637cebc0cf6"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P006382.png",
+      "sha256": "7ce7466a0777f17384cbb3bbeb98534546f0cc9d24b22e7576e428a766f5cd49"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P006490.png",
+      "sha256": "68f006858ba3df324fbf89232c75a0e4ba64df94ae8b53e0b33d715e004426d3"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P006496.png",
+      "sha256": "a3f1f99e51f2e75a5282cfafa247d505e94b39625eca88c61df2391899be8515"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P006522.png",
+      "sha256": "11444f30ce43cf27257b87b44e30c9c56a0ea12ac89c95f5f84aff4cbfe4828f"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P006523.png",
+      "sha256": "2a64ee3bd56671ceb84813cf2d2ffd68f05b16fce3160b4b7dbdb1cda0185fdf"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P006526.png",
+      "sha256": "8aa58263ebe6ebb4d97455af2c41297e88b51aed856b48646dd17ec9b1f3ef7b"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P006527.png",
+      "sha256": "6e3bfe903bdbadb6a29c81e3d0097e2f35d734490f25218d8ab55efd6453b450"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P006578.png",
+      "sha256": "675e564d5a2430a5e370c8e83ce5bdad4bc1b889ad18f1e03eb3ea37987f4124"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_016_P006628.png",
+      "sha256": "9dd1021c690987d872d49055a4c54128a4773e715269716faecc5cc926198352"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P005727.png",
+      "sha256": "947e5845ed771cba986509a5cc418c41c704e3805510c5120002cb124007c827"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P007441.png",
+      "sha256": "272a0de608a7f00f06e07e1324ea1f7486ccb73a7e2376c70ba24be0ac86da06"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P007764.png",
+      "sha256": "989732a65a112d3e95cc2d4487e17481ca63024ad4b27e7b846db46e98be470f"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P007765.png",
+      "sha256": "c8fd66ad95699d73a4af68e0cfbccfdbbc917d28c3fa01950528592d945bafa5"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P007822.png",
+      "sha256": "cc411ef5577aa375c264bf8b01487101b1e324d7d37cc0d2588ab7ccdbf90a61"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P007823.png",
+      "sha256": "8f53921ecbcf04d315a9625cd5020d139bccc49b15d80b980078466bd906d729"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P007855.png",
+      "sha256": "42fcb288869e4ee45d118a210d87c2582940b228356e52def3e05dd7c6847d5b"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P007873.png",
+      "sha256": "72a63e9669f2e9b0e8b652f997539e5971ecd58cc7d625da3121409598828699"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P007981.png",
+      "sha256": "f2a3b333e494cd4eb02fbf48a57ed37001860d406cada5cdecfae0652d5c878c"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P007982.png",
+      "sha256": "b582e83ce62381ff4dffeb559eb09cefd01683ad1ff690ed3057c446ceeea898"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P007984.png",
+      "sha256": "35d38245366c70cb2c668b5f4a5471868cd78f5778da5fdf47bc915f81eaec81"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P008014.png",
+      "sha256": "d78fa96fa3ad72d2472347d56c8902436297eb473ed85b82d0cbf93a3221692c"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P008543.png",
+      "sha256": "eb416fe73d8c7b5f85629d2459d4320e872b762a9b0df3c594c8be70a529d26c"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P008679.png",
+      "sha256": "04f15f8652af1e677260113509bf8e2250380d700196ea3188b69318f4b86e17"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P008807.png",
+      "sha256": "68409512dca220abb490202b0c471ad36acfceabb97c67a128849b89c9f09f6d"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P008872.png",
+      "sha256": "f86722819a2691fcd1f6888bc010dc689e60231be6364ab1946a651021b264d6"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P008925.png",
+      "sha256": "5e165806d71b895e2aaaf4d82dfa18516d2162ebec74974751bc50cb3c21cc53"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P008927.png",
+      "sha256": "946dfdd9b754ff42964d15a87d12002be89529365dbc12b154156b7b836d303c"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P009068.png",
+      "sha256": "399424f8d0aebcaae579f18674587c07250831e2ef4d015e7f44bdbf391856f8"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P009144.png",
+      "sha256": "b46ee415eccdfd68ea67f99391d73c46809892a95dccb323e826b4c8fd62a9d0"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P009193.png",
+      "sha256": "acbf0d88a19103f22181374cbb3c336dde6d4538b374b01e0b7f7f116d7fbfaa"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P009197.png",
+      "sha256": "4510e9768c024adcb3427f78abde567479cca66fc0c2cc0595d7d84e2d784bd9"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P009289.png",
+      "sha256": "62ee9f022d9985efee8e26bd279ac83083c7f86ae2e7921aed714f8d51172b83"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_024_P009291.png",
+      "sha256": "b03b40baaf393c9d43fdbe62897aa1283e559898d240f1eae11a9e52f2fde596"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P008782.png",
+      "sha256": "7efbf682b7fcfeef9f7b9c1434b8383b5bf5b225a237f0eb65a1e2b1708d7e8e"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P009889.png",
+      "sha256": "6eb8f1dc2ba7649cbb5f826d8bb077523694e4bbf8ded4a452f386e202cf0831"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P009993.png",
+      "sha256": "e06211948ae6f289bdbe2f9c728f35ef0c9375024dd1d33b7acb88fd5e1b6d3f"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P010372.png",
+      "sha256": "2f41f96c9d9b1239347a5c6f8698ba68a18ecbf69f9ca91d8e3a8f3396226b6d"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P010373.png",
+      "sha256": "9fe5ebf3fef4517538059ba77698a668578c5fe867b9a6842d8a8d215f4c5b54"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P010408.png",
+      "sha256": "5d215e6f8a6533cbb2874c3c65e046165a7e11ac7d1212eb5060f45e0fb55899"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P010409.png",
+      "sha256": "b01e1868546b9e3cad3142b704c092b6b03b0a7f5747e085ef53cc19e4ffed08"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P010449.png",
+      "sha256": "21a2531944f26da92ca01134f6a189d48968cc57422f7def0cbf68a1bc40ee37"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P010450.png",
+      "sha256": "60c6d0ae62faeec2e17db79fbf130a43e465358fb656d7cd23ca2d43a4f4a8d9"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P010451.png",
+      "sha256": "9e780eee350a6793daa058b2b9ea681ed3d73fb641bfbd7e07fa1d0fbcfec956"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P010658.png",
+      "sha256": "267ce50ea6fc0e3a1537278bea02180569042e62414a219d9c1163d3ee42b175"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P010835.png",
+      "sha256": "df9fdf072539c346af38ff3b256d25ca011aa03dc2de7b42abdd6a8ddc14b708"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P010990.png",
+      "sha256": "575f352ecc8902a37346158d1da5640e96b038185b1bbbf1c967869cbb6cc858"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P011106.png",
+      "sha256": "4e8f386a807fea624695dee722e3cdb61044a3a5e02f21a4c78bb3f89c5ae0ff"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P011273.png",
+      "sha256": "e33ad52c7534c53525bd942cd5832251e47f26430ee6a001f6dc231246e49fea"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P011305.png",
+      "sha256": "6415512ab8ee1e88ddf37ff59bded5a220668aa0499941f0b9115e69d8231873"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P011306.png",
+      "sha256": "cae582fd3dbb0001e8635f139172745a3f1fc448cbd5f4aeecf4a8216c9c3796"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P011335.png",
+      "sha256": "499d9e9b8b603308d208d7b13f293603f45e2c7dc780ebbbd42b4803fde58f21"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P011361.png",
+      "sha256": "ab9cec7490493e11c17730cce5c74818e05913647e1a51c712b0d8a5a5a12e43"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P011364.png",
+      "sha256": "e57c62e7ec3bbd3dd55b7088a04bc00445f843862ae64e4c41e2cec827f73426"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P011413.png",
+      "sha256": "cf7d8d1cd92627cbe5ffe7ca8a44ae7c76085392c7c2b671a81c26d2e4d8696c"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P011462.png",
+      "sha256": "94bd4c237efabdd36b0ef61d364ccf73e95980911ab6a4b73a70a95b3fc8eb9f"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P011625.png",
+      "sha256": "ce69e1e895ab3a209fa35f56467d75549642416a9deef9df43b0b3298744c382"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_058_P011677.png",
+      "sha256": "14559fd555c72a3c21eb186c7bfc40f2ea82d5401a58fc715d5dfec2119d329b"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P007622.png",
+      "sha256": "5863dd985e7580b0e62dfd88a8f9e494b29496b29127367f69be30b823379244"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008406.png",
+      "sha256": "d97a38e514253ed452eca4054eb82639a7f958836ea09c137c9918d910d07f6c"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008471.png",
+      "sha256": "8500daf83126e54f8994e7930b2a8d49f19ded866784c6bad603c65dbf89718b"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008474.png",
+      "sha256": "80abf5e73a2e73fc42806cfa05206b1f8962364b623af04d962a3fe1f5923413"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008551.png",
+      "sha256": "17e57a3b83d7839ea4249310516afa5e1b958b49bfe5fe5245fe494d6f70aacb"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008568.png",
+      "sha256": "7b39a1ec763dec4aebc33b13bd7b044adc4f81d79f03b5a83994e4e5ec1f85ae"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008586.png",
+      "sha256": "d1c242d53e3278163447faf820994a522c7fc5f977bff22093aae20588b7d7a7"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008606.png",
+      "sha256": "38e824289ca64914c2873f04f9282741375dbed291c62ddad056597cd181fce9"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008633.png",
+      "sha256": "8133ec8ffafbc5b3e05b41b08235353695fc9cd0a6fc2838ef1e899eff7111c2"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008717.png",
+      "sha256": "8ff52613f18b429a30e5f3e3a9e4be31df493a5db42600e1845f39c910af7db1"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008771.png",
+      "sha256": "0b2044fa81d46f6ccec06c4e6bb82b88d3fbd7a9cefba08a361e8e0307d56faa"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008926.png",
+      "sha256": "0d8b848356a55da1028b2c29ab9b884cc99dc335e7fa45d77ca5fcc0bf106b5f"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008955.png",
+      "sha256": "d82bfcff1208631c327634e998721644af8144eabe0896b8bd1cbbf877f13d29"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008956.png",
+      "sha256": "0fbf1c676d53577d42c4f0ba8fd82479a6a94dc9172a1f8c440f799d89189303"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P008977.png",
+      "sha256": "ea1abbcae243ab88211187f6fa16fee36873480d0b4587238d5dce99a4b8c837"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P009013.png",
+      "sha256": "ce2b651cdaa0f87e505bb24e2803a5bf94141316f93d8bb6a0bf97edc4ec04e7"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P009038.png",
+      "sha256": "1b4b9226202acece45c9666b7cd799c1b2eb2cdf0df4b2c3ef0f6f0552bc8930"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P009051.png",
+      "sha256": "5d62076deae49b78bc8131bf5ad6a9413f7dce1b98c946ba8d5f67d25749c71d"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P009052.png",
+      "sha256": "3968611eb78361fbe02f8dd96ce097770596c1d4b202f019bebb649fe62031e5"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P009071.png",
+      "sha256": "8d6987d49e106a72197f5c8e1bcf1dc815e050cc333e6fd420a927285a35478b"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P009157.png",
+      "sha256": "b9fa28c2a9690f353756639eeaaca34fa75f7bf873c1c722bf65cd7540ebb2a5"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P009159.png",
+      "sha256": "a1ee2e772004713f5e880e31a947eb443c3a1c74f96e5e2a5901717ed29a5d98"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P009200.png",
+      "sha256": "024ba2581b85a7cfada2334c772af7b2d0cac83150f1ddb10aabab14b3b5b073"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_062_P009252.png",
+      "sha256": "f3a531472ef3c62c18dd04209634ca96752c48671de02435804b66d232e137aa"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P008259.png",
+      "sha256": "498730e099ea2e2384a52736e73b7a46c5b9fd3fcdbe282acd12cdb067366c82"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P008794.png",
+      "sha256": "871a4c380761fbbd8e1c8b8a7f921d16e4cc14d4f9794ebd31e47e8002ff198c"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P009264.png",
+      "sha256": "cfeaec9413d55e7a27e16bceddde221fd3ae3cd4f86e6b669c91d1c6cf572b9c"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P009374.png",
+      "sha256": "4f91613795eaa9da72043ec77437373a9cdb9fd2c91c37939d51f30a641fbda4"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P009408.png",
+      "sha256": "a1baba7d67094ef570ce3f40612a315777226497bfa33b2051454b8e4e55ec40"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P009458.png",
+      "sha256": "7cf3707d4ac83cb5ff0aa275b9f9c478ffdf0b0322357172ebd895f6204b66f8"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P009489.png",
+      "sha256": "25183d46780e598bc7fa7977810612521998786dc8d9006d70ac0ab516e09842"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P009572.png",
+      "sha256": "cfb801afb894c9e94f646ca87d8b79a48ca8fea6e24e71a276541c7396e96d6d"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P009621.png",
+      "sha256": "e24cbc53ca335846e55291ed403f7c1dd3741889e3da6ddb614c51b28579d3cd"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P009624.png",
+      "sha256": "f85fcf4ceb9dbac666d056c2044c8cf2a1b62f1d27d5e9b826194b9be67c8216"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P009910.png",
+      "sha256": "255afa83b5f63bb21a06b13d5063d3dbad40d33bdb64d78137656a9f92798cb4"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P010074.png",
+      "sha256": "809d29686ed01b3a13ace4b90ad4ddc329ecd837e898c64b11b814b17183f48c"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P010103.png",
+      "sha256": "1a3cca272b30083f8f867e0014c2cba449399205e2f2022a84c8e659f6377633"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P010330.png",
+      "sha256": "3779cd4f013397f78ef2d79f4d7a3e44d6ca69c67f3a073b39b5d27be65371f0"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P010381.png",
+      "sha256": "47fa5c39459014c032de26a5487882d19b46a802bffdb0f8052f621000091528"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P010403.png",
+      "sha256": "1d3f46acff9dee1546ee671ca3bdff4ac7c3a0811af07ec55bbe058d3f22e40a"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P010406.png",
+      "sha256": "3fd65dad6854dd26232297aee223738653f266d08fa1bed82a1879005429d2a6"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P010484.png",
+      "sha256": "3deffd57559b00599f7193d90020de61951e06fb034253a0de2192343f28a2e4"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P010485.png",
+      "sha256": "e2af7b847a5a897e3d2bcdb1829f1ef087fad807851eab477af3ff86e2422cbe"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P010513.png",
+      "sha256": "f88686a3ded72e7fa20d78577958fe6127d73d411286f6594f44df149e85ae73"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P010542.png",
+      "sha256": "ae6f28ae621539443df6714f45326af771649d65bfc6fce5c25f59473b00bca8"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P010543.png",
+      "sha256": "d983230cfa0499b9f15f9b99e09080abebf9fa8fe92c0269822622246344eb5b"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P010718.png",
+      "sha256": "bf773dce406c4e00839e9d7da5bb0eefc44b7830fca897a98f55a3f373dfadf4"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_090_P010785.png",
+      "sha256": "346f623c10b7c7d02b566d8a09ed9ade2d79e78a999e1d153149a808dcca7111"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P005147.png",
+      "sha256": "86e3094ad921cb06382e40800574fa34de4faaa4bd4d056e95caa5744cb5bc1b"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P005912.png",
+      "sha256": "0a2b1c8d56c9726aae8e17c76d45852b4495fe23ed8a908228dc0e16225f47dc"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P005978.png",
+      "sha256": "e0e279a64b0b3f11b35eb65f24cb59e2fbcf3d9d8775712ecf83f4cbba3c4f3f"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006032.png",
+      "sha256": "0cde38ef9b17e8f614abd3ccdb3cc423d2f027c5c89f4d61b8addac32e732d1f"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006035.png",
+      "sha256": "adf0d76ea24074d1b46475bfd241980d2207634d9e6393fcb752518f2aab6509"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006061.png",
+      "sha256": "7f8eb804aef45018711b39d427ac28d831c3a243c8d2f75c0c3b4190973b4a46"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006086.png",
+      "sha256": "06658cc6674b3b1a15c72b591f87e5697358c03c2dd1116d06d6a5ab015b58e3"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006090.png",
+      "sha256": "0215d07ee2cb86e365d4225efa96d0871966ef3062cd9aabaac8ee67b37b15ac"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006092.png",
+      "sha256": "5d1ed28baf237ff7a8dd3c254e85a34ab79b30728b88ffaf221fe434fa452744"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006093.png",
+      "sha256": "307f3113798beb981b0d05644a887a5cbe34ec67ea11636732cd6377bc8e483e"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006207.png",
+      "sha256": "34b001d6d332d614e508a4dbe5665d42501f1d12c6411ee538e85d8fd2b8cf2e"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006241.png",
+      "sha256": "a38a72e2e2af2b1238361f700341065e442313dc864a973b3a787a9c0ddcd654"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006522.png",
+      "sha256": "3c8fdc0dd19c5b35625582e1d679e6bbbdac2cb0163afc81e57b9efe5a3c66f3"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006525.png",
+      "sha256": "9202e5eaaaae7828d77f3db00b38dc57fab3084067aed889ca5476a81e32fcc9"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006542.png",
+      "sha256": "9302bb5ce4796409500a561d1c1101aecdc9c4eeac3cbce6aa20293fd7364321"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006581.png",
+      "sha256": "1573e3548ccac4f1f9bf12f570c502258bea70b1d6fa4151099629065ade0348"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006621.png",
+      "sha256": "10de2498c6e343914ef38efeee3822b8a3301c63d1591ca1db5e3a2775d55d79"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006634.png",
+      "sha256": "d97793475363889965fcf3b4f0c37773dd476096783a57ee979adcb8965e4092"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006655.png",
+      "sha256": "895b95693bc82444d7f79b03d89720925d2a9445210a81879c88a25af00557d9"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006694.png",
+      "sha256": "88aaf51c485503c2291416df1cf74a18fb9f589d6f99a75597530c2dc11021ed"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006704.png",
+      "sha256": "a146244fe9f1cc9f672c72a532c2a97cfdb103e83a53f7799b1a6d1c1031efbc"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006707.png",
+      "sha256": "99b2acef4145d3bbe3e82e7b4b5f4fe1523ab48a3f19d27608b3df9d912edf88"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006827.png",
+      "sha256": "0c5bde845a5f4fe14b134bf94d9b1fe36bda584d84deacf584f0ca92d45a18d9"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_096_P006892.png",
+      "sha256": "c0600845eb5717833d4666f824489e6f21681809db4a8d41fa6eb91f7538c005"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001234.png",
+      "sha256": "27b499a22fd0d85ff5ae475aa08da99bb5f237965165ba64e8fb12c6250af587"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001323.png",
+      "sha256": "5d7c1c725e9c76c0eb0e5ab16b22aa4ffa4ce324a48d7a82fd7ec6c92a6d797b"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001357.png",
+      "sha256": "2f2cb957274a793e3867bb1c6f93d9df127cc6ef8720e35b79a2c19bd908e9f6"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001364.png",
+      "sha256": "8817559d3c0147a9d6837ce803a65705fdda3abd785be791aadd8d0247c992b5"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001379.png",
+      "sha256": "c4b54ba9b328778c26cc86e6c9086fc92f68759402b7d4ff064119031af448fe"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001385.png",
+      "sha256": "d2d3dcae8316a6a0ee3a5d915540418c6773e961d7c6a9f167712f7647e18314"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001389.png",
+      "sha256": "3bc7a26130afe27ddbb12b0a6adc01b73b2a944bc16b1fe9c005c3c5ccf82836"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001404.png",
+      "sha256": "63d28bcb30d3a246577db02d9b204760c6475bfaaf083ab68d09cebf2cb22eda"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001407.png",
+      "sha256": "e5224cba80d91c07c2343a9e86de3173a3b3cb2feab40520ee75bef1d3421fee"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001410.png",
+      "sha256": "07db4aad805db75ac58ebee4f7a8ad1dc328ce369dadf1c22ec622af4aab0a5d"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001411.png",
+      "sha256": "c8135fb52e4b8c864bf72f5c7e51700db769546deed714ab8f9f25a4bd3159e8"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001468.png",
+      "sha256": "4a7ee6fb75f76a9d35eb9ef871e1ce6c0ff3a4d6619a89cf2a090bc073e31229"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001565.png",
+      "sha256": "3f21320188b219076e4b83348c8c5f6ec5f57b28b6dfe41573772335eeb833dc"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001655.png",
+      "sha256": "c2093c84a22e718ada56b03c352638cc8eec2684428b621941fdd8b642329a59"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001682.png",
+      "sha256": "1055dad550d4058fc367826abc70197d10639fdaee3574df85028adaa9abb24a"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001718.png",
+      "sha256": "3a6e5097c457a3ccabc746cf7d9ac288b8a32fdbb201c8d82de01687ab66ce5a"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001719.png",
+      "sha256": "98a0ed7d43d029ec6993860064bb89450b4609adce62011ed930749b9cd9d62c"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001758.png",
+      "sha256": "384408987484e93ae654692b14d43411bde0cc8da1c44c659813735155198fe8"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001775.png",
+      "sha256": "f49b8b620512928512039736bd1ad227b16e7edbfd0aff2f00ff3c6419c3515c"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001787.png",
+      "sha256": "5240d27df180629acc7289aad67d39a22b9683502cc6396b311edb8511b825f3"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001788.png",
+      "sha256": "ed2b1ba4908e475a0ef425ab9a3989a88344f7c4da070a9d9115b31a1c70f297"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001789.png",
+      "sha256": "979a80f7ed3768fd8e2519c47211b70706a02a2b4a036e9e5bb1fca8e683e4da"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001800.png",
+      "sha256": "8d836a4bdccbb1e655ee5325cc9114d4c95935df6435f3842e23f92f266716d9"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_108_P001892.png",
+      "sha256": "89bdd9f6abf34c365f1b8244f423e782fde4a74754b5c966152131ec54f8f332"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P006079.png",
+      "sha256": "e111a277b78578e207e4d1070812af9fec029d7bb7d7f8fcefebdf68810cf723"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P006621.png",
+      "sha256": "a79b4478b3c559c5909aca7407d6dbe5631b02f261f50c5c54084acb8a54b61a"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P006921.png",
+      "sha256": "32d2678a1a07c0a4e69047ca3f6cbb7abe0972df1c4361439ae5c65b90b8e3d3"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007162.png",
+      "sha256": "e275e952e9358ca6f30f108299c4e2a0c6202d2af6a18b12a34fea017e9e9c47"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007189.png",
+      "sha256": "20761a011935ecdf302a959e6141820f8ca4d0a8bc07821331096095e4cb0cf8"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007235.png",
+      "sha256": "c3ebb7c09dde72f078a5507322672fbb863fe61c01ddc312aeb6bf7ebb5356f4"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007261.png",
+      "sha256": "6719264ade4e9b2b560f906204564576d28258a91f2027f8bf2f3da64343284a"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007282.png",
+      "sha256": "428387839fa0948d715403842588b8c0a41453cef683986867cdb2f144cf75c8"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007283.png",
+      "sha256": "1e0fe3ff59e18c996cba9a5f11cd6509210bfcfba09780f165600a6411b2203a"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007338.png",
+      "sha256": "58791ebc682f8fef4edac126c07f181a80792330b78eb46d6159dc777ca0b775"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007340.png",
+      "sha256": "a8b835fbc7a43f0ae899c264d4f34fdd1f211fd82440106a85d55a79df2ac4f6"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007498.png",
+      "sha256": "b243adda695443f374a62109453c868a5f19aec927adf12816c21d903079bd21"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007546.png",
+      "sha256": "7f57c75dbdd103a5c19b7fd35c7e89d56fef7e6cdf44dab89c3e300d7f415227"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007622.png",
+      "sha256": "eebeb09039c9e229262331e2d55764ea17788789d447f6a89b938f4baead0f71"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007859.png",
+      "sha256": "c277fbcda6c099ddb0f9255f5c61d08a9653f3b7f6af45db60d59178016bd58d"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007894.png",
+      "sha256": "544b6bb628560558a1634c63e871c179e43e5f770ed37bb26fd1eb296f7b90f1"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P007945.png",
+      "sha256": "04c4b03b93b3f322859ba6578857813bb6c841ccbfa1ef2505ba0259602cb583"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P008075.png",
+      "sha256": "df72fef2b54540d25ef23b9d27b3363cdc24acc8b86c770b5c8dbd4dda6a4870"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P008144.png",
+      "sha256": "055ae0f44a0954b38eaec2d965036e3579c2de393c541dbf18fbe7ebac867145"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P008170.png",
+      "sha256": "03ace7cff579b28d601d089e314bcbb354887d2e01107dbf2d1fc59d2549a642"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P008200.png",
+      "sha256": "5b9288ee7a02cdaa52ad4564b6e415162cada7ab606102ba40c25f9350ec7053"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P008223.png",
+      "sha256": "5da04c6e0935fcba7d7b45aced9e78f9de187ade9da7871e2c32fadf004b2533"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P008394.png",
+      "sha256": "c4600748d57175a00ec41d05616b27b8f4a6c7bffebadbd67975e1e461a3e2f6"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/parent_masks/DM2_V_160_P008413.png",
+      "sha256": "26e10c7c5bf4560f02bb31d75149929b10a657128dbe46850bf9f88de9515131"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/source_decisions.json",
+      "sha256": "0a21cfc177bf8e5a69ca04b2665aa8aa2e1a1b70199fa02d3b89114507a5bdd4"
+    },
+    {
+      "path": "data/observations/direct_morphology_trial2/source_location_aids.json",
+      "sha256": "1d0952806f7bdd92e2b7ab604ebf7bcd430cad15fac6986bc4bead95ba4dc9c1"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P003958.png",
+      "sha256": "1e028bed06d19f390214710fef0ea8fb26341f20e63873963727c08af7a5053f"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P004262.png",
+      "sha256": "988760ba43a7cbb658021f825188cb7e7aac4368001a29a58dcc238e1abff420"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P005230.png",
+      "sha256": "41db8cf8fab36b59e6818e28bdde59a09141aa571c0201863bfaba360dde2e4f"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P005394.png",
+      "sha256": "86ccc90ca8b86782eb9f311c45f4c3664d28b1ddbd37bdafb404c5130237c533"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P005514.png",
+      "sha256": "acca5290587dceb459a044a21d536ab2e989a54ded2c3a6361150689f745a16f"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P005537.png",
+      "sha256": "a39bfed0b94d6d92462cc01eaad5225a528f4c4a2a58897847b8604ee0cf3d61"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P005584.png",
+      "sha256": "035c6c6e92d4983a02b47f57bb863fff6b3e8fd3109f6859cb5a2f904a549117"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P005608.png",
+      "sha256": "b2b9b18f239de16db05832642671c1a53dd80b2b06b96f85146d01f12d470e78"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P005628.png",
+      "sha256": "93414e82972417a018b6c77bbcd23fb7ec47de3297cb3901b488bcd6118b61eb"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P005678.png",
+      "sha256": "d18fc6173a7d69df9fc1bef48480b7930060bc3076cbdee212662366b87202af"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P005982.png",
+      "sha256": "e98cbd7c9ee2f0fbfe42229abc69e9b9c10c237f765fb5afa4ecbc33ab759119"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P006148.png",
+      "sha256": "9ee92cc1b1acd816b8dc9651a85d29f5b0c110c9cd93b1e1f6fe4aaf415c2b97"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P006149.png",
+      "sha256": "7434069afd08205eda9914271548e9d462595bef6c0fc2e15fd1f268063d3bfa"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P006251.png",
+      "sha256": "006af1c0815762244a760dc0667bb4f20e9d5d020a8012175c5df2e719a06441"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P006327.png",
+      "sha256": "fb368a2dddb65982c8828318f693b6070e0063361d75ae7d0ecd2e7ccfa5c4e8"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P006382.png",
+      "sha256": "86a13aeec6f901835ec200356e1f81d2d142730900f52a438268e5db3bed1f36"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P006490.png",
+      "sha256": "9f2d130ca6e9acf77488854ae6056738a34f5185db68677a6ac32a845e5e891e"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P006496.png",
+      "sha256": "481edb7586e2f7b7c998654279ffbaeca714516c46380f5432740d45a2a5854a"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P006522.png",
+      "sha256": "3a27e6a463eaa5a4af6ddc7222d2235b257fb7c595a38fda6a1a5fd001dc731c"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P006523.png",
+      "sha256": "17faa4c8ef6fa5c80c5c33ee9c01df5deed715949334ea6331c4f30028d0e293"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P006526.png",
+      "sha256": "2fd51f1e314973878069a701de5cc87eef521d1661f0fceeb669902ef836ef76"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P006527.png",
+      "sha256": "348c02ff317d4351ef830704f74d7ddcac3f5433e8b115964b3407e5db252626"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P006578.png",
+      "sha256": "c3a14eae2d72300eecdb75af4b63562ded01949cb338c465c8dbca8425dcc48e"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_016_P006628.png",
+      "sha256": "c532d40ddb095b32e5d9df5fc0352c902b30dad3cbaa2c6fec6b33e209d6cb83"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P005727.png",
+      "sha256": "2d43dba8b7bbbb20327c75c15647aedb95e873452a11fedf877f90f8fd24115d"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P007441.png",
+      "sha256": "0a124397a91c6614118fa395e8489282bec724d1bec48b8f97a4f697f93fd583"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P007764.png",
+      "sha256": "c352c88f3a5b68bc8d6e62ccf677aaafe49e5ac160cedcdc2957c25734423c46"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P007765.png",
+      "sha256": "9a18f499a0ad15a49bc3c27dbbe3b9fbea73b8799f3c5f2219cd090ac045e306"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P007822.png",
+      "sha256": "5e743693a7542d3bc87d2b49c64aab639de6ee91efb80832f0c070b817fd81db"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P007823.png",
+      "sha256": "65bd17ab132e0a437ef5a88139fd232d586e09d32ef5a89e2e53b700f2645866"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P007855.png",
+      "sha256": "9df058c0a874498df4325ce9bdd20d7c7e4cf22b5406baec2ff3a093ee812cd3"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P007873.png",
+      "sha256": "6742f047b89161b4efb1789641ad83775e291b54d649d866e6d24e8e16f7243e"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P007981.png",
+      "sha256": "8031b20eb1031deca0fbcab5a3e516210c7d3988a2ad1ed6a7a342db774a1abb"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P007982.png",
+      "sha256": "797d64b54f57654c1cb1b72c38f4d02a59a8bf0b7e899d839705f0fd4d233cda"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P007984.png",
+      "sha256": "e612fc10872b1675b12d0c224584d79723adbc0fdfe7f7952a66d802c3f43eaa"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P008014.png",
+      "sha256": "49471314c9fc0e9b4084110eee4bea2eb873e8d7cc145ade54ee447393b7f95b"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P008543.png",
+      "sha256": "077434bc66584d7ffe387ff5ad11292db470ff33c993eebde779320e81354b15"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P008679.png",
+      "sha256": "0514ffc107abce264c8381b89559ac0553f3c019d316f14d9644a90ed15f6cfa"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P008807.png",
+      "sha256": "2625347503fd58d4276dee083c379d7171616860d3cd00e12ff635c256304711"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P008872.png",
+      "sha256": "5a01170136624d814f06401e9e763f9e019d4a9a730577ee3a98f8666c6cfa43"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P008925.png",
+      "sha256": "7dd72d6128c35c5fc32d9b527230963faa86c1472d614e06b364c78bbd0b1924"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P008927.png",
+      "sha256": "e00124be6aa2ff7794628171cfb2343123678ff6fb03f537485bf6f6e1812d48"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P009068.png",
+      "sha256": "4c622ebc440b06341e62897ab0f7c032d65e2a738c85511e301312c20520b9fb"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P009144.png",
+      "sha256": "f3f1b94f466d5d468d1d04308599ac5fa512ddb4a38eface5e720174a9b63746"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P009193.png",
+      "sha256": "9616c47dc5213f7269907548c7e86ac0752920eb53fddbde85df1568ee61def9"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P009197.png",
+      "sha256": "976afdd131af0e562e5d643f2057290ffeba90e8e2942c8b7ec9ecb63a0842e8"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P009289.png",
+      "sha256": "ab577f8399c203c0243bcbc059ee1fe702e4e75041a311e7b9c46e7c3bb853ba"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_024_P009291.png",
+      "sha256": "7780120664eb81917be7799254b773f60e6f0ca36c1fd5cd5542f59566339eb5"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P008782.png",
+      "sha256": "82058fbf1a2ae6978d2de42fe7ce6f5083fd67da9c9eabd890fb6d6b56687c66"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P009889.png",
+      "sha256": "1de1c3797c9ed8bed1dcf019fa6474c545cebbbfddea2af19fa43c844aa6fb53"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P009993.png",
+      "sha256": "a8d435ac4a2853665c6e613b2cb01e996ea420f4f6330df7ef14ec2cb96bb2c3"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P010372.png",
+      "sha256": "1803cb3b7d92d90822830f939c51aea8ca5cf3d8a44caab2dd74be4192a8084d"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P010373.png",
+      "sha256": "35998ee7a5eaa84f36340f35f13559759d6a2cc7f1b692d137ad79107a54ee12"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P010408.png",
+      "sha256": "47f51114096df86373c422d7ff56921b7452e3db0b6992c67b152aad50a46321"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P010409.png",
+      "sha256": "265e339b3d9315dec91c428f381d12574e63fe8764cc0f0977c0ce80c2656e9e"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P010449.png",
+      "sha256": "fb1cf6206b3168e1565b4370642e50d46b84124e339a37191b90a3edbf150f85"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P010450.png",
+      "sha256": "4063ea71c8a12ffa5b28a09bb080b50b062dc84f31645fff0e6d85c775847943"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P010451.png",
+      "sha256": "1ac24d56ae8e3bb9e47a8f6c55ae79db952e3b99847fe86e9ecc29715829c823"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P010658.png",
+      "sha256": "059fbd124f7517efc3e61797ebe2044a2a5fd5ced2060f71a5c4a494584f0a9c"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P010835.png",
+      "sha256": "a34f283a4438df308da82ca5cbec25dfeade6d7c777241384df2b3feb347bceb"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P010990.png",
+      "sha256": "64adbe348932589764d11a4e9f85e4394e3801e4d400625e4f3d8d4455c8f37e"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P011106.png",
+      "sha256": "c5c2c69d17f2a0f5a6760823507df0e30cd6a27c15518d6e9202a383412a4fea"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P011273.png",
+      "sha256": "dd4609fa5e6767643b646b3296a569d21c2fb5d57ad6e57d80915f1fd2b7c117"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P011305.png",
+      "sha256": "3d966e439dc0e8f1d18f0051319fadb78fd0d7f5ce7a606e5e402bb0c16dcf30"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P011306.png",
+      "sha256": "43e20d36251e59663317b98854bcd19c1d08013aa4d344e1701eec279d7c9810"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P011335.png",
+      "sha256": "967bae15abf1c232c484d1ac9f55d8e12fba04124165787d25bad9c803e98186"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P011361.png",
+      "sha256": "cf134adb8bef62decc7cd600fbd6d20e473d6d09ff86820b3d23a15f5b4f3965"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P011364.png",
+      "sha256": "989640aafac6a0c88920ea47c026f463b2f733bd322563866d734a531197e7b5"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P011413.png",
+      "sha256": "ec8061265bbeef3f1c06639fba0a2e05fd06e248c378d520e3c1d9d2f89d8c60"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P011462.png",
+      "sha256": "8968a9fd26adcde89a3509824b9fce0049ea7d5cddc14456841ff93e8b6597ee"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P011625.png",
+      "sha256": "b19f0150d5e8c0be8c90339252a9758e9edcd5af9f2c28526194c73379af635a"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_058_P011677.png",
+      "sha256": "15a0f049fc192c978b852b5de133699d0ea2ef3133ac357e49f3f88e045c7897"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P007622.png",
+      "sha256": "ead84c159c989b1082b23dcb52c2e80deef63661606fa99d029687584642d335"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008406.png",
+      "sha256": "243a497c3f99aa56c87c10b04c08f3ce8305be283fff23a86ea0ef88737ec0e5"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008471.png",
+      "sha256": "ce892868d9dbffcf455f1618f78d51ec768a5c364b37d03ed333dea21a45a3d3"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008474.png",
+      "sha256": "26d1edf1a8e3757310a0847d45cc97236c053d9cefcc0f9d5a45d3b2cf4576a5"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008551.png",
+      "sha256": "8dc2bbff225ce3c4bf39f8592705f5ee3bd8d7cfdad7bf369839621413a96539"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008568.png",
+      "sha256": "16bdcae47d0e326c4c78dca6951980b1212442dfa9d7d501033e429a5b589e81"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008586.png",
+      "sha256": "41887a3b252125aef798f22f34fb4eb8ba91cb618df2f94ef752733d2bbacea8"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008606.png",
+      "sha256": "b5cb9b38f04231c7c4889e602367f2e98836d9e7927df61eab432232181282ca"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008633.png",
+      "sha256": "0457fe946db488ac1feb121817e88ed8692aea6213107395bb999c8f9e995928"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008717.png",
+      "sha256": "7d731f40a5d0fb3f8698070e692b042f1f85120e698a07ef62b1c55e8774113e"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008771.png",
+      "sha256": "400437209b0b8538fd1ccd621e7eff0b93c6aae2812f86287a6e31df3de9126b"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008926.png",
+      "sha256": "a547df665157efd4e9622e620679509083d7b48e70e8ebed76c44da94f698f08"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008955.png",
+      "sha256": "1f47ebec6ff1e5593a1a5a3c9e77ffa6c3c0f14412e11c0ca77cfc98643ca98f"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008956.png",
+      "sha256": "0b7df133a2c1cd882b493c0d1db399de46680ea7f718270eb240fc4b17fd9cc2"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P008977.png",
+      "sha256": "00c0ed3934e45f223cf694e0baa99578f1dc024b0e6747a83389e79ae2000e8f"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P009013.png",
+      "sha256": "1a95a492e9bfc8f1497ffdbd2348babee0b3e8268744796c437697c25ca48bce"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P009038.png",
+      "sha256": "4240d6ea0a54c6594983a087bb1116673fc3278384a6ca23fe8ab5ef4212bba2"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P009051.png",
+      "sha256": "e9617f187f655a84023fcb3595b9ec526b9695fe88ad9bf464f17f3a25b726e1"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P009052.png",
+      "sha256": "aa1b93737201a083a29e76ac38f1c711979b9080b577a25defa00691e13ea239"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P009071.png",
+      "sha256": "955efed5397162a7417df3ac169f02f0f997452d00d8ffa374c8fb11b134db04"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P009157.png",
+      "sha256": "c1700a0926d378cd5cd426b53bcc4d82855a24cce3d7ce70baa5fa4c86009f98"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P009159.png",
+      "sha256": "6718534e06c2b4f228e6439dad223f5e1536b273bbd9a364d6e47570a98eeae6"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P009200.png",
+      "sha256": "a22e49736d2606c95dc7ba02b4f0dbc354872ae1371b1257dfe58095ca8b9695"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_062_P009252.png",
+      "sha256": "f5e56c9ae3c919036958ffa94f36795f4f38fdd57f1a48b327b9a17aef081812"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P008259.png",
+      "sha256": "6a5e2c0bbcc043c9fe26f8f9e48d6a91ca52de69da1b2c9121aa3a61c9d8cb97"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P008794.png",
+      "sha256": "6d31286bdbce630aa17145cfb86b4fc3ddcd4dfa2aa164023337ff03a8cfa63a"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P009264.png",
+      "sha256": "495eccb8c2299cb9bc1454254ca64825f3bddccb08ae5461213b2ec49380bfd9"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P009374.png",
+      "sha256": "ffb3adf869fdc3c4bccb26869e474df4690fbfa4d2dd91de4cdf01dca0f559c0"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P009408.png",
+      "sha256": "e86076d5ac54b25fb3b6abdfc9dcc0128c42b4ac2d9aa50a70461ae9f0019c16"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P009458.png",
+      "sha256": "0ea0c2a64de8cb1fb5bc9340fd86fe66fd0bd04a7f656914e38bc735877a20f9"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P009489.png",
+      "sha256": "9d295284c6657c56d9f2d82c1f27ab221877a26ce3101022e6ff9bbca696932a"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P009572.png",
+      "sha256": "db3fc55f7dbe5d42c1703ac8849237c1909c94f66a6d1bbb49dcc1bd8b678f64"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P009621.png",
+      "sha256": "26b4583e238122bbac1222d884f67fc7493a03863dfc6a91df92e89310b401bd"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P009624.png",
+      "sha256": "3d941b1f8dfc4b09c2766359fa9e90f9b1cf4f2449c6a15d2b890d2062496d27"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P009910.png",
+      "sha256": "62ec9f003e2161aeae401147bd3ebfefc22010debea4886908c5275ee35c706a"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P010074.png",
+      "sha256": "d7eabac75c01c31a031ffcecc7bcab3a9b98a81872c7243c97a3e9b1bf0172a9"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P010103.png",
+      "sha256": "0ec6afca654a91126d9b35b1290d55e454e417643f5ea82171580941c7b7955a"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P010330.png",
+      "sha256": "e2621643011a8e08824346cd0470a777833f0291888b9721a3f3501c9226232b"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P010381.png",
+      "sha256": "9c6fb3642942d46e57fa286966c1c01f340cf183afd3bd31fb8a260be3e61542"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P010403.png",
+      "sha256": "e80485867541c4633a4dc11cc2d439c45988aaf28f6eccea95c9710a7eb2e411"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P010406.png",
+      "sha256": "e3905deb47776c0bd99cc0360c5966a234db9dd998c163c9c78388952b9da205"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P010484.png",
+      "sha256": "2dfd9da7bb810f941316035c430734aba1a3834df7f795e7e7f2492cc3c118ae"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P010485.png",
+      "sha256": "ff01e5b5f3f589d3877444367a621c043b0f08c55c2b35c94da8dd9e16fa774e"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P010513.png",
+      "sha256": "8d186c69c4bbc20e18e66ae6a7118dbd15dde8eb5b568d8f1454907346c2d48b"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P010542.png",
+      "sha256": "40b3e0221aeb3e900452e87a8ca60aa93d532184af49c41ee0fa9e192e2dc49f"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P010543.png",
+      "sha256": "0b6649ba1319e407cfeb2481c76b3e733db672b7f815a7eaaf7d7d282695b613"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P010718.png",
+      "sha256": "3a7d2516a912b133af1cfe7cec06aca73b9dc48a374e809c3fd0dfd7c12fe2c5"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_090_P010785.png",
+      "sha256": "894f3d919ac917627f9887fb065c50b6bcbec4782f135c3e01387428a2904a0f"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P005147.png",
+      "sha256": "67311093a2aea170791b4f66e3f18e2c67d6f929513d4d2e6c2b068975aa0642"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P005912.png",
+      "sha256": "dd02175ac3ad51cfcebab2582972ad64db27ae89357cd3c37d8de4652c45b991"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P005978.png",
+      "sha256": "e5787e70a257c0188c83b03df41dee7b73447fa1f400ae85944c037837c8775c"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006032.png",
+      "sha256": "3e09e7a4c120608c3afebf6bb1478b2d8a689695e441881be03bb32de66b3989"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006035.png",
+      "sha256": "d5e345cdd05478c42a0229f98327c29c7059231ca0b0e88d8c2b8c15115ffc33"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006061.png",
+      "sha256": "72d5259cbd0079c07a813b350d322a7f127378bf0f88d8620cb4dce6511c1b38"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006086.png",
+      "sha256": "a277218aefc9fe851afc8a0ddfa14d12fcb0d8706483467bd69cf1ee1c3e4241"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006090.png",
+      "sha256": "e447a10ce719a19ce17edd3a58c13b962675b01b3f398cfeb682a6efcdfcac33"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006092.png",
+      "sha256": "0e195d64b58a2a4b26246f9183b05c91d848275f24a9f62a07718bcc2c9b84ed"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006093.png",
+      "sha256": "bfe5b17fc31ae6ec94770cd7caf7be6ab50e4f05d93d166318457acfbb79c14e"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006207.png",
+      "sha256": "2249cc38457f61e3b63f8e17a7372fcd6bdf37e247615c42f625735ebdf31a08"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006241.png",
+      "sha256": "a2792a2f2039e28e0eb61957103e6ba0e2c63c30545eb72f45f4f2087cc8908b"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006522.png",
+      "sha256": "b2fe1ffc05395ae8eed1903be09b19529b6cfa059d265df638077faa03ec66c7"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006525.png",
+      "sha256": "40fa3b69506122f287faf9828380d4e28d1533341d57fd3d9ecdd7837c246f01"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006542.png",
+      "sha256": "106a528fd307f9423720c15e5231c7a24c61647a7886fdd4de2e2a757ab477ed"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006581.png",
+      "sha256": "4a89efc9a38524990e6c4df8b73efc2d4a007d9f00182e860ec3aaa41f673637"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006621.png",
+      "sha256": "584636c7b65a9a40892f74903bdbfa64d85edb50df62c2b7ff5efd602b9ecbad"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006634.png",
+      "sha256": "c2c637acf7019f4a51297874bbb04b4fecd87a636c101988be1ae927fe5d3a6c"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006655.png",
+      "sha256": "7c42543e74ae0248a667a4523aed3a2cb9d3d00a8b8ef0fa7646235bb114287c"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006694.png",
+      "sha256": "29a8af15db9176195c2d4840a6d4e041e406b32b025f92df2ad8887e00066b62"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006704.png",
+      "sha256": "8cce8aa160a6b1081a7b5269941bb6cee4cb430e00d86cd247afbdde049e3fbc"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006707.png",
+      "sha256": "d257035f5e19864fff3383e700f51a30d43acb00a6ed0157446b727b09d06f4f"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006827.png",
+      "sha256": "ac795237bd83c4f99e244204a00c7436d9af97fd4d25444fd9bf0bd91d535a79"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_096_P006892.png",
+      "sha256": "e722dd388dfcfe9f2b24bc4e06715bda7ca8fb251cb6fad170e37fc03a13309b"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001234.png",
+      "sha256": "6b428b05d26685a75f15661d78772206de2934951527ce38070ae35b78e6d180"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001323.png",
+      "sha256": "c0ce45910503370efaf29a0468a15c76173ffef69062ea0e16355dbea7ae384c"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001357.png",
+      "sha256": "1f9a053496faf113b03cb60e35fc5da106c31fa4a92d619b40a8c4e294195573"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001364.png",
+      "sha256": "8b1de762949a7c7d3e0cf60715248b6198cfdfed351a8ea024b758c5e69b535e"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001379.png",
+      "sha256": "932214cf4b8366d6cd73227d8c07fc2ae9a3f012d6cfb4fef951c357e3b1572f"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001385.png",
+      "sha256": "9deed7377ae67123266dfd0c428e44dfb19753b33abe64e4f658fafb370cf8d8"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001389.png",
+      "sha256": "857ead5f4632d31cb5bf5dbe7e239184b43f16a42eeec6b5cdbb6bb8cbdf6cf0"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001404.png",
+      "sha256": "788cd88342e3c6a29a1d9d1dec5d39c2ed1ad4bfd857968d38207a369995dd19"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001407.png",
+      "sha256": "572a4d299441a2573910654534e6d98f67d12eb5665ac46b524911cf8eda5ef6"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001410.png",
+      "sha256": "e5b610cb2784ca059bf5b0654c417c1a3c8c4c322a2b02ea1d6eb373fe820298"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001411.png",
+      "sha256": "7ad254310bb57bd47761d00c20cb9d06863fa14e081786aeed6f55d4892a4616"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001468.png",
+      "sha256": "af71af11131e28326609932b5c91cc0beaa77d7794a6ec0ef5a9261b9a7f3085"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001565.png",
+      "sha256": "b90f2760e18b57be0be72672d72d3a284a8a725fbde8b28e268ab144ce41793c"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001655.png",
+      "sha256": "7cb81d60069c608e6736256a7aa1d709372aff6aa1455b1bec6f2b58903022f9"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001682.png",
+      "sha256": "d44ecea44962bf40cdbc9ea7fa46cad1603f791e18f2d32455de72a1d041626c"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001718.png",
+      "sha256": "657cb84c3266cbf57f11f16bdf4fca8ae4a65e4d29ba50620e4a2e06e6b64bbd"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001719.png",
+      "sha256": "ebc57222bb7d136cec1eea0d883b09a5fd7d10c43ac4fe1ef44e5404846d1561"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001758.png",
+      "sha256": "c252ab3a64e88f270de3bf8ae3bd79ebcb4a50c5aed9e0feda22859b95764e67"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001775.png",
+      "sha256": "1e306a136fad018d95fc2ab7f3c6a9781c2f896163614813cfd96587a7a21452"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001787.png",
+      "sha256": "0b85eb0bf16ecefdd3b08dcecb4269798a1743ce9a46178be8e69c43540d13e4"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001788.png",
+      "sha256": "181beacaad189721ef1459de4d80981e2855185bea77614aad0a5a96ec46c585"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001789.png",
+      "sha256": "138df572c44cc074a11a974e088588b72e23c87dba19a4cbc466ea0e4350781a"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001800.png",
+      "sha256": "ea645fbd4cb62719002c9eb73f5eec9d57f01fa89e69f5ef45a11fbb952730f0"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_108_P001892.png",
+      "sha256": "182b6a90dc85f09308b7232a008c7d861908a1abdea6402522b9e6574e4e8433"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P006079.png",
+      "sha256": "0016ee70368e7a40ab2f92e5cae39a885091b7e01ceec919ef195845a4b8d3f7"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P006621.png",
+      "sha256": "c8a2b02dca8b9c04a8e333d2fa3a421a5c03402c4f68988793d352d5cc95a3f7"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P006921.png",
+      "sha256": "d858144497069ed0be7b2cb1e09e527bfc49e51bec103b5361fd9762c1477713"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007162.png",
+      "sha256": "345d1410a2fc7965a0d4078ec0667dab855404e95c3ac8bfee6c8853502c3365"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007189.png",
+      "sha256": "c8f97d1c16bd3e6ad1ce8f7986f71ab4ec0c0f4d1f64b17e73b56b215d16d21d"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007235.png",
+      "sha256": "e35cdf87a2fc7ad0b91323c7b5faf8ea903e74684e3700d486aebb97b448f236"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007261.png",
+      "sha256": "41a04102a896332d9ea4ac92c18ebfb144def1ff254cd90f7281a0855834ff7e"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007282.png",
+      "sha256": "965eefbc95342dd33ab0f57dc628b225cbf3c517759eb912cc2610dfac8ee8ba"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007283.png",
+      "sha256": "20217f7cd38c261e368708f0d61387b032d9d9a9bc2acdb0a03a9a20dee45f19"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007338.png",
+      "sha256": "5c981cce19a2abac5e6b61ddd526277e2f6e1806f2f1eb6d2c26415a277fe11c"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007340.png",
+      "sha256": "59296eec1aae0cc17da6f31b2072491a6777ebb63fd413f2c0a963ab045c40a0"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007498.png",
+      "sha256": "61b76942bbc55f0cc643ad2f01aa44cfeb794bb5c37d9f540fd7870c8a38c7d3"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007546.png",
+      "sha256": "fbae07b0add35e6ea88601f77e9164d67ce5086f0933ff1e55ab4da61179644e"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007622.png",
+      "sha256": "f865d9b6aef84616b6675b4125c07533e8dbf5883e031293c08aca9243d00ea3"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007859.png",
+      "sha256": "eca5cc6abbd43687c883f1af7de8301150a7fe063830fe6808df1b948cb0167b"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007894.png",
+      "sha256": "8e627a8599e9cd60bb3c54d089d49b7038089f16d675291c4f4d79e23e4c4902"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P007945.png",
+      "sha256": "731be1a608d7d6cee3f7b1e0a2372924530d1d2d274cdc91318186ce5e9048d7"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P008075.png",
+      "sha256": "27346ca021793fd04bcb6bd540b57f0f1240bd1d4d4fcc8a240b8b12b7b17f4b"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P008144.png",
+      "sha256": "03ba07affad6cd415a5a46b2c5fbec89dff4c6b2d7116445ff1e54467389ad56"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P008170.png",
+      "sha256": "a76c6ab1a04c14710051bb464b4b853be1fff7333d648878cd7529d94d36e57b"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P008200.png",
+      "sha256": "85e45dae5813262052c15f5369cf52a42cf35354c40b1ce7027e57d2fda01281"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P008223.png",
+      "sha256": "c3e579a6dfc94bc8985a37c932e5c33fba48cbde197e0e3a4a7941b36ca283d0"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P008394.png",
+      "sha256": "3f724fa252c2ae16f266eb40a573e2874ced78d1fd687c88ad2721f3bbbc1d6c"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/native_parents/DM2_V_160_P008413.png",
+      "sha256": "9c4865c83b1645769aea25d04be70117d640fea078a6a0a0f888736d1c7b484e"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/S047_extended_context.png",
+      "sha256": "2a9693b0f608714a7f1ceb1c51ad33f4f614f35ae48c9f38b93a0307b6c15086"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/S051_S052_S055_S056_extended_context.png",
+      "sha256": "d0b566565d170f5fc06ac42c692cbd1a93034b3e6b9af6de3f8e60804228bf4c"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/S122_S133_extended_context.png",
+      "sha256": "3237b4218b49c39b6f2d24214acf66eafabf3e8f0daa9704a8563eef914e04e5"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/S148_S149_extended_context.png",
+      "sha256": "5814e9a1d4b7450145977807d862ae957d1c569c962cf302b5050eaed5e03cd4"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/S181_extended_context.png",
+      "sha256": "9e8f8821277e5a79ad5b47ab496043b59807c0a138e3f7531f378d87d70c7bfc"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/source_cap11.png",
+      "sha256": "198717104d991495421a0e4a7b45d2f2457997a877a3885847bff21708533d75"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/source_cap29.png",
+      "sha256": "61eeaaf315d62fad1a69a4793ddd71229468505400596100ff6eb81b13b60ca1"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/source_cap31.png",
+      "sha256": "a8fc214578128519e3792f392070f36b391df1cf618002e69ccb07f242c240d5"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/source_cap45.png",
+      "sha256": "9b55e00047655ed6d7d3b29f376c16299c6f59f6cb62aaf4f627123c8fa63276"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/source_cap48.png",
+      "sha256": "0ca7cbf934c86845db813a13460a46b545308d57f8ceff0d924285e1edf44ae1"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/source_cap54.png",
+      "sha256": "93d2cd555d6daded14df92d96ef35343a29f1b114a76e019b92db455f1b2a22f"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/source_cap7.png",
+      "sha256": "44446af155275aec6e277a2affd00eec38f082a9acf5f97fffc4cba50827b4d6"
+    },
+    {
+      "path": "figures/direct_morphology_trial2/source_cap87.png",
+      "sha256": "69167c0fa0c1a68ea5a3f25cdbcd8d560e5ef933c0703908d3b1d6b9f19c3189"
+    },
+    {
+      "path": "src/adjudicate_direct_morphology2_sources.py",
+      "sha256": "bbb0060a29d74da23ec81c8956081418e9e15186fb19f16ca41f924d57928ceb"
+    },
+    {
+      "path": "src/prepare_direct_morphology2_sources.py",
+      "sha256": "0d94a8d5f3334d543f85ff48d9d05afef8d19c96285ac91a261f86ebb85c5ec8"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "sealed_at_utc": "2026-10-07T02:58:17.247872+00:00",
+  "stage": "Source membership, physical row judgments, contacts and repeat handling frozen BEFORE V3 class mapping",
+  "files": [
+    {
+      "path": "data\\observations\\visual_dataset_v5\\source_reference.json",
+      "sha256": "c2020f8411dd09c9b995877d386e9ac3eee274621d255df631317e99af2193bd"
+    },
+    {
+      "path": "data\\observations\\row_benchmark_v5_development\\MEMBERSHIP_RULE_SEAL.json",
+      "sha256": "6039d28ee8252dfcadf7368e6c81f4075b741c94622bc9e3fb01da285870bcd9"
+    },
+    {
+      "path": "data\\observations\\row_benchmark_v5_development\\PLAN.json",
+      "sha256": "4ac560501d7934a77e29935bd3545fb68d80333ac188e7c4e7d40e9fc546fbf6"
+    },
+    {
+      "path": "data\\observations\\row_benchmark_v5_development\\development_source_reference.json",
+      "sha256": "462ffe69f07bfcb8ee3c8b5e9ea78ee78192ae028573c3ff0a09421257cbdb54"
+    },
+    {
+      "path": "data\\observations\\row_benchmark_v5_development\\heldout_source_reference.json",
+      "sha256": "ba5fffbd83f0a428693e734d2baa54899a1f54a76ff4b51eba7d5bc9397340f9"
+    },
+    {
+      "path": "data\\observations\\row_benchmark_v5_development\\repeat_blind_decisions.json",
+      "sha256": "5f931c1619ecd9b1a823f3ebf131d57e97fb85448b9c39713d60e7b173671b3a"
+    },
+    {
+      "path": "data\\observations\\row_benchmark_v5_development\\REPEAT_REGISTRATION.json",
+      "sha256": "eb17949a3d4720d8cf5e45387167b704f3be6f1a936a2fec747ec8f39f941bc1"
+    },
+    {
+      "path": "tests\\row_benchmark_v5\\repeatability.json",
+      "sha256": "b16b09ac244f74d7d68f3a5c51696eda454803e16a5ee2bdde83d897ac56919e"
+    }
+  ],
+  "structural_suggestion_exposure": false,
+  "membership_rule_function_hashes": {
+    "features": "5792be0bdd902147f6af1e687417a8d9aa2d68b218e0b4ba15984c62a7e9213d",
+    "strong": "3503397b592eb85bdb311794b63a632c43d1f5a1bb62cfd9cf5ae6d8cef6b2f8",
+    "track": "bb3738253b6c38fca91e90926794e4ecb6cf84cd9dd57ba6fb2b504f85d06e29",
+    "predict": "399e06e22807daff6413657900d2f86feb267b060d0b7f21af51933659fb0411"
+  },
+  "ambiguous_membership_retained": true
+}

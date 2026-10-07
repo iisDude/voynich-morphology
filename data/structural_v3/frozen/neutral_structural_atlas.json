@@ -1,0 +1,2532 @@
+[
+  {
+    "class_id": "ST01",
+    "source_structure": "compact_loop_upper_right_trace",
+    "significant_holes": 1,
+    "training_instances": 390,
+    "training_captions": 22,
+    "radius": 0.39521882239560424,
+    "other_caption_calibration_instances": 390,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_035_P011580",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          1541,
+          1026,
+          1578,
+          1051
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P011580.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P007286",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          792,
+          461,
+          824,
+          487
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P007286.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P007104",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          1048,
+          976,
+          1074,
+          1001
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P007104.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P006506",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          922,
+          522,
+          950,
+          545
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P006506.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_028_P014096",
+        "native_source": "data/source/yale_native/1006100.jpg",
+        "native_bbox": [
+          612,
+          516,
+          648,
+          545
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_028_P014096.png",
+        "split": "train",
+        "folio_component": "14"
+      },
+      {
+        "parent_id": "V_010_P023424",
+        "native_source": "data/source/yale_native/1006082.jpg",
+        "native_bbox": [
+          589,
+          1087,
+          620,
+          1110
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_010_P023424.png",
+        "split": "validation",
+        "folio_component": "4"
+      },
+      {
+        "parent_id": "V_022_P021788",
+        "native_source": "data/source/yale_native/1006094.jpg",
+        "native_bbox": [
+          528,
+          1411,
+          562,
+          1434
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_022_P021788.png",
+        "split": "validation",
+        "folio_component": "10"
+      },
+      {
+        "parent_id": "V_045_P006941",
+        "native_source": "data/source/yale_native/1006117.jpg",
+        "native_bbox": [
+          990,
+          596,
+          1019,
+          620
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_045_P006941.png",
+        "split": "test",
+        "folio_component": "22"
+      },
+      {
+        "parent_id": "V_030_P008694",
+        "native_source": "data/source/yale_native/1006102.jpg",
+        "native_bbox": [
+          439,
+          713,
+          470,
+          738
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_030_P008694.png",
+        "split": "test",
+        "folio_component": "15"
+      },
+      {
+        "parent_id": "V_102_P012035",
+        "native_source": "data/source/yale_native/1006174.jpg",
+        "native_bbox": [
+          541,
+          624,
+          572,
+          648
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_102_P012035.png",
+        "split": "test",
+        "folio_component": "51"
+      },
+      {
+        "parent_id": "V_089_P012499",
+        "native_source": "data/source/yale_native/1006161.jpg",
+        "native_bbox": [
+          1234,
+          684,
+          1263,
+          704
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_089_P012499.png",
+        "split": "test",
+        "folio_component": "44"
+      },
+      {
+        "parent_id": "V_154_P006479",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          1024,
+          952,
+          1053,
+          970
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P006479.png",
+        "split": "test",
+        "folio_component": "84"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST01.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST02",
+    "source_structure": "compact_ring",
+    "significant_holes": 1,
+    "training_instances": 1249,
+    "training_captions": 22,
+    "radius": 0.38344158652113763,
+    "other_caption_calibration_instances": 1249,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_035_P007956",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          1583,
+          719,
+          1608,
+          742
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P007956.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P007416",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          628,
+          471,
+          655,
+          493
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P007416.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P003558",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          608,
+          477,
+          633,
+          500
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P003558.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P006453",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          1049,
+          514,
+          1074,
+          539
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P006453.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_028_P014008",
+        "native_source": "data/source/yale_native/1006100.jpg",
+        "native_bbox": [
+          881,
+          513,
+          914,
+          544
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_028_P014008.png",
+        "split": "train",
+        "folio_component": "14"
+      },
+      {
+        "parent_id": "V_010_P011505",
+        "native_source": "data/source/yale_native/1006082.jpg",
+        "native_bbox": [
+          703,
+          584,
+          726,
+          606
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_010_P011505.png",
+        "split": "validation",
+        "folio_component": "4"
+      },
+      {
+        "parent_id": "V_022_P008879",
+        "native_source": "data/source/yale_native/1006094.jpg",
+        "native_bbox": [
+          813,
+          516,
+          837,
+          543
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_022_P008879.png",
+        "split": "validation",
+        "folio_component": "10"
+      },
+      {
+        "parent_id": "V_045_P005904",
+        "native_source": "data/source/yale_native/1006117.jpg",
+        "native_bbox": [
+          961,
+          519,
+          987,
+          545
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_045_P005904.png",
+        "split": "test",
+        "folio_component": "22"
+      },
+      {
+        "parent_id": "V_030_P008094",
+        "native_source": "data/source/yale_native/1006102.jpg",
+        "native_bbox": [
+          761,
+          657,
+          789,
+          681
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_030_P008094.png",
+        "split": "test",
+        "folio_component": "15"
+      },
+      {
+        "parent_id": "V_102_P011192",
+        "native_source": "data/source/yale_native/1006174.jpg",
+        "native_bbox": [
+          484,
+          552,
+          507,
+          573
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_102_P011192.png",
+        "split": "test",
+        "folio_component": "51"
+      },
+      {
+        "parent_id": "V_089_P009940",
+        "native_source": "data/source/yale_native/1006161.jpg",
+        "native_bbox": [
+          1711,
+          483,
+          1737,
+          507
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_089_P009940.png",
+        "split": "test",
+        "folio_component": "44"
+      },
+      {
+        "parent_id": "V_154_P006281",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          1136,
+          910,
+          1159,
+          930
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P006281.png",
+        "split": "test",
+        "folio_component": "84"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST02.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST03",
+    "source_structure": "horizontal_arch_bridge",
+    "significant_holes": 0,
+    "training_instances": 795,
+    "training_captions": 22,
+    "radius": 0.3834500341687195,
+    "other_caption_calibration_instances": 795,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_035_P008019",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          1250,
+          724,
+          1282,
+          743
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P008019.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P008276",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          877,
+          543,
+          938,
+          571
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P008276.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P003587",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          965,
+          482,
+          1033,
+          507
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P003587.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P006532",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          763,
+          524,
+          815,
+          549
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P006532.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_028_P015429",
+        "native_source": "data/source/yale_native/1006100.jpg",
+        "native_bbox": [
+          742,
+          573,
+          835,
+          618
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_028_P015429.png",
+        "split": "train",
+        "folio_component": "14"
+      },
+      {
+        "parent_id": "V_010_P009699",
+        "native_source": "data/source/yale_native/1006082.jpg",
+        "native_bbox": [
+          715,
+          493,
+          781,
+          522
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_010_P009699.png",
+        "split": "validation",
+        "folio_component": "4"
+      },
+      {
+        "parent_id": "V_022_P009965",
+        "native_source": "data/source/yale_native/1006094.jpg",
+        "native_bbox": [
+          809,
+          599,
+          858,
+          621
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_022_P009965.png",
+        "split": "validation",
+        "folio_component": "10"
+      },
+      {
+        "parent_id": "V_045_P008015",
+        "native_source": "data/source/yale_native/1006117.jpg",
+        "native_bbox": [
+          954,
+          680,
+          998,
+          704
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_045_P008015.png",
+        "split": "test",
+        "folio_component": "22"
+      },
+      {
+        "parent_id": "V_030_P007238",
+        "native_source": "data/source/yale_native/1006102.jpg",
+        "native_bbox": [
+          530,
+          579,
+          595,
+          605
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_030_P007238.png",
+        "split": "test",
+        "folio_component": "15"
+      },
+      {
+        "parent_id": "V_102_P011135",
+        "native_source": "data/source/yale_native/1006174.jpg",
+        "native_bbox": [
+          561,
+          548,
+          600,
+          572
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_102_P011135.png",
+        "split": "test",
+        "folio_component": "51"
+      },
+      {
+        "parent_id": "V_089_P009836",
+        "native_source": "data/source/yale_native/1006161.jpg",
+        "native_bbox": [
+          1171,
+          474,
+          1220,
+          493
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_089_P009836.png",
+        "split": "test",
+        "folio_component": "44"
+      },
+      {
+        "parent_id": "V_154_P006294",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          1185,
+          913,
+          1218,
+          928
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P006294.png",
+        "split": "test",
+        "folio_component": "84"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST03.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST04",
+    "source_structure": "horizontal_arch_bridge",
+    "significant_holes": 1,
+    "training_instances": 323,
+    "training_captions": 22,
+    "radius": 0.4404282879830978,
+    "other_caption_calibration_instances": 323,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_035_P008220",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          896,
+          746,
+          967,
+          776
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P008220.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P009348",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          650,
+          626,
+          700,
+          653
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P009348.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P005230",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          356,
+          761,
+          433,
+          787
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P005230.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P011816",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          441,
+          995,
+          514,
+          1020
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P011816.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_028_P014253",
+        "native_source": "data/source/yale_native/1006100.jpg",
+        "native_bbox": [
+          469,
+          524,
+          566,
+          553
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_028_P014253.png",
+        "split": "train",
+        "folio_component": "14"
+      },
+      {
+        "parent_id": "V_010_P011253",
+        "native_source": "data/source/yale_native/1006082.jpg",
+        "native_bbox": [
+          828,
+          571,
+          876,
+          597
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_010_P011253.png",
+        "split": "validation",
+        "folio_component": "4"
+      },
+      {
+        "parent_id": "V_022_P008905",
+        "native_source": "data/source/yale_native/1006094.jpg",
+        "native_bbox": [
+          659,
+          518,
+          744,
+          546
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_022_P008905.png",
+        "split": "validation",
+        "folio_component": "10"
+      },
+      {
+        "parent_id": "V_045_P016705",
+        "native_source": "data/source/yale_native/1006117.jpg",
+        "native_bbox": [
+          842,
+          1347,
+          894,
+          1375
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_045_P016705.png",
+        "split": "test",
+        "folio_component": "22"
+      },
+      {
+        "parent_id": "V_102_P027856",
+        "native_source": "data/source/yale_native/1006174.jpg",
+        "native_bbox": [
+          582,
+          1609,
+          664,
+          1635
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_102_P027856.png",
+        "split": "test",
+        "folio_component": "51"
+      },
+      {
+        "parent_id": "V_089_P021338",
+        "native_source": "data/source/yale_native/1006161.jpg",
+        "native_bbox": [
+          1143,
+          1256,
+          1195,
+          1279
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_089_P021338.png",
+        "split": "test",
+        "folio_component": "44"
+      },
+      {
+        "parent_id": "V_154_P006604",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          1006,
+          986,
+          1084,
+          1019
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P006604.png",
+        "split": "test",
+        "folio_component": "84"
+      },
+      {
+        "parent_id": "V_120_P007678",
+        "native_source": "data/source/yale_native/1006192.jpg",
+        "native_bbox": [
+          1780,
+          561,
+          1857,
+          594
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_120_P007678.png",
+        "split": "test",
+        "folio_component": "66"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST04.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST05",
+    "source_structure": "open_compact_hook",
+    "significant_holes": 0,
+    "training_instances": 518,
+    "training_captions": 22,
+    "radius": 0.48193360421264525,
+    "other_caption_calibration_instances": 518,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_035_P008072",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          1226,
+          730,
+          1247,
+          750
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P008072.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P013741",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          1200,
+          926,
+          1220,
+          943
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P013741.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P004137",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          535,
+          609,
+          557,
+          631
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P004137.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P011649",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          687,
+          985,
+          705,
+          1009
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P011649.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_028_P023639",
+        "native_source": "data/source/yale_native/1006100.jpg",
+        "native_bbox": [
+          965,
+          978,
+          986,
+          1003
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_028_P023639.png",
+        "split": "train",
+        "folio_component": "14"
+      },
+      {
+        "parent_id": "V_010_P027883",
+        "native_source": "data/source/yale_native/1006082.jpg",
+        "native_bbox": [
+          844,
+          1347,
+          861,
+          1367
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_010_P027883.png",
+        "split": "validation",
+        "folio_component": "4"
+      },
+      {
+        "parent_id": "V_022_P018640",
+        "native_source": "data/source/yale_native/1006094.jpg",
+        "native_bbox": [
+          752,
+          1146,
+          771,
+          1167
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_022_P018640.png",
+        "split": "validation",
+        "folio_component": "10"
+      },
+      {
+        "parent_id": "V_030_P007257",
+        "native_source": "data/source/yale_native/1006102.jpg",
+        "native_bbox": [
+          605,
+          581,
+          625,
+          603
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_030_P007257.png",
+        "split": "test",
+        "folio_component": "15"
+      },
+      {
+        "parent_id": "V_102_P012865",
+        "native_source": "data/source/yale_native/1006174.jpg",
+        "native_bbox": [
+          498,
+          699,
+          517,
+          720
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_102_P012865.png",
+        "split": "test",
+        "folio_component": "51"
+      },
+      {
+        "parent_id": "V_089_P011486",
+        "native_source": "data/source/yale_native/1006161.jpg",
+        "native_bbox": [
+          1237,
+          613,
+          1259,
+          633
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_089_P011486.png",
+        "split": "test",
+        "folio_component": "44"
+      },
+      {
+        "parent_id": "V_154_P006679",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          1230,
+          1015,
+          1250,
+          1031
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P006679.png",
+        "split": "test",
+        "folio_component": "84"
+      },
+      {
+        "parent_id": "V_120_P006411",
+        "native_source": "data/source/yale_native/1006192.jpg",
+        "native_bbox": [
+          573,
+          416,
+          592,
+          440
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_120_P006411.png",
+        "split": "test",
+        "folio_component": "66"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST05.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST06",
+    "source_structure": "paired_uprights_bridge",
+    "significant_holes": 1,
+    "training_instances": 577,
+    "training_captions": 22,
+    "radius": 0.41457221588358806,
+    "other_caption_calibration_instances": 577,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_035_P009170",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          1268,
+          834,
+          1310,
+          894
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P009170.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P006412",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          592,
+          410,
+          638,
+          494
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P006412.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P003710",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          566,
+          512,
+          611,
+          584
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P003710.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P040450",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          685,
+          2527,
+          723,
+          2595
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P040450.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_028_P015250",
+        "native_source": "data/source/yale_native/1006100.jpg",
+        "native_bbox": [
+          526,
+          567,
+          566,
+          638
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_028_P015250.png",
+        "split": "train",
+        "folio_component": "14"
+      },
+      {
+        "parent_id": "V_011_P031491",
+        "native_source": "data/source/yale_native/1006083.jpg",
+        "native_bbox": [
+          1339,
+          1281,
+          1400,
+          1344
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_011_P031491.png",
+        "split": "validation",
+        "folio_component": "4"
+      },
+      {
+        "parent_id": "V_022_P015953",
+        "native_source": "data/source/yale_native/1006094.jpg",
+        "native_bbox": [
+          675,
+          958,
+          716,
+          1017
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_022_P015953.png",
+        "split": "validation",
+        "folio_component": "10"
+      },
+      {
+        "parent_id": "V_030_P007628",
+        "native_source": "data/source/yale_native/1006102.jpg",
+        "native_bbox": [
+          656,
+          615,
+          699,
+          682
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_030_P007628.png",
+        "split": "test",
+        "folio_component": "15"
+      },
+      {
+        "parent_id": "V_089_P018513",
+        "native_source": "data/source/yale_native/1006161.jpg",
+        "native_bbox": [
+          1132,
+          1094,
+          1176,
+          1154
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_089_P018513.png",
+        "split": "test",
+        "folio_component": "44"
+      },
+      {
+        "parent_id": "V_154_P006106",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          1160,
+          876,
+          1197,
+          927
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P006106.png",
+        "split": "test",
+        "folio_component": "84"
+      },
+      {
+        "parent_id": "V_120_P006030",
+        "native_source": "data/source/yale_native/1006192.jpg",
+        "native_bbox": [
+          792,
+          377,
+          838,
+          443
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_120_P006030.png",
+        "split": "test",
+        "folio_component": "66"
+      },
+      {
+        "parent_id": "V_202_P003084",
+        "native_source": "data/source/yale_native/1006272.jpg",
+        "native_bbox": [
+          1649,
+          465,
+          1692,
+          529
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_202_P003084.png",
+        "split": "test",
+        "folio_component": "114"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST06.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST07",
+    "source_structure": "paired_uprights_bridge",
+    "significant_holes": 2,
+    "training_instances": 192,
+    "training_captions": 20,
+    "radius": 0.5200385803379054,
+    "other_caption_calibration_instances": 192,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_015_P018902",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          870,
+          1272,
+          947,
+          1340
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P018902.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P004796",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          301,
+          718,
+          365,
+          797
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P004796.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P005775",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          1071,
+          461,
+          1129,
+          533
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P005775.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_028_P011104",
+        "native_source": "data/source/yale_native/1006100.jpg",
+        "native_bbox": [
+          847,
+          423,
+          933,
+          540
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_028_P011104.png",
+        "split": "train",
+        "folio_component": "14"
+      },
+      {
+        "parent_id": "V_040_P015065",
+        "native_source": "data/source/yale_native/1006112.jpg",
+        "native_bbox": [
+          1454,
+          586,
+          1517,
+          675
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_040_P015065.png",
+        "split": "train",
+        "folio_component": "20"
+      },
+      {
+        "parent_id": "V_010_P020721",
+        "native_source": "data/source/yale_native/1006082.jpg",
+        "native_bbox": [
+          725,
+          960,
+          806,
+          1030
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_010_P020721.png",
+        "split": "validation",
+        "folio_component": "4"
+      },
+      {
+        "parent_id": "V_022_P010334",
+        "native_source": "data/source/yale_native/1006094.jpg",
+        "native_bbox": [
+          635,
+          624,
+          694,
+          692
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_022_P010334.png",
+        "split": "validation",
+        "folio_component": "10"
+      },
+      {
+        "parent_id": "V_045_P013043",
+        "native_source": "data/source/yale_native/1006117.jpg",
+        "native_bbox": [
+          998,
+          1080,
+          1067,
+          1149
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_045_P013043.png",
+        "split": "test",
+        "folio_component": "22"
+      },
+      {
+        "parent_id": "V_030_P006501",
+        "native_source": "data/source/yale_native/1006102.jpg",
+        "native_bbox": [
+          675,
+          531,
+          755,
+          614
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_030_P006501.png",
+        "split": "test",
+        "folio_component": "15"
+      },
+      {
+        "parent_id": "V_089_P018650",
+        "native_source": "data/source/yale_native/1006161.jpg",
+        "native_bbox": [
+          1279,
+          1103,
+          1342,
+          1169
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_089_P018650.png",
+        "split": "test",
+        "folio_component": "44"
+      },
+      {
+        "parent_id": "V_154_P006130",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          565,
+          881,
+          634,
+          956
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P006130.png",
+        "split": "test",
+        "folio_component": "84"
+      },
+      {
+        "parent_id": "V_120_P007176",
+        "native_source": "data/source/yale_native/1006192.jpg",
+        "native_bbox": [
+          554,
+          507,
+          623,
+          569
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_120_P007176.png",
+        "split": "test",
+        "folio_component": "66"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST07.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST08",
+    "source_structure": "short_oblique_terminal",
+    "significant_holes": 0,
+    "training_instances": 640,
+    "training_captions": 22,
+    "radius": 0.41814930762279173,
+    "other_caption_calibration_instances": 640,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_035_P009691",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          1514,
+          877,
+          1531,
+          900
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P009691.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P011309",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          655,
+          787,
+          672,
+          807
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P011309.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P003552",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          561,
+          474,
+          580,
+          497
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P003552.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P006591",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          580,
+          532,
+          600,
+          550
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P006591.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_028_P014144",
+        "native_source": "data/source/yale_native/1006100.jpg",
+        "native_bbox": [
+          668,
+          519,
+          689,
+          541
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_028_P014144.png",
+        "split": "train",
+        "folio_component": "14"
+      },
+      {
+        "parent_id": "V_010_P019963",
+        "native_source": "data/source/yale_native/1006082.jpg",
+        "native_bbox": [
+          622,
+          926,
+          641,
+          947
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_010_P019963.png",
+        "split": "validation",
+        "folio_component": "4"
+      },
+      {
+        "parent_id": "V_022_P010994",
+        "native_source": "data/source/yale_native/1006094.jpg",
+        "native_bbox": [
+          851,
+          669,
+          869,
+          692
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_022_P010994.png",
+        "split": "validation",
+        "folio_component": "10"
+      },
+      {
+        "parent_id": "V_045_P005985",
+        "native_source": "data/source/yale_native/1006117.jpg",
+        "native_bbox": [
+          898,
+          524,
+          914,
+          545
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_045_P005985.png",
+        "split": "test",
+        "folio_component": "22"
+      },
+      {
+        "parent_id": "V_030_P008718",
+        "native_source": "data/source/yale_native/1006102.jpg",
+        "native_bbox": [
+          474,
+          715,
+          497,
+          736
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_030_P008718.png",
+        "split": "test",
+        "folio_component": "15"
+      },
+      {
+        "parent_id": "V_102_P012036",
+        "native_source": "data/source/yale_native/1006174.jpg",
+        "native_bbox": [
+          588,
+          624,
+          605,
+          644
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_102_P012036.png",
+        "split": "test",
+        "folio_component": "51"
+      },
+      {
+        "parent_id": "V_089_P010691",
+        "native_source": "data/source/yale_native/1006161.jpg",
+        "native_bbox": [
+          1523,
+          549,
+          1542,
+          570
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_089_P010691.png",
+        "split": "test",
+        "folio_component": "44"
+      },
+      {
+        "parent_id": "V_154_P013873",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          1536,
+          2129,
+          1551,
+          2146
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P013873.png",
+        "split": "test",
+        "folio_component": "84"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST08.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST09",
+    "source_structure": "single_upright_lateral_bridge",
+    "significant_holes": 1,
+    "training_instances": 105,
+    "training_captions": 13,
+    "radius": 0.4199098652866147,
+    "other_caption_calibration_instances": 105,
+    "primary_status": "experimental_unknown",
+    "examples": [
+      {
+        "parent_id": "V_035_P016844",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          1440,
+          1544,
+          1487,
+          1590
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P016844.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P015941",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          1031,
+          1089,
+          1146,
+          1156
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P015941.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_006_P041905",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          462,
+          2634,
+          528,
+          2714
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P041905.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_080_P017599",
+        "native_source": "data/source/yale_native/1006152.jpg",
+        "native_bbox": [
+          427,
+          973,
+          497,
+          1021
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_080_P017599.png",
+        "split": "train",
+        "folio_component": "40"
+      },
+      {
+        "parent_id": "V_138_P002609",
+        "native_source": "data/source/yale_native/1006210.jpg",
+        "native_bbox": [
+          470,
+          366,
+          533,
+          409
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_138_P002609.png",
+        "split": "train",
+        "folio_component": "76"
+      },
+      {
+        "parent_id": "V_158_P011578",
+        "native_source": "data/source/yale_native/1006230.jpg",
+        "native_bbox": [
+          1218,
+          510,
+          1280,
+          583
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_158_P011578.png",
+        "split": "validation",
+        "folio_component": "85"
+      },
+      {
+        "parent_id": "V_190_P013547",
+        "native_source": "data/source/yale_native/1006260.jpg",
+        "native_bbox": [
+          698,
+          1356,
+          757,
+          1414
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_190_P013547.png",
+        "split": "validation",
+        "folio_component": "106"
+      },
+      {
+        "parent_id": "V_154_P007673",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          1506,
+          1266,
+          1568,
+          1320
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P007673.png",
+        "split": "test",
+        "folio_component": "84"
+      },
+      {
+        "parent_id": "V_202_P009048",
+        "native_source": "data/source/yale_native/1006272.jpg",
+        "native_bbox": [
+          703,
+          1840,
+          764,
+          1902
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_202_P009048.png",
+        "split": "test",
+        "folio_component": "114"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST09.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST10",
+    "source_structure": "single_upright_lateral_bridge",
+    "significant_holes": 2,
+    "training_instances": 285,
+    "training_captions": 19,
+    "radius": 0.35243242975910366,
+    "other_caption_calibration_instances": 285,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_035_P010636",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          1091,
+          953,
+          1141,
+          1012
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P010636.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P007263",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          1090,
+          458,
+          1160,
+          510
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P007263.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P003821",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          490,
+          539,
+          559,
+          597
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P003821.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P041154",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          993,
+          2577,
+          1064,
+          2644
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P041154.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_028_P020732",
+        "native_source": "data/source/yale_native/1006100.jpg",
+        "native_bbox": [
+          456,
+          827,
+          521,
+          904
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_028_P020732.png",
+        "split": "train",
+        "folio_component": "14"
+      },
+      {
+        "parent_id": "V_156_P011285",
+        "native_source": "data/source/yale_native/1006228.jpg",
+        "native_bbox": [
+          632,
+          541,
+          690,
+          581
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_156_P011285.png",
+        "split": "validation",
+        "folio_component": "85"
+      },
+      {
+        "parent_id": "V_190_P006800",
+        "native_source": "data/source/yale_native/1006260.jpg",
+        "native_bbox": [
+          1390,
+          700,
+          1457,
+          773
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_190_P006800.png",
+        "split": "validation",
+        "folio_component": "106"
+      },
+      {
+        "parent_id": "V_030_P008812",
+        "native_source": "data/source/yale_native/1006102.jpg",
+        "native_bbox": [
+          593,
+          720,
+          667,
+          804
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_030_P008812.png",
+        "split": "test",
+        "folio_component": "15"
+      },
+      {
+        "parent_id": "V_154_P006540",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          1466,
+          970,
+          1527,
+          1015
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P006540.png",
+        "split": "test",
+        "folio_component": "84"
+      },
+      {
+        "parent_id": "V_120_P006476",
+        "native_source": "data/source/yale_native/1006192.jpg",
+        "native_bbox": [
+          1315,
+          422,
+          1402,
+          491
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_120_P006476.png",
+        "split": "test",
+        "folio_component": "66"
+      },
+      {
+        "parent_id": "V_202_P003960",
+        "native_source": "data/source/yale_native/1006272.jpg",
+        "native_bbox": [
+          749,
+          660,
+          817,
+          716
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_202_P003960.png",
+        "split": "test",
+        "folio_component": "114"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST10.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST11",
+    "source_structure": "upper_curve_lower_terminal",
+    "significant_holes": 0,
+    "training_instances": 1093,
+    "training_captions": 22,
+    "radius": 0.5135893839616003,
+    "other_caption_calibration_instances": 1093,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_035_P007981",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          1285,
+          720,
+          1315,
+          752
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P007981.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P006664",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          748,
+          423,
+          789,
+          488
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P006664.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P003398",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          842,
+          446,
+          866,
+          506
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P003398.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P005512",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          444,
+          442,
+          488,
+          560
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P005512.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_028_P013506",
+        "native_source": "data/source/yale_native/1006100.jpg",
+        "native_bbox": [
+          680,
+          493,
+          724,
+          544
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_028_P013506.png",
+        "split": "train",
+        "folio_component": "14"
+      },
+      {
+        "parent_id": "V_010_P009516",
+        "native_source": "data/source/yale_native/1006082.jpg",
+        "native_bbox": [
+          874,
+          483,
+          904,
+          530
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_010_P009516.png",
+        "split": "validation",
+        "folio_component": "4"
+      },
+      {
+        "parent_id": "V_022_P008625",
+        "native_source": "data/source/yale_native/1006094.jpg",
+        "native_bbox": [
+          748,
+          494,
+          779,
+          541
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_022_P008625.png",
+        "split": "validation",
+        "folio_component": "10"
+      },
+      {
+        "parent_id": "V_045_P005409",
+        "native_source": "data/source/yale_native/1006117.jpg",
+        "native_bbox": [
+          976,
+          481,
+          1026,
+          545
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_045_P005409.png",
+        "split": "test",
+        "folio_component": "22"
+      },
+      {
+        "parent_id": "V_030_P006730",
+        "native_source": "data/source/yale_native/1006102.jpg",
+        "native_bbox": [
+          463,
+          544,
+          496,
+          599
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_030_P006730.png",
+        "split": "test",
+        "folio_component": "15"
+      },
+      {
+        "parent_id": "V_102_P011103",
+        "native_source": "data/source/yale_native/1006174.jpg",
+        "native_bbox": [
+          603,
+          546,
+          638,
+          619
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_102_P011103.png",
+        "split": "test",
+        "folio_component": "51"
+      },
+      {
+        "parent_id": "V_089_P011051",
+        "native_source": "data/source/yale_native/1006161.jpg",
+        "native_bbox": [
+          1177,
+          580,
+          1210,
+          631
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_089_P011051.png",
+        "split": "test",
+        "folio_component": "44"
+      },
+      {
+        "parent_id": "V_154_P006180",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          861,
+          890,
+          884,
+          939
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P006180.png",
+        "split": "test",
+        "folio_component": "84"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST11.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST12",
+    "source_structure": "upper_curve_lower_terminal",
+    "significant_holes": 1,
+    "training_instances": 690,
+    "training_captions": 22,
+    "radius": 0.46340581268620956,
+    "other_caption_calibration_instances": 690,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_035_P007983",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          1393,
+          720,
+          1418,
+          761
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P007983.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P007285",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          720,
+          460,
+          748,
+          515
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P007285.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P004155",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          818,
+          613,
+          859,
+          672
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P004155.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P006608",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          476,
+          534,
+          510,
+          594
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P006608.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_028_P013654",
+        "native_source": "data/source/yale_native/1006100.jpg",
+        "native_bbox": [
+          582,
+          498,
+          610,
+          546
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_028_P013654.png",
+        "split": "train",
+        "folio_component": "14"
+      },
+      {
+        "parent_id": "V_010_P009695",
+        "native_source": "data/source/yale_native/1006082.jpg",
+        "native_bbox": [
+          516,
+          493,
+          538,
+          535
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_010_P009695.png",
+        "split": "validation",
+        "folio_component": "4"
+      },
+      {
+        "parent_id": "V_022_P008834",
+        "native_source": "data/source/yale_native/1006094.jpg",
+        "native_bbox": [
+          985,
+          512,
+          1015,
+          552
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_022_P008834.png",
+        "split": "validation",
+        "folio_component": "10"
+      },
+      {
+        "parent_id": "V_045_P007894",
+        "native_source": "data/source/yale_native/1006117.jpg",
+        "native_bbox": [
+          859,
+          671,
+          885,
+          727
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_045_P007894.png",
+        "split": "test",
+        "folio_component": "22"
+      },
+      {
+        "parent_id": "V_030_P011563",
+        "native_source": "data/source/yale_native/1006102.jpg",
+        "native_bbox": [
+          446,
+          942,
+          478,
+          987
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_030_P011563.png",
+        "split": "test",
+        "folio_component": "15"
+      },
+      {
+        "parent_id": "V_102_P011077",
+        "native_source": "data/source/yale_native/1006174.jpg",
+        "native_bbox": [
+          837,
+          544,
+          872,
+          614
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_102_P011077.png",
+        "split": "test",
+        "folio_component": "51"
+      },
+      {
+        "parent_id": "V_089_P009814",
+        "native_source": "data/source/yale_native/1006161.jpg",
+        "native_bbox": [
+          1222,
+          472,
+          1247,
+          523
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_089_P009814.png",
+        "split": "test",
+        "folio_component": "44"
+      },
+      {
+        "parent_id": "V_154_P006206",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          1050,
+          895,
+          1071,
+          949
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P006206.png",
+        "split": "test",
+        "folio_component": "84"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST12.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST13",
+    "source_structure": "upper_loop_oblique_lower_branch",
+    "significant_holes": 1,
+    "training_instances": 477,
+    "training_captions": 22,
+    "radius": 0.3611950828207027,
+    "other_caption_calibration_instances": 477,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_035_P009595",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          1399,
+          869,
+          1433,
+          907
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P009595.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P009092",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          1005,
+          607,
+          1048,
+          658
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P009092.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P003553",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          1029,
+          475,
+          1067,
+          524
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P003553.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P006437",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          846,
+          513,
+          871,
+          549
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P006437.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_028_P021954",
+        "native_source": "data/source/yale_native/1006100.jpg",
+        "native_bbox": [
+          598,
+          893,
+          640,
+          952
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_028_P021954.png",
+        "split": "train",
+        "folio_component": "14"
+      },
+      {
+        "parent_id": "V_010_P025014",
+        "native_source": "data/source/yale_native/1006082.jpg",
+        "native_bbox": [
+          904,
+          1169,
+          932,
+          1207
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_010_P025014.png",
+        "split": "validation",
+        "folio_component": "4"
+      },
+      {
+        "parent_id": "V_022_P013085",
+        "native_source": "data/source/yale_native/1006094.jpg",
+        "native_bbox": [
+          839,
+          803,
+          871,
+          855
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_022_P013085.png",
+        "split": "validation",
+        "folio_component": "10"
+      },
+      {
+        "parent_id": "V_045_P007992",
+        "native_source": "data/source/yale_native/1006117.jpg",
+        "native_bbox": [
+          1042,
+          679,
+          1090,
+          736
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_045_P007992.png",
+        "split": "test",
+        "folio_component": "22"
+      },
+      {
+        "parent_id": "V_030_P013825",
+        "native_source": "data/source/yale_native/1006102.jpg",
+        "native_bbox": [
+          673,
+          1118,
+          720,
+          1173
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_030_P013825.png",
+        "split": "test",
+        "folio_component": "15"
+      },
+      {
+        "parent_id": "V_102_P019096",
+        "native_source": "data/source/yale_native/1006174.jpg",
+        "native_bbox": [
+          509,
+          1066,
+          544,
+          1121
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_102_P019096.png",
+        "split": "test",
+        "folio_component": "51"
+      },
+      {
+        "parent_id": "V_089_P011518",
+        "native_source": "data/source/yale_native/1006161.jpg",
+        "native_bbox": [
+          1543,
+          615,
+          1583,
+          663
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_089_P011518.png",
+        "split": "test",
+        "folio_component": "44"
+      },
+      {
+        "parent_id": "V_154_P006431",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          1048,
+          943,
+          1075,
+          980
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P006431.png",
+        "split": "test",
+        "folio_component": "84"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST13.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST14",
+    "source_structure": "vertical_loop_pair",
+    "significant_holes": 2,
+    "training_instances": 372,
+    "training_captions": 22,
+    "radius": 0.38248530742522013,
+    "other_caption_calibration_instances": 372,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_035_P011495",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          1119,
+          1020,
+          1148,
+          1063
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P011495.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P011079",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          945,
+          770,
+          977,
+          804
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P011079.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P003481",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          302,
+          463,
+          326,
+          506
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P003481.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P006399",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          897,
+          509,
+          920,
+          547
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P006399.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_028_P020135",
+        "native_source": "data/source/yale_native/1006100.jpg",
+        "native_bbox": [
+          890,
+          795,
+          922,
+          848
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_028_P020135.png",
+        "split": "train",
+        "folio_component": "14"
+      },
+      {
+        "parent_id": "V_010_P027386",
+        "native_source": "data/source/yale_native/1006082.jpg",
+        "native_bbox": [
+          545,
+          1316,
+          575,
+          1360
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_010_P027386.png",
+        "split": "validation",
+        "folio_component": "4"
+      },
+      {
+        "parent_id": "V_022_P008696",
+        "native_source": "data/source/yale_native/1006094.jpg",
+        "native_bbox": [
+          957,
+          501,
+          981,
+          537
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_022_P008696.png",
+        "split": "validation",
+        "folio_component": "10"
+      },
+      {
+        "parent_id": "V_045_P015267",
+        "native_source": "data/source/yale_native/1006117.jpg",
+        "native_bbox": [
+          945,
+          1258,
+          982,
+          1312
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_045_P015267.png",
+        "split": "test",
+        "folio_component": "22"
+      },
+      {
+        "parent_id": "V_030_P009480",
+        "native_source": "data/source/yale_native/1006102.jpg",
+        "native_bbox": [
+          727,
+          778,
+          756,
+          824
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_030_P009480.png",
+        "split": "test",
+        "folio_component": "15"
+      },
+      {
+        "parent_id": "V_102_P011861",
+        "native_source": "data/source/yale_native/1006174.jpg",
+        "native_bbox": [
+          514,
+          608,
+          542,
+          650
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_102_P011861.png",
+        "split": "test",
+        "folio_component": "51"
+      },
+      {
+        "parent_id": "V_089_P009757",
+        "native_source": "data/source/yale_native/1006161.jpg",
+        "native_bbox": [
+          1460,
+          468,
+          1490,
+          507
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_089_P009757.png",
+        "split": "test",
+        "folio_component": "44"
+      },
+      {
+        "parent_id": "V_154_P006338",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          1660,
+          923,
+          1692,
+          957
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P006338.png",
+        "split": "test",
+        "folio_component": "84"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST14.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  },
+  {
+    "class_id": "ST15",
+    "source_structure": "vertical_loop_pair_left_appendage",
+    "significant_holes": 2,
+    "training_instances": 122,
+    "training_captions": 15,
+    "radius": 0.4808547394688529,
+    "other_caption_calibration_instances": 122,
+    "primary_status": "heldout_recurring_structural_core",
+    "examples": [
+      {
+        "parent_id": "V_035_P024533",
+        "native_source": "data/source/yale_native/1006107.jpg",
+        "native_bbox": [
+          1478,
+          2242,
+          1592,
+          2331
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_035_P024533.png",
+        "split": "train",
+        "folio_component": "17"
+      },
+      {
+        "parent_id": "V_015_P007776",
+        "native_source": "data/source/yale_native/1006087.jpg",
+        "native_bbox": [
+          943,
+          500,
+          1032,
+          569
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_015_P007776.png",
+        "split": "train",
+        "folio_component": "6"
+      },
+      {
+        "parent_id": "V_036_P004514",
+        "native_source": "data/source/yale_native/1006108.jpg",
+        "native_bbox": [
+          912,
+          679,
+          1022,
+          797
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_036_P004514.png",
+        "split": "train",
+        "folio_component": "18"
+      },
+      {
+        "parent_id": "V_006_P011018",
+        "native_source": "data/source/yale_native/1006078.jpg",
+        "native_bbox": [
+          585,
+          942,
+          679,
+          1016
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_006_P011018.png",
+        "split": "train",
+        "folio_component": "2"
+      },
+      {
+        "parent_id": "V_075_P019185",
+        "native_source": "data/source/yale_native/1006147.jpg",
+        "native_bbox": [
+          1021,
+          1612,
+          1145,
+          1695
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_075_P019185.png",
+        "split": "train",
+        "folio_component": "37"
+      },
+      {
+        "parent_id": "V_010_P025580",
+        "native_source": "data/source/yale_native/1006082.jpg",
+        "native_bbox": [
+          662,
+          1205,
+          765,
+          1277
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_010_P025580.png",
+        "split": "validation",
+        "folio_component": "4"
+      },
+      {
+        "parent_id": "V_156_P031335",
+        "native_source": "data/source/yale_native/1006228.jpg",
+        "native_bbox": [
+          1880,
+          2467,
+          1929,
+          2503
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_156_P031335.png",
+        "split": "validation",
+        "folio_component": "85"
+      },
+      {
+        "parent_id": "V_102_P027388",
+        "native_source": "data/source/yale_native/1006174.jpg",
+        "native_bbox": [
+          721,
+          1568,
+          826,
+          1635
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_102_P027388.png",
+        "split": "test",
+        "folio_component": "51"
+      },
+      {
+        "parent_id": "V_154_P006331",
+        "native_source": "data/source/yale_native/1006226.jpg",
+        "native_bbox": [
+          1822,
+          921,
+          1879,
+          957
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_154_P006331.png",
+        "split": "test",
+        "folio_component": "84"
+      },
+      {
+        "parent_id": "V_120_P007357",
+        "native_source": "data/source/yale_native/1006192.jpg",
+        "native_bbox": [
+          602,
+          526,
+          654,
+          567
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_120_P007357.png",
+        "split": "test",
+        "folio_component": "66"
+      },
+      {
+        "parent_id": "V_202_P002848",
+        "native_source": "data/source/yale_native/1006272.jpg",
+        "native_bbox": [
+          853,
+          418,
+          913,
+          457
+        ],
+        "native_crop": "data/observations/recurrence_v3_structural_candidate/native_parents/V_202_P002848.png",
+        "split": "test",
+        "folio_component": "114"
+      }
+    ],
+    "figure": "figures/recurrence_v3/neutral_atlas/ST15.png",
+    "atomicity": "unknown",
+    "pen_lifts": "unknown",
+    "compounds": "Whole parent; lower/upper factor descriptors do not establish internal grapheme cuts",
+    "allography": "Visual nuisance hypothesis only; no linguistic equivalence asserted"
+  }
+]

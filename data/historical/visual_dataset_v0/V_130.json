@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.1.0",
+  "status": "frozen",
+  "provenance": {
+    "source_pdf_sha256": "b048d09835c66522cc7a6d93e3edf4693edacc403aa79f738c47a421d840f761",
+    "prior_exposure": "Supplied handoff, chats and ledger contain conventional examples; transcription contents withheld throughout visual derivation.",
+    "comparison_data_withheld": true,
+    "run_id": "visual_snapshot_v0",
+    "frozen_sha256": null
+  },
+  "views": [
+    {
+      "view_id": "V_130",
+      "pdf_page": 130,
+      "image_sha256": "6405841a75a8fa24dd9e5c93ad090ee56bf26c77757f3b1634487e27b509e61b",
+      "image_path": "data/source/yale_native/1006202.jpg",
+      "width_px": 2793,
+      "height_px": 3762,
+      "split": "validation"
+    }
+  ],
+  "panels": [],
+  "lines": [],
+  "groups": [],
+  "components": [],
+  "assemblies": [],
+  "segmentations": [],
+  "observations": [],
+  "hypotheses": [
+    {
+      "hypothesis_id": "V_130_UNIT_BOUNDARIES",
+      "proposition": "Raster components, medium assemblies, compounds and group-only partitions compete; no partition is canonical grapheme truth.",
+      "supporting_observations": [],
+      "contradicting_observations": [],
+      "falsifier": "Independent source annotation and held-out template prediction fail to support stable reusable structures.",
+      "confidence": "unresolved",
+      "next_test": "Source quality, frame/cut geometry, contextual allography and cross-transcription comparison AFTER snapshot freeze."
+    }
+  ]
+}

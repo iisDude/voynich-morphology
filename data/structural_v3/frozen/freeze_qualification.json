@@ -1,0 +1,218 @@
+{
+  "time_utc": "2026-10-06T12:24:42.261872+00:00",
+  "gates": {
+    "source_rows": true,
+    "source_views": true,
+    "fresh_test_captions": true,
+    "recurring_core_classes": true,
+    "source_pair_agreement": true,
+    "source_judged_negative_false_acceptance": true,
+    "threshold_assignment_stability": true,
+    "corroborated_test_coverage": true,
+    "computational_reproducibility": true
+  },
+  "registered_requirements": {
+    "source_rows_reviewed_at_least": 600,
+    "source_views_at_least": 40,
+    "test_caption_groups_at_least": 6,
+    "stable_recurring_structural_classes_at_least": 10,
+    "each_core_class_training_captions_at_least": 3,
+    "each_core_class_test_instances_at_least": 5,
+    "each_core_class_test_captions_at_least": 3,
+    "source_pair_audit_positive_agreement_at_least": 0.85,
+    "hard_negative_false_acceptance_at_most": 0.15,
+    "threshold_assignment_stability_at_least": 0.8,
+    "clear_test_component_assignment_coverage_at_least": 0.5
+  },
+  "corroborated_test_coverage": 0.6036892118501956,
+  "core_classes": {
+    "ST02": {
+      "source_structure": "compact_ring",
+      "significant_holes": 1,
+      "training_instances": 1249,
+      "training_captions": 22,
+      "radius": 0.38344158652113763,
+      "other_caption_calibration_instances": 1249,
+      "corroborated_test_instances": 138,
+      "corroborated_test_captions": 7,
+      "corroborated_total_instances": 1663
+    },
+    "ST11": {
+      "source_structure": "upper_curve_lower_terminal",
+      "significant_holes": 0,
+      "training_instances": 1093,
+      "training_captions": 22,
+      "radius": 0.5135893839616003,
+      "other_caption_calibration_instances": 1093,
+      "corroborated_test_instances": 169,
+      "corroborated_test_captions": 7,
+      "corroborated_total_instances": 1678
+    },
+    "ST12": {
+      "source_structure": "upper_curve_lower_terminal",
+      "significant_holes": 1,
+      "training_instances": 690,
+      "training_captions": 22,
+      "radius": 0.46340581268620956,
+      "other_caption_calibration_instances": 690,
+      "corroborated_test_instances": 97,
+      "corroborated_test_captions": 7,
+      "corroborated_total_instances": 922
+    },
+    "ST03": {
+      "source_structure": "horizontal_arch_bridge",
+      "significant_holes": 0,
+      "training_instances": 795,
+      "training_captions": 22,
+      "radius": 0.3834500341687195,
+      "other_caption_calibration_instances": 795,
+      "corroborated_test_instances": 129,
+      "corroborated_test_captions": 7,
+      "corroborated_total_instances": 1170
+    },
+    "ST05": {
+      "source_structure": "open_compact_hook",
+      "significant_holes": 0,
+      "training_instances": 518,
+      "training_captions": 22,
+      "radius": 0.48193360421264525,
+      "other_caption_calibration_instances": 518,
+      "corroborated_test_instances": 89,
+      "corroborated_test_captions": 6,
+      "corroborated_total_instances": 802
+    },
+    "ST04": {
+      "source_structure": "horizontal_arch_bridge",
+      "significant_holes": 1,
+      "training_instances": 323,
+      "training_captions": 22,
+      "radius": 0.4404282879830978,
+      "other_caption_calibration_instances": 323,
+      "corroborated_test_instances": 48,
+      "corroborated_test_captions": 6,
+      "corroborated_total_instances": 430
+    },
+    "ST06": {
+      "source_structure": "paired_uprights_bridge",
+      "significant_holes": 1,
+      "training_instances": 577,
+      "training_captions": 22,
+      "radius": 0.41457221588358806,
+      "other_caption_calibration_instances": 577,
+      "corroborated_test_instances": 64,
+      "corroborated_test_captions": 5,
+      "corroborated_total_instances": 743
+    },
+    "ST13": {
+      "source_structure": "upper_loop_oblique_lower_branch",
+      "significant_holes": 1,
+      "training_instances": 477,
+      "training_captions": 22,
+      "radius": 0.3611950828207027,
+      "other_caption_calibration_instances": 477,
+      "corroborated_test_instances": 35,
+      "corroborated_test_captions": 7,
+      "corroborated_total_instances": 567
+    },
+    "ST08": {
+      "source_structure": "short_oblique_terminal",
+      "significant_holes": 0,
+      "training_instances": 640,
+      "training_captions": 22,
+      "radius": 0.41814930762279173,
+      "other_caption_calibration_instances": 640,
+      "corroborated_test_instances": 104,
+      "corroborated_test_captions": 7,
+      "corroborated_total_instances": 901
+    },
+    "ST10": {
+      "source_structure": "single_upright_lateral_bridge",
+      "significant_holes": 2,
+      "training_instances": 285,
+      "training_captions": 19,
+      "radius": 0.35243242975910366,
+      "other_caption_calibration_instances": 285,
+      "corroborated_test_instances": 23,
+      "corroborated_test_captions": 4,
+      "corroborated_total_instances": 331
+    },
+    "ST14": {
+      "source_structure": "vertical_loop_pair",
+      "significant_holes": 2,
+      "training_instances": 372,
+      "training_captions": 22,
+      "radius": 0.38248530742522013,
+      "other_caption_calibration_instances": 372,
+      "corroborated_test_instances": 90,
+      "corroborated_test_captions": 7,
+      "corroborated_total_instances": 528
+    },
+    "ST01": {
+      "source_structure": "compact_loop_upper_right_trace",
+      "significant_holes": 1,
+      "training_instances": 390,
+      "training_captions": 22,
+      "radius": 0.39521882239560424,
+      "other_caption_calibration_instances": 390,
+      "corroborated_test_instances": 31,
+      "corroborated_test_captions": 7,
+      "corroborated_total_instances": 499
+    },
+    "ST15": {
+      "source_structure": "vertical_loop_pair_left_appendage",
+      "significant_holes": 2,
+      "training_instances": 122,
+      "training_captions": 15,
+      "radius": 0.4808547394688529,
+      "other_caption_calibration_instances": 122,
+      "corroborated_test_instances": 30,
+      "corroborated_test_captions": 4,
+      "corroborated_total_instances": 193
+    },
+    "ST07": {
+      "source_structure": "paired_uprights_bridge",
+      "significant_holes": 2,
+      "training_instances": 192,
+      "training_captions": 20,
+      "radius": 0.5200385803379054,
+      "other_caption_calibration_instances": 192,
+      "corroborated_test_instances": 33,
+      "corroborated_test_captions": 6,
+      "corroborated_total_instances": 285
+    }
+  },
+  "heldout_point_metrics": {
+    "clear_components": 1789,
+    "accepted": 1203,
+    "assignment_coverage": 0.6724427054220234,
+    "caption_groups": 7,
+    "threshold_assignment_stability": 0.9359933499584372,
+    "alignment_slant_stability": 0.9451371571072319,
+    "median_chamfer": 0.005130154546350241
+  },
+  "pair_point_metrics": {
+    "counts": {
+      "positive:same_structural_hypothesis": 35,
+      "hard_negative:different": 24,
+      "hard_negative:same_structural_hypothesis": 13,
+      "hard_negative:unknown": 3,
+      "positive:unknown": 2,
+      "positive:different": 3
+    },
+    "positive_agreement": 0.875,
+    "apparent_hard_negative_same_structure_fraction": 0.325,
+    "false_acceptance_among_source_judged_different_pairs": 0.1111111111111111,
+    "definition": "Source-judged different pairs supply the actual negative ground truth. Model-class-different proposals judged same expose false separation; they are not true negatives.",
+    "independent_raters": 1,
+    "unknown_count": 5,
+    "source_pair_agreement_is_single_agent": true
+  },
+  "caption_split_counts": {
+    "train": 22,
+    "validation": 7,
+    "test": 7
+  },
+  "qualification_scope": "Reproducible image-derived structural candidates on selected ordinary fields. Not an alphabet, word segmentation, full writing recall, independent-rater consensus or positional replication.",
+  "row_review_scope": "918 source row proposals received writing-field triage; fine contacts judged via native parents/perturbations and sampled native RGB pairs, not exhaustive adjudication of every full row.",
+  "negative_definition": "True negatives are source-judged different pairs; classifier-different near neighbors cannot serve as their own ground truth. Point criteria apply; small-caption confidence intervals remain broad."
+}

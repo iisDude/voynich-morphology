@@ -1,0 +1,21 @@
+{
+  "status": "candidate_extraction_protocol_snapshot_not_unit_freeze",
+  "version": "v4",
+  "started_utc": "2026-10-05T16:15:40Z",
+  "code_sha256": "f51738b1530d644923ed34fe788f50638da7f35736a95bb94720cfe9d373f405",
+  "layout_sha256": "b1fd6bbe15d5dee1cb3fe159a87b1b5e1eeb198877d0d57c0050b7f781f064bc",
+  "calibration_layout_sha256": "33e100985f653d96e594d250300e21416029b920bbef9a078b238ea2ec094580",
+  "unit_plan_sha256": "1bf8a29b2cd1f258ea8254959be8c8a93d14c1786e882e535eb3f445c7c4b53c",
+  "source": "native Yale registered to supplied PDF",
+  "native_mask_background_sigma": 25,
+  "native_mask_primary_contrast": 6,
+  "native_preblur_sigma": 0.9,
+  "localisation": "PDF for ordinary views; native for scale transfer above three",
+  "models": [
+    "fine_components",
+    "medium_assemblies",
+    "compound_candidates",
+    "group_only"
+  ],
+  "quality": "Candidate data; no final alphabet or accepted physical line claim"
+}

@@ -1,0 +1,3679 @@
+{
+  "created_at_utc": "2026-10-07T05:25:15.839438+00:00",
+  "parents": [
+    {
+      "parent_id": "B001_O012",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B001_O014",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B001_O024",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B001_O028",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B001_O076",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B001_O085",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B001_O115",
+      "caption": "5",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            9,
+            59,
+            30
+          ],
+          "residual_ink_fraction": 0.22670025188916876,
+          "contact_pixels": 42,
+          "base_class": "ST03",
+          "description": "ST03+outside_top_residual",
+          "distance": 0.2776718748261156,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            53,
+            18
+          ],
+          "residual_ink_fraction": 0.44836272040302266,
+          "contact_pixels": 19,
+          "base_class": "ST04",
+          "description": "ST04+outside_bottom_residual",
+          "distance": 0.3778043310512123,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B001_O118",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B001_O121",
+      "caption": "5",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            13,
+            0,
+            32,
+            43
+          ],
+          "residual_ink_fraction": 0.2994269340974212,
+          "contact_pixels": 13,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.4602115239924766,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            17,
+            29,
+            43
+          ],
+          "residual_ink_fraction": 0.2922636103151863,
+          "contact_pixels": 12,
+          "base_class": "ST02",
+          "description": "ST02+outside_top_residual",
+          "distance": 0.3488976355159506,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B001_O127",
+      "caption": "5",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            13,
+            0,
+            44,
+            92
+          ],
+          "residual_ink_fraction": 0.4226190476190476,
+          "contact_pixels": 9,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.36977954738354035,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B001_O134",
+      "caption": "5",
+      "explanations": [
+        {
+          "side": "bottom",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            0,
+            0,
+            24,
+            36
+          ],
+          "residual_ink_fraction": 0.22972972972972974,
+          "contact_pixels": 16,
+          "base_class": "ST12",
+          "description": "ST12+outside_bottom_residual",
+          "distance": 0.42330235136201094,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B002_O023",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B002_O025",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B002_O027",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B002_O030",
+      "caption": "5",
+      "explanations": [
+        {
+          "side": "bottom",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            0,
+            0,
+            38,
+            40
+          ],
+          "residual_ink_fraction": 0.22847100175746923,
+          "contact_pixels": 20,
+          "base_class": "ST11",
+          "description": "ST11+outside_bottom_residual",
+          "distance": 0.4308192987349422,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B002_O041",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B002_O047",
+      "caption": "5",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            13,
+            57,
+            38
+          ],
+          "residual_ink_fraction": 0.3468599033816425,
+          "contact_pixels": 13,
+          "base_class": "ST03",
+          "description": "ST03+outside_right_residual",
+          "distance": 0.3291925434763728,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B002_O049",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B002_O053",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B002_O055",
+      "caption": "5",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            21,
+            64
+          ],
+          "residual_ink_fraction": 0.28154205607476634,
+          "contact_pixels": 12,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.48704374737668593,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B002_O075",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B002_O106",
+      "caption": "5",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            0,
+            5,
+            50,
+            26
+          ],
+          "residual_ink_fraction": 0.21518987341772153,
+          "contact_pixels": 36,
+          "base_class": "ST03",
+          "description": "ST03+outside_top_residual",
+          "distance": 0.31180282887875793,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B002_O114",
+      "caption": "5",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O051",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            0,
+            5,
+            43,
+            25
+          ],
+          "residual_ink_fraction": 0.20666666666666667,
+          "contact_pixels": 29,
+          "base_class": "ST03",
+          "description": "ST03+outside_top_residual",
+          "distance": 0.3303818780216484,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            2,
+            0,
+            43,
+            15
+          ],
+          "residual_ink_fraction": 0.24666666666666667,
+          "contact_pixels": 23,
+          "base_class": "ST03",
+          "description": "ST03+outside_bottom_residual",
+          "distance": 0.2640808199422398,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O058",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O066",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            10,
+            46,
+            26
+          ],
+          "residual_ink_fraction": 0.20962199312714777,
+          "contact_pixels": 36,
+          "base_class": "ST03",
+          "description": "ST03+outside_top_residual",
+          "distance": 0.22209783838649463,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O108",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            5,
+            0,
+            17,
+            35
+          ],
+          "residual_ink_fraction": 0.22478386167146974,
+          "contact_pixels": 21,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.34698471771309813,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            7,
+            1,
+            17,
+            35
+          ],
+          "residual_ink_fraction": 0.3515850144092219,
+          "contact_pixels": 21,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.44929392324090434,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            10,
+            35
+          ],
+          "residual_ink_fraction": 0.4092219020172911,
+          "contact_pixels": 30,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.40073818267845807,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O111",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            10,
+            0,
+            32,
+            48
+          ],
+          "residual_ink_fraction": 0.312621359223301,
+          "contact_pixels": 13,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.41762349975479157,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            13,
+            0,
+            32,
+            46
+          ],
+          "residual_ink_fraction": 0.40194174757281553,
+          "contact_pixels": 14,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.42965613087165294,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            19,
+            51
+          ],
+          "residual_ink_fraction": 0.2796116504854369,
+          "contact_pixels": 33,
+          "base_class": "ST12",
+          "description": "ST12+outside_right_residual",
+          "distance": 0.26415836137675475,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O118",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            8,
+            0,
+            21,
+            24
+          ],
+          "residual_ink_fraction": 0.22325581395348837,
+          "contact_pixels": 9,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.4501141033710337,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            15,
+            24
+          ],
+          "residual_ink_fraction": 0.386046511627907,
+          "contact_pixels": 22,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.49887374173661686,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O119",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            16,
+            27,
+            39
+          ],
+          "residual_ink_fraction": 0.3371900826446281,
+          "contact_pixels": 9,
+          "base_class": "ST02",
+          "description": "ST02+outside_top_residual",
+          "distance": 0.27439141579774345,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O122",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "bottom",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            3,
+            0,
+            27,
+            23
+          ],
+          "residual_ink_fraction": 0.391713747645951,
+          "contact_pixels": 17,
+          "base_class": "ST02",
+          "description": "ST02+outside_bottom_residual",
+          "distance": 0.35555355132898314,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O131",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            15,
+            19
+          ],
+          "residual_ink_fraction": 0.1729957805907173,
+          "contact_pixels": 9,
+          "base_class": "ST05",
+          "description": "ST05+outside_right_residual",
+          "distance": 0.3255523146807394,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "top",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            6,
+            16,
+            19
+          ],
+          "residual_ink_fraction": 0.3670886075949367,
+          "contact_pixels": 7,
+          "base_class": "ST05",
+          "description": "ST05+outside_top_residual",
+          "distance": 0.35660542809832885,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O146",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O154",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            14,
+            26,
+            36
+          ],
+          "residual_ink_fraction": 0.38869257950530034,
+          "contact_pixels": 13,
+          "base_class": "ST02",
+          "description": "ST02+outside_top_residual",
+          "distance": 0.37178040612899754,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O182",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            3,
+            0,
+            16,
+            18
+          ],
+          "residual_ink_fraction": 0.16666666666666666,
+          "contact_pixels": 13,
+          "base_class": "ST08",
+          "description": "ST08+outside_left_residual",
+          "distance": 0.40928519936930513,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            10,
+            18
+          ],
+          "residual_ink_fraction": 0.19230769230769232,
+          "contact_pixels": 7,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.304761156077088,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O184",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O185",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O187",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B005_O193",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            15,
+            0,
+            38,
+            38
+          ],
+          "residual_ink_fraction": 0.34465195246179964,
+          "contact_pixels": 19,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.4112416288405999,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O051",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O053",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O058",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O073",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O080",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O081",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O087",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            8,
+            0,
+            27,
+            41
+          ],
+          "residual_ink_fraction": 0.26610169491525426,
+          "contact_pixels": 29,
+          "base_class": "ST08",
+          "description": "ST08+outside_left_residual",
+          "distance": 0.4116964424792857,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O098",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            15,
+            17
+          ],
+          "residual_ink_fraction": 0.16666666666666666,
+          "contact_pixels": 7,
+          "base_class": "ST08",
+          "description": "ST08+outside_right_residual",
+          "distance": 0.38596019087816313,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O123",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O128",
+      "caption": "34",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            10,
+            33,
+            24
+          ],
+          "residual_ink_fraction": 0.24619289340101522,
+          "contact_pixels": 16,
+          "base_class": "ST03",
+          "description": "ST03+outside_top_residual",
+          "distance": 0.3174017044419339,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O144",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O151",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O155",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O157",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B006_O167",
+      "caption": "34",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O060",
+      "caption": "39",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            10,
+            21
+          ],
+          "residual_ink_fraction": 0.19428571428571428,
+          "contact_pixels": 14,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.483316898738334,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O071",
+      "caption": "39",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O087",
+      "caption": "39",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O130",
+      "caption": "39",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            8,
+            22
+          ],
+          "residual_ink_fraction": 0.16666666666666666,
+          "contact_pixels": 8,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.4585060531034702,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O134",
+      "caption": "39",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            9,
+            18
+          ],
+          "residual_ink_fraction": 0.16666666666666666,
+          "contact_pixels": 5,
+          "base_class": "ST08",
+          "description": "ST08+outside_right_residual",
+          "distance": 0.36993607666478023,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O149",
+      "caption": "39",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            3,
+            28,
+            89
+          ],
+          "residual_ink_fraction": 0.1859778597785978,
+          "contact_pixels": 17,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.4468133891152286,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            1,
+            0,
+            46,
+            71
+          ],
+          "residual_ink_fraction": 0.18745387453874537,
+          "contact_pixels": 11,
+          "base_class": "ST06",
+          "description": "ST06+outside_bottom_residual",
+          "distance": 0.2558317966363638,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            3,
+            0,
+            46,
+            62
+          ],
+          "residual_ink_fraction": 0.24944649446494466,
+          "contact_pixels": 8,
+          "base_class": "ST06",
+          "description": "ST06+outside_bottom_residual",
+          "distance": 0.2600312022881651,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            3,
+            0,
+            46,
+            53
+          ],
+          "residual_ink_fraction": 0.3173431734317343,
+          "contact_pixels": 12,
+          "base_class": "ST06",
+          "description": "ST06+outside_bottom_residual",
+          "distance": 0.2986800699569143,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O150",
+      "caption": "39",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            7,
+            39,
+            24
+          ],
+          "residual_ink_fraction": 0.20916334661354583,
+          "contact_pixels": 20,
+          "base_class": "ST03",
+          "description": "ST03+outside_top_residual",
+          "distance": 0.3295144282565573,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            10,
+            39,
+            24
+          ],
+          "residual_ink_fraction": 0.33067729083665337,
+          "contact_pixels": 20,
+          "base_class": "ST03",
+          "description": "ST03+outside_top_residual",
+          "distance": 0.2791235640033282,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O158",
+      "caption": "39",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O159",
+      "caption": "39",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            8,
+            0,
+            19,
+            18
+          ],
+          "residual_ink_fraction": 0.22,
+          "contact_pixels": 11,
+          "base_class": "ST08",
+          "description": "ST08+outside_left_residual",
+          "distance": 0.26596388835443097,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O164",
+      "caption": "39",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            8,
+            0,
+            27,
+            41
+          ],
+          "residual_ink_fraction": 0.2743362831858407,
+          "contact_pixels": 20,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.40498175637510475,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            11,
+            0,
+            27,
+            40
+          ],
+          "residual_ink_fraction": 0.39823008849557523,
+          "contact_pixels": 25,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.3327873493264313,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "top",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            0,
+            8,
+            27,
+            41
+          ],
+          "residual_ink_fraction": 0.26902654867256637,
+          "contact_pixels": 23,
+          "base_class": "ST11",
+          "description": "ST11+outside_top_residual",
+          "distance": 0.42760262692202955,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O167",
+      "caption": "39",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O181",
+      "caption": "39",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O189",
+      "caption": "39",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B007_O195",
+      "caption": "39",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B008_O037",
+      "caption": "39",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B008_O091",
+      "caption": "39",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B008_O099",
+      "caption": "39",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            8,
+            24,
+            27
+          ],
+          "residual_ink_fraction": 0.3541666666666667,
+          "contact_pixels": 6,
+          "base_class": "ST08",
+          "description": "ST08+outside_right_residual",
+          "distance": 0.24552884133801964,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            8,
+            20,
+            27
+          ],
+          "residual_ink_fraction": 0.4088541666666667,
+          "contact_pixels": 4,
+          "base_class": "ST08",
+          "description": "ST08+outside_right_residual",
+          "distance": 0.32209567704568237,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B008_O135",
+      "caption": "39",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            20,
+            22
+          ],
+          "residual_ink_fraction": 0.4317073170731707,
+          "contact_pixels": 8,
+          "base_class": "ST08",
+          "description": "ST08+outside_right_residual",
+          "distance": 0.37923543201442383,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B008_O139",
+      "caption": "39",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            12,
+            0,
+            39,
+            37
+          ],
+          "residual_ink_fraction": 0.22522522522522523,
+          "contact_pixels": 24,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.3905030903996301,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            16,
+            0,
+            39,
+            37
+          ],
+          "residual_ink_fraction": 0.3768768768768769,
+          "contact_pixels": 23,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.48891588804022335,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B008_O144",
+      "caption": "39",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            15,
+            24
+          ],
+          "residual_ink_fraction": 0.26044226044226043,
+          "contact_pixels": 23,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.43927504087457786,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            13,
+            24
+          ],
+          "residual_ink_fraction": 0.371007371007371,
+          "contact_pixels": 22,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.36432863023461215,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B008_O146",
+      "caption": "39",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            9,
+            0,
+            29,
+            43
+          ],
+          "residual_ink_fraction": 0.17307692307692307,
+          "contact_pixels": 21,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.4823505054698077,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            12,
+            0,
+            29,
+            43
+          ],
+          "residual_ink_fraction": 0.2988165680473373,
+          "contact_pixels": 32,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.45595866045603056,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            17,
+            26,
+            43
+          ],
+          "residual_ink_fraction": 0.35502958579881655,
+          "contact_pixels": 15,
+          "base_class": "ST02",
+          "description": "ST02+outside_top_residual",
+          "distance": 0.3106940744934426,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B008_O151",
+      "caption": "39",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            18,
+            0,
+            44,
+            46
+          ],
+          "residual_ink_fraction": 0.33615477629987905,
+          "contact_pixels": 28,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.4524367538329041,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B008_O162",
+      "caption": "39",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B009_O013",
+      "caption": "55",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            9,
+            0,
+            30,
+            42
+          ],
+          "residual_ink_fraction": 0.23289902280130292,
+          "contact_pixels": 16,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.4472602747804552,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            12,
+            0,
+            30,
+            39
+          ],
+          "residual_ink_fraction": 0.36319218241042345,
+          "contact_pixels": 27,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.4743997046936755,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B009_O024",
+      "caption": "55",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B009_O033",
+      "caption": "55",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B009_O038",
+      "caption": "55",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B009_O052",
+      "caption": "55",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            11,
+            0,
+            28,
+            31
+          ],
+          "residual_ink_fraction": 0.3877068557919622,
+          "contact_pixels": 7,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.4614998960728082,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B009_O062",
+      "caption": "55",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B009_O087",
+      "caption": "55",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B009_O127",
+      "caption": "55",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            20,
+            30
+          ],
+          "residual_ink_fraction": 0.1912087912087912,
+          "contact_pixels": 21,
+          "base_class": "ST12",
+          "description": "ST12+outside_right_residual",
+          "distance": 0.42623277883843236,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B009_O134",
+      "caption": "55",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            7,
+            0,
+            36,
+            50
+          ],
+          "residual_ink_fraction": 0.15013774104683195,
+          "contact_pixels": 25,
+          "base_class": "ST06",
+          "description": "ST06+outside_left_residual",
+          "distance": 0.3811103605306574,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            14,
+            0,
+            36,
+            48
+          ],
+          "residual_ink_fraction": 0.4049586776859504,
+          "contact_pixels": 34,
+          "base_class": "ST12",
+          "description": "ST12+outside_left_residual",
+          "distance": 0.4071668457498704,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B010_O007",
+      "caption": "55",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B010_O009",
+      "caption": "55",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B010_O014",
+      "caption": "55",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            13,
+            0,
+            43,
+            47
+          ],
+          "residual_ink_fraction": 0.22470238095238096,
+          "contact_pixels": 3,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.34417868647204247,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            17,
+            0,
+            43,
+            47
+          ],
+          "residual_ink_fraction": 0.24702380952380953,
+          "contact_pixels": 2,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.3717401646705655,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B010_O040",
+      "caption": "55",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            10,
+            0,
+            48,
+            59
+          ],
+          "residual_ink_fraction": 0.3411764705882353,
+          "contact_pixels": 9,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.47671402648830813,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            14,
+            0,
+            48,
+            59
+          ],
+          "residual_ink_fraction": 0.3764705882352941,
+          "contact_pixels": 9,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.5041418967024035,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B010_O046",
+      "caption": "55",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            4,
+            1,
+            18,
+            22
+          ],
+          "residual_ink_fraction": 0.20398009950248755,
+          "contact_pixels": 14,
+          "base_class": "ST08",
+          "description": "ST08+outside_left_residual",
+          "distance": 0.34630444072899536,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "top",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            1,
+            7,
+            18,
+            22
+          ],
+          "residual_ink_fraction": 0.24378109452736318,
+          "contact_pixels": 9,
+          "base_class": "ST08",
+          "description": "ST08+outside_top_residual",
+          "distance": 0.3882055850024853,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B010_O057",
+      "caption": "55",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            0,
+            0,
+            35,
+            64
+          ],
+          "residual_ink_fraction": 0.15522107243650046,
+          "contact_pixels": 38,
+          "base_class": "ST06",
+          "description": "ST06+outside_right_residual",
+          "distance": 0.3539338255464945,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B010_O060",
+      "caption": "55",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            1,
+            22,
+            48
+          ],
+          "residual_ink_fraction": 0.25585585585585585,
+          "contact_pixels": 21,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.504126016864463,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B010_O074",
+      "caption": "55",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            16,
+            22
+          ],
+          "residual_ink_fraction": 0.15932203389830507,
+          "contact_pixels": 9,
+          "base_class": "ST05",
+          "description": "ST05+outside_right_residual",
+          "distance": 0.31914885685276256,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B010_O088",
+      "caption": "55",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B010_O093",
+      "caption": "55",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            29,
+            45
+          ],
+          "residual_ink_fraction": 0.2591623036649215,
+          "contact_pixels": 30,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.4343697616059857,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B011_O016",
+      "caption": "81",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B011_O020",
+      "caption": "81",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B011_O039",
+      "caption": "81",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B012_O012",
+      "caption": "81",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            47,
+            43
+          ],
+          "residual_ink_fraction": 0.29411764705882354,
+          "contact_pixels": 14,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.4850684649507645,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B012_O016",
+      "caption": "81",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            9,
+            33,
+            23
+          ],
+          "residual_ink_fraction": 0.2265625,
+          "contact_pixels": 23,
+          "base_class": "ST03",
+          "description": "ST03+outside_top_residual",
+          "distance": 0.3251337737540419,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B012_O018",
+      "caption": "81",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            37,
+            51,
+            93
+          ],
+          "residual_ink_fraction": 0.34564643799472294,
+          "contact_pixels": 11,
+          "base_class": "ST06",
+          "description": "ST06+outside_top_residual",
+          "distance": 0.21234653136397227,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B012_O031",
+      "caption": "81",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B012_O040",
+      "caption": "81",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            22,
+            92,
+            55
+          ],
+          "residual_ink_fraction": 0.3534260690365791,
+          "contact_pixels": 26,
+          "base_class": "ST03",
+          "description": "ST03+outside_top_residual",
+          "distance": 0.33492363394690083,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B012_O053",
+      "caption": "81",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            0,
+            0,
+            85,
+            34
+          ],
+          "residual_ink_fraction": 0.2697583278902678,
+          "contact_pixels": 23,
+          "base_class": "ST15",
+          "description": "ST15+outside_right_residual",
+          "distance": 0.3938171483813702,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            74,
+            34
+          ],
+          "residual_ink_fraction": 0.4082299150881777,
+          "contact_pixels": 13,
+          "base_class": "ST04",
+          "description": "ST04+outside_right_residual",
+          "distance": 0.30215047836530745,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B015_O002",
+      "caption": "115",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B015_O004",
+      "caption": "115",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B015_O011",
+      "caption": "115",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            12,
+            0,
+            29,
+            37
+          ],
+          "residual_ink_fraction": 0.18255578093306288,
+          "contact_pixels": 20,
+          "base_class": "ST12",
+          "description": "ST12+outside_left_residual",
+          "distance": 0.3375002189297468,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            1,
+            20,
+            52
+          ],
+          "residual_ink_fraction": 0.38742393509127787,
+          "contact_pixels": 26,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.27931387721370565,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            9,
+            0,
+            29,
+            31
+          ],
+          "residual_ink_fraction": 0.18864097363083165,
+          "contact_pixels": 13,
+          "base_class": "ST06",
+          "description": "ST06+outside_bottom_residual",
+          "distance": 0.334468989269363,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B015_O018",
+      "caption": "115",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            9,
+            0,
+            43,
+            41
+          ],
+          "residual_ink_fraction": 0.17375231053604437,
+          "contact_pixels": 4,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.41332833551066905,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            13,
+            0,
+            43,
+            41
+          ],
+          "residual_ink_fraction": 0.21626617375231053,
+          "contact_pixels": 10,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.40473225295694576,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            17,
+            0,
+            43,
+            41
+          ],
+          "residual_ink_fraction": 0.3197781885397412,
+          "contact_pixels": 15,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.4428604714917116,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B015_O024",
+      "caption": "115",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            12,
+            29,
+            30
+          ],
+          "residual_ink_fraction": 0.4264705882352941,
+          "contact_pixels": 18,
+          "base_class": "ST01",
+          "description": "ST01+outside_top_residual",
+          "distance": 0.3697156707407961,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B015_O034",
+      "caption": "115",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            32,
+            0,
+            80,
+            85
+          ],
+          "residual_ink_fraction": 0.199288256227758,
+          "contact_pixels": 16,
+          "base_class": "ST07",
+          "description": "ST07+outside_left_residual",
+          "distance": 0.46052198592782345,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B015_O048",
+      "caption": "115",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B015_O060",
+      "caption": "115",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B015_O061",
+      "caption": "115",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            10,
+            64,
+            34
+          ],
+          "residual_ink_fraction": 0.18016194331983806,
+          "contact_pixels": 19,
+          "base_class": "ST03",
+          "description": "ST03+outside_top_residual",
+          "distance": 0.2857186328829595,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            14,
+            60,
+            34
+          ],
+          "residual_ink_fraction": 0.2591093117408907,
+          "contact_pixels": 25,
+          "base_class": "ST04",
+          "description": "ST04+outside_top_residual",
+          "distance": 0.29351734460467094,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B016_O008",
+      "caption": "115",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B016_O021",
+      "caption": "115",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            11,
+            25,
+            28
+          ],
+          "residual_ink_fraction": 0.40625,
+          "contact_pixels": 15,
+          "base_class": "ST02",
+          "description": "ST02+outside_top_residual",
+          "distance": 0.3581872712501649,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B016_O031",
+      "caption": "115",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            34,
+            59
+          ],
+          "residual_ink_fraction": 0.34651162790697676,
+          "contact_pixels": 10,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.27796646047962875,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B016_O051",
+      "caption": "115",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B016_O066",
+      "caption": "115",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B016_O070",
+      "caption": "115",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B016_O072",
+      "caption": "115",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B016_O081",
+      "caption": "115",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            20,
+            21
+          ],
+          "residual_ink_fraction": 0.2706185567010309,
+          "contact_pixels": 18,
+          "base_class": "ST02",
+          "description": "ST02+outside_right_residual",
+          "distance": 0.33739983924913974,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            29,
+            15
+          ],
+          "residual_ink_fraction": 0.22422680412371135,
+          "contact_pixels": 25,
+          "base_class": "ST01",
+          "description": "ST01+outside_bottom_residual",
+          "distance": 0.35803413997425837,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B003_O017",
+      "caption": "10",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B003_O018",
+      "caption": "10",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B003_O025",
+      "caption": "10",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            11,
+            0,
+            37,
+            40
+          ],
+          "residual_ink_fraction": 0.2518939393939394,
+          "contact_pixels": 13,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.4023271815384663,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B003_O027",
+      "caption": "10",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B003_O040",
+      "caption": "10",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            6,
+            0,
+            31,
+            40
+          ],
+          "residual_ink_fraction": 0.1864864864864865,
+          "contact_pixels": 11,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.45587536724809774,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            9,
+            0,
+            31,
+            40
+          ],
+          "residual_ink_fraction": 0.2648648648648649,
+          "contact_pixels": 8,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.41293859547431616,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            12,
+            0,
+            31,
+            37
+          ],
+          "residual_ink_fraction": 0.35945945945945945,
+          "contact_pixels": 10,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.5049711305063117,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B003_O041",
+      "caption": "10",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            7,
+            0,
+            24,
+            22
+          ],
+          "residual_ink_fraction": 0.1532258064516129,
+          "contact_pixels": 10,
+          "base_class": "ST05",
+          "description": "ST05+outside_left_residual",
+          "distance": 0.3970968601128628,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B003_O050",
+      "caption": "10",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            42,
+            48
+          ],
+          "residual_ink_fraction": 0.42015968063872255,
+          "contact_pixels": 6,
+          "base_class": "ST12",
+          "description": "ST12+outside_right_residual",
+          "distance": 0.2659980524299766,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B003_O058",
+      "caption": "10",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B003_O065",
+      "caption": "10",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B003_O068",
+      "caption": "10",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            14,
+            27
+          ],
+          "residual_ink_fraction": 0.2598187311178248,
+          "contact_pixels": 18,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.4416684718204373,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "top",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            8,
+            21,
+            27
+          ],
+          "residual_ink_fraction": 0.32628398791540786,
+          "contact_pixels": 16,
+          "base_class": "ST08",
+          "description": "ST08+outside_top_residual",
+          "distance": 0.33256553397164573,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            1,
+            11,
+            21,
+            27
+          ],
+          "residual_ink_fraction": 0.44108761329305135,
+          "contact_pixels": 10,
+          "base_class": "ST08",
+          "description": "ST08+outside_top_residual",
+          "distance": 0.31989595157464235,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B003_O069",
+      "caption": "10",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B004_O019",
+      "caption": "10",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            43,
+            68
+          ],
+          "residual_ink_fraction": 0.4227567067530065,
+          "contact_pixels": 5,
+          "base_class": "ST12",
+          "description": "ST12+outside_right_residual",
+          "distance": 0.34362002478851855,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B004_O039",
+      "caption": "10",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            14,
+            0,
+            34,
+            50
+          ],
+          "residual_ink_fraction": 0.2898832684824903,
+          "contact_pixels": 38,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.46633035610171,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B004_O041",
+      "caption": "10",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B004_O047",
+      "caption": "10",
+      "explanations": [
+        {
+          "side": "bottom",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            0,
+            0,
+            31,
+            19
+          ],
+          "residual_ink_fraction": 0.16743119266055045,
+          "contact_pixels": 21,
+          "base_class": "ST02",
+          "description": "ST02+outside_bottom_residual",
+          "distance": 0.3221222188001583,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B004_O057",
+      "caption": "10",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B004_O075",
+      "caption": "10",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B004_O078",
+      "caption": "10",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            8,
+            18,
+            26
+          ],
+          "residual_ink_fraction": 0.1885245901639344,
+          "contact_pixels": 8,
+          "base_class": "ST08",
+          "description": "ST08+outside_top_residual",
+          "distance": 0.24406617446996928,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            1,
+            10,
+            18,
+            26
+          ],
+          "residual_ink_fraction": 0.2581967213114754,
+          "contact_pixels": 9,
+          "base_class": "ST08",
+          "description": "ST08+outside_top_residual",
+          "distance": 0.3270054056056493,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            13,
+            18
+          ],
+          "residual_ink_fraction": 0.4180327868852459,
+          "contact_pixels": 11,
+          "base_class": "ST08",
+          "description": "ST08+outside_bottom_residual",
+          "distance": 0.3543500978974505,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O003",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            32,
+            0,
+            162,
+            62
+          ],
+          "residual_ink_fraction": 0.34402852049910876,
+          "contact_pixels": 17,
+          "base_class": "ST04",
+          "description": "ST04+outside_left_residual",
+          "distance": 0.40371759395018886,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O018",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "bottom",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            23,
+            20
+          ],
+          "residual_ink_fraction": 0.2131979695431472,
+          "contact_pixels": 17,
+          "base_class": "ST02",
+          "description": "ST02+outside_bottom_residual",
+          "distance": 0.3227465385550825,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O019",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            19,
+            25
+          ],
+          "residual_ink_fraction": 0.18610421836228289,
+          "contact_pixels": 15,
+          "base_class": "ST05",
+          "description": "ST05+outside_right_residual",
+          "distance": 0.4202102678455696,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O027",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            7,
+            0,
+            33,
+            35
+          ],
+          "residual_ink_fraction": 0.20204081632653062,
+          "contact_pixels": 16,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.4828207101328983,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O036",
+      "caption": "106",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O054",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            24,
+            0,
+            60,
+            88
+          ],
+          "residual_ink_fraction": 0.4145758661887694,
+          "contact_pixels": 7,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.355222697152006,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O063",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            7,
+            0,
+            35,
+            49
+          ],
+          "residual_ink_fraction": 0.15947712418300652,
+          "contact_pixels": 23,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.48373723251381934,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            10,
+            0,
+            35,
+            47
+          ],
+          "residual_ink_fraction": 0.23006535947712417,
+          "contact_pixels": 15,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.37670464584966956,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            14,
+            0,
+            35,
+            46
+          ],
+          "residual_ink_fraction": 0.338562091503268,
+          "contact_pixels": 28,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.3780663274331673,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O071",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            9,
+            22
+          ],
+          "residual_ink_fraction": 0.20689655172413793,
+          "contact_pixels": 12,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.5085637275679841,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            13,
+            15
+          ],
+          "residual_ink_fraction": 0.2,
+          "contact_pixels": 7,
+          "base_class": "ST08",
+          "description": "ST08+outside_bottom_residual",
+          "distance": 0.33027666525100396,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            13,
+            13
+          ],
+          "residual_ink_fraction": 0.31724137931034485,
+          "contact_pixels": 9,
+          "base_class": "ST08",
+          "description": "ST08+outside_bottom_residual",
+          "distance": 0.33251739760906246,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O080",
+      "caption": "106",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O082",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            34,
+            0,
+            86,
+            81
+          ],
+          "residual_ink_fraction": 0.2021709633649932,
+          "contact_pixels": 18,
+          "base_class": "ST07",
+          "description": "ST07+outside_left_residual",
+          "distance": 0.3487800063714244,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O094",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "bottom",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            29,
+            17
+          ],
+          "residual_ink_fraction": 0.24064171122994651,
+          "contact_pixels": 21,
+          "base_class": "ST01",
+          "description": "ST01+outside_bottom_residual",
+          "distance": 0.3319483212735825,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O099",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            0,
+            31,
+            104
+          ],
+          "residual_ink_fraction": 0.19742489270386265,
+          "contact_pixels": 22,
+          "base_class": "ST11",
+          "description": "ST11+outside_right_residual",
+          "distance": 0.4650053121480616,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            1,
+            0,
+            51,
+            83
+          ],
+          "residual_ink_fraction": 0.21083690987124465,
+          "contact_pixels": 17,
+          "base_class": "ST06",
+          "description": "ST06+outside_bottom_residual",
+          "distance": 0.29078092079143913,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            3,
+            0,
+            51,
+            73
+          ],
+          "residual_ink_fraction": 0.29452789699570814,
+          "contact_pixels": 14,
+          "base_class": "ST06",
+          "description": "ST06+outside_bottom_residual",
+          "distance": 0.33362545117325104,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            3,
+            0,
+            51,
+            62
+          ],
+          "residual_ink_fraction": 0.3830472103004292,
+          "contact_pixels": 16,
+          "base_class": "ST06",
+          "description": "ST06+outside_bottom_residual",
+          "distance": 0.32142141827191323,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O101",
+      "caption": "106",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O107",
+      "caption": "106",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B013_O113",
+      "caption": "106",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B014_O028",
+      "caption": "106",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B014_O036",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            6,
+            0,
+            21,
+            24
+          ],
+          "residual_ink_fraction": 0.2,
+          "contact_pixels": 8,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.4325937883819202,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            8,
+            0,
+            21,
+            24
+          ],
+          "residual_ink_fraction": 0.2744186046511628,
+          "contact_pixels": 8,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.43570560470217506,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B014_O038",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            7,
+            0,
+            22,
+            28
+          ],
+          "residual_ink_fraction": 0.2744186046511628,
+          "contact_pixels": 20,
+          "base_class": "ST08",
+          "description": "ST08+outside_left_residual",
+          "distance": 0.34161055930552253,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            9,
+            0,
+            22,
+            28
+          ],
+          "residual_ink_fraction": 0.36511627906976746,
+          "contact_pixels": 20,
+          "base_class": "ST08",
+          "description": "ST08+outside_left_residual",
+          "distance": 0.3269876715037061,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B014_O049",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            8,
+            0,
+            40,
+            49
+          ],
+          "residual_ink_fraction": 0.18770226537216828,
+          "contact_pixels": 16,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.44329516949941106,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            12,
+            0,
+            40,
+            48
+          ],
+          "residual_ink_fraction": 0.26375404530744334,
+          "contact_pixels": 7,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.4051375151111128,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            16,
+            0,
+            40,
+            48
+          ],
+          "residual_ink_fraction": 0.3106796116504854,
+          "contact_pixels": 11,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.37992341608098806,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B014_O053",
+      "caption": "106",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B014_O062",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            13,
+            0,
+            43,
+            55
+          ],
+          "residual_ink_fraction": 0.37048503611971106,
+          "contact_pixels": 6,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.3784356766916217,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B014_O071",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "top",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            20,
+            52,
+            49
+          ],
+          "residual_ink_fraction": 0.2004581901489118,
+          "contact_pixels": 4,
+          "base_class": "ST03",
+          "description": "ST03+outside_top_residual",
+          "distance": 0.28144574604917016,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B014_O073",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            1,
+            16,
+            24
+          ],
+          "residual_ink_fraction": 0.4116161616161616,
+          "contact_pixels": 9,
+          "base_class": "ST05",
+          "description": "ST05+outside_right_residual",
+          "distance": 0.26091755579425685,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B014_O094",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "left",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            5,
+            0,
+            24,
+            33
+          ],
+          "residual_ink_fraction": 0.20168067226890757,
+          "contact_pixels": 26,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.3686365954986251,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "left",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            7,
+            0,
+            24,
+            33
+          ],
+          "residual_ink_fraction": 0.3025210084033613,
+          "contact_pixels": 22,
+          "base_class": "ST11",
+          "description": "ST11+outside_left_residual",
+          "distance": 0.44972010939624635,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B014_O101",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "right",
+          "fraction": 0.2,
+          "base_local_bbox": [
+            0,
+            0,
+            21,
+            22
+          ],
+          "residual_ink_fraction": 0.18701298701298702,
+          "contact_pixels": 21,
+          "base_class": "ST02",
+          "description": "ST02+outside_right_residual",
+          "distance": 0.35573344027256026,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "right",
+          "fraction": 0.4,
+          "base_local_bbox": [
+            0,
+            1,
+            16,
+            22
+          ],
+          "residual_ink_fraction": 0.42077922077922075,
+          "contact_pixels": 13,
+          "base_class": "ST05",
+          "description": "ST05+outside_right_residual",
+          "distance": 0.352823882491756,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        },
+        {
+          "side": "bottom",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            26,
+            16
+          ],
+          "residual_ink_fraction": 0.2545454545454545,
+          "contact_pixels": 23,
+          "base_class": "ST02",
+          "description": "ST02+outside_bottom_residual",
+          "distance": 0.331294059912899,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B014_O105",
+      "caption": "106",
+      "explanations": [
+        {
+          "side": "bottom",
+          "fraction": 0.3,
+          "base_local_bbox": [
+            0,
+            0,
+            32,
+            17
+          ],
+          "residual_ink_fraction": 0.21987315010570824,
+          "contact_pixels": 25,
+          "base_class": "ST01",
+          "description": "ST01+outside_bottom_residual",
+          "distance": 0.37828997054167957,
+          "threshold_validation": "pending: primary-mask factor only, not a valid composite assignment"
+        }
+      ],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B014_O108",
+      "caption": "106",
+      "explanations": [],
+      "whole_parent_retained": true
+    },
+    {
+      "parent_id": "B014_O120",
+      "caption": "106",
+      "explanations": [],
+      "whole_parent_retained": true
+    }
+  ],
+  "candidates": {
+    "ST04+outside_bottom_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B001_O115"
+      ],
+      "eligible": false
+    },
+    "ST03+outside_top_residual": {
+      "training_instances": 10,
+      "training_captions": 6,
+      "parents": [
+        "B001_O115",
+        "B002_O106",
+        "B005_O051",
+        "B005_O066",
+        "B006_O128",
+        "B007_O150",
+        "B012_O016",
+        "B012_O040",
+        "B015_O061",
+        "B014_O071"
+      ],
+      "eligible": true
+    },
+    "ST02+outside_top_residual": {
+      "training_instances": 5,
+      "training_captions": 4,
+      "parents": [
+        "B001_O121",
+        "B005_O119",
+        "B005_O154",
+        "B008_O146",
+        "B016_O021"
+      ],
+      "eligible": false
+    },
+    "ST11+outside_left_residual": {
+      "training_instances": 25,
+      "training_captions": 7,
+      "parents": [
+        "B001_O121",
+        "B001_O127",
+        "B005_O108",
+        "B005_O111",
+        "B005_O118",
+        "B005_O193",
+        "B007_O164",
+        "B008_O139",
+        "B008_O146",
+        "B008_O151",
+        "B009_O013",
+        "B009_O052",
+        "B010_O014",
+        "B010_O040",
+        "B015_O018",
+        "B003_O025",
+        "B003_O040",
+        "B004_O039",
+        "B013_O027",
+        "B013_O054",
+        "B013_O063",
+        "B014_O036",
+        "B014_O049",
+        "B014_O062",
+        "B014_O094"
+      ],
+      "eligible": true
+    },
+    "ST12+outside_bottom_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B001_O134"
+      ],
+      "eligible": false
+    },
+    "ST11+outside_bottom_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B002_O030"
+      ],
+      "eligible": false
+    },
+    "ST03+outside_right_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B002_O047"
+      ],
+      "eligible": false
+    },
+    "ST11+outside_right_residual": {
+      "training_instances": 16,
+      "training_captions": 8,
+      "parents": [
+        "B002_O055",
+        "B005_O108",
+        "B005_O118",
+        "B005_O182",
+        "B007_O060",
+        "B007_O130",
+        "B007_O149",
+        "B008_O144",
+        "B010_O060",
+        "B010_O093",
+        "B012_O012",
+        "B015_O011",
+        "B016_O031",
+        "B003_O068",
+        "B013_O071",
+        "B013_O099"
+      ],
+      "eligible": true
+    },
+    "ST03+outside_bottom_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B005_O051"
+      ],
+      "eligible": false
+    },
+    "ST12+outside_right_residual": {
+      "training_instances": 4,
+      "training_captions": 3,
+      "parents": [
+        "B005_O111",
+        "B009_O127",
+        "B003_O050",
+        "B004_O019"
+      ],
+      "eligible": false
+    },
+    "ST02+outside_bottom_residual": {
+      "training_instances": 4,
+      "training_captions": 3,
+      "parents": [
+        "B005_O122",
+        "B004_O047",
+        "B013_O018",
+        "B014_O101"
+      ],
+      "eligible": false
+    },
+    "ST05+outside_top_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B005_O131"
+      ],
+      "eligible": false
+    },
+    "ST05+outside_right_residual": {
+      "training_instances": 5,
+      "training_captions": 3,
+      "parents": [
+        "B005_O131",
+        "B010_O074",
+        "B013_O019",
+        "B014_O073",
+        "B014_O101"
+      ],
+      "eligible": false
+    },
+    "ST08+outside_left_residual": {
+      "training_instances": 5,
+      "training_captions": 4,
+      "parents": [
+        "B005_O182",
+        "B006_O087",
+        "B007_O159",
+        "B010_O046",
+        "B014_O038"
+      ],
+      "eligible": false
+    },
+    "ST08+outside_right_residual": {
+      "training_instances": 4,
+      "training_captions": 2,
+      "parents": [
+        "B006_O098",
+        "B007_O134",
+        "B008_O099",
+        "B008_O135"
+      ],
+      "eligible": false
+    },
+    "ST06+outside_bottom_residual": {
+      "training_instances": 3,
+      "training_captions": 3,
+      "parents": [
+        "B007_O149",
+        "B015_O011",
+        "B013_O099"
+      ],
+      "eligible": false
+    },
+    "ST11+outside_top_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B007_O164"
+      ],
+      "eligible": false
+    },
+    "ST12+outside_left_residual": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "parents": [
+        "B009_O134",
+        "B015_O011"
+      ],
+      "eligible": false
+    },
+    "ST06+outside_left_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B009_O134"
+      ],
+      "eligible": false
+    },
+    "ST08+outside_top_residual": {
+      "training_instances": 3,
+      "training_captions": 2,
+      "parents": [
+        "B010_O046",
+        "B003_O068",
+        "B004_O078"
+      ],
+      "eligible": false
+    },
+    "ST06+outside_right_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B010_O057"
+      ],
+      "eligible": false
+    },
+    "ST06+outside_top_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B012_O018"
+      ],
+      "eligible": false
+    },
+    "ST04+outside_right_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B012_O053"
+      ],
+      "eligible": false
+    },
+    "ST15+outside_right_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B012_O053"
+      ],
+      "eligible": false
+    },
+    "ST01+outside_top_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B015_O024"
+      ],
+      "eligible": false
+    },
+    "ST07+outside_left_residual": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "parents": [
+        "B015_O034",
+        "B013_O082"
+      ],
+      "eligible": false
+    },
+    "ST04+outside_top_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B015_O061"
+      ],
+      "eligible": false
+    },
+    "ST02+outside_right_residual": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "parents": [
+        "B016_O081",
+        "B014_O101"
+      ],
+      "eligible": false
+    },
+    "ST01+outside_bottom_residual": {
+      "training_instances": 3,
+      "training_captions": 2,
+      "parents": [
+        "B016_O081",
+        "B013_O094",
+        "B014_O105"
+      ],
+      "eligible": false
+    },
+    "ST05+outside_left_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B003_O041"
+      ],
+      "eligible": false
+    },
+    "ST08+outside_bottom_residual": {
+      "training_instances": 2,
+      "training_captions": 2,
+      "parents": [
+        "B004_O078",
+        "B013_O071"
+      ],
+      "eligible": false
+    },
+    "ST04+outside_left_residual": {
+      "training_instances": 1,
+      "training_captions": 1,
+      "parents": [
+        "B013_O003"
+      ],
+      "eligible": false
+    }
+  },
+  "primary_factor_coverage": 87,
+  "interpretation": "Outside-band removal supports competing morphology measurements only. A successful truncated-base fit does not prove an inserted unit; residual geometry/contact and source agreement still require validation."
+}

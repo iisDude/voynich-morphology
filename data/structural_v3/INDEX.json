@@ -1,0 +1,36 @@
+{
+  "category": "structural_v3",
+  "files": [
+    {
+      "logical_path": "data/observations/visual_dataset_v3/all_capture_index.json",
+      "public_path": "data/structural_v3/frozen/all_capture_index.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v3/freeze_qualification.json",
+      "public_path": "data/structural_v3/frozen/freeze_qualification.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v3/model_contract.json",
+      "public_path": "data/structural_v3/frozen/model_contract.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v3/neutral_structural_atlas.json",
+      "public_path": "data/structural_v3/frozen/neutral_structural_atlas.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "tests/recurrence_v3_development/freeze_qualification_v3.json",
+      "public_path": "data/structural_v3/frozen/freeze_qualification.json",
+      "storage": "file"
+    },
+    {
+      "logical_path": "data/observations/visual_dataset_v3/FREEZE_MANIFEST.json",
+      "public_path": "data/structural_v3/frozen/FREEZE_MANIFEST.json.gz",
+      "storage": "gzip"
+    }
+  ],
+  "authoritative_transport_index": "../../manifests/FILE_INDEX.json"
+}

@@ -1,0 +1,7 @@
+{
+  "implemented_at_utc": "2026-10-07T07:27:38.032958+00:00",
+  "normalization": "Native mask tight envelope; nearest-neighbor proportional resizing; centered64/32/128; margins size/16 with minimum2px.64 has56px support. No rotation or learned registration.",
+  "candidate_match": "All6/12 CC overlaps>=5% primary area; split union preserves native locations. Missing match is explicit, never all-zero shape.",
+  "uncertainty": "Candidate envelope only, not confidence interval. Unknown extent is unknown, not mean or chosen closest morphology.",
+  "code_sha256": "472ec3436beb76dce6ecafc6f91ba0dcc6f7c2ea1bc124db5f0ddf8e38b36e06"
+}

@@ -1,0 +1,40 @@
+{
+  "view_id": "V_125",
+  "native_source": "data/source/yale_native/1006197.jpg",
+  "source_sha256": "06d33798cd4f901771b9869078d3f29f7e7ef5a490a9abc6dd09f3a3adec867f",
+  "status": "source reviewed partial writing fields",
+  "writing_fields": [],
+  "curved_writing_adjudication": {
+    "case_id": "CURVE_V_125",
+    "kind": "curved_view",
+    "view_id": "V_125",
+    "priority_score": 5,
+    "questions": [
+      "curved_writing_membership",
+      "orientation",
+      "path_seam",
+      "panel_mapping"
+    ],
+    "status": "source_reviewed: writing paths distinguished from diagram/ornament; unit boundaries partly unknown",
+    "native_source": "data/source/yale_native/1006197.jpg",
+    "hypotheses_path": "data/observations/curved_path_candidates_v2/V_125.json",
+    "observation": "Left spiral/curved band field, central seven-lobed blue shape with annular writing and right sun field with curved strings. Blue disks/rays, stars and rules are drawing. Native crops distinguish strings beside rings from the oval/star ornament outlines.",
+    "writing_paths": "left curved/spiral bands and paragraph; central/right annular bands and interior labels",
+    "visible_panel_fractions": [
+      0.19,
+      0.435,
+      0.69
+    ],
+    "orientation": "local tangent orientations change around curved/spiral bands; starting seams unknown",
+    "native_inspection": "whole capture plus four unscaled 650x650 source crops",
+    "group_boundaries": "unknown except visible local gaps; no complete ring group inventory certified",
+    "pen_lift": "unknown",
+    "horizontal_assay_eligible": false
+  },
+  "prior_proposal_path": "data/observations/regional_candidates_v11/V_125.json",
+  "prior_rows_status": "Unknown unless a reviewed field explicitly supersedes them; no old unit sequences admitted",
+  "unreviewed_prior_rows": 5,
+  "physical_folio_identity": "caption only; panel correspondence unknown",
+  "canonical_graphemes": "unknown",
+  "pen_lifts": "unknown"
+}

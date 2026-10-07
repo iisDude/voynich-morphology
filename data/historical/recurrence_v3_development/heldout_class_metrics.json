@@ -1,0 +1,442 @@
+{
+  "model_seal_sha256": "7ccf8aafe7bc0999b35e8c58ed5b35558a1fd0d9c496f40ed52e52808a46f7c3",
+  "metrics": {
+    "validation": {
+      "clear_components": 2785,
+      "accepted": 2073,
+      "assignment_coverage": 0.7443447037701975,
+      "caption_groups": 7,
+      "threshold_assignment_stability": 0.7742402315484804,
+      "alignment_slant_stability": 0.8253738543174144,
+      "median_chamfer": 0.005624216515570879
+    },
+    "test": {
+      "clear_components": 2850,
+      "accepted": 2078,
+      "assignment_coverage": 0.7291228070175438,
+      "caption_groups": 7,
+      "threshold_assignment_stability": 0.7911453320500481,
+      "alignment_slant_stability": 0.8123195380173244,
+      "median_chamfer": 0.005874759517610073
+    }
+  },
+  "recurring_core_classes": {
+    "SC138": {
+      "training_captions": 7,
+      "test_instances": 6,
+      "test_captions": 3
+    },
+    "SC076": {
+      "training_captions": 20,
+      "test_instances": 51,
+      "test_captions": 5
+    },
+    "SC113": {
+      "training_captions": 22,
+      "test_instances": 69,
+      "test_captions": 6
+    },
+    "SC062": {
+      "training_captions": 21,
+      "test_instances": 33,
+      "test_captions": 6
+    },
+    "SC149": {
+      "training_captions": 15,
+      "test_instances": 19,
+      "test_captions": 5
+    },
+    "SC169": {
+      "training_captions": 22,
+      "test_instances": 102,
+      "test_captions": 7
+    },
+    "SC040": {
+      "training_captions": 22,
+      "test_instances": 45,
+      "test_captions": 7
+    },
+    "SC021": {
+      "training_captions": 21,
+      "test_instances": 23,
+      "test_captions": 6
+    },
+    "SC073": {
+      "training_captions": 13,
+      "test_instances": 20,
+      "test_captions": 6
+    },
+    "SC128": {
+      "training_captions": 12,
+      "test_instances": 10,
+      "test_captions": 4
+    },
+    "SC015": {
+      "training_captions": 18,
+      "test_instances": 21,
+      "test_captions": 5
+    },
+    "SC010": {
+      "training_captions": 22,
+      "test_instances": 45,
+      "test_captions": 6
+    },
+    "SC028": {
+      "training_captions": 17,
+      "test_instances": 14,
+      "test_captions": 4
+    },
+    "SC117": {
+      "training_captions": 21,
+      "test_instances": 39,
+      "test_captions": 6
+    },
+    "SC171": {
+      "training_captions": 20,
+      "test_instances": 23,
+      "test_captions": 6
+    },
+    "SC109": {
+      "training_captions": 19,
+      "test_instances": 59,
+      "test_captions": 5
+    },
+    "SC086": {
+      "training_captions": 16,
+      "test_instances": 31,
+      "test_captions": 4
+    },
+    "SC047": {
+      "training_captions": 20,
+      "test_instances": 36,
+      "test_captions": 7
+    },
+    "SC004": {
+      "training_captions": 22,
+      "test_instances": 25,
+      "test_captions": 7
+    },
+    "SC059": {
+      "training_captions": 21,
+      "test_instances": 51,
+      "test_captions": 7
+    },
+    "SC074": {
+      "training_captions": 16,
+      "test_instances": 16,
+      "test_captions": 4
+    },
+    "SC089": {
+      "training_captions": 19,
+      "test_instances": 15,
+      "test_captions": 3
+    },
+    "SC005": {
+      "training_captions": 16,
+      "test_instances": 12,
+      "test_captions": 3
+    },
+    "SC065": {
+      "training_captions": 20,
+      "test_instances": 13,
+      "test_captions": 5
+    },
+    "SC078": {
+      "training_captions": 17,
+      "test_instances": 39,
+      "test_captions": 5
+    },
+    "SC091": {
+      "training_captions": 15,
+      "test_instances": 35,
+      "test_captions": 4
+    },
+    "SC174": {
+      "training_captions": 19,
+      "test_instances": 65,
+      "test_captions": 7
+    },
+    "SC067": {
+      "training_captions": 17,
+      "test_instances": 61,
+      "test_captions": 4
+    },
+    "SC008": {
+      "training_captions": 15,
+      "test_instances": 9,
+      "test_captions": 3
+    },
+    "SC148": {
+      "training_captions": 14,
+      "test_instances": 12,
+      "test_captions": 4
+    },
+    "SC168": {
+      "training_captions": 20,
+      "test_instances": 32,
+      "test_captions": 6
+    },
+    "SC085": {
+      "training_captions": 13,
+      "test_instances": 8,
+      "test_captions": 5
+    },
+    "SC144": {
+      "training_captions": 13,
+      "test_instances": 6,
+      "test_captions": 4
+    },
+    "SC110": {
+      "training_captions": 21,
+      "test_instances": 48,
+      "test_captions": 6
+    },
+    "SC121": {
+      "training_captions": 13,
+      "test_instances": 18,
+      "test_captions": 3
+    },
+    "SC075": {
+      "training_captions": 12,
+      "test_instances": 6,
+      "test_captions": 4
+    },
+    "SC011": {
+      "training_captions": 12,
+      "test_instances": 14,
+      "test_captions": 4
+    },
+    "SC161": {
+      "training_captions": 20,
+      "test_instances": 20,
+      "test_captions": 5
+    },
+    "SC122": {
+      "training_captions": 10,
+      "test_instances": 16,
+      "test_captions": 4
+    },
+    "SC176": {
+      "training_captions": 16,
+      "test_instances": 7,
+      "test_captions": 4
+    },
+    "SC056": {
+      "training_captions": 18,
+      "test_instances": 24,
+      "test_captions": 5
+    },
+    "SC166": {
+      "training_captions": 18,
+      "test_instances": 13,
+      "test_captions": 6
+    },
+    "SC096": {
+      "training_captions": 17,
+      "test_instances": 19,
+      "test_captions": 5
+    },
+    "SC106": {
+      "training_captions": 22,
+      "test_instances": 15,
+      "test_captions": 5
+    },
+    "SC035": {
+      "training_captions": 18,
+      "test_instances": 18,
+      "test_captions": 5
+    },
+    "SC063": {
+      "training_captions": 21,
+      "test_instances": 61,
+      "test_captions": 5
+    },
+    "SC147": {
+      "training_captions": 21,
+      "test_instances": 16,
+      "test_captions": 5
+    },
+    "SC045": {
+      "training_captions": 22,
+      "test_instances": 45,
+      "test_captions": 5
+    },
+    "SC177": {
+      "training_captions": 19,
+      "test_instances": 21,
+      "test_captions": 6
+    },
+    "SC095": {
+      "training_captions": 18,
+      "test_instances": 14,
+      "test_captions": 4
+    },
+    "SC042": {
+      "training_captions": 15,
+      "test_instances": 18,
+      "test_captions": 6
+    },
+    "SC037": {
+      "training_captions": 13,
+      "test_instances": 5,
+      "test_captions": 3
+    },
+    "SC012": {
+      "training_captions": 20,
+      "test_instances": 41,
+      "test_captions": 6
+    },
+    "SC034": {
+      "training_captions": 17,
+      "test_instances": 11,
+      "test_captions": 4
+    },
+    "SC104": {
+      "training_captions": 17,
+      "test_instances": 16,
+      "test_captions": 4
+    },
+    "SC132": {
+      "training_captions": 14,
+      "test_instances": 6,
+      "test_captions": 3
+    },
+    "SC099": {
+      "training_captions": 19,
+      "test_instances": 13,
+      "test_captions": 5
+    },
+    "SC006": {
+      "training_captions": 18,
+      "test_instances": 19,
+      "test_captions": 4
+    },
+    "SC058": {
+      "training_captions": 16,
+      "test_instances": 5,
+      "test_captions": 3
+    },
+    "SC164": {
+      "training_captions": 19,
+      "test_instances": 34,
+      "test_captions": 3
+    },
+    "SC002": {
+      "training_captions": 20,
+      "test_instances": 30,
+      "test_captions": 5
+    },
+    "SC064": {
+      "training_captions": 14,
+      "test_instances": 10,
+      "test_captions": 4
+    },
+    "SC142": {
+      "training_captions": 17,
+      "test_instances": 10,
+      "test_captions": 4
+    },
+    "SC093": {
+      "training_captions": 18,
+      "test_instances": 15,
+      "test_captions": 5
+    },
+    "SC027": {
+      "training_captions": 16,
+      "test_instances": 14,
+      "test_captions": 4
+    },
+    "SC025": {
+      "training_captions": 11,
+      "test_instances": 29,
+      "test_captions": 4
+    },
+    "SC125": {
+      "training_captions": 13,
+      "test_instances": 5,
+      "test_captions": 3
+    },
+    "SC129": {
+      "training_captions": 9,
+      "test_instances": 11,
+      "test_captions": 3
+    },
+    "SC116": {
+      "training_captions": 13,
+      "test_instances": 20,
+      "test_captions": 3
+    },
+    "SC162": {
+      "training_captions": 18,
+      "test_instances": 45,
+      "test_captions": 3
+    },
+    "SC032": {
+      "training_captions": 12,
+      "test_instances": 32,
+      "test_captions": 3
+    },
+    "SC103": {
+      "training_captions": 11,
+      "test_instances": 27,
+      "test_captions": 3
+    },
+    "SC159": {
+      "training_captions": 13,
+      "test_instances": 17,
+      "test_captions": 3
+    },
+    "SC133": {
+      "training_captions": 12,
+      "test_instances": 6,
+      "test_captions": 3
+    },
+    "SC141": {
+      "training_captions": 16,
+      "test_instances": 7,
+      "test_captions": 3
+    },
+    "SC024": {
+      "training_captions": 10,
+      "test_instances": 7,
+      "test_captions": 3
+    },
+    "SC052": {
+      "training_captions": 8,
+      "test_instances": 8,
+      "test_captions": 3
+    },
+    "SC077": {
+      "training_captions": 16,
+      "test_instances": 10,
+      "test_captions": 3
+    },
+    "SC038": {
+      "training_captions": 14,
+      "test_instances": 11,
+      "test_captions": 3
+    },
+    "SC055": {
+      "training_captions": 18,
+      "test_instances": 7,
+      "test_captions": 3
+    },
+    "SC082": {
+      "training_captions": 11,
+      "test_instances": 5,
+      "test_captions": 3
+    },
+    "SC120": {
+      "training_captions": 13,
+      "test_instances": 7,
+      "test_captions": 3
+    },
+    "SC173": {
+      "training_captions": 8,
+      "test_instances": 6,
+      "test_captions": 3
+    }
+  },
+  "recurring_core_count": 83,
+  "note": "Unsupervised source candidates only. Native pair adjudication still required; no new freeze."
+}

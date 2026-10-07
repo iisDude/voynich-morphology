@@ -1,0 +1,36 @@
+{
+  "view_id": "V_126",
+  "native_source": "data/source/yale_native/1006198.jpg",
+  "source_sha256": "b830e74480830c0d5e8f7b56025473e051743f9ec50685b6fe316ecd493f0f01",
+  "status": "source reviewed partial writing fields",
+  "writing_fields": [],
+  "curved_writing_adjudication": {
+    "case_id": "CURVE_V_126",
+    "kind": "curved_view",
+    "view_id": "V_126",
+    "priority_score": 5,
+    "questions": [
+      "curved_writing_membership",
+      "orientation",
+      "path_seam",
+      "panel_mapping"
+    ],
+    "status": "source_reviewed: writing paths distinguished from diagram/ornament; unit boundaries partly unknown",
+    "native_source": "data/source/yale_native/1006198.jpg",
+    "hypotheses_path": "data/observations/curved_path_candidates_v2/V_126.json",
+    "observation": "Single main circular field has outer annular writing, inner annular writing and radial strings between blue/green spokes. Colored spokes, small oval nodes and central star are drawing. Native crops show short strings and separated upper marks, which do not resolve pen order.",
+    "writing_paths": "outer/inner annular bands plus radial writing and top paragraph",
+    "visible_panel_fractions": [],
+    "orientation": "tangential ring sectors and inward/outward radial strings; common logical order unknown",
+    "native_inspection": "whole capture plus four unscaled 650x650 source crops",
+    "group_boundaries": "unknown except visible local gaps; no complete ring group inventory certified",
+    "pen_lift": "unknown",
+    "horizontal_assay_eligible": false
+  },
+  "prior_proposal_path": "data/observations/regional_candidates_v11/V_126.json",
+  "prior_rows_status": "Unknown unless a reviewed field explicitly supersedes them; no old unit sequences admitted",
+  "unreviewed_prior_rows": 5,
+  "physical_folio_identity": "caption only; panel correspondence unknown",
+  "canonical_graphemes": "unknown",
+  "pen_lifts": "unknown"
+}

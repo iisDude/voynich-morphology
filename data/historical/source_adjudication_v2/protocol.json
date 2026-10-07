@@ -1,0 +1,28 @@
+{
+  "unit_policy": "Connected visible ink assemblies retained whole in conservative model; geometric fine alternatives retained; no pen-lift claims; old source-trained prototype/gates transferred without refit",
+  "row_policy": "Manual native-coordinate corridor correction; writing, drawing and uncertain ownership zones explicit; unreviewed rows unknown",
+  "group_policy": "Source-verified visible gaps with explicit merge/split overrides; disputed gaps retained as unknown; group not word",
+  "pixel_policy": "Center of assigned writing bbox normalized to independently adjudicated complete row writing extent; not rank",
+  "rank_policy": "Original adjudicated group slots including unresolved slots; no rank recomputation after unit exclusions",
+  "primary_assay": {
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5
+  },
+  "sensitivities": {
+    "frequencies": [
+      5,
+      8,
+      10,
+      12
+    ],
+    "edge_widths": [
+      1,
+      2
+    ],
+    "minimum_length_strict": 5
+  },
+  "null": "within-line measured-position slot shuffle",
+  "dependence": "joint caption-block occurrence bootstrap and connected-family uncertainty; heldout caption splits retained",
+  "comparison_metadata": "Only attach after v2 freeze; no conventional forms or effect inputs during source stage"
+}

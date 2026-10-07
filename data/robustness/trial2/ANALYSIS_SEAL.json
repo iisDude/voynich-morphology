@@ -1,0 +1,33 @@
+{
+  "sealed_at_utc": "2026-10-07T14:04:35.974592+00:00",
+  "files": [
+    {
+      "path": "data/observations/direct_morphology_trial2_robustness_v1/caption_bootstrap_draws.npz",
+      "sha256": "9e679698a8cc1d67603cd2ef7cd0d74f18fa5867ca6e5032d1bee4e655922ef4"
+    },
+    {
+      "path": "src/evaluate_dm2_robustness.py",
+      "sha256": "fb26a2f7a3cf5a4b9fdcec717b144417b5203138502f8e06b501e30bff099d32"
+    },
+    {
+      "path": "tests/direct_morphology_trial2_robustness_v1/conservative_analyses.json",
+      "sha256": "b14ccb4e5a22bdd6e54d6eb6dce9ddaf9101fa3108b130d4001701e75abd2d0a"
+    },
+    {
+      "path": "tests/direct_morphology_trial2_robustness_v1/DISPOSITION.json",
+      "sha256": "bf974eaa1606bf8f0cad41a317e8666734849316eaff0f5c8aa9be13d10749f1"
+    },
+    {
+      "path": "tests/direct_morphology_trial2_robustness_v1/larger_repeatability.json",
+      "sha256": "e9f77d81b75cb2c0b6ece118fb10a2a4949e535d9136b2cf3e7cf99783251179"
+    },
+    {
+      "path": "tests/direct_morphology_trial2_robustness_v1/partial_target_sensitivity.json",
+      "sha256": "a308e6cfa8f3fb471b15a7ed12f235517a1a7dc924eb09657f3c97237c0d338e"
+    },
+    {
+      "path": "tests/direct_morphology_trial2_robustness_v1/repeat_prediction_sensitivity.json",
+      "sha256": "b56ef544a6a9394437c7832e76ad04505083c07dafea58d795e283fbb600c846"
+    }
+  ]
+}

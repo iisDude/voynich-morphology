@@ -1,0 +1,25 @@
+{
+  "sealed_at_utc": "2026-10-07T05:24:48.478627+00:00",
+  "files": [
+    {
+      "path": "data/observations/structural_inventory_v6_development/source_unknown_diagnosis.json",
+      "sha256": "f5bc43e8f843574e0d0a97e58095f61097490214d4c385fa5c7493ede45e0868"
+    },
+    {
+      "path": "data/observations/structural_inventory_v6_development/discovery_parents.json",
+      "sha256": "dbf31196b27c1a08ebc6a6f743c8e2cb9bb0ebb559933d5f9aa1deef58d2eb03"
+    },
+    {
+      "path": "data/observations/structural_inventory_v6_development/discovery_shapes.npz",
+      "sha256": "6f12e640f995baf3f7b2e477f7290c7110344e8bb6ea523d68b7e615fd3ee5ff"
+    },
+    {
+      "path": "tests/structural_inventory_v6/preclass_diagnosis.json",
+      "sha256": "5f1744e732924d4558ec865e89ed034d278db739cb6c5f5a05eaeee3a4fe4615"
+    },
+    {
+      "path": "src/diagnose_inventory_sources_v6.py",
+      "sha256": "89b5f297f5af5d2290b67fd873a7de00169661843a77a9d90f00713eeadee1ef"
+    }
+  ]
+}

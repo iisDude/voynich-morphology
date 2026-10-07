@@ -1,0 +1,1030 @@
+{
+  "view_id": "V_142",
+  "native_source": "data/source/yale_native/1006214.jpg",
+  "source_sha256": "0054f691ac8fddcac324fba6b385f8ad578cd0f2f9879d5498a325bab0310893",
+  "status": "source reviewed partial writing fields",
+  "writing_fields": [
+    {
+      "view_id": "V_142",
+      "native_source": "data/source/yale_native/1006214.jpg",
+      "source_sha256": "0054f691ac8fddcac324fba6b385f8ad578cd0f2f9879d5498a325bab0310893",
+      "review": {
+        "case_id": "ROW_V_142_R02_L023",
+        "kind": "whole_row",
+        "view_id": "V_142",
+        "line_id": "V_142_R02_L023",
+        "split": "train",
+        "folio_component": "78",
+        "bbox_xyxy": [
+          371,
+          2752,
+          1465,
+          2919
+        ],
+        "body_height_proxy_px": 40.0,
+        "groups": 4,
+        "priority_score": 3.3922077922077922,
+        "uncertain_unit_fraction": 1.0,
+        "multiline_contact_fraction": 0.09090909090909091,
+        "gap_count_range": [
+          7,
+          4,
+          2
+        ],
+        "questions": [
+          "writing_membership",
+          "row_ownership",
+          "visible_group_gaps",
+          "detached_marks"
+        ],
+        "status": "source_reviewed: row correction with explicit residual unknowns",
+        "native_source": "data/source/yale_native/1006214.jpg",
+        "seed_y": 2882,
+        "body": 29,
+        "x_extent": [
+          371,
+          1285
+        ],
+        "other_rows": [
+          2710,
+          2804,
+          2960,
+          3032
+        ],
+        "exclude": [
+          [
+            1285,
+            2640,
+            2350,
+            3070
+          ]
+        ],
+        "note": "Bathing figures/green vessel are drawing. Target middle writing row ends before figure. Old candidate combines successive body rows and drawing shoulder.",
+        "review_basis": "Full native-width context and four unscaled native local crops; conventional forms hidden",
+        "pen_lift": "unknown",
+        "logical_reading_direction": "unknown",
+        "reviewer": "Codex source image inspection",
+        "reviewed_at_utc": "2026-10-05T23:33:10.164945+00:00"
+      },
+      "body_seed": 2882,
+      "body_height": 29,
+      "source_crop": [
+        0,
+        2594,
+        2793,
+        3090
+      ],
+      "writing_extent": [
+        371,
+        1285
+      ],
+      "components": [
+        {
+          "instance_id": "V_142_ADJ_CC01238",
+          "bbox_xyxy": [
+            899,
+            2752,
+            981,
+            2868
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 2,
+            "skeleton_endpoint_pixels": 7,
+            "skeleton_branch_clusters": 8,
+            "longest_horizontal_ink_run_px": 39,
+            "column_ink_ridge_count": 3,
+            "skeleton_pixels": 287,
+            "height_ratio": 4.0,
+            "width_ratio": 2.8275862068965516,
+            "ink_area_body2": 2.4482758620689653,
+            "upper_extent_ratio": 4.482758620689655,
+            "lower_extent_ratio": -0.5172413793103449
+          },
+          "status": "unknown",
+          "ownership": {
+            "target_band_fraction": 0.12578921806702284,
+            "other_band_fraction": 0.2831471588149587,
+            "detached": false
+          },
+          "source_local_label": 1238,
+          "atlas_eligible": true,
+          "fine_family": null,
+          "broad_family": null,
+          "family_distance": 4.5293426513671875,
+          "admitted": false
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01606",
+          "bbox_xyxy": [
+            715,
+            2813,
+            754,
+            2878
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 1,
+            "skeleton_endpoint_pixels": 3,
+            "skeleton_branch_clusters": 2,
+            "longest_horizontal_ink_run_px": 27,
+            "column_ink_ridge_count": 2,
+            "skeleton_pixels": 145,
+            "height_ratio": 2.2413793103448274,
+            "width_ratio": 1.3448275862068966,
+            "ink_area_body2": 1.334126040428062,
+            "upper_extent_ratio": 2.3793103448275863,
+            "lower_extent_ratio": -0.1724137931034483
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 0.3672014260249554,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1606,
+          "atlas_eligible": true,
+          "fine_family": "VF_fine_components_K128_109",
+          "broad_family": "VS08",
+          "family_distance": 3.8882992267608643,
+          "admitted": true
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01623",
+          "bbox_xyxy": [
+            947,
+            2815,
+            1008,
+            2858
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 2,
+            "skeleton_endpoint_pixels": 3,
+            "skeleton_branch_clusters": 5,
+            "longest_horizontal_ink_run_px": 31,
+            "column_ink_ridge_count": 2,
+            "skeleton_pixels": 138,
+            "height_ratio": 1.4827586206896552,
+            "width_ratio": 2.103448275862069,
+            "ink_area_body2": 1.1438763376932224,
+            "upper_extent_ratio": 2.310344827586207,
+            "lower_extent_ratio": -0.8620689655172413
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 0.11538461538461539,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1623,
+          "atlas_eligible": true,
+          "fine_family": "VF_fine_components_K128_048",
+          "broad_family": "VS16",
+          "family_distance": 4.16977596282959,
+          "admitted": true
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01636",
+          "bbox_xyxy": [
+            1219,
+            2817,
+            1263,
+            2890
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 1,
+            "skeleton_endpoint_pixels": 4,
+            "skeleton_branch_clusters": 3,
+            "longest_horizontal_ink_run_px": 27,
+            "column_ink_ridge_count": 1,
+            "skeleton_pixels": 120,
+            "height_ratio": 2.5172413793103448,
+            "width_ratio": 1.5172413793103448,
+            "ink_area_body2": 0.8335315101070154,
+            "upper_extent_ratio": 2.2413793103448274,
+            "lower_extent_ratio": 0.2413793103448276
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 0.3095577746077033,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1636,
+          "atlas_eligible": true,
+          "fine_family": "VF_fine_components_K128_099",
+          "broad_family": "VS11",
+          "family_distance": 3.6219096183776855,
+          "admitted": true
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01674",
+          "bbox_xyxy": [
+            1050,
+            2822,
+            1095,
+            2869
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 1,
+            "skeleton_endpoint_pixels": 3,
+            "skeleton_branch_clusters": 3,
+            "longest_horizontal_ink_run_px": 24,
+            "column_ink_ridge_count": 1,
+            "skeleton_pixels": 90,
+            "height_ratio": 1.6206896551724137,
+            "width_ratio": 1.5517241379310345,
+            "ink_area_body2": 0.7324613555291319,
+            "upper_extent_ratio": 2.0689655172413794,
+            "lower_extent_ratio": -0.4827586206896552
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 0.18993506493506493,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1674,
+          "atlas_eligible": true,
+          "fine_family": "VF_fine_components_K128_093",
+          "broad_family": "VS10",
+          "family_distance": 3.218158721923828,
+          "admitted": true
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01688",
+          "bbox_xyxy": [
+            438,
+            2825,
+            505,
+            2884
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 2,
+            "skeleton_endpoint_pixels": 3,
+            "skeleton_branch_clusters": 4,
+            "longest_horizontal_ink_run_px": 47,
+            "column_ink_ridge_count": 2,
+            "skeleton_pixels": 198,
+            "height_ratio": 2.0344827586206895,
+            "width_ratio": 2.310344827586207,
+            "ink_area_body2": 1.638525564803805,
+            "upper_extent_ratio": 1.9655172413793103,
+            "lower_extent_ratio": 0.034482758620689655
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 0.39622641509433965,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1688,
+          "atlas_eligible": true,
+          "fine_family": "VF_fine_components_K128_127",
+          "broad_family": "VS08",
+          "family_distance": 2.936707019805908,
+          "admitted": true
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01715",
+          "bbox_xyxy": [
+            1002,
+            2828,
+            1034,
+            2891
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 1,
+            "skeleton_endpoint_pixels": 1,
+            "skeleton_branch_clusters": 1,
+            "longest_horizontal_ink_run_px": 24,
+            "column_ink_ridge_count": 1,
+            "skeleton_pixels": 92,
+            "height_ratio": 2.1724137931034484,
+            "width_ratio": 1.103448275862069,
+            "ink_area_body2": 0.7740784780023782,
+            "upper_extent_ratio": 1.8620689655172413,
+            "lower_extent_ratio": 0.27586206896551724
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 0.3210445468509985,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1715,
+          "atlas_eligible": true,
+          "fine_family": "VF_fine_components_K128_099",
+          "broad_family": "VS11",
+          "family_distance": 3.6221182346343994,
+          "admitted": true
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01745",
+          "bbox_xyxy": [
+            798,
+            2832,
+            844,
+            2873
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 0,
+            "skeleton_endpoint_pixels": 3,
+            "skeleton_branch_clusters": 1,
+            "longest_horizontal_ink_run_px": 40,
+            "column_ink_ridge_count": 2,
+            "skeleton_pixels": 87,
+            "height_ratio": 1.4137931034482758,
+            "width_ratio": 1.5862068965517242,
+            "ink_area_body2": 0.8620689655172413,
+            "upper_extent_ratio": 1.7241379310344827,
+            "lower_extent_ratio": -0.3448275862068966
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 0.6717241379310345,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1745,
+          "atlas_eligible": true,
+          "fine_family": "VF_fine_components_K128_106",
+          "broad_family": "VS20",
+          "family_distance": 5.046891212463379,
+          "admitted": true
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01809",
+          "bbox_xyxy": [
+            864,
+            2845,
+            893,
+            2869
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 1,
+            "skeleton_endpoint_pixels": 0,
+            "skeleton_branch_clusters": 0,
+            "longest_horizontal_ink_run_px": 28,
+            "column_ink_ridge_count": 2,
+            "skeleton_pixels": 50,
+            "height_ratio": 0.8275862068965517,
+            "width_ratio": 1.0,
+            "ink_area_body2": 0.4994054696789536,
+            "upper_extent_ratio": 1.2758620689655173,
+            "lower_extent_ratio": -0.4827586206896552
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 0.6880952380952381,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1809,
+          "atlas_eligible": true,
+          "fine_family": "VF_fine_components_K128_057",
+          "broad_family": "VS01",
+          "family_distance": 3.081169366836548,
+          "admitted": true
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01822",
+          "bbox_xyxy": [
+            526,
+            2847,
+            602,
+            2887
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 0,
+            "skeleton_endpoint_pixels": 4,
+            "skeleton_branch_clusters": 2,
+            "longest_horizontal_ink_run_px": 61,
+            "column_ink_ridge_count": 4,
+            "skeleton_pixels": 121,
+            "height_ratio": 1.3793103448275863,
+            "width_ratio": 2.6206896551724137,
+            "ink_area_body2": 1.131985731272295,
+            "upper_extent_ratio": 1.206896551724138,
+            "lower_extent_ratio": 0.13793103448275862
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 0.875,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1822,
+          "atlas_eligible": true,
+          "fine_family": null,
+          "broad_family": null,
+          "family_distance": 3.6045610904693604,
+          "admitted": false
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01852",
+          "bbox_xyxy": [
+            637,
+            2853,
+            709,
+            2917
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 2,
+            "skeleton_endpoint_pixels": 2,
+            "skeleton_branch_clusters": 3,
+            "longest_horizontal_ink_run_px": 58,
+            "column_ink_ridge_count": 2,
+            "skeleton_pixels": 166,
+            "height_ratio": 2.206896551724138,
+            "width_ratio": 2.4827586206896552,
+            "ink_area_body2": 1.351961950059453,
+            "upper_extent_ratio": 1.0,
+            "lower_extent_ratio": 1.1724137931034482
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 0.841688654353562,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1852,
+          "atlas_eligible": true,
+          "fine_family": "VF_fine_components_K128_013",
+          "broad_family": "VS09",
+          "family_distance": 4.08893346786499,
+          "admitted": true
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01853",
+          "bbox_xyxy": [
+            745,
+            2853,
+            779,
+            2875
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 0,
+            "skeleton_endpoint_pixels": 3,
+            "skeleton_branch_clusters": 1,
+            "longest_horizontal_ink_run_px": 20,
+            "column_ink_ridge_count": 2,
+            "skeleton_pixels": 51,
+            "height_ratio": 0.7586206896551724,
+            "width_ratio": 1.1724137931034482,
+            "ink_area_body2": 0.450653983353151,
+            "upper_extent_ratio": 1.0,
+            "lower_extent_ratio": -0.27586206896551724
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 1.0,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1853,
+          "atlas_eligible": true,
+          "fine_family": "VF_fine_components_K128_114",
+          "broad_family": "VS15",
+          "family_distance": 2.5045175552368164,
+          "admitted": true
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01854",
+          "bbox_xyxy": [
+            784,
+            2853,
+            795,
+            2873
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 0,
+            "skeleton_endpoint_pixels": 2,
+            "skeleton_branch_clusters": 0,
+            "longest_horizontal_ink_run_px": 11,
+            "column_ink_ridge_count": 0,
+            "skeleton_pixels": 11,
+            "height_ratio": 0.6896551724137931,
+            "width_ratio": 0.3793103448275862,
+            "ink_area_body2": 0.1938168846611177,
+            "upper_extent_ratio": 1.0,
+            "lower_extent_ratio": -0.3448275862068966
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 1.0,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1854,
+          "atlas_eligible": true,
+          "fine_family": null,
+          "broad_family": null,
+          "family_distance": 3.6911509037017822,
+          "admitted": false
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01879",
+          "bbox_xyxy": [
+            371,
+            2857,
+            441,
+            2919
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 2,
+            "skeleton_endpoint_pixels": 3,
+            "skeleton_branch_clusters": 4,
+            "longest_horizontal_ink_run_px": 37,
+            "column_ink_ridge_count": 3,
+            "skeleton_pixels": 171,
+            "height_ratio": 2.1379310344827585,
+            "width_ratio": 2.413793103448276,
+            "ink_area_body2": 1.342449464922711,
+            "upper_extent_ratio": 0.8620689655172413,
+            "lower_extent_ratio": 1.2413793103448276
+          },
+          "status": "unknown",
+          "ownership": {
+            "target_band_fraction": 0.8387953941541186,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1879,
+          "atlas_eligible": true,
+          "fine_family": null,
+          "broad_family": null,
+          "family_distance": 2.683030843734741,
+          "admitted": false
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01880",
+          "bbox_xyxy": [
+            1272,
+            2856,
+            1285,
+            2869
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 0,
+            "skeleton_endpoint_pixels": 2,
+            "skeleton_branch_clusters": 0,
+            "longest_horizontal_ink_run_px": 6,
+            "column_ink_ridge_count": 0,
+            "skeleton_pixels": 15,
+            "height_ratio": 0.4482758620689655,
+            "width_ratio": 0.4482758620689655,
+            "ink_area_body2": 0.0558858501783591,
+            "upper_extent_ratio": 0.896551724137931,
+            "lower_extent_ratio": -0.4827586206896552
+          },
+          "status": "unknown",
+          "ownership": {
+            "target_band_fraction": 1.0,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1880,
+          "atlas_eligible": true,
+          "fine_family": null,
+          "broad_family": null,
+          "family_distance": 7.083285808563232,
+          "admitted": false
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01937",
+          "bbox_xyxy": [
+            484,
+            2865,
+            521,
+            2883
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 1,
+            "skeleton_endpoint_pixels": 1,
+            "skeleton_branch_clusters": 1,
+            "longest_horizontal_ink_run_px": 37,
+            "column_ink_ridge_count": 1,
+            "skeleton_pixels": 56,
+            "height_ratio": 0.6206896551724138,
+            "width_ratio": 1.2758620689655173,
+            "ink_area_body2": 0.47324613555291317,
+            "upper_extent_ratio": 0.5862068965517241,
+            "lower_extent_ratio": 0.0
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 1.0,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1937,
+          "atlas_eligible": true,
+          "fine_family": "VF_fine_components_K128_114",
+          "broad_family": "VS15",
+          "family_distance": 3.3009915351867676,
+          "admitted": true
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01984",
+          "bbox_xyxy": [
+            1123,
+            2872,
+            1166,
+            2939
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 0,
+            "skeleton_endpoint_pixels": 3,
+            "skeleton_branch_clusters": 1,
+            "longest_horizontal_ink_run_px": 32,
+            "column_ink_ridge_count": 2,
+            "skeleton_pixels": 109,
+            "height_ratio": 2.310344827586207,
+            "width_ratio": 1.4827586206896552,
+            "ink_area_body2": 0.8573127229488704,
+            "upper_extent_ratio": 0.3448275862068966,
+            "lower_extent_ratio": 1.9310344827586208
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 0.3342579750346741,
+            "other_band_fraction": 0.056865464632454926,
+            "detached": false
+          },
+          "source_local_label": 1984,
+          "atlas_eligible": true,
+          "fine_family": null,
+          "broad_family": null,
+          "family_distance": 6.323433876037598,
+          "admitted": false
+        },
+        {
+          "instance_id": "V_142_ADJ_CC01986",
+          "bbox_xyxy": [
+            1268,
+            2872,
+            1285,
+            2893
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 0,
+            "skeleton_endpoint_pixels": 4,
+            "skeleton_branch_clusters": 2,
+            "longest_horizontal_ink_run_px": 12,
+            "column_ink_ridge_count": 0,
+            "skeleton_pixels": 31,
+            "height_ratio": 0.7241379310344828,
+            "width_ratio": 0.5862068965517241,
+            "ink_area_body2": 0.14863258026159334,
+            "upper_extent_ratio": 0.3448275862068966,
+            "lower_extent_ratio": 0.3448275862068966
+          },
+          "status": "unknown",
+          "ownership": {
+            "target_band_fraction": 0.832,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 1986,
+          "atlas_eligible": true,
+          "fine_family": null,
+          "broad_family": null,
+          "family_distance": 4.335659027099609,
+          "admitted": false
+        },
+        {
+          "instance_id": "V_142_ADJ_CC02040",
+          "bbox_xyxy": [
+            1083,
+            2882,
+            1119,
+            2919
+          ],
+          "features": {
+            "raster_components": 1,
+            "raster_loops": 2,
+            "skeleton_endpoint_pixels": 1,
+            "skeleton_branch_clusters": 3,
+            "longest_horizontal_ink_run_px": 25,
+            "column_ink_ridge_count": 1,
+            "skeleton_pixels": 92,
+            "height_ratio": 1.2758620689655173,
+            "width_ratio": 1.2413793103448276,
+            "ink_area_body2": 0.7812128418549346,
+            "upper_extent_ratio": 0.0,
+            "lower_extent_ratio": 1.2413793103448276
+          },
+          "status": "writing_candidate",
+          "ownership": {
+            "target_band_fraction": 0.1415525114155251,
+            "other_band_fraction": 0.0,
+            "detached": false
+          },
+          "source_local_label": 2040,
+          "atlas_eligible": true,
+          "fine_family": "VF_fine_components_K128_115",
+          "broad_family": "VS07",
+          "family_distance": 4.868920803070068,
+          "admitted": true
+        }
+      ],
+      "groups": [
+        {
+          "group_id": "V_142_ADJ_L001_G001",
+          "line_id": "V_142_ADJ_L001",
+          "view_id": "V_142",
+          "split": "train",
+          "folio_component": "78",
+          "bbox_xyxy": [
+            371,
+            2825,
+            602,
+            2919
+          ],
+          "group_rank": 0,
+          "group_count": 5,
+          "normalized_group_rank": 0.0,
+          "source_pixel_center_x": 486.5,
+          "normalized_pixel_center": 0.1263676148796499,
+          "line_x_extent_px": [
+            371,
+            1285
+          ],
+          "member_ids": [
+            "V_142_ADJ_CC01879",
+            "V_142_ADJ_CC01688",
+            "V_142_ADJ_CC01937",
+            "V_142_ADJ_CC01822"
+          ],
+          "visual_fine_units": null,
+          "visual_merged_units": null,
+          "writing_membership": "unknown",
+          "boundary_status": "unknown: failed complete row",
+          "section": null,
+          "hand": null,
+          "currier": null,
+          "conventional_mapping": null,
+          "visual_factored_units": null,
+          "row_membership_status": "unresolved_method_or_photo",
+          "ordinal_extent_status": "unknown",
+          "pixel_extent_status": "unknown",
+          "primary_eligible": false,
+          "endpoint_unknown": true
+        },
+        {
+          "group_id": "V_142_ADJ_L001_G002",
+          "line_id": "V_142_ADJ_L001",
+          "view_id": "V_142",
+          "split": "train",
+          "folio_component": "78",
+          "bbox_xyxy": [
+            637,
+            2813,
+            844,
+            2917
+          ],
+          "group_rank": 1,
+          "group_count": 5,
+          "normalized_group_rank": 0.25,
+          "source_pixel_center_x": 740.5,
+          "normalized_pixel_center": 0.40426695842450766,
+          "line_x_extent_px": [
+            371,
+            1285
+          ],
+          "member_ids": [
+            "V_142_ADJ_CC01852",
+            "V_142_ADJ_CC01606",
+            "V_142_ADJ_CC01853",
+            "V_142_ADJ_CC01854",
+            "V_142_ADJ_CC01745"
+          ],
+          "visual_fine_units": null,
+          "visual_merged_units": null,
+          "writing_membership": "unknown",
+          "boundary_status": "unknown: failed complete row",
+          "section": null,
+          "hand": null,
+          "currier": null,
+          "conventional_mapping": null,
+          "visual_factored_units": null,
+          "row_membership_status": "unresolved_method_or_photo",
+          "ordinal_extent_status": "unknown",
+          "pixel_extent_status": "unknown",
+          "primary_eligible": false,
+          "endpoint_unknown": true
+        },
+        {
+          "group_id": "V_142_ADJ_L001_G003",
+          "line_id": "V_142_ADJ_L001",
+          "view_id": "V_142",
+          "split": "train",
+          "folio_component": "78",
+          "bbox_xyxy": [
+            864,
+            2752,
+            1034,
+            2891
+          ],
+          "group_rank": 2,
+          "group_count": 5,
+          "normalized_group_rank": 0.5,
+          "source_pixel_center_x": 949.0,
+          "normalized_pixel_center": 0.6323851203501094,
+          "line_x_extent_px": [
+            371,
+            1285
+          ],
+          "member_ids": [
+            "V_142_ADJ_CC01809",
+            "V_142_ADJ_CC01238",
+            "V_142_ADJ_CC01623",
+            "V_142_ADJ_CC01715"
+          ],
+          "visual_fine_units": null,
+          "visual_merged_units": null,
+          "writing_membership": "unknown",
+          "boundary_status": "unknown: failed complete row",
+          "section": null,
+          "hand": null,
+          "currier": null,
+          "conventional_mapping": null,
+          "visual_factored_units": null,
+          "row_membership_status": "unresolved_method_or_photo",
+          "ordinal_extent_status": "unknown",
+          "pixel_extent_status": "unknown",
+          "primary_eligible": false,
+          "endpoint_unknown": true
+        },
+        {
+          "group_id": "V_142_ADJ_L001_G004",
+          "line_id": "V_142_ADJ_L001",
+          "view_id": "V_142",
+          "split": "train",
+          "folio_component": "78",
+          "bbox_xyxy": [
+            1050,
+            2822,
+            1166,
+            2939
+          ],
+          "group_rank": 3,
+          "group_count": 5,
+          "normalized_group_rank": 0.75,
+          "source_pixel_center_x": 1108.0,
+          "normalized_pixel_center": 0.8063457330415755,
+          "line_x_extent_px": [
+            371,
+            1285
+          ],
+          "member_ids": [
+            "V_142_ADJ_CC01674",
+            "V_142_ADJ_CC02040",
+            "V_142_ADJ_CC01984"
+          ],
+          "visual_fine_units": null,
+          "visual_merged_units": null,
+          "writing_membership": "unknown",
+          "boundary_status": "unknown: failed complete row",
+          "section": null,
+          "hand": null,
+          "currier": null,
+          "conventional_mapping": null,
+          "visual_factored_units": null,
+          "row_membership_status": "unresolved_method_or_photo",
+          "ordinal_extent_status": "unknown",
+          "pixel_extent_status": "unknown",
+          "primary_eligible": false,
+          "endpoint_unknown": true
+        },
+        {
+          "group_id": "V_142_ADJ_L001_G005",
+          "line_id": "V_142_ADJ_L001",
+          "view_id": "V_142",
+          "split": "train",
+          "folio_component": "78",
+          "bbox_xyxy": [
+            1219,
+            2817,
+            1285,
+            2893
+          ],
+          "group_rank": 4,
+          "group_count": 5,
+          "normalized_group_rank": 1.0,
+          "source_pixel_center_x": 1252.0,
+          "normalized_pixel_center": 0.9638949671772429,
+          "line_x_extent_px": [
+            371,
+            1285
+          ],
+          "member_ids": [
+            "V_142_ADJ_CC01636",
+            "V_142_ADJ_CC01986",
+            "V_142_ADJ_CC01880"
+          ],
+          "visual_fine_units": null,
+          "visual_merged_units": null,
+          "writing_membership": "unknown",
+          "boundary_status": "unknown: failed complete row",
+          "section": null,
+          "hand": null,
+          "currier": null,
+          "conventional_mapping": null,
+          "visual_factored_units": null,
+          "row_membership_status": "unresolved_method_or_photo",
+          "ordinal_extent_status": "unknown",
+          "pixel_extent_status": "unknown",
+          "primary_eligible": false,
+          "endpoint_unknown": true
+        }
+      ],
+      "mask_config": {
+        "version": "calibration_draft_1",
+        "status": "not_frozen",
+        "seed": 20261005,
+        "source_of_units": "native manuscript pixel masks and geometry only",
+        "primary_ink_contrast": 6,
+        "contrast_sensitivity": [
+          8,
+          12,
+          16
+        ],
+        "background_gaussian_sigma_px": 25,
+        "color_limits": {
+          "r_minus_g_min": -15,
+          "r_minus_g_max": 80,
+          "b_minus_r_max": 20
+        },
+        "component_area_px": [
+          5,
+          2200
+        ],
+        "component_height_px": [
+          4,
+          90
+        ],
+        "component_width_px": [
+          2,
+          160
+        ],
+        "page_margin_fraction": 0.025,
+        "baseline_vote_sigma_px": 3,
+        "baseline_peak_min_distance_px": 18,
+        "baseline_assignment_tolerance_px": 10,
+        "minimum_line_component_count": 8,
+        "minimum_line_width_px": 120,
+        "line_horizontal_break_px": 140,
+        "group_gap_body_ratios": [
+          0.35,
+          0.55,
+          0.75
+        ],
+        "primary_group_gap_body_ratio": 0.55,
+        "assembly_small_gap_body_ratio": 0.1,
+        "assembly_projection_valley_ink_max": 0,
+        "tall_candidate_height_ratio": 1.8,
+        "split_gate": "pilot folios calibration only; all caption-connected folios remain together",
+        "annotation_gate": "line candidates require visual acceptance; excluded/missed regions retained",
+        "pen_lift_default": "unresolved; raster disconnection is not a pen-lift observation"
+      },
+      "status": "source-corrected proposal awaiting exact-mask/gap review",
+      "source_adjudication": {
+        "view_id": "V_142",
+        "parent_case_id": "ROW_V_142_R02_L023",
+        "cuts": null,
+        "unknown_groups": "all",
+        "primary_eligible": false,
+        "observation": "Body path rises across page; straight corridor misses right tall structure and takes lower-row forms. Coherent source writing can be traced but this candidate is not a complete physical row.",
+        "status": "source_reviewed before v2 freeze and effect tests",
+        "basis": "Native RGB plus exact whole-connected mask; magenta ownership unknown; source-coordinate ruler",
+        "allographic_or_grapheme_claim": false,
+        "reviewed_at_utc": "2026-10-05T23:41:54.631909+00:00"
+      }
+    }
+  ],
+  "curved_writing_adjudication": null,
+  "prior_proposal_path": "data/observations/regional_candidates_v11/V_142.json",
+  "prior_rows_status": "Unknown unless a reviewed field explicitly supersedes them; no old unit sequences admitted",
+  "unreviewed_prior_rows": 41,
+  "physical_folio_identity": "caption only; panel correspondence unknown",
+  "canonical_graphemes": "unknown",
+  "pen_lifts": "unknown"
+}

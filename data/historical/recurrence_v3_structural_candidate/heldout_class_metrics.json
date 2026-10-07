@@ -1,0 +1,97 @@
+{
+  "model_seal_sha256": "29167e9d41ac07942384e961605b98cb197b318cb1d6e8d647822126d203c8b4",
+  "metrics": {
+    "validation": {
+      "clear_components": 2785,
+      "accepted": 2017,
+      "assignment_coverage": 0.7242369838420107,
+      "caption_groups": 7,
+      "threshold_assignment_stability": 0.9325731284085275,
+      "alignment_slant_stability": 0.9519087754090233,
+      "median_chamfer": 0.004971833433955908
+    },
+    "test": {
+      "clear_components": 1789,
+      "accepted": 1203,
+      "assignment_coverage": 0.6724427054220234,
+      "caption_groups": 7,
+      "threshold_assignment_stability": 0.9359933499584372,
+      "alignment_slant_stability": 0.9451371571072319,
+      "median_chamfer": 0.005130154546350241
+    }
+  },
+  "recurring_core_classes": {
+    "ST11": {
+      "training_captions": 22,
+      "test_instances": 191,
+      "test_captions": 7
+    },
+    "ST02": {
+      "training_captions": 22,
+      "test_instances": 161,
+      "test_captions": 7
+    },
+    "ST08": {
+      "training_captions": 22,
+      "test_instances": 109,
+      "test_captions": 7
+    },
+    "ST01": {
+      "training_captions": 22,
+      "test_instances": 36,
+      "test_captions": 7
+    },
+    "ST12": {
+      "training_captions": 22,
+      "test_instances": 109,
+      "test_captions": 7
+    },
+    "ST13": {
+      "training_captions": 22,
+      "test_instances": 42,
+      "test_captions": 7
+    },
+    "ST03": {
+      "training_captions": 22,
+      "test_instances": 140,
+      "test_captions": 7
+    },
+    "ST07": {
+      "training_captions": 20,
+      "test_instances": 35,
+      "test_captions": 6
+    },
+    "ST05": {
+      "training_captions": 22,
+      "test_instances": 106,
+      "test_captions": 7
+    },
+    "ST14": {
+      "training_captions": 22,
+      "test_instances": 95,
+      "test_captions": 7
+    },
+    "ST04": {
+      "training_captions": 22,
+      "test_instances": 54,
+      "test_captions": 6
+    },
+    "ST06": {
+      "training_captions": 22,
+      "test_instances": 69,
+      "test_captions": 5
+    },
+    "ST10": {
+      "training_captions": 19,
+      "test_instances": 23,
+      "test_captions": 4
+    },
+    "ST15": {
+      "training_captions": 15,
+      "test_instances": 30,
+      "test_captions": 4
+    }
+  },
+  "recurring_core_count": 14,
+  "note": "Unsupervised source candidates only. Native pair adjudication still required; no new freeze."
+}

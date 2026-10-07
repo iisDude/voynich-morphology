@@ -1,0 +1,56 @@
+{
+  "registered_at_utc": "2026-10-06T11:08:09.360754+00:00",
+  "fresh_views": [
+    {
+      "view_id": "V_045",
+      "folio_component": "22",
+      "rows": 16
+    },
+    {
+      "view_id": "V_030",
+      "folio_component": "15",
+      "rows": 15
+    },
+    {
+      "view_id": "V_102",
+      "folio_component": "51",
+      "rows": 16
+    },
+    {
+      "view_id": "V_089",
+      "folio_component": "44",
+      "rows": 13
+    },
+    {
+      "view_id": "V_154",
+      "folio_component": "84",
+      "rows": 24
+    },
+    {
+      "view_id": "V_120",
+      "folio_component": "66",
+      "rows": 15
+    },
+    {
+      "view_id": "V_202",
+      "folio_component": "114",
+      "rows": 24
+    }
+  ],
+  "criteria": {
+    "source_rows_reviewed_at_least": 600,
+    "source_views_at_least": 40,
+    "test_caption_groups_at_least": 6,
+    "stable_recurring_structural_classes_at_least": 10,
+    "each_core_class_training_captions_at_least": 3,
+    "each_core_class_test_instances_at_least": 5,
+    "each_core_class_test_captions_at_least": 3,
+    "source_pair_audit_positive_agreement_at_least": 0.85,
+    "hard_negative_false_acceptance_at_most": 0.15,
+    "threshold_assignment_stability_at_least": 0.8,
+    "clear_test_component_assignment_coverage_at_least": 0.5
+  },
+  "previous_test_not_reused": true,
+  "reason": "First candidate fails source pair agreement and threshold stability; high resolution source atlas revises broad class hypotheses, not thresholds fitted to old test.",
+  "class_choice": "Train-only image/topology atlas; source structural tags and factor constraints; old test pair judgments cannot define individual merges."
+}

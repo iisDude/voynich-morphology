@@ -1,0 +1,38 @@
+{
+  "view_id": "V_123",
+  "native_source": "data/source/yale_native/1006195.jpg",
+  "source_sha256": "4799e8ebd8d968ea28dae919cfb86065566662b4e77c8b429d12e3e6e685638b",
+  "status": "source reviewed partial writing fields",
+  "writing_fields": [],
+  "curved_writing_adjudication": {
+    "case_id": "CURVE_V_123",
+    "kind": "curved_view",
+    "view_id": "V_123",
+    "priority_score": 5,
+    "questions": [
+      "curved_writing_membership",
+      "orientation",
+      "path_seam",
+      "panel_mapping"
+    ],
+    "status": "source_reviewed: writing paths distinguished from diagram/ornament; unit boundaries partly unknown",
+    "native_source": "data/source/yale_native/1006195.jpg",
+    "hypotheses_path": "data/observations/curved_path_candidates_v2/V_123.json",
+    "observation": "Left sparse radial writing fields around central device; right outer cell-ring strings and radial strings around face. Gold/green stars, cell dividers and central face rays are drawing. Cell divider boxes cannot be promoted to bench/frame writing units.",
+    "writing_paths": "right annular cell-ring and radial labels; left separate rotated labels",
+    "visible_panel_fractions": [
+      0.5
+    ],
+    "orientation": "multiple tangential/radial orientations, no common straight-line x endpoint",
+    "native_inspection": "whole capture plus four unscaled 650x650 source crops",
+    "group_boundaries": "unknown except visible local gaps; no complete ring group inventory certified",
+    "pen_lift": "unknown",
+    "horizontal_assay_eligible": false
+  },
+  "prior_proposal_path": "data/observations/regional_candidates_v11/V_123.json",
+  "prior_rows_status": "Unknown unless a reviewed field explicitly supersedes them; no old unit sequences admitted",
+  "unreviewed_prior_rows": 0,
+  "physical_folio_identity": "caption only; panel correspondence unknown",
+  "canonical_graphemes": "unknown",
+  "pen_lifts": "unknown"
+}

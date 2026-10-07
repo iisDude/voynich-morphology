@@ -1,0 +1,36 @@
+{
+  "view_id": "V_130",
+  "native_source": "data/source/yale_native/1006202.jpg",
+  "source_sha256": "6405841a75a8fa24dd9e5c93ad090ee56bf26c77757f3b1634487e27b509e61b",
+  "status": "source reviewed partial writing fields",
+  "writing_fields": [],
+  "curved_writing_adjudication": {
+    "case_id": "CURVE_V_130",
+    "kind": "curved_view",
+    "view_id": "V_130",
+    "priority_score": 5,
+    "questions": [
+      "curved_writing_membership",
+      "orientation",
+      "path_seam",
+      "panel_mapping"
+    ],
+    "status": "source_reviewed: writing paths distinguished from diagram/ornament; unit boundaries partly unknown",
+    "native_source": "data/source/yale_native/1006202.jpg",
+    "hypotheses_path": "data/observations/curved_path_candidates_v2/V_130.json",
+    "observation": "Main circular field has outer and inner strings, centered animal label and separate figure labels. Red/green/blue figure details, animal contour, stars and faint circle rules are drawing. Native crops retain tall connected forms within writing strings.",
+    "writing_paths": "outer/inner annular bands and rotated figure/center labels",
+    "visible_panel_fractions": [],
+    "orientation": "local tangent/radial orientations; common logical reading order unknown",
+    "native_inspection": "whole capture plus four unscaled 650x650 source crops",
+    "group_boundaries": "unknown except visible local gaps; no complete ring group inventory certified",
+    "pen_lift": "unknown",
+    "horizontal_assay_eligible": false
+  },
+  "prior_proposal_path": "data/observations/regional_candidates_v11/V_130.json",
+  "prior_rows_status": "Unknown unless a reviewed field explicitly supersedes them; no old unit sequences admitted",
+  "unreviewed_prior_rows": 0,
+  "physical_folio_identity": "caption only; panel correspondence unknown",
+  "canonical_graphemes": "unknown",
+  "pen_lifts": "unknown"
+}

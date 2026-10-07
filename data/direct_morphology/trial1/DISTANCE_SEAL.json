@@ -1,0 +1,29 @@
+{
+  "sealed_at_utc": "2026-10-07T07:30:10.850413+00:00",
+  "files": [
+    {
+      "path": "data/observations/direct_morphology_trial1/direct_distance_matrices.npz",
+      "sha256": "a587102a87a72c54b7234a6a1d8de9d024a160b0a76e4057c12de78cba271d43"
+    },
+    {
+      "path": "src/evaluate_direct_morphology.py",
+      "sha256": "8e624ca28fb18dbc8d8da3e8bfe4790373fe7b6f694234e25b7a70f769bb2199"
+    },
+    {
+      "path": "tests/direct_morphology_trial1/acceptance_summary.json",
+      "sha256": "f0ef5fa1353b9a834f9e41aae2a9d342fbb5ed3a1185f098446ba3701363954a"
+    },
+    {
+      "path": "tests/direct_morphology_trial1/continuous_reference_retrieval.json",
+      "sha256": "a1dc9749019e92a7d359b746300075974b29dceea4200f18e46dc0bfa6cd3307"
+    },
+    {
+      "path": "tests/direct_morphology_trial1/representation_and_source_uncertainty.json",
+      "sha256": "b67e7f75281023cf471cbbf27aa32eb404870702a5e5b457d9ea64b342e57517"
+    },
+    {
+      "path": "tests/direct_morphology_trial1/source_similarity_and_envelopes.json",
+      "sha256": "a69565b8dc9089e75d5fe107f5f44001d2ab7fcb0f7fe3a7f1b99614daaa1ead"
+    }
+  ]
+}

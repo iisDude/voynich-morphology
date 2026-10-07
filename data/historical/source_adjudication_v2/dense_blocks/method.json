@@ -1,0 +1,103 @@
+{
+  "source_blocks": {
+    "V_196": [
+      [
+        300,
+        200,
+        2270,
+        3320
+      ]
+    ],
+    "V_138": [
+      [
+        325,
+        350,
+        2360,
+        3010
+      ]
+    ],
+    "V_195": [
+      [
+        585,
+        205,
+        2485,
+        3290
+      ]
+    ],
+    "V_144": [
+      [
+        450,
+        330,
+        2140,
+        3040
+      ]
+    ],
+    "V_084": [
+      [
+        430,
+        600,
+        1590,
+        1120
+      ],
+      [
+        430,
+        1130,
+        1810,
+        1900
+      ],
+      [
+        465,
+        1990,
+        1850,
+        2785
+      ]
+    ],
+    "V_190": [
+      [
+        330,
+        205,
+        2410,
+        3290
+      ]
+    ],
+    "V_152": [
+      [
+        425,
+        340,
+        2320,
+        1840
+      ],
+      [
+        1280,
+        1820,
+        2300,
+        3230
+      ]
+    ],
+    "V_202": [
+      [
+        230,
+        180,
+        2250,
+        3140
+      ]
+    ]
+  },
+  "body_path": "Low-height connected-ink projection peaks, then local native stripe peaks interpolated across x; no conventional transcription",
+  "frozen_parameters": {
+    "contrast": 6,
+    "preblur": 0.9,
+    "body": 28,
+    "low_height": [
+      8,
+      50
+    ],
+    "minimum_area": 25,
+    "peak_distance": 38,
+    "search_radius": 22,
+    "group_gap": 16,
+    "shared_contact": 0.2
+  },
+  "limitations": "Paths and exact masks require source inspection; complete field coverage is not presumed. Marginal/illustration-contained writing outside blocks remains unknown.",
+  "atlas": "Original source-trained frozen prototypes; no refitting or effect optimization"
+}

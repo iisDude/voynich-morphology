@@ -1,0 +1,19 @@
+{
+  "version": "manuscript-derived source-adjudicated segmentation v2",
+  "scope": "204 native captures indexed; selected source fields adjudicated; other writing/rows unknown",
+  "observations": "writing/drawing/decoration zones, native connected parents, body-path geometry, source-visible gap hypotheses, source bounding extents",
+  "units": "Connected ink assemblies, fine source image-family labels, broad/factor hypotheses; neither letters nor alphabet",
+  "representations": [
+    "visual_fine_units",
+    "visual_merged_units",
+    "visual_factored_units"
+  ],
+  "internal_cuts": "No source-supported universal internal grapheme cut or pen-lift order established",
+  "alternative_boundaries": "Original 0.35/0.55/0.75 body-gap proposals remain comparison hypotheses in immutable v11; v2 primary fixed source review overrides and 16px dense gap, not selected for assay support",
+  "pixel_formula": "((min_parent_x+max_parent_x)/2 - line_writing_left)/(line_writing_right-line_writing_left), in native Yale pixels; unknown endpoints exclude both matched primary endpoints",
+  "rank_formula": "j/(N-1), N includes unknown-unit slots in source-inspected row hypothesis; no re-ranking after exclusions",
+  "null_units": "Unknown membership, incomplete coverage or unrecognized source family remains null; no reconstruction from EVA/RF/v101",
+  "post_exposure": "Previously exposed to conventional claims; source-only repair is not a new blind replication",
+  "physical_identity": "Capture/caption grouping only; no newly certified duplicate-writing overlap",
+  "freeze_before_v2_assay": true
+}

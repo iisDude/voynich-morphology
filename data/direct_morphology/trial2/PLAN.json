@@ -1,0 +1,85 @@
+{
+  "registered_at_utc": "2026-10-07T07:57:30.505163+00:00",
+  "trial": "Direct Continuous Contour/Morphology Trial2 fresh caption validation",
+  "seed": 20261019,
+  "question": "Does the immutable direct morphology representation generalize to newly source-confirmed ordinary horizontal writing in caption groups unused for its similarity result?",
+  "dependencies": {
+    "data/observations/direct_morphology_trial1/FREEZE_MANIFEST.json": "ecf2b1b5b87a7b8b3d3fb35b0fab2088e8b2a2d74575907996b7dacdc5249576",
+    "data/observations/visual_protocol_draft.json": "59fec4ffa7e4d07d42ffdeb077ff8231d0e2c88fc92f264ae4a06ea5b91cbf99",
+    "data/source/yale_native/1006088.jpg": "fd4529ff994cfaefe9bf75966a59eede9ab0ea59e3514bf3aaf0a45c0df0e2a0",
+    "data/source/yale_native/1006096.jpg": "5307f28c9c4f65506ea6ce6c46182de03463afc0a5cdcb59ca67453a2f18f811",
+    "data/source/yale_native/1006130.jpg": "ea8217a4cea6a3861e183a95e82d3e4ee3308aef8025bc2e9c9bce8a7a0c92d6",
+    "data/source/yale_native/1006134.jpg": "3968b083d7346a556796d60e97a9ea66a4bb911fa1d085cfa046e9e0b37edc64",
+    "data/source/yale_native/1006162.jpg": "32afa9bda4154db2e3236081b0d7603dfc34bf11b1844a5084881b764dafe4f8",
+    "data/source/yale_native/1006168.jpg": "f34ccbd6fbb72b5a469ca16b1b07ded862be76e01e0dcf9133940ffdd10c672e",
+    "data/source/yale_native/1006180.jpg": "471b393530cf2f80116e8bcfb9712b43e991db175b919e594a1587cca21f2eaa",
+    "data/source/yale_native/1006232.jpg": "eb9c7020f670d4d9070a4d37130db9e250b9b4ecf33ab34ffb0596512fa53a6c",
+    "src/benchmark_membership_v5.py": "de542575c9e10c02fe310ec79369de91fdcfa789ac0b484a0c03c54192216ce5",
+    "src/build_direct_morphology.py": "472ec3436beb76dce6ecafc6f91ba0dcc6f7c2ea1bc124db5f0ddf8e38b36e06",
+    "src/evaluate_direct_morphology.py": "8e624ca28fb18dbc8d8da3e8bfe4790373fe7b6f694234e25b7a70f769bb2199",
+    "src/visual_extract.py": "2873ffeb3e89a91908c1c5e5127e99f0df82f602d0ab09f1ea0ca384bef087d9"
+  },
+  "caption_groups": [
+    "7",
+    "11",
+    "29",
+    "31",
+    "45",
+    "48",
+    "54",
+    "87"
+  ],
+  "freshness": "New to prior V3 detailed parent/morphology fitting/selection, V5/V6 detailed source corpora, feature-trial inputs/specification, direct Trial1 corpus and known prior source-similarity pair sets. V4 broad parent extraction/application and older native overview exposure remain, so not globally unseen photography. Audit uses source identifiers only; no class labels or prohibited metadata values inspected.",
+  "selection": "Frozen eight captions/two horizontal fields each after nativeRGB layout review. Sample up to24 primary area>=35/core>=8 parent proposals per caption with fixed seed, spread by field; keep all membership/source uncertainty. No replacement because of morphology, recurrence or test performance. Sampling does not certify full writing-ink recall.",
+  "source_adjudication": "NativeRGB whole field/individual candidates before any new contour/SDF distances, V3 labels or conventional metadata. Confirm writing/nonwriting/unresolved, whole extent resolved/unknown, possible joins/splits, neighboring contamination and field-edge state. No source judgment inferred from nearest morphology. Freeze source judgments before building candidates/distances.",
+  "immutable_representation": "Import frozen Trial1 normalize/sdf/slant and contour_matrix/sdf_matrix/envelopes unchanged. Same native9/6/12 candidates including>=5% overlaps, fragments/unions/merges and±.04 slant;64px/56support aspect/orientation preserving nearest resampling. Primary contour64 normalized symmetricChamfer; SDF64secondary;32/128contour sensitivity only. No rotation/reflection, learning, PCA, prototypes, V3 labels or required named-feature profile. Unknown physical extent remains unknown; candidate envelopes not physical posteriors.",
+  "pair_sampling": {
+    "population": "Fresh-vs-fresh source-confirmed, whole-extent-resolved parents in different selected captions. Old source parents used only for separate retrieval.",
+    "initial_n": 240,
+    "extension_n": 120,
+    "maximum_n": 600,
+    "mixture": "Half broad random cross-caption pairs, half aspect-matched(abs native log width/height difference<=.35) geometric comparisons. Balance caption dyads by cycling all available combinations, cycle anchor native-envelope-area quartiles for size coverage. Seeded tie/pair choice; no contour or source similarity judgment used.",
+    "parent_degree_limit": 12,
+    "extension_rule": "Prepare deterministic ordered600-pair pool and hidden-key/source galleries before first rating. Open initial240. Add next120only if binary n<120, same<30,different<30, endpoint-caption coverage<6 or either rating category spans<4 captions. Stop when support achieved or600 exhausted. All opened pairs included; no metric inspected before final ratings seal. If sampling constraints cannot fill600, retain available pool and not-estimable support if minimum unachieved.",
+    "fallbacks": "If requested aspect-matched dyad/area stratum has no unused pair, cycle next dyad; if no remaining aspect candidates, leave shortfall explicit, do not replace with nearest-contour pairs. Never change parent eligibility after ratings.",
+    "blind_display": "Anonymous sourceRGB crops with source-coordinate bbox as locational aid, equal-size slots, randomized left/right. No caption/parent IDs, selector/aspect values, contour/SDF scores, V3 labels or conventional strings shown.",
+    "ratings": "2 same whole visual organization allowing source-supported ink/size/slant differences;1 partial/related organization;0 different;U unresolved. Preserve1/U, excluded from binary only. Same AI adjudicator, not human inter-rater.",
+    "freeze": "Pair pool/protocol sealed before source-similarity rating. All used ratings sealed before predictions. No outcome-informed choosing of metric or normalization."
+  },
+  "repeat": {
+    "n": 20,
+    "selection": "Seed+1 uniform subset of all opened source pairs, including partial/U. Anonymous changed IDs/left-right before hidden-key comparison.",
+    "separation": "Intervening candidate-generation/representation verification, no prior IDs/ratings displayed; same-session conversational memory persists. Same-adjudicator repeatability only."
+  },
+  "statistics": {
+    "primary": "Contour64 AUROC rating2vs0 on all resolved binary opened pairs; ordinal association on0/1/2 secondary. Compare same-pair native log-aspect-only baseline.",
+    "bootstrap": "2000 two-endpoint caption/node bootstrap draws8 caption counts with replacement; pair weight=count(caption_left)*count(caption_right). Paired same weights for contour-aspect deltas. Report only with>=1800 valid two-category resamples; otherwise inferential support not estimable. Parent reuse within captions and same-AI dependence remain limitations.",
+    "secondary": "SDF64 AUROC, contour32/128 sensitivities and leave-one-caption-out descriptives; no winner substitution."
+  },
+  "gates": {
+    "caption_n_min": 6,
+    "binary_n_min": 120,
+    "same_n_min": 30,
+    "different_n_min": 30,
+    "each_category_endpoint_caption_n_min": 4,
+    "primary_contour64_AUROC_min": 0.8,
+    "bootstrap_contour64_lower_min": 0.65,
+    "aspect_delta_min": 0.05,
+    "paired_delta_bootstrap_lower_must_exceed": 0,
+    "valid_bootstrap_n_min": 1800,
+    "deterministic_replay": true,
+    "source_unknowns_preserved": true
+  },
+  "uncertainty": "Record primary/minimum/maximum observed candidate distances separately from source extent qualification. No posterior/physical interval. Separate fresh-query vs frozen Trial1 reference88(parents whose corpus is reference), disjoint captions. Report nearest identity, guaranteed-nearest across all candidate alternatives, not-excluded set,32/64/128neighbor stability and changed-neighbor cases. Low guaranteed-nearest fraction is diagnostic, not an automatic failure gate.",
+  "not_estimable": "Any sample/category/caption/bootstrap support shortage produces not-estimable support, with point results retained if mathematically computable; never substitute reused pairs or a sensitivity resolution. Adequate sample but failed metric gates is not-supported or partially-supported as frozen criteria warrant.",
+  "prohibited": [
+    "EVA/RF/v101",
+    "Currier",
+    "section metadata",
+    "positional/minimal-pair/conventional token outcomes",
+    "semantic/decipherment hypotheses",
+    "V3 classes before final Trial2 freeze",
+    "metric/raster hypothesis chosen for match quality"
+  ],
+  "final_freeze": "Immutable Trial2 package includes selection audit/seal, source judgments/seal, ensemble inputs, pair protocol/pool, anonymous ratings/seals, repeat, metrics, uncertainty, failures, replay and integrity. Only after final freeze interpret as supported/partially supported/not supported/not estimable. Success concerns source-traceable visible morphology only, not writing-system/semantic/transcription units."
+}

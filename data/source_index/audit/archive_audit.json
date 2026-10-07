@@ -1,0 +1,205 @@
+[
+  {
+    "path": "UD_Finnish-TDT-master.zip",
+    "sha256": "76dadde527f9f505628f7ae99beb68450eaf9980faf7cd06d2ed0dbff35fd628",
+    "archive_comment": "bfaae13719f249573d940edda6a0d7aa8eec620f",
+    "member_n": 10,
+    "metadata": [
+      {
+        "member": "UD_Finnish-TDT-master/LICENSE.txt",
+        "sha256": "d59ddaa61ea7bef197ae6de9301a5f7dd3f107744766f9049bf9da516d30419b",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/UD_Finnish-TDT-master__UD_Finnish-TDT-master__LICENSE.txt"
+      },
+      {
+        "member": "UD_Finnish-TDT-master/README.txt",
+        "sha256": "57f900d92017df01ffe03380fceea4ccf851559e2288b384a001bd13849b9ec2",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/UD_Finnish-TDT-master__UD_Finnish-TDT-master__README.txt"
+      }
+    ],
+    "top_level_members": [
+      "UD_Finnish-TDT-master/",
+      "UD_Finnish-TDT-master/.gitignore",
+      "UD_Finnish-TDT-master/CONTRIBUTING.md",
+      "UD_Finnish-TDT-master/LICENSE.txt",
+      "UD_Finnish-TDT-master/README.txt",
+      "UD_Finnish-TDT-master/eval.log",
+      "UD_Finnish-TDT-master/fi_tdt-ud-dev.conllu",
+      "UD_Finnish-TDT-master/fi_tdt-ud-test.conllu",
+      "UD_Finnish-TDT-master/fi_tdt-ud-train.conllu",
+      "UD_Finnish-TDT-master/stats.xml"
+    ]
+  },
+  {
+    "path": "UD_Latin-PROIEL-master.zip",
+    "sha256": "90de877cfa1079031daa55bd7351331b98a385f9859abb06b78203bca940cce1",
+    "archive_comment": "ae7c7c5bd92e2ab9d2c58cf8184dd72028ca54eb",
+    "member_n": 10,
+    "metadata": [
+      {
+        "member": "UD_Latin-PROIEL-master/LICENSE.txt",
+        "sha256": "33af57b85f3e7076e91926976985b7a02e986fdc43d2acb0c49fa9564774cdb2",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/UD_Latin-PROIEL-master__UD_Latin-PROIEL-master__LICENSE.txt"
+      },
+      {
+        "member": "UD_Latin-PROIEL-master/README.md",
+        "sha256": "dccd53d9544eb679ca71a6921d24c9c2bd80264283eebc3dfc1a123379ec5d45",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/UD_Latin-PROIEL-master__UD_Latin-PROIEL-master__README.md"
+      }
+    ],
+    "top_level_members": [
+      "UD_Latin-PROIEL-master/",
+      "UD_Latin-PROIEL-master/.gitignore",
+      "UD_Latin-PROIEL-master/CONTRIBUTING.md",
+      "UD_Latin-PROIEL-master/LICENSE.txt",
+      "UD_Latin-PROIEL-master/README.md",
+      "UD_Latin-PROIEL-master/eval.log",
+      "UD_Latin-PROIEL-master/la_proiel-ud-dev.conllu",
+      "UD_Latin-PROIEL-master/la_proiel-ud-test.conllu",
+      "UD_Latin-PROIEL-master/la_proiel-ud-train.conllu",
+      "UD_Latin-PROIEL-master/stats.xml"
+    ]
+  },
+  {
+    "path": "UD_Turkish-IMST-master.zip",
+    "sha256": "2dd5d4d78db2fa0bd8bbf638a0ddda0e46e6c52bf6cdfcba697b5b29eb328c8b",
+    "archive_comment": "0c939115d8277ecfb39e1bbc3f066b1852ab5ddc",
+    "member_n": 10,
+    "metadata": [
+      {
+        "member": "UD_Turkish-IMST-master/LICENSE.txt",
+        "sha256": "446deff834665054c41eff659e9a7f22b62c00879574dde2aebb1d5db83b842b",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/UD_Turkish-IMST-master__UD_Turkish-IMST-master__LICENSE.txt"
+      },
+      {
+        "member": "UD_Turkish-IMST-master/README.md",
+        "sha256": "291f1afabd91265df4df57cc80b1f41c0eb372fe78bece20e4eb3c215c817af6",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/UD_Turkish-IMST-master__UD_Turkish-IMST-master__README.md"
+      }
+    ],
+    "top_level_members": [
+      "UD_Turkish-IMST-master/",
+      "UD_Turkish-IMST-master/.gitignore",
+      "UD_Turkish-IMST-master/CONTRIBUTING.md",
+      "UD_Turkish-IMST-master/LICENSE.txt",
+      "UD_Turkish-IMST-master/README.md",
+      "UD_Turkish-IMST-master/eval.log",
+      "UD_Turkish-IMST-master/stats.xml",
+      "UD_Turkish-IMST-master/tr_imst-ud-dev.conllu",
+      "UD_Turkish-IMST-master/tr_imst-ud-test.conllu",
+      "UD_Turkish-IMST-master/tr_imst-ud-train.conllu"
+    ]
+  },
+  {
+    "path": "voynich-main.zip",
+    "sha256": "7554794e09bc6eb19b21d785ec0c233fad2710621a29390636186129a95c658f",
+    "archive_comment": "0308ff7d48ffe0e07064679f98fae251f383940f",
+    "member_n": 344,
+    "metadata": [
+      {
+        "member": "voynich-main/LICENSE",
+        "sha256": "abe850dd03fe8fda306cc68289e5c01a63ecdaf5b78b652d876f9e9a26abc9b2",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/voynich-main__voynich-main__LICENSE"
+      },
+      {
+        "member": "voynich-main/NOTICE.md",
+        "sha256": "15b40d79de866b3d6d1976323485c42be141fc3435b8b88c63ae06656b6dfe25",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/voynich-main__voynich-main__NOTICE.md"
+      },
+      {
+        "member": "voynich-main/README.md",
+        "sha256": "5c9248f75ca5eb6bfd0f602a12e16bb933925479f0d3d52f61d82f80f22f0259",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/voynich-main__voynich-main__README.md"
+      },
+      {
+        "member": "voynich-main/voynich/a4_selfcitation.py",
+        "sha256": "1456af84095387c12abab5d2a2d116ef7213025f83c15ab0a0e19e004a62cd4e",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/voynich-main__voynich-main__voynich__a4_selfcitation.py"
+      }
+    ],
+    "top_level_members": [
+      "voynich-main/",
+      "voynich-main/.gitignore",
+      "voynich-main/LICENSE",
+      "voynich-main/NOTICE.md",
+      "voynich-main/README.md"
+    ]
+  },
+  {
+    "path": "Voynich-public-main.zip",
+    "sha256": "bcf312324cd914d6cd7badd277a691e405b317411cb198ce93ef643299716b28",
+    "archive_comment": "8920f2e506fce4c2c5a1245fb21a312f25655f1b",
+    "member_n": 1857,
+    "metadata": [
+      {
+        "member": "Voynich-public-main/CITATION.cff",
+        "sha256": "0a60f9e5fe91a72fa9f510d66f4227ce4f43da6e2c72306a0bb59b579b421fdb",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/Voynich-public-main__Voynich-public-main__CITATION.cff"
+      },
+      {
+        "member": "Voynich-public-main/LICENSE",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/Voynich-public-main__Voynich-public-main__LICENSE"
+      },
+      {
+        "member": "Voynich-public-main/LICENSE_SCOPE.md",
+        "sha256": "3456580f41161cafee84ea3e7a9d9f6bffa022334a68df7310d4ba0bfa574cce",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/Voynich-public-main__Voynich-public-main__LICENSE_SCOPE.md"
+      },
+      {
+        "member": "Voynich-public-main/NOTICE",
+        "sha256": "0019837759482d8b6ca708af19be6de8ec3669eccb464e8dec5640d71248c31c",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/Voynich-public-main__Voynich-public-main__NOTICE"
+      },
+      {
+        "member": "Voynich-public-main/README.ja.md",
+        "sha256": "96578985c8955466b9704429de0dbbe417b87ea016b0032d305b3b548a1d5cf9",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/Voynich-public-main__Voynich-public-main__README.ja.md"
+      },
+      {
+        "member": "Voynich-public-main/README.md",
+        "sha256": "915502e966f5d81fba9d0aeaac2647f62be74ff0e3bc8ba3562e87b1eeabe4a1",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/Voynich-public-main__Voynich-public-main__README.md"
+      },
+      {
+        "member": "Voynich-public-main/analysis/README.ja.md",
+        "sha256": "14c3d0ada6b31f5544921362842677b7d7db8512c207e93fe3b4604873a45916",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/Voynich-public-main__Voynich-public-main__analysis__README.ja.md"
+      },
+      {
+        "member": "Voynich-public-main/analysis/README.md",
+        "sha256": "8e9ef5634ff0c115e27cd02cf3dd1aae7712d11135e5c5bff00c7a063db0c1de",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/Voynich-public-main__Voynich-public-main__analysis__README.md"
+      },
+      {
+        "member": "Voynich-public-main/docs/timm-self-citation-validation.md",
+        "sha256": "cbe2a97c43ab455e533f986337b6cf07dca3fe59f107e0128347093266340e3a",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/Voynich-public-main__Voynich-public-main__docs__timm-self-citation-validation.md"
+      },
+      {
+        "member": "Voynich-public-main/paper/README.md",
+        "sha256": "5dc6ff2566d363f7fbb3e299a09fc081c020471eb64cca2f894f0ebcd2140bc3",
+        "audit_copy": "PACKAGE_BUILD/upstream_archive_metadata/Voynich-public-main__Voynich-public-main__paper__README.md"
+      }
+    ],
+    "top_level_members": [
+      "Voynich-public-main/",
+      "Voynich-public-main/.gitattributes",
+      "Voynich-public-main/.gitignore",
+      "Voynich-public-main/.python-version",
+      "Voynich-public-main/.zenodo.json",
+      "Voynich-public-main/AGENTS.md",
+      "Voynich-public-main/CITATION.cff",
+      "Voynich-public-main/CONTRIBUTING.md",
+      "Voynich-public-main/LICENSE",
+      "Voynich-public-main/LICENSE_SCOPE.md",
+      "Voynich-public-main/NOTICE",
+      "Voynich-public-main/PUBLIC_SNAPSHOT.md",
+      "Voynich-public-main/README.ja.md",
+      "Voynich-public-main/README.md",
+      "Voynich-public-main/SECURITY.md",
+      "Voynich-public-main/THIRD_PARTY.md",
+      "Voynich-public-main/pyproject.toml",
+      "Voynich-public-main/uv.lock"
+    ]
+  }
+]

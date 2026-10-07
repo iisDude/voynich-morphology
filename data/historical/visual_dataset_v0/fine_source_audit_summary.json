@@ -1,0 +1,20 @@
+{
+  "test_views": 8,
+  "instances": 128,
+  "writing_visible": 106,
+  "failures": 6,
+  "ambiguous": 16,
+  "visibly_incompatible_merge_assignments": 8,
+  "equal_view_writing_visible_fraction": 0.828125,
+  "view_bootstrap_interval": [
+    0.765625,
+    0.890625
+  ],
+  "status": "source gate and homology assignments admit errors; no recovered alphabet",
+  "limitations": [
+    "One reviewer; moderate sample; no recall or boundary-accuracy ground truth.",
+    "Raw bins and proposed merges can both misclassify unfamiliar shapes.",
+    "Source crops show surrounding ink as well as the assigned component.",
+    "Caption grouping does not settle physical panel or bifolio independence."
+  ]
+}
