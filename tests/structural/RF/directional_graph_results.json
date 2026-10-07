@@ -1,0 +1,170 @@
+[
+  {
+    "status": "estimated",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "minimum_frequency": 5,
+    "minimum_matched_cores": 2,
+    "full_relations": 53,
+    "train_relations": 42,
+    "test_relations": 12,
+    "heldout_reproducibility": {
+      "n": 12,
+      "pearson": 0.8716032011940178,
+      "spearman": 0.6853146853146854,
+      "same_direction": 0.8333333333333334
+    },
+    "direct_edge_removed_prediction": {
+      "n": 4,
+      "pearson": 0.8232792396103146,
+      "spearman": 1.0,
+      "same_direction": 0.75
+    },
+    "context_disjoint_triangles": 3,
+    "median_normalized_triangle_closure": 0.5361251297650488,
+    "triangle_warning": "Common form-mean triangle closure is algebraic and is not counted; here core buckets for AB, BC, AC are disjoint.",
+    "reproducibility_null": {
+      "iterations": 99,
+      "mean": 0.034686671338437634,
+      "p": 0.01
+    },
+    "alternate_prediction_null": {
+      "iterations": 99,
+      "mean": -0.04443852765056513,
+      "p": 0.18
+    },
+    "triangle_closure_null": {
+      "iterations": 99,
+      "mean": 0.8756367052797219,
+      "p": 0.2
+    },
+    "dataset": "RF",
+    "subset": "B"
+  },
+  {
+    "status": "estimated",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "minimum_frequency": 5,
+    "minimum_matched_cores": 2,
+    "full_relations": 27,
+    "train_relations": 16,
+    "test_relations": 7,
+    "heldout_reproducibility": {
+      "n": 7,
+      "pearson": 0.9609411914361682,
+      "spearman": 0.9642857142857145,
+      "same_direction": 1.0
+    },
+    "direct_edge_removed_prediction": {
+      "n": 3,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "context_disjoint_triangles": 3,
+    "median_normalized_triangle_closure": 1.0901480297681847,
+    "triangle_warning": "Common form-mean triangle closure is algebraic and is not counted; here core buckets for AB, BC, AC are disjoint.",
+    "reproducibility_null": {
+      "iterations": 99,
+      "mean": 0.06132510633501584,
+      "p": 0.01
+    },
+    "alternate_prediction_null": {
+      "iterations": 0,
+      "mean": null,
+      "p": null
+    },
+    "triangle_closure_null": {
+      "iterations": 99,
+      "mean": 0.8405906446105845,
+      "p": 0.72
+    },
+    "dataset": "RF",
+    "subset": "B"
+  },
+  {
+    "status": "estimated",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "minimum_frequency": 8,
+    "minimum_matched_cores": 2,
+    "full_relations": 46,
+    "train_relations": 33,
+    "test_relations": 4,
+    "heldout_reproducibility": {
+      "n": 4,
+      "pearson": -0.14260479289990605,
+      "spearman": -0.39999999999999997,
+      "same_direction": 1.0
+    },
+    "direct_edge_removed_prediction": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "context_disjoint_triangles": 1,
+    "median_normalized_triangle_closure": 0.4438194351853466,
+    "triangle_warning": "Common form-mean triangle closure is algebraic and is not counted; here core buckets for AB, BC, AC are disjoint.",
+    "reproducibility_null": {
+      "iterations": 99,
+      "mean": 0.007272054936373909,
+      "p": 0.91
+    },
+    "alternate_prediction_null": {
+      "iterations": 0,
+      "mean": null,
+      "p": null
+    },
+    "triangle_closure_null": {
+      "iterations": 99,
+      "mean": 0.8925316496856278,
+      "p": 0.21
+    },
+    "dataset": "RF",
+    "subset": "B"
+  },
+  {
+    "status": "estimated",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "minimum_frequency": 8,
+    "minimum_matched_cores": 2,
+    "full_relations": 16,
+    "train_relations": 10,
+    "test_relations": 2,
+    "heldout_reproducibility": {
+      "n": 2,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "direct_edge_removed_prediction": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "context_disjoint_triangles": 1,
+    "median_normalized_triangle_closure": 0.10342786814108232,
+    "triangle_warning": "Common form-mean triangle closure is algebraic and is not counted; here core buckets for AB, BC, AC are disjoint.",
+    "reproducibility_null": {
+      "iterations": 0,
+      "mean": null,
+      "p": null
+    },
+    "alternate_prediction_null": {
+      "iterations": 0,
+      "mean": null,
+      "p": null
+    },
+    "triangle_closure_null": {
+      "iterations": 99,
+      "mean": 0.9256182677264904,
+      "p": 0.03
+    },
+    "dataset": "RF",
+    "subset": "B"
+  }
+]

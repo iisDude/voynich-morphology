@@ -1,0 +1,42 @@
+{
+  "form_support": [
+    {
+      "representation": "visual_fine_units",
+      "groups": 134,
+      "distinct_forms": 123,
+      "maximum_form_frequency": 3,
+      "forms_frequency_at_least_8": 0,
+      "forms_frequency_at_least_8_and_length_at_least_5": 0,
+      "maximum_sequence_length": 8
+    },
+    {
+      "representation": "visual_merged_units",
+      "groups": 134,
+      "distinct_forms": 98,
+      "maximum_form_frequency": 11,
+      "forms_frequency_at_least_8": 1,
+      "forms_frequency_at_least_8_and_length_at_least_5": 0,
+      "maximum_sequence_length": 8
+    },
+    {
+      "representation": "visual_factored_units",
+      "groups": 134,
+      "distinct_forms": 96,
+      "maximum_form_frequency": 11,
+      "forms_frequency_at_least_8": 1,
+      "forms_frequency_at_least_8_and_length_at_least_5": 0,
+      "maximum_sequence_length": 9
+    }
+  ],
+  "coordinate_check": {
+    "groups": 134,
+    "different_endpoints": 133,
+    "median_absolute_difference": 0.03805540153335529,
+    "maximum_absolute_difference": 0.19853249475890983,
+    "formula": "rank j/(N-1); pixel (native assigned-writing bounding-box center - row left)/(row right-row left)",
+    "same_occurrences": true
+  },
+  "all_settings_estimable": 0,
+  "all_settings_minimal_pairs": 0,
+  "interpretation": "Support failure is not a negative positional effect. No identities or thresholds changed after seeing it."
+}

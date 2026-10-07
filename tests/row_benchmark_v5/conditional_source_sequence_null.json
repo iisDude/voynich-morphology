@@ -1,0 +1,108 @@
+{
+  "nulls": {
+    "0.35": {
+      "1": {
+        "draws": 200,
+        "complete_groups": 6,
+        "repeated_counts": [
+          0.0,
+          2.0,
+          4.0
+        ],
+        "heldout_n": 1,
+        "heldout_match_counts": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "informative": true
+      },
+      "3": {
+        "draws": 200,
+        "complete_groups": 0,
+        "repeated_counts": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "heldout_n": 0,
+        "heldout_match_counts": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "informative": false
+      }
+    },
+    "0.55": {
+      "1": {
+        "draws": 200,
+        "complete_groups": 2,
+        "repeated_counts": [
+          0.0,
+          0.0,
+          2.0
+        ],
+        "heldout_n": 0,
+        "heldout_match_counts": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "informative": true
+      },
+      "3": {
+        "draws": 200,
+        "complete_groups": 0,
+        "repeated_counts": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "heldout_n": 0,
+        "heldout_match_counts": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "informative": false
+      }
+    },
+    "0.75": {
+      "1": {
+        "draws": 200,
+        "complete_groups": 1,
+        "repeated_counts": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "heldout_n": 0,
+        "heldout_match_counts": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "informative": true
+      },
+      "3": {
+        "draws": 200,
+        "complete_groups": 0,
+        "repeated_counts": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "heldout_n": 0,
+        "heldout_match_counts": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "informative": false
+      }
+    }
+  },
+  "method": "200 within-row permutations of known V3 labels; preserves class frequencies by row, native geometry/group sizes, UNK locations and source completeness flags. No resegmentation or class fitting.",
+  "interpretation": "No complete length3+ group exists; its null is degenerate and supplies no evidence for notation/language. Single-unit repetitions are structural-class recurrence, not usable multi-unit sequence recurrence."
+}

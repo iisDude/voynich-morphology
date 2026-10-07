@@ -1,0 +1,815 @@
+[
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "B",
+    "section_b": "C",
+    "relations_a": 27,
+    "relations_b": 0,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "B",
+    "section_b": "H",
+    "relations_a": 27,
+    "relations_b": 6,
+    "agreement": {
+      "n": 6,
+      "pearson": 0.1291327563013363,
+      "spearman": 0.08571428571428573,
+      "same_direction": 0.8333333333333334
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.78,
+      "mean": 0.11881135634990546
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "B",
+    "section_b": "S",
+    "relations_a": 27,
+    "relations_b": 31,
+    "agreement": {
+      "n": 24,
+      "pearson": 0.8062705456260095,
+      "spearman": 0.7399999999999999,
+      "same_direction": 0.8333333333333334
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.01,
+      "mean": 0.00790584177949675
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "B",
+    "section_b": "T",
+    "relations_a": 27,
+    "relations_b": 5,
+    "agreement": {
+      "n": 5,
+      "pearson": 0.3384239880918514,
+      "spearman": 0.3,
+      "same_direction": 0.8
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.54,
+      "mean": 0.020361339711790976
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "C",
+    "section_b": "H",
+    "relations_a": 0,
+    "relations_b": 6,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "C",
+    "section_b": "S",
+    "relations_a": 0,
+    "relations_b": 31,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "C",
+    "section_b": "T",
+    "relations_a": 0,
+    "relations_b": 5,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "H",
+    "section_b": "S",
+    "relations_a": 6,
+    "relations_b": 31,
+    "agreement": {
+      "n": 6,
+      "pearson": 0.6499886740928685,
+      "spearman": 0.2571428571428572,
+      "same_direction": 1.0
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.27,
+      "mean": 0.05131047409841719
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "H",
+    "section_b": "T",
+    "relations_a": 6,
+    "relations_b": 5,
+    "agreement": {
+      "n": 4,
+      "pearson": 0.5775910697503032,
+      "spearman": 0.19999999999999998,
+      "same_direction": 1.0
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.46,
+      "mean": 0.07951971549270385
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "S",
+    "section_b": "T",
+    "relations_a": 31,
+    "relations_b": 5,
+    "agreement": {
+      "n": 5,
+      "pearson": 0.7976290974322441,
+      "spearman": 0.7,
+      "same_direction": 1.0
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.17,
+      "mean": -0.02031477078211457
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "B",
+    "section_b": "C",
+    "relations_a": 6,
+    "relations_b": 0,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "B",
+    "section_b": "H",
+    "relations_a": 6,
+    "relations_b": 5,
+    "agreement": {
+      "n": 3,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "B",
+    "section_b": "S",
+    "relations_a": 6,
+    "relations_b": 14,
+    "agreement": {
+      "n": 6,
+      "pearson": 0.9715446902416133,
+      "spearman": 0.6571428571428573,
+      "same_direction": 0.6666666666666666
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.01,
+      "mean": 0.0091034738799582
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "B",
+    "section_b": "T",
+    "relations_a": 6,
+    "relations_b": 4,
+    "agreement": {
+      "n": 3,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "C",
+    "section_b": "H",
+    "relations_a": 0,
+    "relations_b": 5,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "C",
+    "section_b": "S",
+    "relations_a": 0,
+    "relations_b": 14,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "C",
+    "section_b": "T",
+    "relations_a": 0,
+    "relations_b": 4,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "H",
+    "section_b": "S",
+    "relations_a": 5,
+    "relations_b": 14,
+    "agreement": {
+      "n": 4,
+      "pearson": 0.8911308532921473,
+      "spearman": 0.7999999999999999,
+      "same_direction": 0.75
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.13,
+      "mean": 0.03118634519104283
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "H",
+    "section_b": "T",
+    "relations_a": 5,
+    "relations_b": 4,
+    "agreement": {
+      "n": 4,
+      "pearson": 0.956577171255471,
+      "spearman": 1.0,
+      "same_direction": 1.0
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.07,
+      "mean": -0.10514533239340858
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "S",
+    "section_b": "T",
+    "relations_a": 14,
+    "relations_b": 4,
+    "agreement": {
+      "n": 4,
+      "pearson": 0.983741380636364,
+      "spearman": 0.7999999999999999,
+      "same_direction": 0.75
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.06,
+      "mean": -0.034158141587236034
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "B",
+    "section_b": "C",
+    "relations_a": 27,
+    "relations_b": 0,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "B",
+    "section_b": "H",
+    "relations_a": 27,
+    "relations_b": 5,
+    "agreement": {
+      "n": 5,
+      "pearson": -0.5070567005469482,
+      "spearman": -0.39999999999999997,
+      "same_direction": 0.8
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.44,
+      "mean": 0.056624819926700765
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "B",
+    "section_b": "S",
+    "relations_a": 27,
+    "relations_b": 0,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "B",
+    "section_b": "T",
+    "relations_a": 27,
+    "relations_b": 5,
+    "agreement": {
+      "n": 5,
+      "pearson": -0.10130208664727061,
+      "spearman": 0.09999999999999999,
+      "same_direction": 0.4
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.87,
+      "mean": 0.0023062042398493314
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "C",
+    "section_b": "H",
+    "relations_a": 0,
+    "relations_b": 5,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "C",
+    "section_b": "S",
+    "relations_a": 0,
+    "relations_b": 0,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "C",
+    "section_b": "T",
+    "relations_a": 0,
+    "relations_b": 5,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "H",
+    "section_b": "S",
+    "relations_a": 5,
+    "relations_b": 0,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "H",
+    "section_b": "T",
+    "relations_a": 5,
+    "relations_b": 5,
+    "agreement": {
+      "n": 4,
+      "pearson": 0.6691888991124089,
+      "spearman": 0.7999999999999999,
+      "same_direction": 0.75
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.39,
+      "mean": 0.06982629491638065
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "S",
+    "section_b": "T",
+    "relations_a": 0,
+    "relations_b": 5,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "B",
+    "section_b": "C",
+    "relations_a": 6,
+    "relations_b": 0,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "B",
+    "section_b": "H",
+    "relations_a": 6,
+    "relations_b": 4,
+    "agreement": {
+      "n": 3,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "B",
+    "section_b": "S",
+    "relations_a": 6,
+    "relations_b": 0,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "B",
+    "section_b": "T",
+    "relations_a": 6,
+    "relations_b": 3,
+    "agreement": {
+      "n": 3,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "C",
+    "section_b": "H",
+    "relations_a": 0,
+    "relations_b": 4,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "C",
+    "section_b": "S",
+    "relations_a": 0,
+    "relations_b": 0,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "C",
+    "section_b": "T",
+    "relations_a": 0,
+    "relations_b": 3,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "H",
+    "section_b": "S",
+    "relations_a": 4,
+    "relations_b": 0,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "H",
+    "section_b": "T",
+    "relations_a": 4,
+    "relations_b": 3,
+    "agreement": {
+      "n": 3,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_2",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "S",
+    "section_b": "T",
+    "relations_a": 0,
+    "relations_b": 3,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_3",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "H",
+    "section_b": "S",
+    "relations_a": 0,
+    "relations_b": 31,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_3",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "H",
+    "section_b": "S",
+    "relations_a": 1,
+    "relations_b": 12,
+    "agreement": {
+      "n": 1,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_5",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "H",
+    "section_b": "T",
+    "relations_a": 0,
+    "relations_b": 0,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "hand_5",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "H",
+    "section_b": "T",
+    "relations_a": 0,
+    "relations_b": 0,
+    "agreement": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  }
+]

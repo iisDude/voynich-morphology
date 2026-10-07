@@ -1,0 +1,798 @@
+{
+  "dataset": "visual_merged",
+  "same_hand_context": [
+    {
+      "label_a": "H",
+      "label_b": "P",
+      "training_documents": 32,
+      "test_documents": 14,
+      "field": "section",
+      "train_counts": {
+        "H": 32
+      },
+      "test_counts": {
+        "H": 13,
+        "P": 1
+      },
+      "status": "not_estimable: too few independent caption/document blocks",
+      "currier": "A",
+      "hand": "1"
+    },
+    {
+      "label_a": "B",
+      "label_b": "H",
+      "training_documents": 12,
+      "test_documents": 4,
+      "field": "section",
+      "train_counts": {
+        "H": 8,
+        "B": 4
+      },
+      "test_counts": {
+        "H": 1,
+        "B": 3
+      },
+      "status": "not_estimable: too few independent caption/document blocks",
+      "currier": "B",
+      "hand": "2"
+    },
+    {
+      "label_a": "H",
+      "label_b": "S",
+      "training_documents": 9,
+      "test_documents": 2,
+      "field": "section",
+      "train_counts": {
+        "H": 1,
+        "S": 8
+      },
+      "test_counts": {
+        "S": 2
+      },
+      "status": "not_estimable: too few independent caption/document blocks",
+      "currier": "B",
+      "hand": "3"
+    }
+  ],
+  "context_prediction": [
+    {
+      "label_a": "B",
+      "label_b": "H",
+      "training_documents": 47,
+      "test_documents": 18,
+      "field": "section",
+      "train_counts": {
+        "H": 43,
+        "B": 4
+      },
+      "test_counts": {
+        "H": 15,
+        "B": 3
+      },
+      "status": "not_estimable: too few independent caption/document blocks"
+    },
+    {
+      "label_a": "B",
+      "label_b": "P",
+      "training_documents": 4,
+      "test_documents": 4,
+      "field": "section",
+      "train_counts": {
+        "B": 4
+      },
+      "test_counts": {
+        "B": 3,
+        "P": 1
+      },
+      "status": "not_estimable: too few independent caption/document blocks"
+    },
+    {
+      "label_a": "B",
+      "label_b": "S",
+      "training_documents": 11,
+      "test_documents": 5,
+      "field": "section",
+      "train_counts": {
+        "B": 4,
+        "S": 7
+      },
+      "test_counts": {
+        "B": 3,
+        "S": 2
+      },
+      "status": "not_estimable: too few independent caption/document blocks"
+    },
+    {
+      "label_a": "H",
+      "label_b": "P",
+      "training_documents": 43,
+      "test_documents": 16,
+      "field": "section",
+      "train_counts": {
+        "H": 43
+      },
+      "test_counts": {
+        "H": 15,
+        "P": 1
+      },
+      "status": "not_estimable: too few independent caption/document blocks"
+    },
+    {
+      "label_a": "H",
+      "label_b": "S",
+      "training_documents": 50,
+      "test_documents": 17,
+      "field": "section",
+      "train_counts": {
+        "H": 43,
+        "S": 7
+      },
+      "test_counts": {
+        "H": 15,
+        "S": 2
+      },
+      "status": "not_estimable: too few independent caption/document blocks"
+    },
+    {
+      "label_a": "P",
+      "label_b": "S",
+      "training_documents": 7,
+      "test_documents": 3,
+      "field": "section",
+      "train_counts": {
+        "S": 7
+      },
+      "test_counts": {
+        "P": 1,
+        "S": 2
+      },
+      "status": "not_estimable: too few independent caption/document blocks"
+    }
+  ],
+  "representation_clustering": [
+    {
+      "replicate": 0,
+      "representation": "full",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.18490566037735848,
+      "heldout_ari": 0.4424778761061947,
+      "heldout_label_null_p": 0.12,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 0,
+      "representation": "edge",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.4049672300793377,
+      "heldout_ari": 0.4424778761061947,
+      "heldout_label_null_p": 0.1,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 0,
+      "representation": "core",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": -0.06691741106409653,
+      "heldout_ari": 0.17647058823529413,
+      "heldout_label_null_p": 0.31,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 0,
+      "representation": "abstract",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.10295818872913567,
+      "heldout_ari": -0.10526315789473684,
+      "heldout_label_null_p": 0.84,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 0,
+      "representation": "ngrams",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.4655732103194943,
+      "heldout_ari": 0.4424778761061947,
+      "heldout_label_null_p": 0.15,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 1,
+      "representation": "full",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.020498967106308597,
+      "heldout_ari": -0.08888888888888889,
+      "heldout_label_null_p": 1.0,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 1,
+      "representation": "edge",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.21803989592367737,
+      "heldout_ari": 0.2125,
+      "heldout_label_null_p": 0.4,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 1,
+      "representation": "core",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.12210900857189066,
+      "heldout_ari": 0.06666666666666667,
+      "heldout_label_null_p": 0.59,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 1,
+      "representation": "abstract",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": -0.0395908940943583,
+      "heldout_ari": 0.0,
+      "heldout_label_null_p": 1.0,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 1,
+      "representation": "ngrams",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.3200815494393476,
+      "heldout_ari": 0.2125,
+      "heldout_label_null_p": 0.32,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 2,
+      "representation": "full",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": -0.07169811320754717,
+      "heldout_ari": 0.3076923076923077,
+      "heldout_label_null_p": 0.16,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 2,
+      "representation": "edge",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.23691031622602385,
+      "heldout_ari": 0.2125,
+      "heldout_label_null_p": 0.37,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 2,
+      "representation": "core",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": -0.09738789068398007,
+      "heldout_ari": 0.06666666666666667,
+      "heldout_label_null_p": 0.65,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 2,
+      "representation": "abstract",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": -0.06326034063260341,
+      "heldout_ari": -0.15384615384615385,
+      "heldout_label_null_p": 1.0,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 2,
+      "representation": "ngrams",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.27802690582959644,
+      "heldout_ari": 0.5384615384615384,
+      "heldout_label_null_p": 0.04,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 3,
+      "representation": "full",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.15753773104968627,
+      "heldout_ari": 0.31627906976744186,
+      "heldout_label_null_p": 0.1,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 3,
+      "representation": "edge",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.4320013719773624,
+      "heldout_ari": 0.4424778761061947,
+      "heldout_label_null_p": 0.1,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 3,
+      "representation": "core",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": -0.056445091379589196,
+      "heldout_ari": 0.17647058823529413,
+      "heldout_label_null_p": 0.37,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 3,
+      "representation": "abstract",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": -0.08455284552845528,
+      "heldout_ari": 0.17647058823529413,
+      "heldout_label_null_p": 0.34,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 3,
+      "representation": "ngrams",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.42083477061055535,
+      "heldout_ari": 0.4424778761061947,
+      "heldout_label_null_p": 0.1,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 4,
+      "representation": "full",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.32114707362066075,
+      "heldout_ari": 0.4424778761061947,
+      "heldout_label_null_p": 0.06,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 4,
+      "representation": "edge",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.27422397530440745,
+      "heldout_ari": 0.4424778761061947,
+      "heldout_label_null_p": 0.12,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 4,
+      "representation": "core",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": -0.083496904725955,
+      "heldout_ari": 0.06666666666666667,
+      "heldout_label_null_p": 0.53,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 4,
+      "representation": "abstract",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": -0.08679245283018867,
+      "heldout_ari": 0.06666666666666667,
+      "heldout_label_null_p": 0.61,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 4,
+      "representation": "ngrams",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.3561551433389545,
+      "heldout_ari": 0.4424778761061947,
+      "heldout_label_null_p": 0.1,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 5,
+      "representation": "full",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.38191590262409103,
+      "heldout_ari": -0.029411764705882353,
+      "heldout_label_null_p": 0.66,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 5,
+      "representation": "edge",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.4477791116446579,
+      "heldout_ari": 0.4424778761061947,
+      "heldout_label_null_p": 0.12,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 5,
+      "representation": "core",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.0848910992968616,
+      "heldout_ari": 0.3076923076923077,
+      "heldout_label_null_p": 0.21,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 5,
+      "representation": "abstract",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": -0.005979839398599009,
+      "heldout_ari": 0.17647058823529413,
+      "heldout_label_null_p": 0.34,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 5,
+      "representation": "ngrams",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.3097619868920317,
+      "heldout_ari": 0.3076923076923077,
+      "heldout_label_null_p": 0.12,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 6,
+      "representation": "full",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.26674580295065287,
+      "heldout_ari": 0.5384615384615384,
+      "heldout_label_null_p": 0.06,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 6,
+      "representation": "edge",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.3846681529754759,
+      "heldout_ari": 1.0,
+      "heldout_label_null_p": 0.01,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 6,
+      "representation": "core",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.34992773406134575,
+      "heldout_ari": 0.17647058823529413,
+      "heldout_label_null_p": 0.26,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 6,
+      "representation": "abstract",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.02545703058260721,
+      "heldout_ari": 0.0,
+      "heldout_label_null_p": 1.0,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 6,
+      "representation": "ngrams",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.26123355544165383,
+      "heldout_ari": 0.5384615384615384,
+      "heldout_label_null_p": 0.06,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 7,
+      "representation": "full",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.09699769053117784,
+      "heldout_ari": 0.3076923076923077,
+      "heldout_label_null_p": 0.21,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 7,
+      "representation": "edge",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.33646159193604447,
+      "heldout_ari": 1.0,
+      "heldout_label_null_p": 0.04,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 7,
+      "representation": "core",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.014445706865768545,
+      "heldout_ari": 0.06666666666666667,
+      "heldout_label_null_p": 0.54,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 7,
+      "representation": "abstract",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": -0.05325238508239376,
+      "heldout_ari": 0.07079646017699115,
+      "heldout_label_null_p": 0.48,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 7,
+      "representation": "ngrams",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.21066938498131157,
+      "heldout_ari": 0.4424778761061947,
+      "heldout_label_null_p": 0.12,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 8,
+      "representation": "full",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.14800205796604357,
+      "heldout_ari": 0.4424778761061947,
+      "heldout_label_null_p": 0.08,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 8,
+      "representation": "edge",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.1360053664262955,
+      "heldout_ari": 1.0,
+      "heldout_label_null_p": 0.03,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 8,
+      "representation": "core",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": -0.03387869773591142,
+      "heldout_ari": 0.0,
+      "heldout_label_null_p": 1.0,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 8,
+      "representation": "abstract",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": -0.055191445325974475,
+      "heldout_ari": 0.0,
+      "heldout_label_null_p": 1.0,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 8,
+      "representation": "ngrams",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.21314774442394768,
+      "heldout_ari": 0.4424778761061947,
+      "heldout_label_null_p": 0.12,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 9,
+      "representation": "full",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.21407825046984452,
+      "heldout_ari": 0.38235294117647056,
+      "heldout_label_null_p": 0.11,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 9,
+      "representation": "edge",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.19418277970583375,
+      "heldout_ari": 0.475,
+      "heldout_label_null_p": 0.07,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 9,
+      "representation": "core",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.0018209408194233688,
+      "heldout_ari": 0.0,
+      "heldout_label_null_p": 1.0,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 9,
+      "representation": "abstract",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.04613789528252981,
+      "heldout_ari": 0.06666666666666667,
+      "heldout_label_null_p": 0.59,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    },
+    {
+      "replicate": 9,
+      "representation": "ngrams",
+      "groups_per_document": 41,
+      "train_documents": 24,
+      "test_documents": 7,
+      "classes": 3,
+      "training_ari": 0.42083477061055535,
+      "heldout_ari": 0.3076923076923077,
+      "heldout_label_null_p": 0.23,
+      "limitation": "Abstract pattern is within-group first-occurrence identity, not a paleographic shape transcription. Visual group boundaries are unvalidated."
+    }
+  ],
+  "wrappers": {
+    "status": "estimated",
+    "context_field": "section",
+    "contexts": [
+      "B",
+      "H",
+      "P",
+      "S",
+      "T"
+    ],
+    "test_groups": 303,
+    "test_documents": 22,
+    "equal_document_wrapper_excess_bits_over_core": 0.8938190914146013,
+    "bootstrap_interval": [
+      0.2688061643438844,
+      1.2931966628751317
+    ],
+    "within_core_test_wrapper_null_p": 0.01,
+    "null_movable_groups": 293,
+    "limitation": "Held-out context prediction, conditioned on training core recurrence. Boundary wrappers need not be semantic operators; ordinary morphology is a direct control."
+  },
+  "compression": {
+    "status": "estimated",
+    "declared_deletion_set": [
+      "VS01",
+      "VS08",
+      "VS07",
+      "VS04",
+      "VS11"
+    ],
+    "set_meaning": "five most common training categories; neutral deletion analogy",
+    "baseline_bits_per_original_unit": 6.851367775460858,
+    "deleted_bits_per_original_unit": 4.309626541928642,
+    "matched_set_count": 99,
+    "matched_null_mean": 4.654950988055311,
+    "matched_null_interval": [
+      4.417582493665084,
+      4.8635804362733985
+    ],
+    "frequency_matching_max_relative_difference": 0.18469739730322984,
+    "lower_tail_rank_p": 0.02,
+    "codec": "zlib level 9; training literal-unit byte dictionary, 254 unknown, 255 gap marker; separate held-out caption/document streams; equal-document average",
+    "limitation": "Deletion necessarily changes information content. Byte compression cannot identify phonetic vowels or compare native image explanation. Frequency matching is approximate and recorded."
+  }
+}

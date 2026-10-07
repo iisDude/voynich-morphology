@@ -1,0 +1,651 @@
+{
+  "created_at_utc": "2026-10-07T06:08:40.866148+00:00",
+  "observations": [
+    {
+      "audit_id": "R01",
+      "parent_id": "B011_O013",
+      "source_cavity_count": 1,
+      "raster_primary_count": 1.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "absent",
+      "raster_horizontal_run": {
+        "primary": 0.5,
+        "range": [
+          0.47619047619047616,
+          0.5263157894736842
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          0.5,
+          0.5121951219512195,
+          0.5,
+          0.5263157894736842,
+          0.47619047619047616,
+          0.5,
+          0.5
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R02",
+      "parent_id": "B014_O055",
+      "source_cavity_count": 1,
+      "raster_primary_count": 1.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "unresolved",
+      "raster_horizontal_run": {
+        "primary": 0.9629629629629629,
+        "range": [
+          0.9629629629629629,
+          0.9629629629629629
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          0.9629629629629629,
+          0.9629629629629629,
+          0.9629629629629629,
+          0.9629629629629629,
+          0.9629629629629629,
+          0.9629629629629629,
+          0.9629629629629629
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R03",
+      "parent_id": "V_094_P012755",
+      "source_cavity_count": null,
+      "raster_primary_count": 1.0,
+      "raster_status": "unknown_variant_sensitive",
+      "primary_count_agrees": false,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "absent",
+      "raster_horizontal_run": {
+        "primary": 0.9354838709677419,
+        "range": [
+          0.7692307692307693,
+          0.9354838709677419
+        ],
+        "status": "unknown_variant_sensitive",
+        "family": "run",
+        "values": [
+          0.9354838709677419,
+          0.7692307692307693,
+          0.8333333333333334,
+          0.9354838709677419,
+          0.9354838709677419,
+          0.9354838709677419,
+          0.9354838709677419
+        ]
+      },
+      "source_photography": "partial_or_insufficient"
+    },
+    {
+      "audit_id": "R04",
+      "parent_id": "B006_O144",
+      "source_cavity_count": 2,
+      "raster_primary_count": 1.0,
+      "raster_status": "stable",
+      "primary_count_agrees": false,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "evident",
+      "raster_horizontal_run": {
+        "primary": 0.4861111111111111,
+        "range": [
+          0.30985915492957744,
+          0.5
+        ],
+        "status": "unknown_variant_sensitive",
+        "family": "run",
+        "values": [
+          0.4861111111111111,
+          0.5,
+          0.30985915492957744,
+          0.49295774647887325,
+          0.4794520547945205,
+          0.4861111111111111,
+          0.4861111111111111
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R05",
+      "parent_id": "B004_O030",
+      "source_cavity_count": 0,
+      "raster_primary_count": 0.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "evident",
+      "raster_horizontal_run": {
+        "primary": 0.8307692307692308,
+        "range": [
+          0.8153846153846154,
+          0.8307692307692308
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          0.8307692307692308,
+          0.8181818181818182,
+          0.8153846153846154,
+          0.8307692307692308,
+          0.8307692307692308,
+          0.8307692307692308,
+          0.8307692307692308
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R06",
+      "parent_id": "B001_O126",
+      "source_cavity_count": 2,
+      "raster_primary_count": 2.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "absent",
+      "raster_horizontal_run": {
+        "primary": 0.8333333333333334,
+        "range": [
+          0.78125,
+          0.8928571428571429
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          0.8333333333333334,
+          0.8666666666666667,
+          0.8620689655172413,
+          0.8928571428571429,
+          0.78125,
+          0.8333333333333334,
+          0.8333333333333334
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R07",
+      "parent_id": "B004_O063",
+      "source_cavity_count": null,
+      "raster_primary_count": 4.0,
+      "raster_status": "unknown_variant_sensitive",
+      "primary_count_agrees": false,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "evident",
+      "raster_horizontal_run": {
+        "primary": 0.4864864864864865,
+        "range": [
+          0.4778761061946903,
+          0.8
+        ],
+        "status": "unknown_variant_sensitive",
+        "family": "run",
+        "values": [
+          0.4864864864864865,
+          0.5,
+          0.8,
+          0.4778761061946903,
+          0.4954128440366973,
+          0.4864864864864865,
+          0.4864864864864865
+        ]
+      },
+      "source_photography": "partial_or_insufficient"
+    },
+    {
+      "audit_id": "R08",
+      "parent_id": "B001_O121",
+      "source_cavity_count": 1,
+      "raster_primary_count": 1.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "absent",
+      "raster_horizontal_run": {
+        "primary": 0.875,
+        "range": [
+          0.8235294117647058,
+          0.875
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          0.875,
+          0.8484848484848485,
+          0.84375,
+          0.875,
+          0.8235294117647058,
+          0.875,
+          0.875
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R09",
+      "parent_id": "B008_O053",
+      "source_cavity_count": 1,
+      "raster_primary_count": 1.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "unresolved",
+      "raster_horizontal_run": {
+        "primary": 0.8333333333333334,
+        "range": [
+          0.8333333333333334,
+          0.8611111111111112
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          0.8333333333333334,
+          0.8611111111111112,
+          0.8333333333333334,
+          0.8333333333333334,
+          0.8333333333333334,
+          0.8333333333333334,
+          0.8333333333333334
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R10",
+      "parent_id": "V_032_P006714",
+      "source_cavity_count": 1,
+      "raster_primary_count": 1.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "unresolved",
+      "raster_horizontal_run": {
+        "primary": 0.7755102040816326,
+        "range": [
+          0.673469387755102,
+          0.8085106382978723
+        ],
+        "status": "unknown_variant_sensitive",
+        "family": "run",
+        "values": [
+          0.7755102040816326,
+          0.7755102040816326,
+          0.673469387755102,
+          0.8085106382978723,
+          0.7450980392156863,
+          0.7755102040816326,
+          0.7755102040816326
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R11",
+      "parent_id": "B012_O031",
+      "source_cavity_count": 1,
+      "raster_primary_count": 1.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "absent",
+      "raster_horizontal_run": {
+        "primary": 1.0,
+        "range": [
+          0.9629629629629629,
+          1.0
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          1.0,
+          0.9629629629629629,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R12",
+      "parent_id": "B013_O113",
+      "source_cavity_count": null,
+      "raster_primary_count": 0.0,
+      "raster_status": "stable",
+      "primary_count_agrees": false,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "absent",
+      "raster_horizontal_run": {
+        "primary": 0.5135135135135135,
+        "range": [
+          0.5128205128205128,
+          0.5135135135135135
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          0.5135135135135135,
+          0.5128205128205128,
+          0.5135135135135135,
+          0.5135135135135135,
+          0.5135135135135135,
+          0.5135135135135135,
+          0.5135135135135135
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R13",
+      "parent_id": "B008_O044",
+      "source_cavity_count": null,
+      "raster_primary_count": 0.0,
+      "raster_status": "stable",
+      "primary_count_agrees": false,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "evident",
+      "raster_horizontal_run": {
+        "primary": 0.6274509803921569,
+        "range": [
+          0.6274509803921569,
+          1.0
+        ],
+        "status": "unknown_variant_sensitive",
+        "family": "run",
+        "values": [
+          0.6274509803921569,
+          0.7962962962962963,
+          1.0,
+          0.6274509803921569,
+          0.6274509803921569,
+          0.6274509803921569,
+          0.6274509803921569
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R14",
+      "parent_id": "B015_O032",
+      "source_cavity_count": 0,
+      "raster_primary_count": 0.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "evident",
+      "raster_horizontal_run": {
+        "primary": 0.8292682926829268,
+        "range": [
+          0.8292682926829268,
+          0.8292682926829268
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          0.8292682926829268,
+          0.8292682926829268,
+          0.8292682926829268,
+          0.8292682926829268,
+          0.8292682926829268,
+          0.8292682926829268,
+          0.8292682926829268
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R15",
+      "parent_id": "V_170_P006925",
+      "source_cavity_count": 1,
+      "raster_primary_count": 1.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "evident",
+      "raster_horizontal_run": {
+        "primary": 0.6,
+        "range": [
+          0.5714285714285714,
+          0.6153846153846154
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          0.6,
+          0.6,
+          0.575,
+          0.6153846153846154,
+          0.5714285714285714,
+          0.6,
+          0.6
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R16",
+      "parent_id": "V_170_P006718",
+      "source_cavity_count": null,
+      "raster_primary_count": 1.0,
+      "raster_status": "stable",
+      "primary_count_agrees": false,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "unresolved",
+      "raster_horizontal_run": {
+        "primary": 1.0,
+        "range": [
+          1.0,
+          1.0
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "source_photography": "partial_or_insufficient"
+    },
+    {
+      "audit_id": "R17",
+      "parent_id": "B010_O031",
+      "source_cavity_count": 0,
+      "raster_primary_count": 0.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "absent",
+      "raster_horizontal_run": {
+        "primary": 0.8888888888888888,
+        "range": [
+          0.4888888888888889,
+          0.8888888888888888
+        ],
+        "status": "unknown_variant_sensitive",
+        "family": "run",
+        "values": [
+          0.8888888888888888,
+          0.4888888888888889,
+          0.8846153846153846,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888,
+          0.8888888888888888
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R18",
+      "parent_id": "V_032_P006476",
+      "source_cavity_count": 0,
+      "raster_primary_count": 0.0,
+      "raster_status": "unknown_variant_sensitive",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "unresolved",
+      "raster_horizontal_run": {
+        "primary": 0.9090909090909091,
+        "range": [
+          0.9090909090909091,
+          0.9787234042553191
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          0.9090909090909091,
+          0.9787234042553191,
+          0.9523809523809523,
+          0.9090909090909091,
+          0.9090909090909091,
+          0.9090909090909091,
+          0.9090909090909091
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R19",
+      "parent_id": "B015_O008",
+      "source_cavity_count": 0,
+      "raster_primary_count": 0.0,
+      "raster_status": "unknown_variant_sensitive",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "evident",
+      "raster_horizontal_run": {
+        "primary": 0.9210526315789473,
+        "range": [
+          0.9210526315789473,
+          0.9210526315789473
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          0.9210526315789473,
+          0.9210526315789473,
+          0.9210526315789473,
+          0.9210526315789473,
+          0.9210526315789473,
+          0.9210526315789473,
+          0.9210526315789473
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R20",
+      "parent_id": "B010_O021",
+      "source_cavity_count": 1,
+      "raster_primary_count": 1.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "absent",
+      "raster_horizontal_run": {
+        "primary": 0.8666666666666667,
+        "range": [
+          0.6666666666666666,
+          0.8666666666666667
+        ],
+        "status": "unknown_variant_sensitive",
+        "family": "run",
+        "values": [
+          0.8666666666666667,
+          0.8666666666666667,
+          0.6666666666666666,
+          0.8666666666666667,
+          0.8666666666666667,
+          0.8666666666666667,
+          0.8666666666666667
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R21",
+      "parent_id": "B006_O163",
+      "source_cavity_count": 0,
+      "raster_primary_count": 0.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "evident",
+      "raster_horizontal_run": {
+        "primary": 0.7450980392156863,
+        "range": [
+          0.7450980392156863,
+          0.7450980392156863
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          0.7450980392156863,
+          0.7450980392156863,
+          0.7450980392156863,
+          0.7450980392156863,
+          0.7450980392156863,
+          0.7450980392156863,
+          0.7450980392156863
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    },
+    {
+      "audit_id": "R22",
+      "parent_id": "V_094_P012544",
+      "source_cavity_count": 2,
+      "raster_primary_count": 2.0,
+      "raster_status": "stable",
+      "primary_count_agrees": true,
+      "semantic_uncertainty": "Source-visible cavity counts lack the raster significance-area cutoff; differences need not be model/source-adjudicator error.",
+      "source_horizontal_observation": "absent",
+      "raster_horizontal_run": {
+        "primary": 0.6666666666666666,
+        "range": [
+          0.631578947368421,
+          0.7058823529411765
+        ],
+        "status": "stable",
+        "family": "run",
+        "values": [
+          0.6666666666666666,
+          0.631578947368421,
+          0.6857142857142857,
+          0.7058823529411765,
+          0.631578947368421,
+          0.6666666666666666,
+          0.6666666666666666
+        ]
+      },
+      "source_photography": "adequate_for_some_descriptors"
+    }
+  ],
+  "resolved_cavity_counts": 17,
+  "primary_count_agreement": 16,
+  "stable_resolved_cavity_counts": 15,
+  "stable_count_agreement": 14,
+  "source_unknown_cavity_cases": 5,
+  "numerically_stable_source_unknown": 3,
+  "same_adjudicator_only": true,
+  "independent_feature_accuracy_not_established": true
+}

@@ -1,0 +1,1376 @@
+[
+  {
+    "status": "estimated",
+    "n": 341,
+    "beta": 0.047838134885116304,
+    "p_hc3": 6.720648517130438e-06,
+    "se_hc3": 0.010625150188201616,
+    "connected_family_clusters": 35,
+    "family_cluster_p": 0.029080085147748534,
+    "family_cluster_se": 0.020992818040462262,
+    "pairs": 341,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 166,
+    "near_pairs": 108,
+    "interior_pairs": 67,
+    "largest_family_fraction": 0.1466275659824047,
+    "depth_means": {
+      "0": 0.158876847861277,
+      "1": 0.0933418857048192,
+      "2": 0.08068456774301073,
+      "3": 0.24442245788399647
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 341,
+        "beta": -0.04412727733693624,
+        "p_hc3": 0.08063187196941349,
+        "se_hc3": 0.025258432381869516,
+        "connected_family_clusters": 35,
+        "family_cluster_p": 0.114645499614556,
+        "family_cluster_se": 0.027252597042745352
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 341,
+        "beta": -0.0559988709872812,
+        "p_hc3": 0.003194329376376791,
+        "se_hc3": 0.018993028459197526,
+        "connected_family_clusters": 35,
+        "family_cluster_p": 0.017888761324175984,
+        "family_cluster_se": 0.022503293130004782
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 341,
+        "beta": -0.05799235128573436,
+        "p_hc3": 0.01269252701107548,
+        "se_hc3": 0.023268777204963707,
+        "connected_family_clusters": 35,
+        "family_cluster_p": 0.03454831179455367,
+        "family_cluster_se": 0.026336179350709674
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 341,
+        "beta": -0.062376909891943076,
+        "p_hc3": 0.005276179275461284,
+        "se_hc3": 0.022359960282787347,
+        "connected_family_clusters": 35,
+        "family_cluster_p": 0.019922521527078206,
+        "family_cluster_se": 0.025534963710734087
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.02642549824512424,
+      "upper": 0.06503842451734891,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 39,
+      "positive": 39,
+      "minimum": 0.04246819980695314,
+      "maximum": 0.051733168167010186
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": -0.0020190677757993647,
+      "sd": 0.010254631883014882,
+      "two_sided_p": 0.005,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "ZL_EVA",
+    "subset": "B",
+    "variant": "folio_component",
+    "groups": 22738,
+    "dependency_blocks": 39
+  },
+  {
+    "status": "estimated",
+    "n": 341,
+    "beta": 0.047838134885116304,
+    "p_hc3": 6.720648517130438e-06,
+    "se_hc3": 0.010625150188201616,
+    "connected_family_clusters": 35,
+    "family_cluster_p": 0.029080085147748534,
+    "family_cluster_se": 0.020992818040462262,
+    "pairs": 341,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 166,
+    "near_pairs": 108,
+    "interior_pairs": 67,
+    "largest_family_fraction": 0.1466275659824047,
+    "depth_means": {
+      "0": 0.158876847861277,
+      "1": 0.0933418857048192,
+      "2": 0.08068456774301073,
+      "3": 0.24442245788399647
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 341,
+        "beta": -0.04412727733693624,
+        "p_hc3": 0.08063187196941349,
+        "se_hc3": 0.025258432381869516,
+        "connected_family_clusters": 35,
+        "family_cluster_p": 0.114645499614556,
+        "family_cluster_se": 0.027252597042745352
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 341,
+        "beta": -0.0559988709872812,
+        "p_hc3": 0.003194329376376791,
+        "se_hc3": 0.018993028459197526,
+        "connected_family_clusters": 35,
+        "family_cluster_p": 0.017888761324175984,
+        "family_cluster_se": 0.022503293130004782
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 341,
+        "beta": -0.05799235128573436,
+        "p_hc3": 0.01269252701107548,
+        "se_hc3": 0.023268777204963707,
+        "connected_family_clusters": 35,
+        "family_cluster_p": 0.03454831179455367,
+        "family_cluster_se": 0.026336179350709674
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 341,
+        "beta": -0.062376909891943076,
+        "p_hc3": 0.005276179275461284,
+        "se_hc3": 0.022359960282787347,
+        "connected_family_clusters": 35,
+        "family_cluster_p": 0.019922521527078206,
+        "family_cluster_se": 0.025534963710734087
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.02418373847415518,
+      "upper": 0.06643648720311472,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 20,
+      "positive": 20,
+      "minimum": 0.041292395492820086,
+      "maximum": 0.052485848619699585
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": -0.0025263888527526247,
+      "sd": 0.010281453457431604,
+      "two_sided_p": 0.005,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "ZL_EVA",
+    "subset": "B",
+    "variant": "inherited_bifolio_block",
+    "groups": 22738,
+    "dependency_blocks": 20
+  },
+  {
+    "status": "estimated",
+    "n": 341,
+    "beta": 0.047838134885116304,
+    "p_hc3": 6.720648517130438e-06,
+    "se_hc3": 0.010625150188201616,
+    "connected_family_clusters": 35,
+    "family_cluster_p": 0.029080085147748534,
+    "family_cluster_se": 0.020992818040462262,
+    "pairs": 341,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 166,
+    "near_pairs": 108,
+    "interior_pairs": 67,
+    "largest_family_fraction": 0.1466275659824047,
+    "depth_means": {
+      "0": 0.158876847861277,
+      "1": 0.0933418857048192,
+      "2": 0.08068456774301073,
+      "3": 0.24442245788399647
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 341,
+        "beta": -0.04412727733693624,
+        "p_hc3": 0.08063187196941349,
+        "se_hc3": 0.025258432381869516,
+        "connected_family_clusters": 35,
+        "family_cluster_p": 0.114645499614556,
+        "family_cluster_se": 0.027252597042745352
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 341,
+        "beta": -0.0559988709872812,
+        "p_hc3": 0.003194329376376791,
+        "se_hc3": 0.018993028459197526,
+        "connected_family_clusters": 35,
+        "family_cluster_p": 0.017888761324175984,
+        "family_cluster_se": 0.022503293130004782
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 341,
+        "beta": -0.05799235128573436,
+        "p_hc3": 0.01269252701107548,
+        "se_hc3": 0.023268777204963707,
+        "connected_family_clusters": 35,
+        "family_cluster_p": 0.03454831179455367,
+        "family_cluster_se": 0.026336179350709674
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 341,
+        "beta": -0.062376909891943076,
+        "p_hc3": 0.005276179275461284,
+        "se_hc3": 0.022359960282787347,
+        "connected_family_clusters": 35,
+        "family_cluster_p": 0.019922521527078206,
+        "family_cluster_se": 0.025534963710734087
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.018488276008622434,
+      "upper": 0.06226609227053689,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 9,
+      "positive": 9,
+      "minimum": 0.02589338191402339,
+      "maximum": 0.05248584861969953
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": -0.0017948741472625324,
+      "sd": 0.01056905440715672,
+      "two_sided_p": 0.005,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "ZL_EVA",
+    "subset": "B",
+    "variant": "quire",
+    "groups": 22738,
+    "dependency_blocks": 9
+  },
+  {
+    "status": "estimated",
+    "n": 329,
+    "beta": 0.04366613543440955,
+    "p_hc3": 3.726837059334309e-05,
+    "se_hc3": 0.010588827927475328,
+    "connected_family_clusters": 34,
+    "family_cluster_p": 0.050913526903960955,
+    "family_cluster_se": 0.02155305696712534,
+    "pairs": 329,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 158,
+    "near_pairs": 104,
+    "interior_pairs": 67,
+    "largest_family_fraction": 0.14893617021276595,
+    "depth_means": {
+      "0": 0.16005483337582868,
+      "1": 0.08982652356662658,
+      "2": 0.08234354329492981,
+      "3": 0.24667277167277166
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 329,
+        "beta": -0.039236333480603805,
+        "p_hc3": 0.11169779027259856,
+        "se_hc3": 0.024667504438936394,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.13786130072571354,
+        "family_cluster_se": 0.02580158313636414
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 329,
+        "beta": -0.04432405262872623,
+        "p_hc3": 0.010838024559550002,
+        "se_hc3": 0.017396455357953085,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.02976862671563188,
+        "family_cluster_se": 0.019513557511087607
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 329,
+        "beta": -0.04834456227150124,
+        "p_hc3": 0.029777366021636067,
+        "se_hc3": 0.022247441261939914,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.053263734865211666,
+        "family_cluster_se": 0.02411640100406232
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 329,
+        "beta": -0.050157143365289265,
+        "p_hc3": 0.01731830620982836,
+        "se_hc3": 0.021075498177434187,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.03414064764201979,
+        "family_cluster_se": 0.022694065221205727
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.022505966854010108,
+      "upper": 0.06300273626963981,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 39,
+      "positive": 39,
+      "minimum": 0.03680632023941845,
+      "maximum": 0.04638315935625066
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": -0.0013437194893588737,
+      "sd": 0.011039623130233829,
+      "two_sided_p": 0.005,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "ZL_EVA",
+    "subset": "B",
+    "variant": "comma_join",
+    "groups": 21104
+  },
+  {
+    "status": "estimated",
+    "n": 197,
+    "beta": 0.026641114682621793,
+    "p_hc3": 0.12403525705474058,
+    "se_hc3": 0.017321305823148062,
+    "connected_family_clusters": 28,
+    "family_cluster_p": 0.2412619611191555,
+    "family_cluster_se": 0.022234789393787636,
+    "pairs": 197,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 82,
+    "near_pairs": 73,
+    "interior_pairs": 42,
+    "largest_family_fraction": 0.18274111675126903,
+    "depth_means": {
+      "0": 0.15140259786068533,
+      "1": 0.11645513639115866,
+      "2": 0.10714572399547757,
+      "3": 0.16558913969628264
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 197,
+        "beta": -0.023958978452909743,
+        "p_hc3": 0.5216786963792721,
+        "se_hc3": 0.03739150784055462,
+        "connected_family_clusters": 28,
+        "family_cluster_p": 0.5683082825088812,
+        "family_cluster_se": 0.041478939887911376
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 197,
+        "beta": -0.0544287378021557,
+        "p_hc3": 0.0851089829059939,
+        "se_hc3": 0.03161186023973871,
+        "connected_family_clusters": 28,
+        "family_cluster_p": 0.12854495164291632,
+        "family_cluster_se": 0.03471384088271705
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 197,
+        "beta": -0.03314901973529001,
+        "p_hc3": 0.36405919435542566,
+        "se_hc3": 0.036521506201449304,
+        "connected_family_clusters": 28,
+        "family_cluster_p": 0.4633213041529678,
+        "family_cluster_se": 0.044557011299670726
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 197,
+        "beta": -0.040913543237687366,
+        "p_hc3": 0.2546836994152246,
+        "se_hc3": 0.035919111309380775,
+        "connected_family_clusters": 28,
+        "family_cluster_p": 0.36060098491594816,
+        "family_cluster_se": 0.04399202689229902
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": -0.0009394256871767089,
+      "upper": 0.05071929836122009,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 39,
+      "positive": 39,
+      "minimum": 0.021046570039637266,
+      "maximum": 0.03181910233776148
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": -0.0029402989240385506,
+      "sd": 0.012770567431164608,
+      "two_sided_p": 0.035,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "ZL_EVA",
+    "subset": "B",
+    "variant": "exclude_uncertain_space_rows",
+    "groups": 11421
+  },
+  {
+    "status": "estimated",
+    "n": 361,
+    "beta": 0.04465827042215873,
+    "p_hc3": 3.294519338699927e-05,
+    "se_hc3": 0.010755611064746035,
+    "connected_family_clusters": 34,
+    "family_cluster_p": 0.018659143315534327,
+    "family_cluster_se": 0.018048100225212638,
+    "pairs": 361,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 152,
+    "near_pairs": 155,
+    "interior_pairs": 54,
+    "largest_family_fraction": 0.13573407202216067,
+    "depth_means": {
+      "0": 0.14477183569506502,
+      "1": 0.0959824784647949,
+      "2": 0.06994817195065188,
+      "3": 0.25177489177489176
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 361,
+        "beta": -0.02281989175349436,
+        "p_hc3": 0.3930121075278534,
+        "se_hc3": 0.02671594023055838,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.41189814415550663,
+        "family_cluster_se": 0.02745791738754593
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 361,
+        "beta": -0.03697662199494147,
+        "p_hc3": 0.059163228302243825,
+        "se_hc3": 0.01959567825929848,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.10869911795303823,
+        "family_cluster_se": 0.022427782691252545
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 361,
+        "beta": -0.04180976538631777,
+        "p_hc3": 0.08792938354670549,
+        "se_hc3": 0.024501410041282694,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.16508949489381206,
+        "family_cluster_se": 0.029450877372699046
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 361,
+        "beta": -0.047440763409314204,
+        "p_hc3": 0.04120286345345015,
+        "se_hc3": 0.02323838525522777,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.11288418492111757,
+        "family_cluster_se": 0.029127718465930756
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.019211636061669566,
+      "upper": 0.05876005414338204,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 39,
+      "positive": 39,
+      "minimum": 0.039627714332751196,
+      "maximum": 0.047960165320945526
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": 0.0004564786253294495,
+      "sd": 0.011838236809003241,
+      "two_sided_p": 0.005,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "RF",
+    "subset": "B",
+    "variant": "folio_component",
+    "groups": 22694,
+    "dependency_blocks": 39
+  },
+  {
+    "status": "estimated",
+    "n": 361,
+    "beta": 0.04465827042215873,
+    "p_hc3": 3.294519338699927e-05,
+    "se_hc3": 0.010755611064746035,
+    "connected_family_clusters": 34,
+    "family_cluster_p": 0.018659143315534327,
+    "family_cluster_se": 0.018048100225212638,
+    "pairs": 361,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 152,
+    "near_pairs": 155,
+    "interior_pairs": 54,
+    "largest_family_fraction": 0.13573407202216067,
+    "depth_means": {
+      "0": 0.14477183569506502,
+      "1": 0.0959824784647949,
+      "2": 0.06994817195065188,
+      "3": 0.25177489177489176
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 361,
+        "beta": -0.02281989175349436,
+        "p_hc3": 0.3930121075278534,
+        "se_hc3": 0.02671594023055838,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.41189814415550663,
+        "family_cluster_se": 0.02745791738754593
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 361,
+        "beta": -0.03697662199494147,
+        "p_hc3": 0.059163228302243825,
+        "se_hc3": 0.01959567825929848,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.10869911795303823,
+        "family_cluster_se": 0.022427782691252545
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 361,
+        "beta": -0.04180976538631777,
+        "p_hc3": 0.08792938354670549,
+        "se_hc3": 0.024501410041282694,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.16508949489381206,
+        "family_cluster_se": 0.029450877372699046
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 361,
+        "beta": -0.047440763409314204,
+        "p_hc3": 0.04120286345345015,
+        "se_hc3": 0.02323838525522777,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.11288418492111757,
+        "family_cluster_se": 0.029127718465930756
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.011044566718159995,
+      "upper": 0.059300052355434146,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 20,
+      "positive": 20,
+      "minimum": 0.036823821573911855,
+      "maximum": 0.04823127363635324
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": 0.000894068594991469,
+      "sd": 0.010702592715832501,
+      "two_sided_p": 0.005,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "RF",
+    "subset": "B",
+    "variant": "inherited_bifolio_block",
+    "groups": 22694,
+    "dependency_blocks": 20
+  },
+  {
+    "status": "estimated",
+    "n": 361,
+    "beta": 0.04465827042215873,
+    "p_hc3": 3.294519338699927e-05,
+    "se_hc3": 0.010755611064746035,
+    "connected_family_clusters": 34,
+    "family_cluster_p": 0.018659143315534327,
+    "family_cluster_se": 0.018048100225212638,
+    "pairs": 361,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 152,
+    "near_pairs": 155,
+    "interior_pairs": 54,
+    "largest_family_fraction": 0.13573407202216067,
+    "depth_means": {
+      "0": 0.14477183569506502,
+      "1": 0.0959824784647949,
+      "2": 0.06994817195065188,
+      "3": 0.25177489177489176
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 361,
+        "beta": -0.02281989175349436,
+        "p_hc3": 0.3930121075278534,
+        "se_hc3": 0.02671594023055838,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.41189814415550663,
+        "family_cluster_se": 0.02745791738754593
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 361,
+        "beta": -0.03697662199494147,
+        "p_hc3": 0.059163228302243825,
+        "se_hc3": 0.01959567825929848,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.10869911795303823,
+        "family_cluster_se": 0.022427782691252545
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 361,
+        "beta": -0.04180976538631777,
+        "p_hc3": 0.08792938354670549,
+        "se_hc3": 0.024501410041282694,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.16508949489381206,
+        "family_cluster_se": 0.029450877372699046
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 361,
+        "beta": -0.047440763409314204,
+        "p_hc3": 0.04120286345345015,
+        "se_hc3": 0.02323838525522777,
+        "connected_family_clusters": 34,
+        "family_cluster_p": 0.11288418492111757,
+        "family_cluster_se": 0.029127718465930756
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.011107670489079227,
+      "upper": 0.05670912467941245,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 9,
+      "positive": 9,
+      "minimum": 0.030688276021949144,
+      "maximum": 0.04630204932441084
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": 0.00011774427886518697,
+      "sd": 0.00977628590244085,
+      "two_sided_p": 0.005,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "RF",
+    "subset": "B",
+    "variant": "quire",
+    "groups": 22694,
+    "dependency_blocks": 9
+  },
+  {
+    "status": "estimated",
+    "n": 371,
+    "beta": 0.047507070993913846,
+    "p_hc3": 8.520515351746373e-06,
+    "se_hc3": 0.010671742083800964,
+    "connected_family_clusters": 33,
+    "family_cluster_p": 0.009547448269849488,
+    "family_cluster_se": 0.01722939274578216,
+    "pairs": 371,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 158,
+    "near_pairs": 158,
+    "interior_pairs": 55,
+    "largest_family_fraction": 0.1320754716981132,
+    "depth_means": {
+      "0": 0.15448981253749453,
+      "1": 0.09714008339684313,
+      "2": 0.06817971948586582,
+      "3": 0.25706690969848855
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 371,
+        "beta": -0.028846040306272965,
+        "p_hc3": 0.27692092048230876,
+        "se_hc3": 0.026530894386200064,
+        "connected_family_clusters": 33,
+        "family_cluster_p": 0.3471987849485967,
+        "family_cluster_se": 0.030234631721703927
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 371,
+        "beta": -0.04400516068935605,
+        "p_hc3": 0.026203471507672434,
+        "se_hc3": 0.019793765642653796,
+        "connected_family_clusters": 33,
+        "family_cluster_p": 0.08647921265298357,
+        "family_cluster_se": 0.024880182290985375
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 371,
+        "beta": -0.048334824739580035,
+        "p_hc3": 0.04560999455281959,
+        "se_hc3": 0.02417968553704241,
+        "connected_family_clusters": 33,
+        "family_cluster_p": 0.1367739111807449,
+        "family_cluster_se": 0.0316691717795035
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 371,
+        "beta": -0.054133497229237236,
+        "p_hc3": 0.01863205398507259,
+        "se_hc3": 0.023007999933377984,
+        "connected_family_clusters": 33,
+        "family_cluster_p": 0.09462346509863556,
+        "family_cluster_se": 0.031426402699291804
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.02105400774592596,
+      "upper": 0.05910747372120393,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 39,
+      "positive": 39,
+      "minimum": 0.04189593259485562,
+      "maximum": 0.04983489415107448
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": -0.0007930211852039341,
+      "sd": 0.010363635136548506,
+      "two_sided_p": 0.005,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "RF",
+    "subset": "B",
+    "variant": "comma_join",
+    "groups": 22290
+  },
+  {
+    "status": "estimated",
+    "n": 300,
+    "beta": 0.03665684706657314,
+    "p_hc3": 0.006406216315100281,
+    "se_hc3": 0.0134459802565397,
+    "connected_family_clusters": 32,
+    "family_cluster_p": 0.08361420745364705,
+    "family_cluster_se": 0.020505685930134274,
+    "pairs": 300,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 114,
+    "near_pairs": 140,
+    "interior_pairs": 46,
+    "largest_family_fraction": 0.15666666666666668,
+    "depth_means": {
+      "0": 0.13596795336176845,
+      "1": 0.09650052832343925,
+      "2": 0.07886616718228097,
+      "3": 0.24234257255090574
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 300,
+        "beta": -0.032240486917128906,
+        "p_hc3": 0.2810404252220302,
+        "se_hc3": 0.02990810191387754,
+        "connected_family_clusters": 32,
+        "family_cluster_p": 0.3286601817153808,
+        "family_cluster_se": 0.03248563584390507
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 300,
+        "beta": -0.0445167407004747,
+        "p_hc3": 0.05376069985181029,
+        "se_hc3": 0.02308050115846967,
+        "connected_family_clusters": 32,
+        "family_cluster_p": 0.08266979344264289,
+        "family_cluster_se": 0.024822469633907145
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 300,
+        "beta": -0.04636545208306672,
+        "p_hc3": 0.09262001953709686,
+        "se_hc3": 0.02756999232808566,
+        "connected_family_clusters": 32,
+        "family_cluster_p": 0.15625001161800633,
+        "family_cluster_se": 0.03190838271030602
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 300,
+        "beta": -0.050506612392017286,
+        "p_hc3": 0.05439400105777941,
+        "se_hc3": 0.026255128050345106,
+        "connected_family_clusters": 32,
+        "family_cluster_p": 0.11021396920150166,
+        "family_cluster_se": 0.03071571584909207
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.009961895767766927,
+      "upper": 0.05860043392115808,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 39,
+      "positive": 39,
+      "minimum": 0.02556517670145434,
+      "maximum": 0.04365718031954314
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": -0.0007593931179842577,
+      "sd": 0.011655902921157583,
+      "two_sided_p": 0.005,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "RF",
+    "subset": "B",
+    "variant": "exclude_uncertain_space_rows",
+    "groups": 18991
+  },
+  {
+    "status": "estimated",
+    "n": 279,
+    "beta": 0.027650376674725346,
+    "p_hc3": 0.01736821306304453,
+    "se_hc3": 0.011623574325750528,
+    "connected_family_clusters": 9,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 279,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 93,
+    "near_pairs": 109,
+    "interior_pairs": 77,
+    "largest_family_fraction": 0.3763440860215054,
+    "depth_means": {
+      "0": 0.1449551981794583,
+      "1": 0.08927873827127164,
+      "2": 0.08052268178266302,
+      "3": 0.06747642421852472
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 279,
+        "beta": 0.03403136464115571,
+        "p_hc3": 0.14474866323316504,
+        "se_hc3": 0.023335791539429072,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 279,
+        "beta": 0.013299395387427087,
+        "p_hc3": 0.4630181536189716,
+        "se_hc3": 0.01812187915387149,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 279,
+        "beta": 0.021321591956009564,
+        "p_hc3": 0.3289029289482486,
+        "se_hc3": 0.02183859847125908,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 279,
+        "beta": 0.016654281685082914,
+        "p_hc3": 0.4285266437536487,
+        "se_hc3": 0.021035692615494074,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.011171308812222011,
+      "upper": 0.04256942259562334,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 39,
+      "positive": 39,
+      "minimum": 0.022476250897542578,
+      "maximum": 0.03196145383855144
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": -0.0008824845378619159,
+      "sd": 0.009553154023015268,
+      "two_sided_p": 0.01,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "v101",
+    "subset": "B",
+    "variant": "folio_component",
+    "groups": 24570,
+    "dependency_blocks": 39
+  },
+  {
+    "status": "estimated",
+    "n": 279,
+    "beta": 0.027650376674725346,
+    "p_hc3": 0.01736821306304453,
+    "se_hc3": 0.011623574325750528,
+    "connected_family_clusters": 9,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 279,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 93,
+    "near_pairs": 109,
+    "interior_pairs": 77,
+    "largest_family_fraction": 0.3763440860215054,
+    "depth_means": {
+      "0": 0.1449551981794583,
+      "1": 0.08927873827127164,
+      "2": 0.08052268178266302,
+      "3": 0.06747642421852472
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 279,
+        "beta": 0.03403136464115571,
+        "p_hc3": 0.14474866323316504,
+        "se_hc3": 0.023335791539429072,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 279,
+        "beta": 0.013299395387427087,
+        "p_hc3": 0.4630181536189716,
+        "se_hc3": 0.01812187915387149,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 279,
+        "beta": 0.021321591956009564,
+        "p_hc3": 0.3289029289482486,
+        "se_hc3": 0.02183859847125908,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 279,
+        "beta": 0.016654281685082914,
+        "p_hc3": 0.4285266437536487,
+        "se_hc3": 0.021035692615494074,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.009521593764535355,
+      "upper": 0.04574974630449814,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 20,
+      "positive": 20,
+      "minimum": 0.02167850394038757,
+      "maximum": 0.033541809424647274
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": -0.0009157760633907603,
+      "sd": 0.009543278901287075,
+      "two_sided_p": 0.01,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "v101",
+    "subset": "B",
+    "variant": "inherited_bifolio_block",
+    "groups": 24570,
+    "dependency_blocks": 20
+  },
+  {
+    "status": "estimated",
+    "n": 279,
+    "beta": 0.027650376674725346,
+    "p_hc3": 0.01736821306304453,
+    "se_hc3": 0.011623574325750528,
+    "connected_family_clusters": 9,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 279,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 93,
+    "near_pairs": 109,
+    "interior_pairs": 77,
+    "largest_family_fraction": 0.3763440860215054,
+    "depth_means": {
+      "0": 0.1449551981794583,
+      "1": 0.08927873827127164,
+      "2": 0.08052268178266302,
+      "3": 0.06747642421852472
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 279,
+        "beta": 0.03403136464115571,
+        "p_hc3": 0.14474866323316504,
+        "se_hc3": 0.023335791539429072,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 279,
+        "beta": 0.013299395387427087,
+        "p_hc3": 0.4630181536189716,
+        "se_hc3": 0.01812187915387149,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 279,
+        "beta": 0.021321591956009564,
+        "p_hc3": 0.3289029289482486,
+        "se_hc3": 0.02183859847125908,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 279,
+        "beta": 0.016654281685082914,
+        "p_hc3": 0.4285266437536487,
+        "se_hc3": 0.021035692615494074,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.005281475769570043,
+      "upper": 0.048298157846265045,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 9,
+      "positive": 9,
+      "minimum": 0.024770144923901616,
+      "maximum": 0.04169739848139005
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": 0.00041173778534557684,
+      "sd": 0.008889236478101751,
+      "two_sided_p": 0.005,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "v101",
+    "subset": "B",
+    "variant": "quire",
+    "groups": 24570,
+    "dependency_blocks": 9
+  },
+  {
+    "status": "estimated",
+    "n": 305,
+    "beta": 0.03486509286466361,
+    "p_hc3": 0.0019339523943798123,
+    "se_hc3": 0.011246107646329521,
+    "connected_family_clusters": 10,
+    "family_cluster_p": 0.0001944660593376165,
+    "family_cluster_se": 0.005779001667886686,
+    "pairs": 305,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 106,
+    "near_pairs": 112,
+    "interior_pairs": 87,
+    "largest_family_fraction": 0.3737704918032787,
+    "depth_means": {
+      "0": 0.15072903706275018,
+      "1": 0.09476358125866956,
+      "2": 0.07729527508856912,
+      "3": 0.09191296480595723
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 305,
+        "beta": 0.01361660944773204,
+        "p_hc3": 0.5396529964932046,
+        "se_hc3": 0.022200831555210427,
+        "connected_family_clusters": 10,
+        "family_cluster_p": 0.5474156992094514,
+        "family_cluster_se": 0.021782561483890184
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 305,
+        "beta": -0.0019054352501034458,
+        "p_hc3": 0.9109356885985972,
+        "se_hc3": 0.017034352379341314,
+        "connected_family_clusters": 10,
+        "family_cluster_p": 0.8978903795175847,
+        "family_cluster_se": 0.01443542855152523
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 305,
+        "beta": 0.0030910565970267076,
+        "p_hc3": 0.880591181333965,
+        "se_hc3": 0.020576887864458458,
+        "connected_family_clusters": 10,
+        "family_cluster_p": 0.8604501837308591,
+        "family_cluster_se": 0.017086600181929885
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 305,
+        "beta": -0.0012376790410513893,
+        "p_hc3": 0.9502375282034575,
+        "se_hc3": 0.019831899381515743,
+        "connected_family_clusters": 10,
+        "family_cluster_p": 0.9398489656116062,
+        "family_cluster_se": 0.015950776240215583
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.017024999630878578,
+      "upper": 0.048755599604342975,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 39,
+      "positive": 39,
+      "minimum": 0.03143719607901877,
+      "maximum": 0.03902605583557868
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": -0.0004187389991688123,
+      "sd": 0.008979992562995724,
+      "two_sided_p": 0.005,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "v101",
+    "subset": "B",
+    "variant": "comma_join",
+    "groups": 22959
+  },
+  {
+    "status": "estimated",
+    "n": 149,
+    "beta": 0.011145252766884503,
+    "p_hc3": 0.4642243987435831,
+    "se_hc3": 0.015227657955503076,
+    "connected_family_clusters": 9,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 149,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 44,
+    "near_pairs": 58,
+    "interior_pairs": 47,
+    "largest_family_fraction": 0.3691275167785235,
+    "depth_means": {
+      "0": 0.1506977930692601,
+      "1": 0.08348159941993633,
+      "2": 0.08994843828375719,
+      "3": 0.039597183746119896
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 149,
+        "beta": 0.053591564736240084,
+        "p_hc3": 0.10067298163035394,
+        "se_hc3": 0.03264593885860343,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 149,
+        "beta": 0.03356614863227068,
+        "p_hc3": 0.2262205712792419,
+        "se_hc3": 0.02773713428139152,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 149,
+        "beta": 0.049662379507477684,
+        "p_hc3": 0.10614209258507813,
+        "se_hc3": 0.030735872889968072,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 149,
+        "beta": 0.04758494138729285,
+        "p_hc3": 0.11183176001459141,
+        "se_hc3": 0.029927381821589445,
+        "connected_family_clusters": 9,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": -0.011009898692991849,
+      "upper": 0.041329631513241864,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 39,
+      "positive": 39,
+      "minimum": 0.003191631655910583,
+      "maximum": 0.017590750281775237
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": 0.00015321348044927406,
+      "sd": 0.013197146093275394,
+      "two_sided_p": 0.365,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "v101",
+    "subset": "B",
+    "variant": "exclude_uncertain_space_rows",
+    "groups": 13143
+  }
+]

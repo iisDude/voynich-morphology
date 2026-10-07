@@ -1,0 +1,21 @@
+{
+  "sources": [
+    {
+      "dataset": "ZL_EVA",
+      "path": "data/comparisons/v2/ZL_EVA_groups_with_metadata.json",
+      "sha256": "ed4876106e8e565f72b0e28a7a9390f37b07ba9a2337cd6b4e8010abe40c227c"
+    },
+    {
+      "dataset": "RF",
+      "path": "data/comparisons/v2/RF_groups_with_metadata.json",
+      "sha256": "abca44355afc0867ada0d09f29f5517fddb06d7e83349ecdfbebb7c9b54023ae"
+    },
+    {
+      "dataset": "v101",
+      "path": "data/comparisons/v2/v101_groups_with_metadata.json",
+      "sha256": "b942d15d7a9d3a2428541efb7b9d51f3921b91162c39a01b41f6bf6ef5e2e19b"
+    }
+  ],
+  "source_sha256": "725170858bd0509293bf8b3f85c7a8919381f63d21686f3d56a34c008cde5228",
+  "visual_freeze_sha256": "eb1dff78adf9409757812a2aa7fca0a8c7a03ccbb102362276081e2bfd0ff656"
+}

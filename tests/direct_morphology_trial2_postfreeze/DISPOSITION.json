@@ -1,0 +1,28 @@
+{
+  "interpreted_at_utc": "2026-10-07T08:39:00.854062+00:00",
+  "frozen_manifest_sha256": "82eb82441addc43067e678ae987147b4e8de08e845cdc04141c5230dc70e9836",
+  "status": "supported",
+  "sample_gates": {
+    "caption_support": true,
+    "binary_support": true,
+    "same_support": true,
+    "different_support": true,
+    "each_category_caption_support": true,
+    "valid_bootstrap_support": true
+  },
+  "metric_gates": {
+    "primary_contour64_AUROC": true,
+    "caption_bootstrap_lower": true,
+    "aspect_delta": true,
+    "paired_delta_bootstrap_lower": true
+  },
+  "operational_gates": {
+    "exact_replay": true,
+    "preserved_source_unknowns": true
+  },
+  "scope": "Qualified fresh-caption source-resolved ordinary horizontal writing proposal sample; same-AI source targets. Source-traceable visible morphology only.",
+  "independent_human_validation": false,
+  "global_image_blindness": false,
+  "complete_writing_representation": false,
+  "no_downstream_assays": true
+}

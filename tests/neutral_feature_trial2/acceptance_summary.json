@@ -1,0 +1,29 @@
+{
+  "coverage_source_gates": {
+    "sample_n": true,
+    "caption_n": true,
+    "overall": false,
+    "resolved": false,
+    "every_caption": false,
+    "unknown": false,
+    "cavity_n": true,
+    "cavity_agreement": false,
+    "aspect": true,
+    "source_uncertainty_preserved": true,
+    "deterministic_replay": true
+  },
+  "coverage_source_pass": false,
+  "similarity_gates": {
+    "auc": true,
+    "pairs": false,
+    "positive": true,
+    "negative": true,
+    "six_captions": true,
+    "all_baselines": false
+  },
+  "similarity_superiority_pass": false,
+  "frozen_feature_protocol_unchanged": true,
+  "no_new_classes": true,
+  "no_downstream_tests": true,
+  "central_answer": "Partial representations remain reproducible for a subset, but broad fresh-source and V3-unknown coverage and all-baseline superiority are not validated."
+}

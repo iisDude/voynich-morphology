@@ -1,0 +1,1900 @@
+{
+  "source_resolved_fresh_n": 118,
+  "reference_n": 88,
+  "certain_nearest_n": 10,
+  "median_not_excluded": 7.5,
+  "same_nearest32_n": 93,
+  "same_nearest128_n": 110,
+  "parents": [
+    {
+      "parent_id": "T2_V_034_P010240",
+      "audit_id": "N001",
+      "caption": "17",
+      "primary_nearest": "B014_O102",
+      "nearest_observed_distance": 0.024951517581939697,
+      "nearest_observed_interval": [
+        0.02441154606640339,
+        0.0342743881046772
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 3,
+      "nearest32": "B014_O102",
+      "nearest128": "B014_O102",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_034_P010241",
+      "audit_id": "N002",
+      "caption": "17",
+      "primary_nearest": "B006_O169",
+      "nearest_observed_distance": 0.04019651934504509,
+      "nearest_observed_interval": [
+        0.03692237660288811,
+        0.04234929010272026
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 4,
+      "nearest32": "B006_O169",
+      "nearest128": "B006_O169",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_034_P010359",
+      "audit_id": "N003",
+      "caption": "17",
+      "primary_nearest": "B003_O074",
+      "nearest_observed_distance": 0.03822794929146767,
+      "nearest_observed_interval": [
+        0.0361909344792366,
+        0.0472492016851902
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 21,
+      "nearest32": "B003_O074",
+      "nearest128": "B003_O074",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_034_P010449",
+      "audit_id": "N004",
+      "caption": "17",
+      "primary_nearest": "B002_O041",
+      "nearest_observed_distance": 0.020594831556081772,
+      "nearest_observed_interval": [
+        0.020249957218766212,
+        0.024721350520849228
+      ],
+      "primary_nearest_certain_under_observed_candidates": true,
+      "reference_candidates_not_excluded": 1,
+      "nearest32": "B002_O041",
+      "nearest128": "B002_O041",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_034_P010488",
+      "audit_id": "N005",
+      "caption": "17",
+      "primary_nearest": "B002_O041",
+      "nearest_observed_distance": 0.042640119791030884,
+      "nearest_observed_interval": [
+        0.03706810995936394,
+        0.09308096021413803
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 88,
+      "nearest32": "B003_O074",
+      "nearest128": "B002_O041",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_034_P010489",
+      "audit_id": "N006",
+      "caption": "17",
+      "primary_nearest": "B002_O041",
+      "nearest_observed_distance": 0.031013527885079384,
+      "nearest_observed_interval": [
+        0.028634732589125633,
+        0.03394952043890953
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 7,
+      "nearest32": "B008_O030",
+      "nearest128": "B008_O030",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_034_P010615",
+      "audit_id": "N007",
+      "caption": "17",
+      "primary_nearest": "B006_O169",
+      "nearest_observed_distance": 0.03040088154375553,
+      "nearest_observed_interval": [
+        0.027966316789388657,
+        0.0797211155295372
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 86,
+      "nearest32": "B006_O169",
+      "nearest128": "B006_O169",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_034_P010651",
+      "audit_id": "N008",
+      "caption": "17",
+      "primary_nearest": "B009_O014",
+      "nearest_observed_distance": 0.03163773939013481,
+      "nearest_observed_interval": [
+        0.02539646625518799,
+        0.03705745190382004
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 5,
+      "nearest32": "B009_O014",
+      "nearest128": "B009_O014",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_034_P010654",
+      "audit_id": "N009",
+      "caption": "17",
+      "primary_nearest": "B013_O015",
+      "nearest_observed_distance": 0.030009301379323006,
+      "nearest_observed_interval": [
+        0.02918684110045433,
+        0.11294753104448318
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 88,
+      "nearest32": "B013_O015",
+      "nearest128": "B013_O015",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_034_P010656",
+      "audit_id": "N010",
+      "caption": "17",
+      "primary_nearest": "V_094_P012797",
+      "nearest_observed_distance": 0.024207407608628273,
+      "nearest_observed_interval": [
+        0.020994139835238457,
+        0.027616020292043686
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 2,
+      "nearest32": "V_094_P012797",
+      "nearest128": "V_094_P012797",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_034_P010736",
+      "audit_id": "N012",
+      "caption": "17",
+      "primary_nearest": "V_094_P012799",
+      "nearest_observed_distance": 0.03715324401855469,
+      "nearest_observed_interval": [
+        0.03217566758394241,
+        0.041093647480010986
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 5,
+      "nearest32": "V_094_P012799",
+      "nearest128": "V_094_P012799",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_034_P010768",
+      "audit_id": "N013",
+      "caption": "17",
+      "primary_nearest": "V_170_P006735",
+      "nearest_observed_distance": 0.04859571531414986,
+      "nearest_observed_interval": [
+        0.0475614070892334,
+        0.13067516684532166
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 86,
+      "nearest32": "V_170_P006735",
+      "nearest128": "V_170_P006735",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_034_P010795",
+      "audit_id": "N014",
+      "caption": "17",
+      "primary_nearest": "V_032_P006410",
+      "nearest_observed_distance": 0.033196236938238144,
+      "nearest_observed_interval": [
+        0.030165424570441246,
+        0.10028151422739029
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 76,
+      "nearest32": "V_032_P006410",
+      "nearest128": "V_032_P006410",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_034_P010863",
+      "audit_id": "N015",
+      "caption": "17",
+      "primary_nearest": "B015_O032",
+      "nearest_observed_distance": 0.027652880176901817,
+      "nearest_observed_interval": [
+        0.02753400430083275,
+        0.029592016711831093
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 2,
+      "nearest32": "B015_O032",
+      "nearest128": "B015_O032",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P006682",
+      "audit_id": "N016",
+      "caption": "19",
+      "primary_nearest": "B015_O060",
+      "nearest_observed_distance": 0.022360773757100105,
+      "nearest_observed_interval": [
+        0.01986207254230976,
+        0.023202968761324883
+      ],
+      "primary_nearest_certain_under_observed_candidates": true,
+      "reference_candidates_not_excluded": 1,
+      "nearest32": "B015_O060",
+      "nearest128": "B015_O060",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P006957",
+      "audit_id": "N017",
+      "caption": "19",
+      "primary_nearest": "B015_O046",
+      "nearest_observed_distance": 0.028091030195355415,
+      "nearest_observed_interval": [
+        0.020151618868112564,
+        0.045277003198862076
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 7,
+      "nearest32": "B015_O046",
+      "nearest128": "B015_O046",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P007045",
+      "audit_id": "N018",
+      "caption": "19",
+      "primary_nearest": "V_170_P006713",
+      "nearest_observed_distance": 0.03935260325670242,
+      "nearest_observed_interval": [
+        0.03714676573872566,
+        0.1241578683257103
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 88,
+      "nearest32": "V_170_P006713",
+      "nearest128": "V_170_P006713",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P007259",
+      "audit_id": "N019",
+      "caption": "19",
+      "primary_nearest": "B002_O041",
+      "nearest_observed_distance": 0.021684879437088966,
+      "nearest_observed_interval": [
+        0.01773025467991829,
+        0.029125496745109558
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 4,
+      "nearest32": "B002_O041",
+      "nearest128": "B002_O041",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P007375",
+      "audit_id": "N020",
+      "caption": "19",
+      "primary_nearest": "B001_O135",
+      "nearest_observed_distance": 0.029318805783987045,
+      "nearest_observed_interval": [
+        0.0275876484811306,
+        0.09145905077457428
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 81,
+      "nearest32": "B001_O135",
+      "nearest128": "B001_O135",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P007404",
+      "audit_id": "N022",
+      "caption": "19",
+      "primary_nearest": "B002_O041",
+      "nearest_observed_distance": 0.025466617196798325,
+      "nearest_observed_interval": [
+        0.024833548814058304,
+        0.08700408041477203
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 85,
+      "nearest32": "B007_O167",
+      "nearest128": "B002_O041",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P007447",
+      "audit_id": "N024",
+      "caption": "19",
+      "primary_nearest": "V_032_P006410",
+      "nearest_observed_distance": 0.03792022913694382,
+      "nearest_observed_interval": [
+        0.035712629556655884,
+        0.08210612833499908
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 69,
+      "nearest32": "V_032_P006410",
+      "nearest128": "V_032_P006410",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P007450",
+      "audit_id": "N025",
+      "caption": "19",
+      "primary_nearest": "V_094_P012798",
+      "nearest_observed_distance": 0.01858772337436676,
+      "nearest_observed_interval": [
+        0.01858772337436676,
+        0.04556611180305481
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 15,
+      "nearest32": "V_094_P012798",
+      "nearest128": "V_094_P012798",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P007528",
+      "audit_id": "N026",
+      "caption": "19",
+      "primary_nearest": "B015_O032",
+      "nearest_observed_distance": 0.020893128588795662,
+      "nearest_observed_interval": [
+        0.018487099558115005,
+        0.0244846623390913
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 2,
+      "nearest32": "B015_O032",
+      "nearest128": "B015_O032",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P007576",
+      "audit_id": "N027",
+      "caption": "19",
+      "primary_nearest": "V_032_P006475",
+      "nearest_observed_distance": 0.02986983396112919,
+      "nearest_observed_interval": [
+        0.028694983571767807,
+        0.042837608605623245
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 5,
+      "nearest32": "V_032_P006475",
+      "nearest128": "V_032_P006475",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P007577",
+      "audit_id": "N028",
+      "caption": "19",
+      "primary_nearest": "B009_O028",
+      "nearest_observed_distance": 0.016763104125857353,
+      "nearest_observed_interval": [
+        0.014571641571819782,
+        0.12827588617801666
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 84,
+      "nearest32": "B009_O028",
+      "nearest128": "B009_O028",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P007580",
+      "audit_id": "N029",
+      "caption": "19",
+      "primary_nearest": "V_032_P006568",
+      "nearest_observed_distance": 0.03225713223218918,
+      "nearest_observed_interval": [
+        0.03131099417805672,
+        0.08664783090353012
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 71,
+      "nearest32": "V_170_P006641",
+      "nearest128": "V_032_P006568",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P007597",
+      "audit_id": "N030",
+      "caption": "19",
+      "primary_nearest": "B006_O155",
+      "nearest_observed_distance": 0.04360862448811531,
+      "nearest_observed_interval": [
+        0.0428980216383934,
+        0.049315955489873886
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 11,
+      "nearest32": "B006_O155",
+      "nearest128": "B006_O155",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_038_P007644",
+      "audit_id": "N031",
+      "caption": "19",
+      "primary_nearest": "B007_O116",
+      "nearest_observed_distance": 0.047768738120794296,
+      "nearest_observed_interval": [
+        0.04136253148317337,
+        0.08284330368041992
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 60,
+      "nearest32": "B007_O116",
+      "nearest128": "B007_O116",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P005772",
+      "audit_id": "N032",
+      "caption": "22",
+      "primary_nearest": "V_094_P012544",
+      "nearest_observed_distance": 0.03305907920002937,
+      "nearest_observed_interval": [
+        0.028985146433115005,
+        0.034469038248062134
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 2,
+      "nearest32": "V_094_P012544",
+      "nearest128": "V_094_P012544",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P006421",
+      "audit_id": "N033",
+      "caption": "22",
+      "primary_nearest": "V_032_P005749",
+      "nearest_observed_distance": 0.030121687799692154,
+      "nearest_observed_interval": [
+        0.025569511577486992,
+        0.03370663523674011
+      ],
+      "primary_nearest_certain_under_observed_candidates": true,
+      "reference_candidates_not_excluded": 1,
+      "nearest32": "V_032_P005749",
+      "nearest128": "V_032_P005749",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P006867",
+      "audit_id": "N034",
+      "caption": "22",
+      "primary_nearest": "B015_O060",
+      "nearest_observed_distance": 0.03227344527840614,
+      "nearest_observed_interval": [
+        0.029618721455335617,
+        0.055093519389629364
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 37,
+      "nearest32": "B015_O060",
+      "nearest128": "B015_O060",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P007579",
+      "audit_id": "N035",
+      "caption": "22",
+      "primary_nearest": "B006_O169",
+      "nearest_observed_distance": 0.03671026974916458,
+      "nearest_observed_interval": [
+        0.033764295279979706,
+        0.04035608097910881
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 6,
+      "nearest32": "B001_O028",
+      "nearest128": "B006_O169",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P007698",
+      "audit_id": "N036",
+      "caption": "22",
+      "primary_nearest": "B010_O040",
+      "nearest_observed_distance": 0.03947857394814491,
+      "nearest_observed_interval": [
+        0.036599792540073395,
+        0.04890506714582443
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 4,
+      "nearest32": "B010_O040",
+      "nearest128": "B010_O040",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P007803",
+      "audit_id": "N037",
+      "caption": "22",
+      "primary_nearest": "B003_O065",
+      "nearest_observed_distance": 0.03616495802998543,
+      "nearest_observed_interval": [
+        0.03439202532172203,
+        0.04491597041487694
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 7,
+      "nearest32": "B001_O052",
+      "nearest128": "B003_O065",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P008170",
+      "audit_id": "N038",
+      "caption": "22",
+      "primary_nearest": "B008_O030",
+      "nearest_observed_distance": 0.030579600483179092,
+      "nearest_observed_interval": [
+        0.029687676578760147,
+        0.04678407311439514
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 9,
+      "nearest32": "B008_O030",
+      "nearest128": "B008_O030",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P008204",
+      "audit_id": "N039",
+      "caption": "22",
+      "primary_nearest": "B008_O030",
+      "nearest_observed_distance": 0.02898019552230835,
+      "nearest_observed_interval": [
+        0.025656431913375854,
+        0.04549446702003479
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 21,
+      "nearest32": "B008_O030",
+      "nearest128": "B008_O030",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P008205",
+      "audit_id": "N040",
+      "caption": "22",
+      "primary_nearest": "B012_O032",
+      "nearest_observed_distance": 0.03653959557414055,
+      "nearest_observed_interval": [
+        0.02646745555102825,
+        0.09569118916988373
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 81,
+      "nearest32": "B012_O032",
+      "nearest128": "B012_O032",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P008212",
+      "audit_id": "N041",
+      "caption": "22",
+      "primary_nearest": "B002_O041",
+      "nearest_observed_distance": 0.025915971025824547,
+      "nearest_observed_interval": [
+        0.02390030398964882,
+        0.03274005278944969
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 6,
+      "nearest32": "V_094_P012544",
+      "nearest128": "B002_O041",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P008301",
+      "audit_id": "N042",
+      "caption": "22",
+      "primary_nearest": "B003_O069",
+      "nearest_observed_distance": 0.04366845637559891,
+      "nearest_observed_interval": [
+        0.04141527786850929,
+        0.046279072761535645
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 3,
+      "nearest32": "B003_O050",
+      "nearest128": "B003_O069",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P008303",
+      "audit_id": "N043",
+      "caption": "22",
+      "primary_nearest": "B016_O041",
+      "nearest_observed_distance": 0.017686722800135612,
+      "nearest_observed_interval": [
+        0.0172591395676136,
+        0.01840791665017605
+      ],
+      "primary_nearest_certain_under_observed_candidates": true,
+      "reference_candidates_not_excluded": 1,
+      "nearest32": "B016_O041",
+      "nearest128": "B016_O041",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P008346",
+      "audit_id": "N044",
+      "caption": "22",
+      "primary_nearest": "B009_O028",
+      "nearest_observed_distance": 0.02772594802081585,
+      "nearest_observed_interval": [
+        0.02561909332871437,
+        0.13000056147575378
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 85,
+      "nearest32": "V_032_P006568",
+      "nearest128": "B009_O028",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P008388",
+      "audit_id": "N045",
+      "caption": "22",
+      "primary_nearest": "V_032_P006410",
+      "nearest_observed_distance": 0.03817287087440491,
+      "nearest_observed_interval": [
+        0.03523118048906326,
+        0.07929999381303787
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 57,
+      "nearest32": "V_032_P006410",
+      "nearest128": "V_032_P006410",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P008395",
+      "audit_id": "N046",
+      "caption": "22",
+      "primary_nearest": "B008_O030",
+      "nearest_observed_distance": 0.033499833196401596,
+      "nearest_observed_interval": [
+        0.032128822058439255,
+        0.0430607795715332
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 11,
+      "nearest32": "B008_O030",
+      "nearest128": "B008_O030",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P008464",
+      "audit_id": "N047",
+      "caption": "22",
+      "primary_nearest": "V_032_P006475",
+      "nearest_observed_distance": 0.03971395269036293,
+      "nearest_observed_interval": [
+        0.03820320591330528,
+        0.042541686445474625
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 5,
+      "nearest32": "V_032_P006475",
+      "nearest128": "V_032_P006475",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P008538",
+      "audit_id": "N048",
+      "caption": "22",
+      "primary_nearest": "B003_O065",
+      "nearest_observed_distance": 0.036583248525857925,
+      "nearest_observed_interval": [
+        0.03562847897410393,
+        0.08193571865558624
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 84,
+      "nearest32": "B003_O065",
+      "nearest128": "B003_O065",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P008603",
+      "audit_id": "N049",
+      "caption": "22",
+      "primary_nearest": "B006_O155",
+      "nearest_observed_distance": 0.041433777660131454,
+      "nearest_observed_interval": [
+        0.03968460485339165,
+        0.06138579919934273
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 39,
+      "nearest32": "B006_O155",
+      "nearest128": "B006_O155",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_044_P008857",
+      "audit_id": "N050",
+      "caption": "22",
+      "primary_nearest": "V_170_P006925",
+      "nearest_observed_distance": 0.029150519520044327,
+      "nearest_observed_interval": [
+        0.02671889401972294,
+        0.031296368688344955
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 3,
+      "nearest32": "V_170_P006925",
+      "nearest128": "V_170_P006925",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P006432",
+      "audit_id": "N051",
+      "caption": "52",
+      "primary_nearest": "V_032_P005749",
+      "nearest_observed_distance": 0.027728626504540443,
+      "nearest_observed_interval": [
+        0.025634000077843666,
+        0.0510714128613472
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 12,
+      "nearest32": "V_032_P005749",
+      "nearest128": "V_032_P005749",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P006486",
+      "audit_id": "N052",
+      "caption": "52",
+      "primary_nearest": "B009_O087",
+      "nearest_observed_distance": 0.033121559768915176,
+      "nearest_observed_interval": [
+        0.028966711834073067,
+        0.03604595735669136
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 4,
+      "nearest32": "B009_O087",
+      "nearest128": "B009_O087",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P006890",
+      "audit_id": "N053",
+      "caption": "52",
+      "primary_nearest": "B015_O060",
+      "nearest_observed_distance": 0.022961139678955078,
+      "nearest_observed_interval": [
+        0.019058650359511375,
+        0.05685095861554146
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 30,
+      "nearest32": "B015_O060",
+      "nearest128": "B015_O060",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P007073",
+      "audit_id": "N054",
+      "caption": "52",
+      "primary_nearest": "B014_O102",
+      "nearest_observed_distance": 0.04653283953666687,
+      "nearest_observed_interval": [
+        0.035656798630952835,
+        0.05367129296064377
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 31,
+      "nearest32": "V_170_P006925",
+      "nearest128": "B014_O102",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P007541",
+      "audit_id": "N055",
+      "caption": "52",
+      "primary_nearest": "V_170_P006925",
+      "nearest_observed_distance": 0.0341193862259388,
+      "nearest_observed_interval": [
+        0.03161225840449333,
+        0.0351874865591526
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 2,
+      "nearest32": "V_170_P006925",
+      "nearest128": "V_170_P006925",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P007785",
+      "audit_id": "N056",
+      "caption": "52",
+      "primary_nearest": "V_032_P005749",
+      "nearest_observed_distance": 0.025744576007127762,
+      "nearest_observed_interval": [
+        0.016047919169068336,
+        0.028589818626642227
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 2,
+      "nearest32": "V_170_P006925",
+      "nearest128": "V_032_P005749",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P007798",
+      "audit_id": "N057",
+      "caption": "52",
+      "primary_nearest": "B015_O060",
+      "nearest_observed_distance": 0.02790239080786705,
+      "nearest_observed_interval": [
+        0.024836139753460884,
+        0.033006079494953156
+      ],
+      "primary_nearest_certain_under_observed_candidates": true,
+      "reference_candidates_not_excluded": 1,
+      "nearest32": "B015_O060",
+      "nearest128": "B015_O060",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P007971",
+      "audit_id": "N058",
+      "caption": "52",
+      "primary_nearest": "B015_O046",
+      "nearest_observed_distance": 0.022872528061270714,
+      "nearest_observed_interval": [
+        0.020170751959085464,
+        0.03349348530173302
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 4,
+      "nearest32": "B015_O046",
+      "nearest128": "B015_O046",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P007995",
+      "audit_id": "N059",
+      "caption": "52",
+      "primary_nearest": "B001_O028",
+      "nearest_observed_distance": 0.03459053114056587,
+      "nearest_observed_interval": [
+        0.030603710561990738,
+        0.05329516902565956
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 19,
+      "nearest32": "B001_O028",
+      "nearest128": "B001_O028",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008066",
+      "audit_id": "N060",
+      "caption": "52",
+      "primary_nearest": "V_170_P006642",
+      "nearest_observed_distance": 0.04353952407836914,
+      "nearest_observed_interval": [
+        0.04245352745056152,
+        0.049536652863025665
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 6,
+      "nearest32": "V_170_P006642",
+      "nearest128": "V_170_P006642",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008068",
+      "audit_id": "N061",
+      "caption": "52",
+      "primary_nearest": "V_032_P006394",
+      "nearest_observed_distance": 0.03322654590010643,
+      "nearest_observed_interval": [
+        0.029782820492982864,
+        0.08768678456544876
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 71,
+      "nearest32": "V_032_P006394",
+      "nearest128": "V_032_P006394",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008094",
+      "audit_id": "N062",
+      "caption": "52",
+      "primary_nearest": "B016_O048",
+      "nearest_observed_distance": 0.046533551067113876,
+      "nearest_observed_interval": [
+        0.024098899215459824,
+        0.10740021616220474
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 87,
+      "nearest32": "B016_O048",
+      "nearest128": "B016_O048",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008198",
+      "audit_id": "N063",
+      "caption": "52",
+      "primary_nearest": "B003_O074",
+      "nearest_observed_distance": 0.025734620168805122,
+      "nearest_observed_interval": [
+        0.022893521934747696,
+        0.032708991318941116
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 6,
+      "nearest32": "B003_O074",
+      "nearest128": "B003_O074",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008203",
+      "audit_id": "N064",
+      "caption": "52",
+      "primary_nearest": "B008_O030",
+      "nearest_observed_distance": 0.034338898956775665,
+      "nearest_observed_interval": [
+        0.03178355470299721,
+        0.036134328693151474
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 6,
+      "nearest32": "B007_O167",
+      "nearest128": "B008_O030",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008344",
+      "audit_id": "N067",
+      "caption": "52",
+      "primary_nearest": "B016_O088",
+      "nearest_observed_distance": 0.020965857431292534,
+      "nearest_observed_interval": [
+        0.019433030858635902,
+        0.03339385613799095
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 11,
+      "nearest32": "B016_O088",
+      "nearest128": "B016_O088",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008375",
+      "audit_id": "N068",
+      "caption": "52",
+      "primary_nearest": "B003_O050",
+      "nearest_observed_distance": 0.014304384589195251,
+      "nearest_observed_interval": [
+        0.013173900544643402,
+        0.030560046434402466
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 4,
+      "nearest32": "B003_O050",
+      "nearest128": "B003_O050",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008381",
+      "audit_id": "N069",
+      "caption": "52",
+      "primary_nearest": "B006_O169",
+      "nearest_observed_distance": 0.027137428522109985,
+      "nearest_observed_interval": [
+        0.02471206896007061,
+        0.03220028057694435
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 7,
+      "nearest32": "B006_O169",
+      "nearest128": "B006_O169",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008446",
+      "audit_id": "N071",
+      "caption": "52",
+      "primary_nearest": "B013_O117",
+      "nearest_observed_distance": 0.05445288494229317,
+      "nearest_observed_interval": [
+        0.05445288494229317,
+        0.09298495203256607
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 87,
+      "nearest32": "B013_O117",
+      "nearest128": "B013_O117",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008448",
+      "audit_id": "N072",
+      "caption": "52",
+      "primary_nearest": "B005_O155",
+      "nearest_observed_distance": 0.025578251108527184,
+      "nearest_observed_interval": [
+        0.02376079000532627,
+        0.028423454612493515
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 7,
+      "nearest32": "V_032_P006568",
+      "nearest128": "B005_O155",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008451",
+      "audit_id": "N073",
+      "caption": "52",
+      "primary_nearest": "B005_O174",
+      "nearest_observed_distance": 0.04438052326440811,
+      "nearest_observed_interval": [
+        0.043949682265520096,
+        0.10334830731153488
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 87,
+      "nearest32": "B005_O174",
+      "nearest128": "B005_O174",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008490",
+      "audit_id": "N074",
+      "caption": "52",
+      "primary_nearest": "B005_O182",
+      "nearest_observed_distance": 0.04589003324508667,
+      "nearest_observed_interval": [
+        0.04500812292098999,
+        0.06721726804971695
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 47,
+      "nearest32": "B005_O182",
+      "nearest128": "B005_O182",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008494",
+      "audit_id": "N075",
+      "caption": "52",
+      "primary_nearest": "B012_O040",
+      "nearest_observed_distance": 0.03954378888010979,
+      "nearest_observed_interval": [
+        0.03024153783917427,
+        0.04060951992869377
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 17,
+      "nearest32": "B012_O040",
+      "nearest128": "B012_O040",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008497",
+      "audit_id": "N076",
+      "caption": "52",
+      "primary_nearest": "B010_O086",
+      "nearest_observed_distance": 0.04352521896362305,
+      "nearest_observed_interval": [
+        0.042242590337991714,
+        0.04636280611157417
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 6,
+      "nearest32": "B010_O086",
+      "nearest128": "B010_O086",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008523",
+      "audit_id": "N077",
+      "caption": "52",
+      "primary_nearest": "V_094_P012799",
+      "nearest_observed_distance": 0.029557913541793823,
+      "nearest_observed_interval": [
+        0.020745515823364258,
+        0.030443640425801277
+      ],
+      "primary_nearest_certain_under_observed_candidates": true,
+      "reference_candidates_not_excluded": 1,
+      "nearest32": "V_094_P012799",
+      "nearest128": "V_094_P012799",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008526",
+      "audit_id": "N078",
+      "caption": "52",
+      "primary_nearest": "B009_O028",
+      "nearest_observed_distance": 0.026446258649230003,
+      "nearest_observed_interval": [
+        0.021331612020730972,
+        0.13376681506633759
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 88,
+      "nearest32": "B009_O028",
+      "nearest128": "B009_O028",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008527",
+      "audit_id": "N079",
+      "caption": "52",
+      "primary_nearest": "B008_O135",
+      "nearest_observed_distance": 0.0358944796025753,
+      "nearest_observed_interval": [
+        0.03132026270031929,
+        0.0434415377676487
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 4,
+      "nearest32": "B008_O135",
+      "nearest128": "B008_O135",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008532",
+      "audit_id": "N080",
+      "caption": "52",
+      "primary_nearest": "V_170_P006642",
+      "nearest_observed_distance": 0.03888656571507454,
+      "nearest_observed_interval": [
+        0.03745965287089348,
+        0.04584112763404846
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 17,
+      "nearest32": "B007_O167",
+      "nearest128": "V_170_P006642",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008585",
+      "audit_id": "N081",
+      "caption": "52",
+      "primary_nearest": "V_032_P006568",
+      "nearest_observed_distance": 0.02362089417874813,
+      "nearest_observed_interval": [
+        0.021986808627843857,
+        0.02756476029753685
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 7,
+      "nearest32": "V_032_P006568",
+      "nearest128": "V_032_P006568",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008591",
+      "audit_id": "N083",
+      "caption": "52",
+      "primary_nearest": "B006_O169",
+      "nearest_observed_distance": 0.029913609847426414,
+      "nearest_observed_interval": [
+        0.02666362002491951,
+        0.03369920700788498
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 5,
+      "nearest32": "B006_O169",
+      "nearest128": "B006_O169",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008605",
+      "audit_id": "N084",
+      "caption": "52",
+      "primary_nearest": "B012_O017",
+      "nearest_observed_distance": 0.04606485739350319,
+      "nearest_observed_interval": [
+        0.0436994731426239,
+        0.053934358060359955
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 14,
+      "nearest32": "B012_O017",
+      "nearest128": "B012_O017",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008638",
+      "audit_id": "N085",
+      "caption": "52",
+      "primary_nearest": "B009_O060",
+      "nearest_observed_distance": 0.05033591017127037,
+      "nearest_observed_interval": [
+        0.04289426654577255,
+        0.0521944984793663
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 12,
+      "nearest32": "B015_O032",
+      "nearest128": "B009_O060",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008639",
+      "audit_id": "N086",
+      "caption": "52",
+      "primary_nearest": "B010_O040",
+      "nearest_observed_distance": 0.0496191643178463,
+      "nearest_observed_interval": [
+        0.044466324150562286,
+        0.13619829714298248
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 88,
+      "nearest32": "B010_O040",
+      "nearest128": "B010_O040",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008763",
+      "audit_id": "N088",
+      "caption": "52",
+      "primary_nearest": "V_032_P006568",
+      "nearest_observed_distance": 0.03609259054064751,
+      "nearest_observed_interval": [
+        0.030199220404028893,
+        0.048090241849422455
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 21,
+      "nearest32": "B002_O117",
+      "nearest128": "V_032_P006568",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008802",
+      "audit_id": "N089",
+      "caption": "52",
+      "primary_nearest": "B005_O152",
+      "nearest_observed_distance": 0.04401712492108345,
+      "nearest_observed_interval": [
+        0.037555694580078125,
+        0.1110650822520256
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 77,
+      "nearest32": "B005_O152",
+      "nearest128": "B006_O088",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008862",
+      "audit_id": "N090",
+      "caption": "52",
+      "primary_nearest": "V_094_P012871",
+      "nearest_observed_distance": 0.03265894576907158,
+      "nearest_observed_interval": [
+        0.02486606501042843,
+        0.09672815352678299
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 87,
+      "nearest32": "V_094_P012871",
+      "nearest128": "V_094_P012871",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008863",
+      "audit_id": "N091",
+      "caption": "52",
+      "primary_nearest": "B003_O043",
+      "nearest_observed_distance": 0.0496441088616848,
+      "nearest_observed_interval": [
+        0.046832840889692307,
+        0.07069337368011475
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 61,
+      "nearest32": "B003_O043",
+      "nearest128": "B003_O043",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_104_P008920",
+      "audit_id": "N092",
+      "caption": "52",
+      "primary_nearest": "B003_O043",
+      "nearest_observed_distance": 0.02861643210053444,
+      "nearest_observed_interval": [
+        0.02737833559513092,
+        0.035409245640039444
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 5,
+      "nearest32": "B003_O043",
+      "nearest128": "B003_O043",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P008568",
+      "audit_id": "N096",
+      "caption": "56",
+      "primary_nearest": "B015_O060",
+      "nearest_observed_distance": 0.024714112281799316,
+      "nearest_observed_interval": [
+        0.023321550339460373,
+        0.056121740490198135
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 37,
+      "nearest32": "B015_O060",
+      "nearest128": "B015_O060",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P009847",
+      "audit_id": "N097",
+      "caption": "56",
+      "primary_nearest": "B004_O039",
+      "nearest_observed_distance": 0.03472176194190979,
+      "nearest_observed_interval": [
+        0.03210318833589554,
+        0.04008609801530838
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 5,
+      "nearest32": "B004_O039",
+      "nearest128": "B004_O039",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P010553",
+      "audit_id": "N098",
+      "caption": "56",
+      "primary_nearest": "B002_O041",
+      "nearest_observed_distance": 0.02329234778881073,
+      "nearest_observed_interval": [
+        0.022040024399757385,
+        0.02861739695072174
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 6,
+      "nearest32": "B002_O041",
+      "nearest128": "B002_O041",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P010593",
+      "audit_id": "N099",
+      "caption": "56",
+      "primary_nearest": "B012_O032",
+      "nearest_observed_distance": 0.019917884841561317,
+      "nearest_observed_interval": [
+        0.014553504064679146,
+        0.0826696902513504
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 80,
+      "nearest32": "B012_O032",
+      "nearest128": "B012_O032",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P010746",
+      "audit_id": "N100",
+      "caption": "56",
+      "primary_nearest": "B008_O030",
+      "nearest_observed_distance": 0.04304283857345581,
+      "nearest_observed_interval": [
+        0.04122922196984291,
+        0.09542025625705719
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 86,
+      "nearest32": "B015_O060",
+      "nearest128": "B008_O030",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P010792",
+      "audit_id": "N101",
+      "caption": "56",
+      "primary_nearest": "B007_O101",
+      "nearest_observed_distance": 0.0361810028553009,
+      "nearest_observed_interval": [
+        0.034304551780223846,
+        0.039459407329559326
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 5,
+      "nearest32": "B007_O101",
+      "nearest128": "B007_O101",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P010796",
+      "audit_id": "N102",
+      "caption": "56",
+      "primary_nearest": "B004_O030",
+      "nearest_observed_distance": 0.02900511398911476,
+      "nearest_observed_interval": [
+        0.025283515453338623,
+        0.029251664876937866
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 5,
+      "nearest32": "B015_O032",
+      "nearest128": "B004_O030",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P010797",
+      "audit_id": "N103",
+      "caption": "56",
+      "primary_nearest": "B005_O155",
+      "nearest_observed_distance": 0.01941818930208683,
+      "nearest_observed_interval": [
+        0.017431549727916718,
+        0.06876815110445023
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 52,
+      "nearest32": "B005_O155",
+      "nearest128": "B005_O155",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P010846",
+      "audit_id": "N104",
+      "caption": "56",
+      "primary_nearest": "B015_O032",
+      "nearest_observed_distance": 0.0256118793040514,
+      "nearest_observed_interval": [
+        0.0256118793040514,
+        0.030770553275942802
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 5,
+      "nearest32": "V_094_P012798",
+      "nearest128": "V_094_P012798",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P010850",
+      "audit_id": "N107",
+      "caption": "56",
+      "primary_nearest": "V_032_P006475",
+      "nearest_observed_distance": 0.0317906029522419,
+      "nearest_observed_interval": [
+        0.03076683171093464,
+        0.04336973652243614
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 6,
+      "nearest32": "V_032_P006475",
+      "nearest128": "V_032_P006475",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P010898",
+      "audit_id": "N108",
+      "caption": "56",
+      "primary_nearest": "V_032_P006475",
+      "nearest_observed_distance": 0.031217854470014572,
+      "nearest_observed_interval": [
+        0.02881508134305477,
+        0.03678598254919052
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 5,
+      "nearest32": "V_032_P006475",
+      "nearest128": "V_032_P006475",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P010900",
+      "audit_id": "N109",
+      "caption": "56",
+      "primary_nearest": "B003_O043",
+      "nearest_observed_distance": 0.038207557052373886,
+      "nearest_observed_interval": [
+        0.037480324506759644,
+        0.051426611840724945
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 11,
+      "nearest32": "B003_O043",
+      "nearest128": "B003_O043",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P010901",
+      "audit_id": "N110",
+      "caption": "56",
+      "primary_nearest": "B005_O155",
+      "nearest_observed_distance": 0.0235296618193388,
+      "nearest_observed_interval": [
+        0.022002646699547768,
+        0.15270748734474182
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 88,
+      "nearest32": "B005_O155",
+      "nearest128": "B005_O155",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P011069",
+      "audit_id": "N112",
+      "caption": "56",
+      "primary_nearest": "B005_O152",
+      "nearest_observed_distance": 0.0460808090865612,
+      "nearest_observed_interval": [
+        0.04092990234494209,
+        0.11167950928211212
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 81,
+      "nearest32": "B006_O155",
+      "nearest128": "B005_O152",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_112_P011693",
+      "audit_id": "N114",
+      "caption": "56",
+      "primary_nearest": "V_170_P006925",
+      "nearest_observed_distance": 0.038199156522750854,
+      "nearest_observed_interval": [
+        0.03490345925092697,
+        0.04378997161984444
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 6,
+      "nearest32": "V_170_P006925",
+      "nearest128": "V_170_P006925",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P014247",
+      "audit_id": "N115",
+      "caption": "100",
+      "primary_nearest": "B003_O065",
+      "nearest_observed_distance": 0.04967267066240311,
+      "nearest_observed_interval": [
+        0.0494004525244236,
+        0.05757122486829758
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 12,
+      "nearest32": "B003_O065",
+      "nearest128": "B003_O065",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P015112",
+      "audit_id": "N116",
+      "caption": "100",
+      "primary_nearest": "B010_O057",
+      "nearest_observed_distance": 0.030999120324850082,
+      "nearest_observed_interval": [
+        0.028673026710748672,
+        0.03500347584486008
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 3,
+      "nearest32": "B015_O060",
+      "nearest128": "B015_O060",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P015346",
+      "audit_id": "N117",
+      "caption": "100",
+      "primary_nearest": "B010_O057",
+      "nearest_observed_distance": 0.038351498544216156,
+      "nearest_observed_interval": [
+        0.03722225874662399,
+        0.04034929722547531
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 2,
+      "nearest32": "B010_O057",
+      "nearest128": "B010_O057",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P015516",
+      "audit_id": "N118",
+      "caption": "100",
+      "primary_nearest": "B008_O030",
+      "nearest_observed_distance": 0.03588098660111427,
+      "nearest_observed_interval": [
+        0.03549349680542946,
+        0.04454835131764412
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 12,
+      "nearest32": "B015_O060",
+      "nearest128": "B015_O060",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016043",
+      "audit_id": "N119",
+      "caption": "100",
+      "primary_nearest": "V_094_P012544",
+      "nearest_observed_distance": 0.026618370786309242,
+      "nearest_observed_interval": [
+        0.023264506831765175,
+        0.03161730617284775
+      ],
+      "primary_nearest_certain_under_observed_candidates": true,
+      "reference_candidates_not_excluded": 1,
+      "nearest32": "V_094_P012544",
+      "nearest128": "V_094_P012544",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016129",
+      "audit_id": "N120",
+      "caption": "100",
+      "primary_nearest": "V_094_P012544",
+      "nearest_observed_distance": 0.025858866050839424,
+      "nearest_observed_interval": [
+        0.021518658846616745,
+        0.03391667455434799
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 2,
+      "nearest32": "V_094_P012544",
+      "nearest128": "V_094_P012544",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016241",
+      "audit_id": "N121",
+      "caption": "100",
+      "primary_nearest": "B006_O155",
+      "nearest_observed_distance": 0.036252040416002274,
+      "nearest_observed_interval": [
+        0.03364209458231926,
+        0.037240684032440186
+      ],
+      "primary_nearest_certain_under_observed_candidates": true,
+      "reference_candidates_not_excluded": 1,
+      "nearest32": "B006_O155",
+      "nearest128": "B006_O155",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016365",
+      "audit_id": "N122",
+      "caption": "100",
+      "primary_nearest": "B003_O074",
+      "nearest_observed_distance": 0.04218223690986633,
+      "nearest_observed_interval": [
+        0.039890337735414505,
+        0.05354764685034752
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 17,
+      "nearest32": "B003_O074",
+      "nearest128": "B010_O057",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016372",
+      "audit_id": "N123",
+      "caption": "100",
+      "primary_nearest": "V_032_P005749",
+      "nearest_observed_distance": 0.03785659745335579,
+      "nearest_observed_interval": [
+        0.03589592128992081,
+        0.04273971542716026
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 6,
+      "nearest32": "V_032_P005749",
+      "nearest128": "V_032_P005749",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016374",
+      "audit_id": "N124",
+      "caption": "100",
+      "primary_nearest": "V_094_P012797",
+      "nearest_observed_distance": 0.03487866371870041,
+      "nearest_observed_interval": [
+        0.0325370617210865,
+        0.04547759145498276
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 8,
+      "nearest32": "B007_O101",
+      "nearest128": "V_094_P012797",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016393",
+      "audit_id": "N125",
+      "caption": "100",
+      "primary_nearest": "B016_O041",
+      "nearest_observed_distance": 0.024053281173110008,
+      "nearest_observed_interval": [
+        0.02365429513156414,
+        0.024262573570013046
+      ],
+      "primary_nearest_certain_under_observed_candidates": true,
+      "reference_candidates_not_excluded": 1,
+      "nearest32": "B016_O041",
+      "nearest128": "B016_O041",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016446",
+      "audit_id": "N126",
+      "caption": "100",
+      "primary_nearest": "V_032_P006410",
+      "nearest_observed_distance": 0.029668360948562622,
+      "nearest_observed_interval": [
+        0.029668360948562622,
+        0.08032005280256271
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 61,
+      "nearest32": "V_032_P006410",
+      "nearest128": "V_032_P006410",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016464",
+      "audit_id": "N127",
+      "caption": "100",
+      "primary_nearest": "B005_O152",
+      "nearest_observed_distance": 0.039998266845941544,
+      "nearest_observed_interval": [
+        0.039024267345666885,
+        0.09175319969654083
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 71,
+      "nearest32": "B006_O155",
+      "nearest128": "B005_O152",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016465",
+      "audit_id": "N128",
+      "caption": "100",
+      "primary_nearest": "B016_O041",
+      "nearest_observed_distance": 0.015461193397641182,
+      "nearest_observed_interval": [
+        0.015168203972280025,
+        0.015682058408856392
+      ],
+      "primary_nearest_certain_under_observed_candidates": true,
+      "reference_candidates_not_excluded": 1,
+      "nearest32": "B016_O041",
+      "nearest128": "B016_O041",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016481",
+      "audit_id": "N129",
+      "caption": "100",
+      "primary_nearest": "B003_O074",
+      "nearest_observed_distance": 0.04311523959040642,
+      "nearest_observed_interval": [
+        0.040721695870161057,
+        0.045486800372600555
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 7,
+      "nearest32": "B003_O074",
+      "nearest128": "B007_O089",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016491",
+      "audit_id": "N130",
+      "caption": "100",
+      "primary_nearest": "V_094_P012798",
+      "nearest_observed_distance": 0.03074035607278347,
+      "nearest_observed_interval": [
+        0.025331607088446617,
+        0.037169404327869415
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 6,
+      "nearest32": "V_094_P012798",
+      "nearest128": "B009_O060",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016503",
+      "audit_id": "N131",
+      "caption": "100",
+      "primary_nearest": "B010_O057",
+      "nearest_observed_distance": 0.04076613858342171,
+      "nearest_observed_interval": [
+        0.039541151374578476,
+        0.04341137409210205
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 4,
+      "nearest32": "B010_O057",
+      "nearest128": "B010_O057",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016517",
+      "audit_id": "N132",
+      "caption": "100",
+      "primary_nearest": "B005_O182",
+      "nearest_observed_distance": 0.041994478553533554,
+      "nearest_observed_interval": [
+        0.039807338267564774,
+        0.05673554912209511
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 10,
+      "nearest32": "B006_O155",
+      "nearest128": "B005_O182",
+      "no_source_membership_decision_from_retrieval": true
+    },
+    {
+      "parent_id": "T2_V_178_P016699",
+      "audit_id": "N133",
+      "caption": "100",
+      "primary_nearest": "B015_O060",
+      "nearest_observed_distance": 0.033628128468990326,
+      "nearest_observed_interval": [
+        0.03329090029001236,
+        0.09759669750928879
+      ],
+      "primary_nearest_certain_under_observed_candidates": false,
+      "reference_candidates_not_excluded": 86,
+      "nearest32": "B015_O060",
+      "nearest128": "B015_O060",
+      "no_source_membership_decision_from_retrieval": true
+    }
+  ],
+  "no_class_assignments": true,
+  "scope": "Nearest image resemblance only; uncertainty can leave multiple admissible neighbors. These ranks are similarity ranks, not manuscript ordinal positions. No source parent boundary settled by these distances."
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "from_unit": "e",
+    "to_unit": "o",
+    "alternate_training_prediction": -0.30767331192443037,
+    "ordinary_unit_preference_prediction": 0.027115697981927478,
+    "excluded_direct_training_cores": 3,
+    "heldout_direct_delta": -0.01378332562031337
+  },
+  {
+    "from_unit": "h",
+    "to_unit": "m",
+    "alternate_training_prediction": -0.057441330120218105,
+    "ordinary_unit_preference_prediction": 0.000518912101166169,
+    "excluded_direct_training_cores": 7,
+    "heldout_direct_delta": -0.0916541460473272
+  },
+  {
+    "from_unit": "j",
+    "to_unit": "k",
+    "alternate_training_prediction": -0.1457560423587512,
+    "ordinary_unit_preference_prediction": -0.005551385594077862,
+    "excluded_direct_training_cores": 4,
+    "heldout_direct_delta": 0.1784527431139474
+  },
+  {
+    "from_unit": "m",
+    "to_unit": "s",
+    "alternate_training_prediction": -0.10615253070147967,
+    "ordinary_unit_preference_prediction": 0.008725532849076012,
+    "excluded_direct_training_cores": 22,
+    "heldout_direct_delta": 0.029258624933060973
+  },
+  {
+    "from_unit": "n",
+    "to_unit": "s",
+    "alternate_training_prediction": 0.02966370627072802,
+    "ordinary_unit_preference_prediction": 0.02397876712564123,
+    "excluded_direct_training_cores": 3,
+    "heldout_direct_delta": -0.08582620979858305
+  },
+  {
+    "from_unit": "n",
+    "to_unit": "t",
+    "alternate_training_prediction": 0.012015281518722238,
+    "ordinary_unit_preference_prediction": 0.025542569822060657,
+    "excluded_direct_training_cores": 4,
+    "heldout_direct_delta": -0.20773780921901758
+  },
+  {
+    "from_unit": "s",
+    "to_unit": "t",
+    "alternate_training_prediction": -0.0656274457925555,
+    "ordinary_unit_preference_prediction": -0.0012815758227682772,
+    "excluded_direct_training_cores": 9,
+    "heldout_direct_delta": 0.024814854956495214
+  },
+  {
+    "from_unit": "t",
+    "to_unit": "v",
+    "alternate_training_prediction": 0.026586719223707905,
+    "ordinary_unit_preference_prediction": 0.0334257569749149,
+    "excluded_direct_training_cores": 10,
+    "heldout_direct_delta": 0.1788500531955166
+  }
+]

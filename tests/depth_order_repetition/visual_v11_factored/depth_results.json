@@ -1,0 +1,518 @@
+[
+  {
+    "dataset": "visual_v11_factored",
+    "subset": "all",
+    "status": "completed",
+    "position": "normalized_group_rank",
+    "pairs": 4,
+    "connected_families": 3,
+    "results": [
+      {
+        "metric": "position",
+        "n": 4,
+        "counts": {
+          "outer": 3,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.06408169217536384,
+          "near": null,
+          "interior": 0.024368171511028436
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "TV",
+        "n": 4,
+        "counts": {
+          "outer": 3,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.22766765398344346,
+          "near": null,
+          "interior": 0.3206349206349206
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "JSD_bits",
+        "n": 4,
+        "counts": {
+          "outer": 3,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.11255094926910142,
+          "near": null,
+          "interior": 0.08760121880564166
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "sqrt_JS",
+        "n": 4,
+        "counts": {
+          "outer": 3,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.3122156307222723,
+          "near": null,
+          "interior": 0.29597503071313574
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "Hellinger",
+        "n": 4,
+        "counts": {
+          "outer": 3,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.2982664281176754,
+          "near": null,
+          "interior": 0.2562293974325535
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      }
+    ],
+    "estimand": "Frequency>=8, length>=5. Two indicators near(depth1), outer(depth0); interior(depth>=2) baseline, length and log geometric mean frequency controls. Fixed selected vocabulary; joint caption/document occurrence resampling, missing members omit pairs."
+  },
+  {
+    "dataset": "visual_v11_factored",
+    "subset": "all",
+    "status": "completed",
+    "position": "normalized_pixel_center",
+    "pairs": 4,
+    "connected_families": 3,
+    "results": [
+      {
+        "metric": "position",
+        "n": 4,
+        "counts": {
+          "outer": 3,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.04179426792772728,
+          "near": null,
+          "interior": 0.019401206110511215
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "TV",
+        "n": 4,
+        "counts": {
+          "outer": 3,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.22766765398344346,
+          "near": null,
+          "interior": 0.3206349206349206
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "JSD_bits",
+        "n": 4,
+        "counts": {
+          "outer": 3,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.11255094926910142,
+          "near": null,
+          "interior": 0.08760121880564166
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "sqrt_JS",
+        "n": 4,
+        "counts": {
+          "outer": 3,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.3122156307222723,
+          "near": null,
+          "interior": 0.29597503071313574
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "Hellinger",
+        "n": 4,
+        "counts": {
+          "outer": 3,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.2982664281176754,
+          "near": null,
+          "interior": 0.2562293974325535
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      }
+    ],
+    "estimand": "Frequency>=8, length>=5. Two indicators near(depth1), outer(depth0); interior(depth>=2) baseline, length and log geometric mean frequency controls. Fixed selected vocabulary; joint caption/document occurrence resampling, missing members omit pairs."
+  },
+  {
+    "dataset": "visual_v11_factored",
+    "subset": "A",
+    "status": "completed",
+    "position": "normalized_group_rank",
+    "pairs": 1,
+    "connected_families": 1,
+    "results": [
+      {
+        "metric": "position",
+        "n": 1,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 0
+        },
+        "raw_means": {
+          "outer": 0.054942279942279904,
+          "near": null,
+          "interior": null
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "TV",
+        "n": 1,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 0
+        },
+        "raw_means": {
+          "outer": 0.11111111111111115,
+          "near": null,
+          "interior": null
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "JSD_bits",
+        "n": 1,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 0
+        },
+        "raw_means": {
+          "outer": 0.10558044693439039,
+          "near": null,
+          "interior": null
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "sqrt_JS",
+        "n": 1,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 0
+        },
+        "raw_means": {
+          "outer": 0.3249314495926647,
+          "near": null,
+          "interior": null
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "Hellinger",
+        "n": 1,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 0
+        },
+        "raw_means": {
+          "outer": 0.32491969623290634,
+          "near": null,
+          "interior": null
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      }
+    ],
+    "estimand": "Frequency>=8, length>=5. Two indicators near(depth1), outer(depth0); interior(depth>=2) baseline, length and log geometric mean frequency controls. Fixed selected vocabulary; joint caption/document occurrence resampling, missing members omit pairs."
+  },
+  {
+    "dataset": "visual_v11_factored",
+    "subset": "A",
+    "status": "completed",
+    "position": "normalized_pixel_center",
+    "pairs": 1,
+    "connected_families": 1,
+    "results": [
+      {
+        "metric": "position",
+        "n": 1,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 0
+        },
+        "raw_means": {
+          "outer": 0.025839183666334087,
+          "near": null,
+          "interior": null
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "TV",
+        "n": 1,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 0
+        },
+        "raw_means": {
+          "outer": 0.11111111111111115,
+          "near": null,
+          "interior": null
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "JSD_bits",
+        "n": 1,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 0
+        },
+        "raw_means": {
+          "outer": 0.10558044693439039,
+          "near": null,
+          "interior": null
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "sqrt_JS",
+        "n": 1,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 0
+        },
+        "raw_means": {
+          "outer": 0.3249314495926647,
+          "near": null,
+          "interior": null
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "Hellinger",
+        "n": 1,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 0
+        },
+        "raw_means": {
+          "outer": 0.32491969623290634,
+          "near": null,
+          "interior": null
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      }
+    ],
+    "estimand": "Frequency>=8, length>=5. Two indicators near(depth1), outer(depth0); interior(depth>=2) baseline, length and log geometric mean frequency controls. Fixed selected vocabulary; joint caption/document occurrence resampling, missing members omit pairs."
+  },
+  {
+    "dataset": "visual_v11_factored",
+    "subset": "B",
+    "status": "completed",
+    "position": "normalized_group_rank",
+    "pairs": 2,
+    "connected_families": 1,
+    "results": [
+      {
+        "metric": "position",
+        "n": 2,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.01423596137881833,
+          "near": null,
+          "interior": 0.024368171511028436
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "TV",
+        "n": 2,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.1065637065637065,
+          "near": null,
+          "interior": 0.3206349206349206
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "JSD_bits",
+        "n": 2,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.03354019558714805,
+          "near": null,
+          "interior": 0.08760121880564166
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "sqrt_JS",
+        "n": 2,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.18313982523511385,
+          "near": null,
+          "interior": 0.29597503071313574
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "Hellinger",
+        "n": 2,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.1668087641510313,
+          "near": null,
+          "interior": 0.2562293974325535
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      }
+    ],
+    "estimand": "Frequency>=8, length>=5. Two indicators near(depth1), outer(depth0); interior(depth>=2) baseline, length and log geometric mean frequency controls. Fixed selected vocabulary; joint caption/document occurrence resampling, missing members omit pairs."
+  },
+  {
+    "dataset": "visual_v11_factored",
+    "subset": "B",
+    "status": "completed",
+    "position": "normalized_pixel_center",
+    "pairs": 2,
+    "connected_families": 1,
+    "results": [
+      {
+        "metric": "position",
+        "n": 2,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.008868963970384725,
+          "near": null,
+          "interior": 0.019401206110511215
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "TV",
+        "n": 2,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.1065637065637065,
+          "near": null,
+          "interior": 0.3206349206349206
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "JSD_bits",
+        "n": 2,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.03354019558714805,
+          "near": null,
+          "interior": 0.08760121880564166
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "sqrt_JS",
+        "n": 2,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.18313982523511385,
+          "near": null,
+          "interior": 0.29597503071313574
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      },
+      {
+        "metric": "Hellinger",
+        "n": 2,
+        "counts": {
+          "outer": 1,
+          "near": 0,
+          "interior": 1
+        },
+        "raw_means": {
+          "outer": 0.1668087641510313,
+          "near": null,
+          "interior": 0.2562293974325535
+        },
+        "status": "not_estimable: insufficient observations or design rank"
+      }
+    ],
+    "estimand": "Frequency>=8, length>=5. Two indicators near(depth1), outer(depth0); interior(depth>=2) baseline, length and log geometric mean frequency controls. Fixed selected vocabulary; joint caption/document occurrence resampling, missing members omit pairs."
+  }
+]

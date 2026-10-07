@@ -1,0 +1,1 @@
+Both ordinal rank and measured native pixel x have zero qualifying minimal pairs under the frozen primary rules. The 134 admitted Currier-B occurrences cannot answer the positional question. All 144 registered runs fail support; no segmentation or thresholds retuned. See [the report](../../reports/10_currier_B_adjudicated_v2.md).

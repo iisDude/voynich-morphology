@@ -1,0 +1,422 @@
+[
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "Commentarii belli Gallici",
+    "section_b": "De officiis",
+    "relations_a": 12,
+    "relations_b": 11,
+    "agreement": {
+      "n": 6,
+      "pearson": 0.3758528964152421,
+      "spearman": 0.5428571428571429,
+      "same_direction": 0.8333333333333334
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.43,
+      "mean": 0.021676299647807065
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "Commentarii belli Gallici",
+    "section_b": "Epistulae ad Atticum",
+    "relations_a": 12,
+    "relations_b": 43,
+    "agreement": {
+      "n": 11,
+      "pearson": 0.28340795511235195,
+      "spearman": 0.3545454545454546,
+      "same_direction": 0.6363636363636364
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.46,
+      "mean": -0.0053124492348234
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "Commentarii belli Gallici",
+    "section_b": "Jerome's Vulgate",
+    "relations_a": 12,
+    "relations_b": 41,
+    "agreement": {
+      "n": 10,
+      "pearson": 0.4894010550638761,
+      "spearman": 0.5757575757575757,
+      "same_direction": 0.7
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.18,
+      "mean": 0.032649155058575366
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "Commentarii belli Gallici",
+    "section_b": "Opus agriculturae",
+    "relations_a": 12,
+    "relations_b": 3,
+    "agreement": {
+      "n": 3,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "De officiis",
+    "section_b": "Epistulae ad Atticum",
+    "relations_a": 11,
+    "relations_b": 43,
+    "agreement": {
+      "n": 11,
+      "pearson": 0.7692908724567138,
+      "spearman": 0.6272727272727273,
+      "same_direction": 0.8181818181818182
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.02,
+      "mean": 0.05513684925618402
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "De officiis",
+    "section_b": "Jerome's Vulgate",
+    "relations_a": 11,
+    "relations_b": 41,
+    "agreement": {
+      "n": 8,
+      "pearson": 0.6996371453206642,
+      "spearman": 0.523809523809524,
+      "same_direction": 0.5
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.05,
+      "mean": 0.04036499478228967
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "De officiis",
+    "section_b": "Opus agriculturae",
+    "relations_a": 11,
+    "relations_b": 3,
+    "agreement": {
+      "n": 2,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "Epistulae ad Atticum",
+    "section_b": "Jerome's Vulgate",
+    "relations_a": 43,
+    "relations_b": 41,
+    "agreement": {
+      "n": 33,
+      "pearson": 0.48205625342620406,
+      "spearman": 0.45721925133689845,
+      "same_direction": 0.5757575757575758
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.01,
+      "mean": 0.015103335474803291
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "Epistulae ad Atticum",
+    "section_b": "Opus agriculturae",
+    "relations_a": 43,
+    "relations_b": 3,
+    "agreement": {
+      "n": 3,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "section_a": "Jerome's Vulgate",
+    "section_b": "Opus agriculturae",
+    "relations_a": 41,
+    "relations_b": 3,
+    "agreement": {
+      "n": 3,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "status": "not_estimable: fewer than four variable shared relations",
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "Commentarii belli Gallici",
+    "section_b": "De officiis",
+    "relations_a": 18,
+    "relations_b": 15,
+    "agreement": {
+      "n": 15,
+      "pearson": -0.40129375801368605,
+      "spearman": -0.4928571428571427,
+      "same_direction": 0.4
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.21,
+      "mean": 0.03211050414666018
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "Commentarii belli Gallici",
+    "section_b": "Epistulae ad Atticum",
+    "relations_a": 18,
+    "relations_b": 32,
+    "agreement": {
+      "n": 18,
+      "pearson": -0.055164351049732024,
+      "spearman": 0.22187822497420018,
+      "same_direction": 0.7222222222222222
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.84,
+      "mean": -0.009727549621361414
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "Commentarii belli Gallici",
+    "section_b": "Jerome's Vulgate",
+    "relations_a": 18,
+    "relations_b": 35,
+    "agreement": {
+      "n": 18,
+      "pearson": 0.4788403784044821,
+      "spearman": 0.5603715170278638,
+      "same_direction": 0.7222222222222222
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.14,
+      "mean": -0.012899334185017968
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "Commentarii belli Gallici",
+    "section_b": "Opus agriculturae",
+    "relations_a": 18,
+    "relations_b": 8,
+    "agreement": {
+      "n": 8,
+      "pearson": -0.6182997695469246,
+      "spearman": -0.3571428571428572,
+      "same_direction": 0.5
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.14,
+      "mean": -0.05457154750190385
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "De officiis",
+    "section_b": "Epistulae ad Atticum",
+    "relations_a": 15,
+    "relations_b": 32,
+    "agreement": {
+      "n": 15,
+      "pearson": 0.18905237040142558,
+      "spearman": -0.0035714285714285704,
+      "same_direction": 0.6
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.43,
+      "mean": 0.03262827464184653
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "De officiis",
+    "section_b": "Jerome's Vulgate",
+    "relations_a": 15,
+    "relations_b": 35,
+    "agreement": {
+      "n": 15,
+      "pearson": -0.6485806594349649,
+      "spearman": -0.5928571428571427,
+      "same_direction": 0.3333333333333333
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.03,
+      "mean": 0.005188342510455764
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "De officiis",
+    "section_b": "Opus agriculturae",
+    "relations_a": 15,
+    "relations_b": 8,
+    "agreement": {
+      "n": 8,
+      "pearson": 0.5205771830092829,
+      "spearman": 0.4523809523809524,
+      "same_direction": 0.5
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.25,
+      "mean": 0.05962699285201581
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "Epistulae ad Atticum",
+    "section_b": "Jerome's Vulgate",
+    "relations_a": 32,
+    "relations_b": 35,
+    "agreement": {
+      "n": 28,
+      "pearson": 0.5308781472593483,
+      "spearman": 0.5139573070607554,
+      "same_direction": 0.7142857142857143
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.02,
+      "mean": -0.009232536147318872
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "Epistulae ad Atticum",
+    "section_b": "Opus agriculturae",
+    "relations_a": 32,
+    "relations_b": 8,
+    "agreement": {
+      "n": 8,
+      "pearson": -0.29011518304767264,
+      "spearman": -0.2380952380952381,
+      "same_direction": 0.375
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.46,
+      "mean": 0.043941374184698914
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  },
+  {
+    "stratum": "all_hands",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "section_a": "Jerome's Vulgate",
+    "section_b": "Opus agriculturae",
+    "relations_a": 35,
+    "relations_b": 8,
+    "agreement": {
+      "n": 8,
+      "pearson": -0.6662842115139389,
+      "spearman": -0.5952380952380953,
+      "same_direction": 0.25
+    },
+    "status": "estimated exploratory pooled-section comparison",
+    "within_line_null": {
+      "iterations": 99,
+      "p": 0.11,
+      "mean": -0.00708448362151039
+    },
+    "limitation": "Pooled sections with shared graph units/cores; relations are dependent, no edge-independent confidence interval or held-out generalization claim."
+  }
+]

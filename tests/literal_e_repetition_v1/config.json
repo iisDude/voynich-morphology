@@ -1,0 +1,14 @@
+{
+  "seed": 20261005,
+  "feature": "Four averaged document features: literal ee/eee group fractions, e/unit fraction, mean encoded group length. C=1 logistic model; training vocabulary irrelevant.",
+  "minimum_train_docs_per_class": 6,
+  "minimum_test_docs_per_class": 3,
+  "heldout": "frozen caption split; train+validation fit, calibration excluded",
+  "bootstrap": 1000,
+  "heldout_label_null": 199,
+  "limits": [
+    "Same-currier all-hand contrasts are confounded sensitivities.",
+    "Literal e repetitions are transcription observations, not established physical minim repetitions.",
+    "Document blocks may share physical bifolios; exact earlier AUC settings unavailable."
+  ]
+}

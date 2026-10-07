@@ -1,0 +1,1658 @@
+[
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 2222,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 2222,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 2222,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.995049504950495,
+    "depth_means": {
+      "0": 0.10088444352506679
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_v11_fine",
+    "subset": "all",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 2222,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 2222,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 2222,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.995049504950495,
+    "depth_means": {
+      "0": 0.10306048335852189
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_v11_fine",
+    "subset": "all",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 2222,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 2222,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 2222,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.995049504950495,
+    "depth_means": {
+      "0": 430.97701449322483
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_v11_fine",
+    "subset": "all",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 2222,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 2222,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 2222,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.995049504950495,
+    "depth_means": {
+      "0": 0.0701147634419458
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2222,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_v11_fine",
+    "subset": "all",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "all",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 562,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 562,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 562,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.998220640569395,
+    "depth_means": {
+      "0": 0.12697758068442633
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_v11_fine",
+    "subset": "A",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 562,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 562,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 562,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.998220640569395,
+    "depth_means": {
+      "0": 0.12563517853123168
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_v11_fine",
+    "subset": "A",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 562,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 562,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 562,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.998220640569395,
+    "depth_means": {
+      "0": 499.3551366574929
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_v11_fine",
+    "subset": "A",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 562,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 562,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 562,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.998220640569395,
+    "depth_means": {
+      "0": 0.07031174754091774
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 562,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_v11_fine",
+    "subset": "A",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "A",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 703,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 703,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 703,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 0.10960025993920876
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_v11_fine",
+    "subset": "B",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 703,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 703,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 703,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 0.11993628551921716
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_v11_fine",
+    "subset": "B",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 703,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 703,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 703,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 443.95740003269026
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_v11_fine",
+    "subset": "B",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 703,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 703,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 703,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 0.07192972529876299
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 703,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_v11_fine",
+    "subset": "B",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_v11_fine",
+    "subset": "B",
+    "specification": "one-unit edge strict length>=5"
+  }
+]

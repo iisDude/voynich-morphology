@@ -1,0 +1,59 @@
+{
+  "status": "validation_selected_candidate_model_not_unit_freeze",
+  "selection": {
+    "model": "medium_assemblies",
+    "k": 128,
+    "training_instances": 26286,
+    "validation_instances": 9754,
+    "validation_views": 31,
+    "validation_mean_negative_log_density_nats": 36.86707387570216,
+    "training_mean_negative_log_density_nats": 36.71224417887184,
+    "recurring_families_three_folios": 128,
+    "training_quantization_mse": 0.45190855860710144
+  },
+  "comparisons": [
+    {
+      "model": "medium_assemblies",
+      "k": 32,
+      "training_instances": 26286,
+      "validation_instances": 9754,
+      "validation_views": 31,
+      "validation_mean_negative_log_density_nats": 39.80581880032439,
+      "training_mean_negative_log_density_nats": 40.12181889567123,
+      "recurring_families_three_folios": 32,
+      "training_quantization_mse": 0.571273684501648
+    },
+    {
+      "model": "medium_assemblies",
+      "k": 64,
+      "training_instances": 26286,
+      "validation_instances": 9754,
+      "validation_views": 31,
+      "validation_mean_negative_log_density_nats": 38.23692066531603,
+      "training_mean_negative_log_density_nats": 38.382660089289054,
+      "recurring_families_three_folios": 64,
+      "training_quantization_mse": 0.5082156658172607
+    },
+    {
+      "model": "medium_assemblies",
+      "k": 128,
+      "training_instances": 26286,
+      "validation_instances": 9754,
+      "validation_views": 31,
+      "validation_mean_negative_log_density_nats": 36.86707387570216,
+      "training_mean_negative_log_density_nats": 36.71224417887184,
+      "recurring_families_three_folios": 128,
+      "training_quantization_mse": 0.45190855860710144
+    }
+  ],
+  "pca_explained_variance_fraction": 0.772960901260376,
+  "training_view_count": 85,
+  "validation_view_count": 31,
+  "test_used": false,
+  "limitations": [
+    "Training uses unreviewed geometric subdivisions in reviewed approximate writing regions.",
+    "Density is a feature-space model comparison, not proof of characters or lossless manuscript compression.",
+    "Source quality, unrecognized crossings, faint omissions and incomplete path coverage can bias families.",
+    "Validation selection does not establish final held-out performance."
+  ]
+}

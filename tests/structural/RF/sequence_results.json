@@ -1,0 +1,40 @@
+[
+  {
+    "status": "exploratory predictive test",
+    "position": "normalized_group_rank",
+    "physical_direction": "increasing stored group x/rank; not assumed linguistic direction",
+    "direction_scores": [
+      {
+        "direction": "increasing_physical_x",
+        "transitions": 3765,
+        "folio_components": 8,
+        "equal_folio_adjacency_excess_bits_over_position": 0.09630924504143554,
+        "limitation": "Only consecutive original group ranks count as adjacent; coarse positional baseline can miss other dependencies.",
+        "conditional_previous_state_null": {
+          "iterations": 99,
+          "mean": 0.1009035011795899,
+          "p": 0.34,
+          "preserves": "heldout target, positional baseline, within-line multiset of preceding categories; tests preceding-category pairing"
+        }
+      },
+      {
+        "direction": "decreasing_physical_x",
+        "transitions": 3765,
+        "folio_components": 8,
+        "equal_folio_adjacency_excess_bits_over_position": 0.09120940387221482,
+        "limitation": "Only consecutive original group ranks count as adjacent; coarse positional baseline can miss other dependencies.",
+        "conditional_previous_state_null": {
+          "iterations": 99,
+          "mean": 0.08096122683938671,
+          "p": 0.88,
+          "preserves": "heldout target, positional baseline, within-line multiset of preceding categories; tests preceding-category pairing"
+        }
+      }
+    ],
+    "running_state": {
+      "status": "not independently estimable: ordinal rank outcome is already the baseline rank predictor",
+      "warning": "A rank accumulator coefficient cannot establish added prediction when rank is known."
+    },
+    "dataset": "RF"
+  }
+]

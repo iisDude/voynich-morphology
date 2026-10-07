@@ -1,0 +1,137 @@
+[
+  {
+    "gap_body": 0.35,
+    "reviewed_rows": 1054,
+    "ordered_candidate_rows": 1054,
+    "ordered_candidate_row_rate": 1.0,
+    "usable_ordered_membership_row_rate": 0.0,
+    "source_certified_row_rate": 0.0,
+    "groups": 7153,
+    "model_complete_parent_membership_groups": 869,
+    "complete_parent_membership_rate": 0.12148748776737034,
+    "source_certified_group_rate": 0.0,
+    "unknown_primary_parent_rate": 0.6059805825242719,
+    "unknown_all_candidate_rate": 0.8342942069934182,
+    "boundary_ambiguity_rate": 0.6956521739130435,
+    "complete_sequences": 247,
+    "fully_identified_group_rate": 0.0345309660282399,
+    "complete_sequences_ge3": 47,
+    "cross_caption_repeated_complete_sequence_coverage": 0.7813765182186235,
+    "cross_caption_repeated_complete_sequence_coverage_ge3": 0.2127659574468085,
+    "repeated_complete_sequence_share_of_all_groups": 0.026981686005871662,
+    "heldout_complete_sequences": 67,
+    "heldout_complete_sequences_ge3": 12,
+    "heldout_recurrence": 0.746268656716418,
+    "heldout_recurrence_ge3": 0.08333333333333333,
+    "heldout_ge3_caption_interval": [
+      0.0,
+      0.3333333333333333
+    ],
+    "membership_rate_if_detached_faint_ignored": 0.716482594715504,
+    "membership_rate_if_row_ownership_ignored": 0.13840346707675102,
+    "order_shuffle_null_ge3": {
+      "iterations": 200,
+      "mean": 0.015957446808510637,
+      "interval": [
+        0.0,
+        0.0851063829787234
+      ],
+      "p_upper": 0.004975124378109453
+    },
+    "limit": "Model-complete means no retained detected membership ambiguity under this hypothesis. Photograph recall, row endpoints and exact physical group boundaries remain uncertified. Conditional recurrence is not notation qualification.",
+    "membership_caption_interval": [
+      0.09824638676200873,
+      0.14584147030534877
+    ]
+  },
+  {
+    "gap_body": 0.55,
+    "reviewed_rows": 1054,
+    "ordered_candidate_rows": 1054,
+    "ordered_candidate_row_rate": 1.0,
+    "usable_ordered_membership_row_rate": 0.0,
+    "source_certified_row_rate": 0.0,
+    "groups": 5915,
+    "model_complete_parent_membership_groups": 601,
+    "complete_parent_membership_rate": 0.10160608622147084,
+    "source_certified_group_rate": 0.0,
+    "unknown_primary_parent_rate": 0.6059805825242719,
+    "unknown_all_candidate_rate": 0.8342942069934182,
+    "boundary_ambiguity_rate": 0.6319526627218935,
+    "complete_sequences": 158,
+    "fully_identified_group_rate": 0.026711749788672867,
+    "complete_sequences_ge3": 34,
+    "cross_caption_repeated_complete_sequence_coverage": 0.6772151898734177,
+    "cross_caption_repeated_complete_sequence_coverage_ge3": 0.14705882352941177,
+    "repeated_complete_sequence_share_of_all_groups": 0.018089602704987322,
+    "heldout_complete_sequences": 40,
+    "heldout_complete_sequences_ge3": 8,
+    "heldout_recurrence": 0.575,
+    "heldout_recurrence_ge3": 0.125,
+    "heldout_ge3_caption_interval": [
+      0.0,
+      0.42857142857142855
+    ],
+    "membership_rate_if_detached_faint_ignored": 0.6642434488588335,
+    "membership_rate_if_row_ownership_ignored": 0.11834319526627218,
+    "order_shuffle_null_ge3": {
+      "iterations": 200,
+      "mean": 0.010294117647058822,
+      "interval": [
+        0.0,
+        0.058823529411764705
+      ],
+      "p_upper": 0.004975124378109453
+    },
+    "limit": "Model-complete means no retained detected membership ambiguity under this hypothesis. Photograph recall, row endpoints and exact physical group boundaries remain uncertified. Conditional recurrence is not notation qualification.",
+    "membership_caption_interval": [
+      0.07972200230927985,
+      0.12631649688737975
+    ]
+  },
+  {
+    "gap_body": 0.75,
+    "reviewed_rows": 1054,
+    "ordered_candidate_rows": 1054,
+    "ordered_candidate_row_rate": 1.0,
+    "usable_ordered_membership_row_rate": 0.0,
+    "source_certified_row_rate": 0.0,
+    "groups": 4752,
+    "model_complete_parent_membership_groups": 371,
+    "complete_parent_membership_rate": 0.07807239057239057,
+    "source_certified_group_rate": 0.0,
+    "unknown_primary_parent_rate": 0.6059805825242719,
+    "unknown_all_candidate_rate": 0.8342942069934182,
+    "boundary_ambiguity_rate": 0.5418771043771043,
+    "complete_sequences": 98,
+    "fully_identified_group_rate": 0.020622895622895623,
+    "complete_sequences_ge3": 20,
+    "cross_caption_repeated_complete_sequence_coverage": 0.6836734693877551,
+    "cross_caption_repeated_complete_sequence_coverage_ge3": 0.2,
+    "repeated_complete_sequence_share_of_all_groups": 0.0140993265993266,
+    "heldout_complete_sequences": 24,
+    "heldout_complete_sequences_ge3": 2,
+    "heldout_recurrence": 0.625,
+    "heldout_recurrence_ge3": 0.5,
+    "heldout_ge3_caption_interval": [
+      0.0,
+      1.0
+    ],
+    "membership_rate_if_detached_faint_ignored": 0.5970117845117845,
+    "membership_rate_if_row_ownership_ignored": 0.0928030303030303,
+    "order_shuffle_null_ge3": {
+      "iterations": 200,
+      "mean": 0.009000000000000001,
+      "interval": [
+        0.0,
+        0.1
+      ],
+      "p_upper": 0.004975124378109453
+    },
+    "limit": "Model-complete means no retained detected membership ambiguity under this hypothesis. Photograph recall, row endpoints and exact physical group boundaries remain uncertified. Conditional recurrence is not notation qualification.",
+    "membership_caption_interval": [
+      0.06108538323183205,
+      0.09646727573255467
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "classification": "sensitive to one or more evaluation assumptions",
+  "rule": {
+    "rule": "No new validation pass or modification to Trial2. Unsupported under conservative analysis only if both adequate disjoint-parent original-binary and source+recovery-clean disjoint-parent results have AUROC<=.5 or upper95%<=.5. Sensitive if an adequate subset drops>=.10 AUROC relative to pooled baseline, a stratum has contour-aspect advantage<=0 with stratum AUROC gap>=.10, uniform partial-recoding AUROC range>=.10 or either recoding drops>=.10, or repeat same/different retention<.80 or repeat-relabelled binary AUROC drops>=.10. Otherwise robust with important qualifications if any key subset is underpowered, partial retention<.80/exact agreement<.85, adjacent contrast AUROC<.65 or lower95%<=.5. Robust only if no listed sensitivity/qualification applies. These interpretive conventions describe robustness, not retrospective changes to frozen success criteria.",
+    "underpowered": "Do not call a sparse conservative subset failed merely because a meaningful interval cannot be estimated; report loss of support explicitly."
+  },
+  "unsupported_evidence": false,
+  "adequate_binary_drops": [],
+  "sampling_mixture_sensitive": true,
+  "stratum_gap": 0.10909090909090913,
+  "uniform_partial_recoding_sensitive": true,
+  "repeat_category_or_prediction_sensitive": true,
+  "repeat_binary_AUROC_drop": -0.023095238095238058,
+  "qualifications": true,
+  "frozen_Trial2_status_unchanged": "supported within registered sample",
+  "not_a_new_validation_pass": true,
+  "no_downstream_assays": true
+}

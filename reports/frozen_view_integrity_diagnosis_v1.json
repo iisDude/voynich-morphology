@@ -1,0 +1,30 @@
+{
+  "expected": {
+    "path": "data/observations/visual_dataset_v0/V_038.json",
+    "sha256": "4a35e87fe2072e0f022bb773aa4663341bd3068695c6e3381e10addc3f51f270",
+    "bytes": 10493106
+  },
+  "variants": {
+    "current": {
+      "bytes": 10493106,
+      "sha256": "4a35e87fe2072e0f022bb773aa4663341bd3068695c6e3381e10addc3f51f270"
+    },
+    "LF": {
+      "bytes": 10204795,
+      "sha256": "5f7c08502829bd03a6657e853f67d8069a1d5cda30090e31c168024f8197f850"
+    },
+    "CRLF": {
+      "bytes": 10493106,
+      "sha256": "4a35e87fe2072e0f022bb773aa4663341bd3068695c6e3381e10addc3f51f270"
+    },
+    "reconstructed_LF": {
+      "bytes": 10204795,
+      "sha256": "5f7c08502829bd03a6657e853f67d8069a1d5cda30090e31c168024f8197f850"
+    },
+    "reconstructed_CRLF": {
+      "bytes": 10493106,
+      "sha256": "4a35e87fe2072e0f022bb773aa4663341bd3068695c6e3381e10addc3f51f270"
+    }
+  },
+  "semantic_differences": []
+}

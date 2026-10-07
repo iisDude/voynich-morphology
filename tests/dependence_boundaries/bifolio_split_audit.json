@@ -1,0 +1,53 @@
+[
+  {
+    "dataset": "ZL_EVA",
+    "inherited_bifolio_blocks": 50,
+    "test_train_shared_blocks": [
+      "A:3",
+      "B:2",
+      "D:1",
+      "F:2",
+      "F:4",
+      "G:1",
+      "G:2",
+      "H:1",
+      "M:2"
+    ],
+    "shared_count": 9,
+    "limitation": "Q/B fields are inherited after freeze; physical-panel mapping not independently verified. They diagnose possible dependence, not a source-image unit definition."
+  },
+  {
+    "dataset": "RF",
+    "inherited_bifolio_blocks": 50,
+    "test_train_shared_blocks": [
+      "A:3",
+      "B:2",
+      "D:1",
+      "F:2",
+      "F:4",
+      "G:1",
+      "G:2",
+      "H:1",
+      "M:2"
+    ],
+    "shared_count": 9,
+    "limitation": "Q/B fields are inherited after freeze; physical-panel mapping not independently verified. They diagnose possible dependence, not a source-image unit definition."
+  },
+  {
+    "dataset": "v101",
+    "inherited_bifolio_blocks": 50,
+    "test_train_shared_blocks": [
+      "A:3",
+      "B:2",
+      "D:1",
+      "F:2",
+      "F:4",
+      "G:1",
+      "G:2",
+      "H:1",
+      "M:2"
+    ],
+    "shared_count": 9,
+    "limitation": "Q/B fields are inherited after freeze; physical-panel mapping not independently verified. They diagnose possible dependence, not a source-image unit definition."
+  }
+]

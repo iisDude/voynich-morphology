@@ -1,0 +1,23 @@
+test,subset,position,variant,status,n,effect,ci_low,ci_high,null_p
+minimal_pair,all,normalized_group_rank,freq5_edge1_minlen3,estimated,460,-0.0031583468503775065,,,
+minimal_pair,all,normalized_group_rank,freq5_edge2_minlen5,estimated,125,-0.02103991614779955,,,
+minimal_pair,all,normalized_group_rank,freq8_edge1_minlen3,estimated,221,0.0005449948588871013,,,
+minimal_pair,all,normalized_group_rank,freq8_edge2_minlen5,estimated,45,-0.06968390234916282,-0.12003329076391582,0.02148232783383058,0.01
+minimal_pair,all,normalized_group_rank,legacy all lengths,estimated,339,-0.04358393188337564,,,
+minimal_pair,all,normalized_group_rank,freq10_edge1_minlen3,estimated,157,0.0180191871101604,,,
+minimal_pair,all,normalized_group_rank,freq10_edge2_minlen5,estimated,32,-0.08857327307310253,,,
+minimal_pair,all,normalized_group_rank,freq12_edge1_minlen3,estimated,121,0.02150588163083842,,,
+minimal_pair,all,normalized_group_rank,freq12_edge2_minlen5,estimated,18,-0.03590926130062327,,,
+minimal_pair,all,normalized_group_rank,one-unit edge strict length>=5,estimated,45,-0.038790673357241776,,,
+reproducibility,all,normalized_group_rank,left_freq5,estimated,12,0.8444494816511744,,,0.02
+alternate_prediction,all,normalized_group_rank,left_freq5,estimated,6,-0.3785884443869682,,,0.5
+triangle_closure,all,normalized_group_rank,left_freq5,estimated,1,0.8130273409891654,,,0.44
+reproducibility,all,normalized_group_rank,right_freq5,estimated,6,0.1858992056432817,,,0.77
+alternate_prediction,all,normalized_group_rank,right_freq5,estimated,4,-0.5517270859196507,,,0.55
+triangle_closure,all,normalized_group_rank,right_freq5,not_estimable: no context-disjoint triangles,0,,,,
+reproducibility,all,normalized_group_rank,left_freq8,not_estimable: inadequate shared relations,1,,,,
+alternate_prediction,all,normalized_group_rank,left_freq8,not_estimable: inadequate shared relations,0,,,,
+triangle_closure,all,normalized_group_rank,left_freq8,not_estimable: no context-disjoint triangles,0,,,,
+reproducibility,all,normalized_group_rank,right_freq8,not_estimable: inadequate shared relations,1,,,,
+alternate_prediction,all,normalized_group_rank,right_freq8,not_estimable: inadequate shared relations,1,,,,
+triangle_closure,all,normalized_group_rank,right_freq8,not_estimable: no context-disjoint triangles,0,,,,

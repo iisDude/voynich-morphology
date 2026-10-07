@@ -1,0 +1,94 @@
+{
+  "class_pair_count": 12,
+  "class_pair_agreement": 1.0,
+  "class_pairs": [
+    {
+      "id": "R001",
+      "original_id": "C079",
+      "first": "same",
+      "second": "same"
+    },
+    {
+      "id": "R002",
+      "original_id": "C029",
+      "first": "same",
+      "second": "same"
+    },
+    {
+      "id": "R003",
+      "original_id": "C056",
+      "first": "same",
+      "second": "same"
+    },
+    {
+      "id": "R004",
+      "original_id": "C077",
+      "first": "same",
+      "second": "same"
+    },
+    {
+      "id": "R005",
+      "original_id": "C069",
+      "first": "same",
+      "second": "same"
+    },
+    {
+      "id": "R006",
+      "original_id": "C006",
+      "first": "different",
+      "second": "different"
+    },
+    {
+      "id": "R007",
+      "original_id": "C007",
+      "first": "different",
+      "second": "different"
+    },
+    {
+      "id": "R008",
+      "original_id": "C022",
+      "first": "same",
+      "second": "same"
+    },
+    {
+      "id": "R009",
+      "original_id": "C055",
+      "first": "unknown",
+      "second": "unknown"
+    },
+    {
+      "id": "R010",
+      "original_id": "C041",
+      "first": "same",
+      "second": "same"
+    },
+    {
+      "id": "R011",
+      "original_id": "C068",
+      "first": "same",
+      "second": "same"
+    },
+    {
+      "id": "R012",
+      "original_id": "C065",
+      "first": "same",
+      "second": "same"
+    }
+  ],
+  "local_gap_cases": 23,
+  "local_gap_visibility_agreement": 1.0,
+  "group_boundary_decision": "unknown in both passes; no forced partition agreement claimed",
+  "context_count": 24,
+  "coarse_context_agreement": {
+    "drawing_contact_region": 0.9166666666666666,
+    "visible_body_rows": 0.9583333333333334,
+    "boundary_interpretation": 1.0,
+    "detached_ownership": 1.0,
+    "connected_parent_splitting": 1.0,
+    "faint_ink": 0.9166666666666666
+  },
+  "not_independent_human_rater": true,
+  "previous_exposure_and_memory": true,
+  "exact_sequence_re_adjudication_agreement": null,
+  "limit": "Local gap and structural compatibility judgments; exact full membership/partition repeatability not established."
+}

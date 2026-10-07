@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "views": 204,
+  "totals": {
+    "lines": 3272,
+    "groups": 26572,
+    "instances": 234024,
+    "fine_components": 112038,
+    "multiline_components": 4025,
+    "bridge_pieces": 211121
+  },
+  "failures": [],
+  "limitations": "Verifies assigned pixel bookkeeping only. Drawing contamination, omitted writing, incorrect rows and grapheme boundaries remain unvalidated. Bridge cuts conserve ink but often bisect visible loops/stems."
+}

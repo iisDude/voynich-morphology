@@ -1,0 +1,41 @@
+{
+  "registered_at_utc": "2026-10-06T01:03:48.315009+00:00",
+  "question": "Do single manuscript-derived unit changes at group edges versus interiors differ in mean position in Currier B?",
+  "primary": {
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5
+  },
+  "sensitivities": {
+    "frequencies": [
+      5,
+      8,
+      10,
+      12
+    ],
+    "edge_widths": [
+      1,
+      2
+    ],
+    "length_min": 5
+  },
+  "representations": [
+    "visual_fine_units",
+    "visual_merged_units",
+    "visual_factored_units"
+  ],
+  "endpoints": [
+    "normalized_group_rank",
+    "normalized_pixel_center"
+  ],
+  "cohort": "Exact same source-eligible fully admitted group occurrences for both endpoints; all original unknown slots retained in rank and native extent; Currier inherited metadata attached only after freeze",
+  "split_cohorts": [
+    "all source reviewed, post-exposure diagnostic",
+    "train+validation",
+    "test captions"
+  ],
+  "statistics": "Existing registered OLS displacement~edge+length+log geometric mean frequency, HC3; connected-family clustered uncertainty only at >=10 clusters; min12 pairs/full design rank; 199 joint caption-block bootstrap and 199 within-line position-slot null when estimable",
+  "negative_result_policy": "No eligible repeated minimal pairs/design rank => not estimable, not absence of effect. Do not lower thresholds or change segmentation after results.",
+  "controls": "Previously documented natural-language ordinal controls retained as external reference; no measured-image controls falsely manufactured from ordinal spacing; if native visual primary not estimable, new control calibration cannot validate it",
+  "method_limits": "Connected raster parent/image family is a visual hypothesis, not certified letter. Row/group extents and split coverage remain partial. Currier labels not independently inferred from source. Heldout figures are diagnostics after prior exposure."
+}

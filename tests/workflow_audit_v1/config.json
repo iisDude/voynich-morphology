@@ -1,0 +1,8 @@
+{
+  "purpose": "Provenance/artifact verification; not a scientific accuracy assay",
+  "algorithm": "SHA256 and explicit deterministic invariance/contract checks",
+  "null_model": null,
+  "statistical_inference": "Not applicable to deterministic checks",
+  "source_script": "src/verify_completed_workflow_v1.py",
+  "report_script": "src/render_workflow_audit_v1.py"
+}

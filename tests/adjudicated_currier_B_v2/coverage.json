@@ -1,0 +1,38 @@
+[
+  {
+    "representation": "visual_fine_units",
+    "B_groups": 134,
+    "B_lines": 33,
+    "B_captions": 7,
+    "splits": {
+      "train": 111,
+      "test": 10,
+      "validation": 13
+    },
+    "distinct_forms": 123
+  },
+  {
+    "representation": "visual_merged_units",
+    "B_groups": 134,
+    "B_lines": 33,
+    "B_captions": 7,
+    "splits": {
+      "train": 111,
+      "test": 10,
+      "validation": 13
+    },
+    "distinct_forms": 98
+  },
+  {
+    "representation": "visual_factored_units",
+    "B_groups": 134,
+    "B_lines": 33,
+    "B_captions": 7,
+    "splits": {
+      "train": 111,
+      "test": 10,
+      "validation": 13
+    },
+    "distinct_forms": 96
+  }
+]

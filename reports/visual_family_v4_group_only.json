@@ -1,0 +1,59 @@
+{
+  "status": "validation_selected_candidate_model_not_unit_freeze",
+  "selection": {
+    "model": "group_only",
+    "k": 128,
+    "training_instances": 14529,
+    "validation_instances": 5305,
+    "validation_views": 31,
+    "validation_mean_negative_log_density_nats": 34.20641299000764,
+    "training_mean_negative_log_density_nats": 34.543141797168175,
+    "recurring_families_three_folios": 128,
+    "training_quantization_mse": 0.46451324224472046
+  },
+  "comparisons": [
+    {
+      "model": "group_only",
+      "k": 32,
+      "training_instances": 14529,
+      "validation_instances": 5305,
+      "validation_views": 31,
+      "validation_mean_negative_log_density_nats": 37.16403186311157,
+      "training_mean_negative_log_density_nats": 38.00345022714545,
+      "recurring_families_three_folios": 32,
+      "training_quantization_mse": 0.5795831680297852
+    },
+    {
+      "model": "group_only",
+      "k": 64,
+      "training_instances": 14529,
+      "validation_instances": 5305,
+      "validation_views": 31,
+      "validation_mean_negative_log_density_nats": 35.75550403875617,
+      "training_mean_negative_log_density_nats": 36.245537883346415,
+      "recurring_families_three_folios": 64,
+      "training_quantization_mse": 0.5178497433662415
+    },
+    {
+      "model": "group_only",
+      "k": 128,
+      "training_instances": 14529,
+      "validation_instances": 5305,
+      "validation_views": 31,
+      "validation_mean_negative_log_density_nats": 34.20641299000764,
+      "training_mean_negative_log_density_nats": 34.543141797168175,
+      "recurring_families_three_folios": 128,
+      "training_quantization_mse": 0.46451324224472046
+    }
+  ],
+  "pca_explained_variance_fraction": 0.7568084597587585,
+  "training_view_count": 85,
+  "validation_view_count": 31,
+  "test_used": false,
+  "limitations": [
+    "Training uses unreviewed geometric subdivisions in reviewed approximate writing regions.",
+    "Density is a feature-space model comparison, not proof of characters or lossless manuscript compression.",
+    "Source quality, unrecognized crossings, faint omissions and incomplete path coverage can bias families.",
+    "Validation selection does not establish final held-out performance."
+  ]
+}

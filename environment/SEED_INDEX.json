@@ -1,0 +1,71 @@
+{
+  "common_seed": 20261005,
+  "plans": [
+    {
+      "logical_path": "data/observations/direct_morphology_trial1/PLAN.json",
+      "seed_fields": {},
+      "sha256": "8f3b4cdca6ba28e9838da7ef95883afdf999810a26a09e6aa6887599b2b3adbc"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2/PLAN.json",
+      "seed_fields": {
+        "seed": 20261019
+      },
+      "sha256": "df9a8788f2162d7948d32b16de890bb345a8f2b1784f5d8a33134f4109bbb1ed"
+    },
+    {
+      "logical_path": "data/observations/direct_morphology_trial2_robustness_v1/PLAN.json",
+      "seed_fields": {
+        "seed": 20261023
+      },
+      "sha256": "98fde5b0f70389d70c6e0706a873bc00065ab26e13180ee4f7839314b0d28710"
+    },
+    {
+      "logical_path": "data/observations/neutral_feature_trial2/PLAN.json",
+      "seed_fields": {
+        "seed": 20261015
+      },
+      "sha256": "39c0fc5cc8150248b0d27b00e16277335ed6322a699f6a498ab754d8119a9e8d"
+    },
+    {
+      "logical_path": "data/observations/neutral_feature_trial_v1/PLAN.json",
+      "seed_fields": {},
+      "sha256": "5fa42c13c1c9d1ad8fa7b27c36da0d8ddd5db36f275fcf45eef22f7d52faec56"
+    },
+    {
+      "logical_path": "data/observations/recurrence_v3_development/PLAN.json",
+      "seed_fields": {
+        "seed": 20261005
+      },
+      "sha256": "8661557635377e5384d83a71d9a10479a5eccc2cb29b12d33927082bc9cb448f"
+    },
+    {
+      "logical_path": "data/observations/recurrence_v3_structural_candidate/PLAN.json",
+      "seed_fields": {
+        "seed": 20261005
+      },
+      "sha256": "7246c5f8115fd6edc9d3f6e55ad29346bac5b8abf25c979a767520396d47fde3"
+    },
+    {
+      "logical_path": "data/observations/row_benchmark_v5_development/PLAN.json",
+      "seed_fields": {
+        "seed": 20261010
+      },
+      "sha256": "4ac560501d7934a77e29935bd3545fb68d80333ac188e7c4e7d40e9fc546fbf6"
+    },
+    {
+      "logical_path": "data/observations/sequence_v4_development/PLAN.json",
+      "seed_fields": {
+        "seed": 20261009
+      },
+      "sha256": "33d6a33ea0212dac1d7edfb4770b568f679d014b96d05cb7ac9d38b5f0ef5432"
+    },
+    {
+      "logical_path": "data/observations/structural_inventory_v6_development/PLAN.json",
+      "seed_fields": {
+        "seed": 20261011
+      },
+      "sha256": "1850a032a6ee550bebbbc0513b04006332534e537274f079e42ffd050f0d6e6d"
+    }
+  ]
+}

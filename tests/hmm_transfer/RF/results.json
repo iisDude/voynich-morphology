@@ -1,0 +1,32 @@
+[
+  {
+    "status": "not_estimable: requires two contexts, at least four train and two test document blocks per context",
+    "block_counts": [
+      {
+        "context": "H",
+        "split": "validation",
+        "count": 1
+      },
+      {
+        "context": "H",
+        "split": "train",
+        "count": 7
+      },
+      {
+        "context": "H",
+        "split": "test",
+        "count": 1
+      },
+      {
+        "context": "B",
+        "split": "train",
+        "count": 5
+      },
+      {
+        "context": "B",
+        "split": "test",
+        "count": 3
+      }
+    ]
+  }
+]

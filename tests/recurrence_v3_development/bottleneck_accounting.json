@@ -1,0 +1,263 @@
+{
+  "v2_observable_disjoint_gate_ledger": [
+    {
+      "gate": "source_membership_or_boundary",
+      "lost": 2655,
+      "denominator": 4136,
+      "fraction_of_proposals": 0.6419245647969052
+    },
+    {
+      "gate": "old_visual_family_gate_after_source_acceptance",
+      "lost": 753,
+      "denominator": 4136,
+      "fraction_of_proposals": 0.18205996131528046
+    },
+    {
+      "gate": "whole_row_extent_after_local_fine_completion",
+      "lost": 563,
+      "denominator": 4136,
+      "fraction_of_proposals": 0.13612185686653772
+    },
+    {
+      "gate": "retained",
+      "lost": 165,
+      "denominator": 4136,
+      "fraction_of_proposals": 0.0398936170212766
+    }
+  ],
+  "expanded_group_gate_ledger": {
+    "unstable_or_unresolved_parent_raster": 2448,
+    "structural_class_or_perturbation_unknown": 923,
+    "complete_retained_parent_list": 617,
+    "local_field_edge": 60,
+    "competing_row_ownership": 142
+  },
+  "expanded_parent_counts": {
+    "total": 20037,
+    "raster_stable": 15146,
+    "corroborated_structural_class": 10712,
+    "unknown_class": 9325,
+    "row_ownership_unknown": 521
+  },
+  "completion_by_parent_count": [
+    {
+      "parent_count": 1,
+      "candidates": 513,
+      "complete_retained_lists": 230,
+      "completion_fraction": 0.44834307992202727
+    },
+    {
+      "parent_count": 2,
+      "candidates": 529,
+      "complete_retained_lists": 150,
+      "completion_fraction": 0.2835538752362949
+    },
+    {
+      "parent_count": 3,
+      "candidates": 723,
+      "complete_retained_lists": 114,
+      "completion_fraction": 0.15767634854771784
+    },
+    {
+      "parent_count": 4,
+      "candidates": 685,
+      "complete_retained_lists": 62,
+      "completion_fraction": 0.0905109489051095
+    },
+    {
+      "parent_count": 5,
+      "candidates": 520,
+      "complete_retained_lists": 31,
+      "completion_fraction": 0.05961538461538462
+    },
+    {
+      "parent_count": 6,
+      "candidates": 370,
+      "complete_retained_lists": 23,
+      "completion_fraction": 0.062162162162162166
+    },
+    {
+      "parent_count": 7,
+      "candidates": 228,
+      "complete_retained_lists": 5,
+      "completion_fraction": 0.021929824561403508
+    },
+    {
+      "parent_count": 8,
+      "candidates": 161,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 9,
+      "candidates": 107,
+      "complete_retained_lists": 1,
+      "completion_fraction": 0.009345794392523364
+    },
+    {
+      "parent_count": 10,
+      "candidates": 81,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 11,
+      "candidates": 55,
+      "complete_retained_lists": 1,
+      "completion_fraction": 0.01818181818181818
+    },
+    {
+      "parent_count": 12,
+      "candidates": 50,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 13,
+      "candidates": 36,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 14,
+      "candidates": 30,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 15,
+      "candidates": 25,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 16,
+      "candidates": 13,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 17,
+      "candidates": 13,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 18,
+      "candidates": 9,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 19,
+      "candidates": 5,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 20,
+      "candidates": 7,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 21,
+      "candidates": 4,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 22,
+      "candidates": 5,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 23,
+      "candidates": 3,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 24,
+      "candidates": 2,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 25,
+      "candidates": 4,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 26,
+      "candidates": 2,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 27,
+      "candidates": 2,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 28,
+      "candidates": 3,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 30,
+      "candidates": 1,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 31,
+      "candidates": 1,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 37,
+      "candidates": 1,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 41,
+      "candidates": 1,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    },
+    {
+      "parent_count": 46,
+      "candidates": 1,
+      "complete_retained_lists": 0,
+      "completion_fraction": 0.0
+    }
+  ],
+  "source_pair_caption_bootstrap": {
+    "caption_groups": 6,
+    "columns": [
+      "positive_agreement",
+      "false_acceptance_among_source_different"
+    ],
+    "interval95": [
+      [
+        0.7818181818181819,
+        0.0
+      ],
+      [
+        1.0,
+        0.26666666666666666
+      ]
+    ],
+    "interpretation": "Point-estimate freeze thresholds are preregistered; confidence intervals are descriptive and broad. This is one source adjudicator, not inter-rater validation."
+  },
+  "coverage_interpretation": "Source review outside selected fields, small omitted detached ink, physical panel identity and true writing recall remain unknown. The direct disjoint ledger measures pipeline exclusions, not a causal manuscript-wide coverage percentage.",
+  "specificity_interpretation": "Old fine-to-broad relabeling changes recurrence on identical old groups. New contour-subclass-to-structural grouping changes recurrence on identical new pixels and candidate boundaries. Neither comparison uses minimal pairs or positional outcomes.",
+  "main_diagnosis": "The sparse downstream object was a complete assembled group sequence, not merely a recurring parent form. Source omissions/ownership uncertainty, conjunctive class admission over longer lists, overly fine type distinctions and competing boundaries each reduce sequence recurrence. Reusable parents do recur on held-out imagery, but whole retained group strings remain sparse and uncertified as words."
+}

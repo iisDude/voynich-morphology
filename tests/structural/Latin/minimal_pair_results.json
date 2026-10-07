@@ -1,0 +1,724 @@
+[
+  {
+    "status": "estimated",
+    "n": 2348,
+    "beta": 0.0019791450906875667,
+    "p_hc3": 0.6653147775606237,
+    "se_hc3": 0.004575136854140299,
+    "connected_family_clusters": 624,
+    "family_cluster_p": 0.7054138476422986,
+    "family_cluster_se": 0.00523312053002738,
+    "pairs": 2348,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 1432,
+    "near_pairs": 683,
+    "interior_pairs": 233,
+    "largest_family_fraction": 0.14352640545144804,
+    "depth_means": {
+      "0": 0.13649338187448637,
+      "1": 0.13300360720363946,
+      "2": 0.15004878329021687,
+      "3": 0.13912195473880332,
+      "4": 0.12103676339344295
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 2348,
+        "beta": -0.01859315393382278,
+        "p_hc3": 0.10000776356300697,
+        "se_hc3": 0.011304093613761059,
+        "connected_family_clusters": 624,
+        "family_cluster_p": 0.12633784706172918,
+        "family_cluster_se": 0.01214640407924948
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 2348,
+        "beta": -0.011925580107778482,
+        "p_hc3": 0.2518552856837978,
+        "se_hc3": 0.010407585107817374,
+        "connected_family_clusters": 624,
+        "family_cluster_p": 0.334748104223062,
+        "family_cluster_se": 0.012353735803260497
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 2348,
+        "beta": -0.018530071127230294,
+        "p_hc3": 0.07770745019260639,
+        "se_hc3": 0.010503707836342932,
+        "connected_family_clusters": 624,
+        "family_cluster_p": 0.10591019197134048,
+        "family_cluster_se": 0.011443962771287137
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 2348,
+        "beta": -0.01688797295512169,
+        "p_hc3": 0.0994590325299738,
+        "se_hc3": 0.01025077902474814,
+        "connected_family_clusters": 624,
+        "family_cluster_p": 0.13721112509829214,
+        "family_cluster_se": 0.011348121146903652
+      }
+    },
+    "dataset": "Latin",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "n": 1647,
+    "beta": -0.011542774790247385,
+    "p_hc3": 0.14345998988599523,
+    "se_hc3": 0.007889652587572241,
+    "connected_family_clusters": 596,
+    "family_cluster_p": 0.16933447389022369,
+    "family_cluster_se": 0.008388549063365896,
+    "pairs": 1647,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 934,
+    "near_pairs": 480,
+    "interior_pairs": 233,
+    "largest_family_fraction": 0.1493624772313297,
+    "depth_means": {
+      "0": 0.13481309550620227,
+      "1": 0.13482465518770406,
+      "2": 0.15004878329021687,
+      "3": 0.13912195473880332,
+      "4": 0.12103676339344295
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 1647,
+        "beta": -0.09262963311229971,
+        "p_hc3": 1.8872671192520012e-06,
+        "se_hc3": 0.01943903415291564,
+        "connected_family_clusters": 596,
+        "family_cluster_p": 5.140236500704299e-05,
+        "family_cluster_se": 0.02270920903342504
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 1647,
+        "beta": -0.08223261258612002,
+        "p_hc3": 8.860069642703164e-06,
+        "se_hc3": 0.01850721656362894,
+        "connected_family_clusters": 596,
+        "family_cluster_p": 5.8507424903918786e-05,
+        "family_cluster_se": 0.020314900426172577
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 1647,
+        "beta": -0.09391525876670367,
+        "p_hc3": 1.6966557648689288e-07,
+        "se_hc3": 0.01795761062058581,
+        "connected_family_clusters": 596,
+        "family_cluster_p": 4.733821286630259e-06,
+        "family_cluster_se": 0.02033332930906623
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 1647,
+        "beta": -0.09166708906394042,
+        "p_hc3": 1.9726548501036046e-07,
+        "se_hc3": 0.017621860753174515,
+        "connected_family_clusters": 596,
+        "family_cluster_p": 3.2390892221077393e-06,
+        "family_cluster_se": 0.019504645871017315
+      }
+    },
+    "dataset": "Latin",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "n": 1393,
+    "beta": 0.0012729943740723974,
+    "p_hc3": 0.8231656843053878,
+    "se_hc3": 0.005696356402804369,
+    "connected_family_clusters": 400,
+    "family_cluster_p": 0.8202470849531972,
+    "family_cluster_se": 0.00559860728692073,
+    "pairs": 1393,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 900,
+    "near_pairs": 388,
+    "interior_pairs": 105,
+    "largest_family_fraction": 0.16941852117731515,
+    "depth_means": {
+      "0": 0.12570979909616045,
+      "1": 0.12028094179369772,
+      "2": 0.14302353486791877,
+      "3": 0.12582373509693948,
+      "4": 0.09341697622337633
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 1393,
+        "beta": -0.0038830544471922194,
+        "p_hc3": 0.7784590796722277,
+        "se_hc3": 0.013802603465065991,
+        "connected_family_clusters": 400,
+        "family_cluster_p": 0.8009418861192834,
+        "family_cluster_se": 0.015390843846976454
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 1393,
+        "beta": -3.3283831263276224e-05,
+        "p_hc3": 0.9977348539898593,
+        "se_hc3": 0.011724021011370909,
+        "connected_family_clusters": 400,
+        "family_cluster_p": 0.9981592747644588,
+        "family_cluster_se": 0.014418228569386488
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 1393,
+        "beta": -0.004779261012145839,
+        "p_hc3": 0.7060631151962464,
+        "se_hc3": 0.012672087287465722,
+        "connected_family_clusters": 400,
+        "family_cluster_p": 0.7429586479028332,
+        "family_cluster_se": 0.01456356784489334
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 1393,
+        "beta": -0.0032928283874185866,
+        "p_hc3": 0.7865212995588025,
+        "se_hc3": 0.012158256879529386,
+        "connected_family_clusters": 400,
+        "family_cluster_p": 0.8171440191054238,
+        "family_cluster_se": 0.014231717924839628
+      }
+    },
+    "dataset": "Latin",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "n": 878,
+    "beta": -0.019510553303787856,
+    "p_hc3": 0.10418556366635093,
+    "se_hc3": 0.012007292036263531,
+    "connected_family_clusters": 369,
+    "family_cluster_p": 0.127085173532172,
+    "family_cluster_se": 0.012759044458203363,
+    "pairs": 878,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 512,
+    "near_pairs": 261,
+    "interior_pairs": 105,
+    "largest_family_fraction": 0.03758542141230068,
+    "depth_means": {
+      "0": 0.11904383336012878,
+      "1": 0.12039082790822506,
+      "2": 0.14302353486791877,
+      "3": 0.12582373509693948,
+      "4": 0.09341697622337633
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 878,
+        "beta": -0.07578344681797357,
+        "p_hc3": 0.0022854684370734136,
+        "se_hc3": 0.024843881338743306,
+        "connected_family_clusters": 369,
+        "family_cluster_p": 0.0026879420061596865,
+        "family_cluster_se": 0.025078292748001402
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 878,
+        "beta": -0.05663245731909971,
+        "p_hc3": 0.004428962250285534,
+        "se_hc3": 0.019899842356559817,
+        "connected_family_clusters": 369,
+        "family_cluster_p": 0.0027600750013383043,
+        "family_cluster_se": 0.018792000336539157
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 878,
+        "beta": -0.08455614579252631,
+        "p_hc3": 0.0001228831647782657,
+        "se_hc3": 0.022018099331181006,
+        "connected_family_clusters": 369,
+        "family_cluster_p": 0.00011202413515762774,
+        "family_cluster_se": 0.021652500858317655
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 878,
+        "beta": -0.08067961775946561,
+        "p_hc3": 0.00011182877863265426,
+        "se_hc3": 0.02088316835007192,
+        "connected_family_clusters": 369,
+        "family_cluster_p": 8.960690106122766e-05,
+        "family_cluster_se": 0.020368176103597757
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": -0.04004148879332431,
+      "upper": -0.004796307235716078,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 827,
+      "positive": 0,
+      "minimum": -0.02170562414884291,
+      "maximum": -0.017821514511728597
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": -0.0011321904924071948,
+      "sd": 0.007366837992331655,
+      "two_sided_p": 0.025,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "dataset": "Latin",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "n": 1517,
+    "beta": -0.018830413348563124,
+    "p_hc3": 0.1157581207423705,
+    "se_hc3": 0.011972311004719693,
+    "connected_family_clusters": 402,
+    "family_cluster_p": 0.13920314594005254,
+    "family_cluster_se": 0.0127085787878214,
+    "pairs": 1517,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 1024,
+    "near_pairs": 388,
+    "interior_pairs": 105,
+    "largest_family_fraction": 0.15557020435069216,
+    "depth_means": {
+      "0": 0.1294163692270831,
+      "1": 0.12028094179369772,
+      "2": 0.14302353486791877,
+      "3": 0.12582373509693948,
+      "4": 0.09341697622337633
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 1517,
+        "beta": -0.07616245871006971,
+        "p_hc3": 0.0019646724529194764,
+        "se_hc3": 0.024604081423266616,
+        "connected_family_clusters": 402,
+        "family_cluster_p": 0.002349998001035882,
+        "family_cluster_se": 0.024876873669417567
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 1517,
+        "beta": -0.056298120883709106,
+        "p_hc3": 0.004162807614911246,
+        "se_hc3": 0.01964650753332482,
+        "connected_family_clusters": 402,
+        "family_cluster_p": 0.002949432864445412,
+        "family_cluster_se": 0.018820630354236468
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 1517,
+        "beta": -0.0857819668149561,
+        "p_hc3": 7.921221048596161e-05,
+        "se_hc3": 0.021734720353844852,
+        "connected_family_clusters": 402,
+        "family_cluster_p": 7.771461964133512e-05,
+        "family_cluster_se": 0.02148499663863574
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 1517,
+        "beta": -0.08183584338313167,
+        "p_hc3": 7.123996186314503e-05,
+        "se_hc3": 0.02060263256888465,
+        "connected_family_clusters": 402,
+        "family_cluster_p": 6.328362986144997e-05,
+        "family_cluster_se": 0.02024125386633651
+      }
+    },
+    "dataset": "Latin",
+    "subset": "all",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "estimated",
+    "n": 1118,
+    "beta": 0.0021547030022769464,
+    "p_hc3": 0.7297604248408822,
+    "se_hc3": 0.006237484282329115,
+    "connected_family_clusters": 326,
+    "family_cluster_p": 0.7407058719484592,
+    "family_cluster_se": 0.006505719901824194,
+    "pairs": 1118,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 733,
+    "near_pairs": 313,
+    "interior_pairs": 72,
+    "largest_family_fraction": 0.19320214669051877,
+    "depth_means": {
+      "0": 0.12365589275059684,
+      "1": 0.11736115289385897,
+      "2": 0.13530776532620115,
+      "3": 0.14175984654218862,
+      "4": 0.1446527011000695
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 1118,
+        "beta": -0.028452205984362867,
+        "p_hc3": 0.06283923130075389,
+        "se_hc3": 0.015294193531447365,
+        "connected_family_clusters": 326,
+        "family_cluster_p": 0.11472143928365582,
+        "family_cluster_se": 0.017989899773002888
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 1118,
+        "beta": -0.019520785435433296,
+        "p_hc3": 0.1296938468306659,
+        "se_hc3": 0.012882368532366373,
+        "connected_family_clusters": 326,
+        "family_cluster_p": 0.2502079235482639,
+        "family_cluster_se": 0.016946565549212252
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 1118,
+        "beta": -0.0273964446177458,
+        "p_hc3": 0.05062056011397076,
+        "se_hc3": 0.014015803077567704,
+        "connected_family_clusters": 326,
+        "family_cluster_p": 0.12425097996624623,
+        "family_cluster_se": 0.017776511922104936
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 1118,
+        "beta": -0.025532547983555892,
+        "p_hc3": 0.05636248873050714,
+        "se_hc3": 0.013380279537097198,
+        "connected_family_clusters": 326,
+        "family_cluster_p": 0.1448961381411824,
+        "family_cluster_se": 0.01747235215803192
+      }
+    },
+    "dataset": "Latin",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "n": 653,
+    "beta": -0.01863114466974669,
+    "p_hc3": 0.16845892019674225,
+    "se_hc3": 0.013528548235286469,
+    "connected_family_clusters": 294,
+    "family_cluster_p": 0.1769280067383384,
+    "family_cluster_se": 0.013764804364135696,
+    "pairs": 653,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 379,
+    "near_pairs": 202,
+    "interior_pairs": 72,
+    "largest_family_fraction": 0.026033690658499236,
+    "depth_means": {
+      "0": 0.11693413807566189,
+      "1": 0.11706069860671076,
+      "2": 0.13530776532620115,
+      "3": 0.14175984654218862,
+      "4": 0.1446527011000695
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 653,
+        "beta": -0.09549455339028368,
+        "p_hc3": 0.0015141533324543803,
+        "se_hc3": 0.030105877256072184,
+        "connected_family_clusters": 294,
+        "family_cluster_p": 0.0019493834142940332,
+        "family_cluster_se": 0.030547701775801482
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 653,
+        "beta": -0.06589781685745207,
+        "p_hc3": 0.0046638356964383626,
+        "se_hc3": 0.02329055416402038,
+        "connected_family_clusters": 294,
+        "family_cluster_p": 0.0028123811211741715,
+        "family_cluster_se": 0.021870924784248097
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 653,
+        "beta": -0.10371790301598958,
+        "p_hc3": 9.43556754625695e-05,
+        "se_hc3": 0.02656255557725668,
+        "connected_family_clusters": 294,
+        "family_cluster_p": 0.00011287338447356507,
+        "family_cluster_se": 0.026498140850768473
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 653,
+        "beta": -0.09837600488678122,
+        "p_hc3": 7.99232413301134e-05,
+        "se_hc3": 0.024939221551774447,
+        "connected_family_clusters": 294,
+        "family_cluster_p": 8.382641216795749e-05,
+        "family_cluster_se": 0.024660842152086658
+      }
+    },
+    "dataset": "Latin",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "n": 927,
+    "beta": 0.0018497475763878859,
+    "p_hc3": 0.7870479349837907,
+    "se_hc3": 0.006847214403643635,
+    "connected_family_clusters": 270,
+    "family_cluster_p": 0.7950001950602947,
+    "family_cluster_se": 0.007112196040736548,
+    "pairs": 927,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 621,
+    "near_pairs": 254,
+    "interior_pairs": 52,
+    "largest_family_fraction": 0.21359223300970873,
+    "depth_means": {
+      "0": 0.1210425580364761,
+      "1": 0.11529426965629236,
+      "2": 0.13189576002268286,
+      "3": 0.12383217939785651,
+      "4": 0.1446527011000695
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 927,
+        "beta": -0.03098988113807066,
+        "p_hc3": 0.05768221789835273,
+        "se_hc3": 0.016326745334863457,
+        "connected_family_clusters": 270,
+        "family_cluster_p": 0.08031390985288198,
+        "family_cluster_se": 0.017653132964398518
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 927,
+        "beta": -0.0211690439825475,
+        "p_hc3": 0.12132871848261519,
+        "se_hc3": 0.013664319392005528,
+        "connected_family_clusters": 270,
+        "family_cluster_p": 0.18866069560666016,
+        "family_cluster_se": 0.016062794763215402
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 927,
+        "beta": -0.03389237440869414,
+        "p_hc3": 0.02356838937277725,
+        "se_hc3": 0.014969514474107777,
+        "connected_family_clusters": 270,
+        "family_cluster_p": 0.059503211402689805,
+        "family_cluster_se": 0.01790915368840067
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 927,
+        "beta": -0.03168270091004272,
+        "p_hc3": 0.026474192729784372,
+        "se_hc3": 0.014276733009014672,
+        "connected_family_clusters": 270,
+        "family_cluster_p": 0.07178493832240768,
+        "family_cluster_se": 0.01752744450808833
+      }
+    },
+    "dataset": "Latin",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "n": 498,
+    "beta": -0.01686612192526928,
+    "p_hc3": 0.2911325864812099,
+    "se_hc3": 0.01597714874231907,
+    "connected_family_clusters": 239,
+    "family_cluster_p": 0.2911949374744802,
+    "family_cluster_se": 0.01594372833410514,
+    "pairs": 498,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 295,
+    "near_pairs": 151,
+    "interior_pairs": 52,
+    "largest_family_fraction": 0.0321285140562249,
+    "depth_means": {
+      "0": 0.11308890854575554,
+      "1": 0.11599454006680529,
+      "2": 0.13189576002268286,
+      "3": 0.12383217939785651,
+      "4": 0.1446527011000695
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 498,
+        "beta": -0.09927253161200202,
+        "p_hc3": 0.005330088158755702,
+        "se_hc3": 0.03562782072179666,
+        "connected_family_clusters": 239,
+        "family_cluster_p": 0.004491391392448095,
+        "family_cluster_se": 0.03460495803998434
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 498,
+        "beta": -0.0686159900591896,
+        "p_hc3": 0.013454681167523888,
+        "se_hc3": 0.02776287092557831,
+        "connected_family_clusters": 239,
+        "family_cluster_p": 0.008009456065083721,
+        "family_cluster_se": 0.025658327105694552
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 498,
+        "beta": -0.10616194358848421,
+        "p_hc3": 0.0007074124589777213,
+        "se_hc3": 0.03134681363895247,
+        "connected_family_clusters": 239,
+        "family_cluster_p": 0.0006223262588094074,
+        "family_cluster_se": 0.030612535306652713
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 498,
+        "beta": -0.09916868964132954,
+        "p_hc3": 0.0007042803022848099,
+        "se_hc3": 0.029271369349049024,
+        "connected_family_clusters": 239,
+        "family_cluster_p": 0.000567535274689431,
+        "family_cluster_se": 0.028383561001975113
+      }
+    },
+    "dataset": "Latin",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "n": 878,
+    "beta": -0.006415539462995503,
+    "p_hc3": 0.3412855125015105,
+    "se_hc3": 0.006741644097991475,
+    "connected_family_clusters": 369,
+    "family_cluster_p": 0.366596786050267,
+    "family_cluster_se": 0.007096983803712052,
+    "pairs": 878,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "outer_pairs": 512,
+    "near_pairs": 261,
+    "interior_pairs": 105,
+    "largest_family_fraction": 0.03758542141230068,
+    "depth_means": {
+      "0": 0.11904383336012878,
+      "1": 0.12039082790822506,
+      "2": 0.14302353486791877,
+      "3": 0.12582373509693948,
+      "4": 0.09341697622337633
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 878,
+        "beta": -0.0031029917513304196,
+        "p_hc3": 0.8528855746359219,
+        "se_hc3": 0.016733319089555686,
+        "connected_family_clusters": 369,
+        "family_cluster_p": 0.8668334379034912,
+        "family_cluster_se": 0.01849229313901499
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 878,
+        "beta": -0.004976931281309343,
+        "p_hc3": 0.7184302111651151,
+        "se_hc3": 0.013803430203685166,
+        "connected_family_clusters": 369,
+        "family_cluster_p": 0.7297208218510057,
+        "family_cluster_se": 0.014394187739364534
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 878,
+        "beta": -0.006302463562592441,
+        "p_hc3": 0.6851299644453942,
+        "se_hc3": 0.015543490560088573,
+        "connected_family_clusters": 369,
+        "family_cluster_p": 0.7043516826540719,
+        "family_cluster_se": 0.016596444881319453
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 878,
+        "beta": -0.005411014154638027,
+        "p_hc3": 0.7157714881090329,
+        "se_hc3": 0.014860693069641637,
+        "connected_family_clusters": 369,
+        "family_cluster_p": 0.7291398901226694,
+        "family_cluster_se": 0.015614694067887748
+      }
+    },
+    "dataset": "Latin",
+    "subset": "all",
+    "specification": "one-unit edge strict length>=5"
+  }
+]

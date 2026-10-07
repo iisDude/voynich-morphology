@@ -1,0 +1,48 @@
+{
+  "checked_at_utc": "2026-10-07T07:06:00.660860+00:00",
+  "trial2_manifest_sha256": "1af5bfbb18045704f6fac0d4de2c9df7ec50fe784cc082a91b6c0eb4359e2d19",
+  "trial2_file_checks": 563,
+  "previous_frozen_file_checks": 27050,
+  "previous_snapshots": {
+    "v0": {
+      "manifest_sha256": "eb1dff78adf9409757812a2aa7fca0a8c7a03ccbb102362276081e2bfd0ff656",
+      "file_checks": 1512
+    },
+    "v11": {
+      "manifest_sha256": "cab58c0dd8a0d344b15eec7aeac08f822a6dfc55fcf2aa66bc54d5ed3f888097",
+      "file_checks": 1049
+    },
+    "v2": {
+      "manifest_sha256": "bbfd0e6f4e25dbad613c4b713d2b5bb50b6bd5d856487bfd9c6fd030ee408dc6",
+      "file_checks": 1533
+    },
+    "v3": {
+      "manifest_sha256": "4f593cc679e6395c164425bb9eca5ca3df01abda7dc0be5a4ad9a0a3ba6050fc",
+      "file_checks": 20812
+    },
+    "v4": {
+      "manifest_sha256": "07fa88ae01152f9ba18a187987e61d93989f2c23045f2ff6c7e332c7428d9955",
+      "file_checks": 340
+    },
+    "v5": {
+      "manifest_sha256": "16f040e6e80f8a1fd47b796811935df4c5546021d4b41f79933ee18cd668fed8",
+      "file_checks": 309
+    },
+    "v6": {
+      "manifest_sha256": "22b5a69c31ffdf907bf2c32e4ee8116252d9a5989ad59c76bd11a2ddb3848f0a",
+      "file_checks": 1495
+    }
+  },
+  "Trial1_unchanged": true,
+  "original_evidence_files": 14,
+  "stage_seals_pass": true,
+  "deterministic_profiles": 221,
+  "descriptors": 36,
+  "seven_variants": true,
+  "distance_matrices_exact": 5,
+  "V3_reporting_labels_exact": 221,
+  "writer_guard_blocks_frozen_trial": true,
+  "failures": [],
+  "meaning": "Integrity and deterministic replay; source judgments same AI and not independent inter-rater validation.",
+  "downstream_opened": false
+}

@@ -1,0 +1,174 @@
+{
+  "rows": {
+    "B001": {
+      "caption": "5",
+      "split": "development",
+      "confirmed_source_parents": 34,
+      "stable_v3_assigned": 12,
+      "nominal_fit": 20,
+      "raster_stable": 24,
+      "threshold_class_stable": 14,
+      "alignment_class_stable": 15
+    },
+    "B002": {
+      "caption": "5",
+      "split": "development",
+      "confirmed_source_parents": 32,
+      "stable_v3_assigned": 14,
+      "nominal_fit": 18,
+      "raster_stable": 26,
+      "threshold_class_stable": 17,
+      "alignment_class_stable": 17
+    },
+    "B005": {
+      "caption": "34",
+      "split": "development",
+      "confirmed_source_parents": 56,
+      "stable_v3_assigned": 20,
+      "nominal_fit": 34,
+      "raster_stable": 40,
+      "threshold_class_stable": 24,
+      "alignment_class_stable": 31
+    },
+    "B006": {
+      "caption": "34",
+      "split": "development",
+      "confirmed_source_parents": 45,
+      "stable_v3_assigned": 21,
+      "nominal_fit": 27,
+      "raster_stable": 36,
+      "threshold_class_stable": 23,
+      "alignment_class_stable": 26
+    },
+    "B007": {
+      "caption": "39",
+      "split": "development",
+      "confirmed_source_parents": 56,
+      "stable_v3_assigned": 25,
+      "nominal_fit": 37,
+      "raster_stable": 38,
+      "threshold_class_stable": 30,
+      "alignment_class_stable": 34
+    },
+    "B008": {
+      "caption": "39",
+      "split": "development",
+      "confirmed_source_parents": 46,
+      "stable_v3_assigned": 23,
+      "nominal_fit": 32,
+      "raster_stable": 33,
+      "threshold_class_stable": 25,
+      "alignment_class_stable": 31
+    },
+    "B009": {
+      "caption": "55",
+      "split": "development",
+      "confirmed_source_parents": 38,
+      "stable_v3_assigned": 16,
+      "nominal_fit": 26,
+      "raster_stable": 25,
+      "threshold_class_stable": 19,
+      "alignment_class_stable": 25
+    },
+    "B010": {
+      "caption": "55",
+      "split": "development",
+      "confirmed_source_parents": 40,
+      "stable_v3_assigned": 19,
+      "nominal_fit": 27,
+      "raster_stable": 29,
+      "threshold_class_stable": 22,
+      "alignment_class_stable": 27
+    },
+    "B011": {
+      "caption": "81",
+      "split": "development",
+      "confirmed_source_parents": 18,
+      "stable_v3_assigned": 9,
+      "nominal_fit": 13,
+      "raster_stable": 12,
+      "threshold_class_stable": 12,
+      "alignment_class_stable": 12
+    },
+    "B012": {
+      "caption": "81",
+      "split": "development",
+      "confirmed_source_parents": 17,
+      "stable_v3_assigned": 8,
+      "nominal_fit": 11,
+      "raster_stable": 14,
+      "threshold_class_stable": 9,
+      "alignment_class_stable": 10
+    },
+    "B015": {
+      "caption": "115",
+      "split": "development",
+      "confirmed_source_parents": 44,
+      "stable_v3_assigned": 27,
+      "nominal_fit": 33,
+      "raster_stable": 36,
+      "threshold_class_stable": 31,
+      "alignment_class_stable": 32
+    },
+    "B016": {
+      "caption": "115",
+      "split": "development",
+      "confirmed_source_parents": 34,
+      "stable_v3_assigned": 25,
+      "nominal_fit": 28,
+      "raster_stable": 33,
+      "threshold_class_stable": 27,
+      "alignment_class_stable": 26
+    },
+    "B003": {
+      "caption": "10",
+      "split": "heldout",
+      "confirmed_source_parents": 40,
+      "stable_v3_assigned": 19,
+      "nominal_fit": 22,
+      "raster_stable": 30,
+      "threshold_class_stable": 20,
+      "alignment_class_stable": 22
+    },
+    "B004": {
+      "caption": "10",
+      "split": "heldout",
+      "confirmed_source_parents": 32,
+      "stable_v3_assigned": 18,
+      "nominal_fit": 23,
+      "raster_stable": 27,
+      "threshold_class_stable": 22,
+      "alignment_class_stable": 20
+    },
+    "B013": {
+      "caption": "106",
+      "split": "heldout",
+      "confirmed_source_parents": 51,
+      "stable_v3_assigned": 23,
+      "nominal_fit": 31,
+      "raster_stable": 39,
+      "threshold_class_stable": 23,
+      "alignment_class_stable": 28
+    },
+    "B014": {
+      "caption": "106",
+      "split": "heldout",
+      "confirmed_source_parents": 55,
+      "stable_v3_assigned": 32,
+      "nominal_fit": 38,
+      "raster_stable": 46,
+      "threshold_class_stable": 35,
+      "alignment_class_stable": 37
+    }
+  },
+  "overlapping_failure_counts": {
+    "frozen_geometry_or_disconnected_source_join": 11,
+    "threshold_connectivity_or_topology_instability": 139,
+    "class_changes_or_abstains_under_threshold": 274,
+    "class_changes_or_abstains_under_fixed_slant": 234,
+    "frozen_radius_margin_or_topology_fit_abstention": 207
+  },
+  "reason_counts_not_additive": true,
+  "v3_unchanged": true,
+  "interpretation": "Source confirmation improves membership confidence but does not force V3 assignment. Whole connected compounds, faint connectivity, radius/margin rejection and perturbation instability retain UNK. Class coverage here is in-domain use of a frozen model on previously source-covered captures, not a fresh independent class validation."
+}

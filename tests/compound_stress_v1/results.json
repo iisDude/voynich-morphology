@@ -1,0 +1,398 @@
+[
+  {
+    "status": "estimated",
+    "n": 49,
+    "beta": 0.042646602497510115,
+    "p_hc3": 0.05627781236411749,
+    "se_hc3": 0.022341186369338815,
+    "connected_family_clusters": 7,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 49,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 21,
+    "near_pairs": 8,
+    "interior_pairs": 20,
+    "largest_family_fraction": 0.3469387755102041,
+    "depth_means": {
+      "0": 0.12831071469127892,
+      "1": 0.08109616550020318,
+      "2": 0.09124573831652269
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 49,
+        "beta": -0.07895575518335729,
+        "p_hc3": 0.28671513580168595,
+        "se_hc3": 0.0741121281180762,
+        "connected_family_clusters": 7,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 49,
+        "beta": -0.06274835103716209,
+        "p_hc3": 0.1488069163903613,
+        "se_hc3": 0.04346180512513662,
+        "connected_family_clusters": 7,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 49,
+        "beta": -0.07086107904177355,
+        "p_hc3": 0.26339282085058013,
+        "se_hc3": 0.06335888623150185,
+        "connected_family_clusters": 7,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 49,
+        "beta": -0.06648408159678608,
+        "p_hc3": 0.24162184622829264,
+        "se_hc3": 0.0567782579889066,
+        "connected_family_clusters": 7,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": -0.01701882710624708,
+      "upper": 0.0868341079371078,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 50,
+      "positive": 50,
+      "minimum": 0.030622688826421517,
+      "maximum": 0.053915189165620755
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": 0.00024186424331444878,
+      "sd": 0.017742886587995835,
+      "two_sided_p": 0.02,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "partition": "conservative_compounds",
+    "currier": "A",
+    "compound_sequences": [
+      "cfh",
+      "ckh",
+      "cph",
+      "cth",
+      "iin",
+      "ch",
+      "in",
+      "sh"
+    ]
+  },
+  {
+    "status": "estimated",
+    "n": 290,
+    "beta": 0.053921594417328536,
+    "p_hc3": 3.3046757824553433e-07,
+    "se_hc3": 0.010562119381045502,
+    "connected_family_clusters": 11,
+    "family_cluster_p": 0.0009554481598397773,
+    "family_cluster_se": 0.011679777987573713,
+    "pairs": 290,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 134,
+    "near_pairs": 79,
+    "interior_pairs": 77,
+    "largest_family_fraction": 0.41724137931034483,
+    "depth_means": {
+      "0": 0.15344476591150263,
+      "1": 0.11601178445469018,
+      "2": 0.07232241564991886,
+      "3": 0.1390270057577751
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 290,
+        "beta": 0.02776003052068115,
+        "p_hc3": 0.2791475895408012,
+        "se_hc3": 0.02565062106340546,
+        "connected_family_clusters": 11,
+        "family_cluster_p": 0.3994591206414354,
+        "family_cluster_se": 0.03154172738986102
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 290,
+        "beta": 0.0007823684799434041,
+        "p_hc3": 0.968961127387385,
+        "se_hc3": 0.02010647258322736,
+        "connected_family_clusters": 11,
+        "family_cluster_p": 0.9792719497425144,
+        "family_cluster_se": 0.0293695288660068
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 290,
+        "beta": 0.009725471013752804,
+        "p_hc3": 0.6879082273498598,
+        "se_hc3": 0.024211060356375814,
+        "connected_family_clusters": 11,
+        "family_cluster_p": 0.7726463217214522,
+        "family_cluster_se": 0.03276090163714678
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 290,
+        "beta": 0.002047820689714127,
+        "p_hc3": 0.9304010192730123,
+        "se_hc3": 0.02344645736565314,
+        "connected_family_clusters": 11,
+        "family_cluster_p": 0.9517621333915711,
+        "family_cluster_se": 0.03301400353392104
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.030113274494882564,
+      "upper": 0.06810586196654535,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 39,
+      "positive": 39,
+      "minimum": 0.047864210723726694,
+      "maximum": 0.057282965904072364
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": -0.002311444785247071,
+      "sd": 0.010243345901470012,
+      "two_sided_p": 0.005,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "partition": "conservative_compounds",
+    "currier": "B",
+    "compound_sequences": [
+      "cfh",
+      "ckh",
+      "cph",
+      "cth",
+      "iin",
+      "ch",
+      "in",
+      "sh"
+    ]
+  },
+  {
+    "status": "estimated",
+    "n": 47,
+    "beta": 0.040366132732320245,
+    "p_hc3": 0.06529666244529868,
+    "se_hc3": 0.021899771972497078,
+    "connected_family_clusters": 6,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 47,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 20,
+    "near_pairs": 10,
+    "interior_pairs": 17,
+    "largest_family_fraction": 0.3617021276595745,
+    "depth_means": {
+      "0": 0.12717321507836113,
+      "1": 0.07522032514337655,
+      "2": 0.08643215359772054
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 47,
+        "beta": -0.061995455751643176,
+        "p_hc3": 0.4278259651765369,
+        "se_hc3": 0.07818652727995146,
+        "connected_family_clusters": 6,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 47,
+        "beta": -0.04747658164903915,
+        "p_hc3": 0.32077788573093124,
+        "se_hc3": 0.047817972585357256,
+        "connected_family_clusters": 6,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 47,
+        "beta": -0.053828840122812784,
+        "p_hc3": 0.4296362832750896,
+        "se_hc3": 0.06815380115195294,
+        "connected_family_clusters": 6,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 47,
+        "beta": -0.050816159258191794,
+        "p_hc3": 0.41026838106282637,
+        "se_hc3": 0.06171342821188271,
+        "connected_family_clusters": 6,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": -0.01912309711004583,
+      "upper": 0.08310770428074842,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 50,
+      "positive": 50,
+      "minimum": 0.027574397138422514,
+      "maximum": 0.05134274379821663
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": 0.0008953812349804982,
+      "sd": 0.018774595736900664,
+      "two_sided_p": 0.045,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "partition": "conservative_plus_ee",
+    "currier": "A",
+    "compound_sequences": [
+      "cfh",
+      "ckh",
+      "cph",
+      "cth",
+      "iin",
+      "ch",
+      "ee",
+      "in",
+      "sh"
+    ]
+  },
+  {
+    "status": "estimated",
+    "n": 251,
+    "beta": 0.055651947690997725,
+    "p_hc3": 1.1841717545133317e-06,
+    "se_hc3": 0.011455100871243861,
+    "connected_family_clusters": 13,
+    "family_cluster_p": 0.00039915376760084494,
+    "family_cluster_se": 0.011477822503998788,
+    "pairs": 251,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "outer_pairs": 119,
+    "near_pairs": 63,
+    "interior_pairs": 69,
+    "largest_family_fraction": 0.398406374501992,
+    "depth_means": {
+      "0": 0.15828752331131488,
+      "1": 0.098067813185355,
+      "2": 0.07149566830948928,
+      "3": 0.1946591513899207
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 251,
+        "beta": 0.02296202015256739,
+        "p_hc3": 0.3441330325866675,
+        "se_hc3": 0.024271966154433246,
+        "connected_family_clusters": 13,
+        "family_cluster_p": 0.48209644079848835,
+        "family_cluster_se": 0.03165298687560354
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 251,
+        "beta": 0.00822822330457278,
+        "p_hc3": 0.6456270516372429,
+        "se_hc3": 0.017893448043040126,
+        "connected_family_clusters": 13,
+        "family_cluster_p": 0.7288893405467407,
+        "family_cluster_se": 0.023190494610561625
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 251,
+        "beta": 0.018404713586589842,
+        "p_hc3": 0.4214631367323005,
+        "se_hc3": 0.02289469687744269,
+        "connected_family_clusters": 13,
+        "family_cluster_p": 0.5722387440102554,
+        "family_cluster_se": 0.031698322883521785
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 251,
+        "beta": 0.015208089217234,
+        "p_hc3": 0.48732753365648596,
+        "se_hc3": 0.02189582627796385,
+        "connected_family_clusters": 13,
+        "family_cluster_p": 0.6203020172969422,
+        "family_cluster_se": 0.029906067333778426
+      }
+    },
+    "folio_bootstrap": {
+      "requested": 199,
+      "estimable": 199,
+      "lower": 0.03275732521823359,
+      "upper": 0.07524409004768205,
+      "estimand": "frozen selected vocabulary; joint occurrence resampling by caption/document group; missing forms omit affected pairs"
+    },
+    "leave_one_folio_out": {
+      "deletions": 39,
+      "positive": 39,
+      "minimum": 0.051477376654092175,
+      "maximum": 0.058912894413081625
+    },
+    "within_line_null": {
+      "iterations": 199,
+      "mean": -0.0020795783832563658,
+      "sd": 0.011341932103194344,
+      "two_sided_p": 0.005,
+      "preserves": "vocabulary, frequency, retained line membership and retained measured-position slots; unresolved gaps remain"
+    },
+    "partition": "conservative_plus_ee",
+    "currier": "B",
+    "compound_sequences": [
+      "cfh",
+      "ckh",
+      "cph",
+      "cth",
+      "iin",
+      "ch",
+      "ee",
+      "in",
+      "sh"
+    ]
+  }
+]

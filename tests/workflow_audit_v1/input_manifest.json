@@ -1,0 +1,32 @@
+{
+  "files": [
+    {
+      "path": "src/verify_completed_workflow_v1.py",
+      "sha256": "9ac20528477ffb23cd958bb7e03591e4bccce51a6edb74f72d13b4438827f52e"
+    },
+    {
+      "path": "src/render_workflow_audit_v1.py",
+      "sha256": "0eedbf0dafab31b586c9babc6754a7c99e5c68724867ca2e250eeaec415ef46b"
+    },
+    {
+      "path": "data/observations/visual_dataset_v0/FREEZE_MANIFEST.json",
+      "sha256": "eb1dff78adf9409757812a2aa7fca0a8c7a03ccbb102362276081e2bfd0ff656"
+    },
+    {
+      "path": "data/observations/visual_dataset_v11/FREEZE_MANIFEST.json",
+      "sha256": "cab58c0dd8a0d344b15eec7aeac08f822a6dfc55fcf2aa66bc54d5ed3f888097"
+    },
+    {
+      "path": "data/source/evidence_manifest.csv",
+      "sha256": "c70e8281aa1a176a41f79f96376d82f9d8a37f535dfe9f69d9b28b1a0caa665e"
+    },
+    {
+      "path": "tests/workflow_audit_v1/results.json",
+      "sha256": "5198a7c9b0ab3da5424b9563b3c2ddc34d8038950e4c74655c762e66d97688be"
+    },
+    {
+      "path": "tests/workflow_audit_v1/results.csv",
+      "sha256": "e6d1e0f4f0813020464866e734615069d48264136cd97465dfa78a7c4eddd764"
+    }
+  ]
+}

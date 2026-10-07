@@ -1,0 +1,23 @@
+{
+  "seed": 20261005,
+  "features": [
+    "height_ratio",
+    "width_ratio",
+    "upper_extent_ratio",
+    "lower_extent_ratio",
+    "raster_loops",
+    "skeleton_branch_clusters"
+  ],
+  "minimum_family_instances_per_caption": 5,
+  "minimum_training_caption_blocks_per_class": 4,
+  "minimum_test_caption_blocks_per_class": 3,
+  "document_null": 199,
+  "bootstrap": 1000,
+  "restrictions": [
+    "Units, geometry and admission gates from original pre-comparison freeze; metadata attached afterward.",
+    "Conditional raw prototype family is a visual hypothesis, not a known same grapheme.",
+    "Height/baseline proxies and mask errors can produce apparent variation.",
+    "Caption blocks are not verified independent physical bifolios; broad Currier contrasts confound hands, sections and source quality.",
+    "Exploratory multiplicity adjustment only for estimable context-geometry tests; no confirmatory or semantic claims."
+  ]
+}

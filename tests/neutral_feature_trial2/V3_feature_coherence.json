@@ -1,0 +1,322 @@
+{
+  "classes": {
+    "ST02": {
+      "parents": 11,
+      "captions": 9,
+      "crosscaption_mean_distance": 0.5002468699610313,
+      "null999_median": 1.056607678212853,
+      "p_lower": 0.001
+    },
+    "ST03": {
+      "parents": 9,
+      "captions": 8,
+      "crosscaption_mean_distance": 0.48280718798678046,
+      "null999_median": 1.0707156539751315,
+      "p_lower": 0.001
+    },
+    "ST05": {
+      "parents": 7,
+      "captions": 4,
+      "crosscaption_mean_distance": 0.6338280795890188,
+      "null999_median": 1.1250801493155005,
+      "p_lower": 0.002
+    },
+    "ST08": {
+      "parents": 5,
+      "captions": 5,
+      "crosscaption_mean_distance": 0.6215289736278303,
+      "null999_median": 1.088957329425439,
+      "p_lower": 0.004
+    },
+    "ST11": {
+      "parents": 17,
+      "captions": 10,
+      "crosscaption_mean_distance": 0.7952648562363668,
+      "null999_median": 1.0628261205896512,
+      "p_lower": 0.001
+    },
+    "ST12": {
+      "parents": 5,
+      "captions": 5,
+      "crosscaption_mean_distance": 0.7082264669684993,
+      "null999_median": 1.0029989337626835,
+      "p_lower": 0.004
+    }
+  },
+  "leave_caption_nearest_n": 54,
+  "leave_caption_accuracy": 0.9074074074074074,
+  "parent_retrieval": [
+    {
+      "parent_id": "B003_O043",
+      "correct": true,
+      "class_id": "ST02"
+    },
+    {
+      "parent_id": "B004_O030",
+      "correct": true,
+      "class_id": "ST03"
+    },
+    {
+      "parent_id": "B013_O117",
+      "correct": true,
+      "class_id": "ST08"
+    },
+    {
+      "parent_id": "B014_O118",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "B014_O102",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "B015_O032",
+      "correct": true,
+      "class_id": "ST03"
+    },
+    {
+      "parent_id": "B015_O020",
+      "correct": true,
+      "class_id": "ST02"
+    },
+    {
+      "parent_id": "B015_O046",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "V_032_P006475",
+      "correct": true,
+      "class_id": "ST02"
+    },
+    {
+      "parent_id": "V_032_P006568",
+      "correct": true,
+      "class_id": "ST12"
+    },
+    {
+      "parent_id": "V_032_P006645",
+      "correct": true,
+      "class_id": "ST08"
+    },
+    {
+      "parent_id": "B006_O088",
+      "correct": true,
+      "class_id": "ST05"
+    },
+    {
+      "parent_id": "B005_O155",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "B007_O116",
+      "correct": false,
+      "class_id": "ST08"
+    },
+    {
+      "parent_id": "V_094_P012798",
+      "correct": true,
+      "class_id": "ST03"
+    },
+    {
+      "parent_id": "V_094_P012835",
+      "correct": true,
+      "class_id": "ST08"
+    },
+    {
+      "parent_id": "B002_O117",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "B001_O135",
+      "correct": true,
+      "class_id": "ST12"
+    },
+    {
+      "parent_id": "B010_O047",
+      "correct": false,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "B011_O037",
+      "correct": true,
+      "class_id": "ST02"
+    },
+    {
+      "parent_id": "B011_O052",
+      "correct": true,
+      "class_id": "ST02"
+    },
+    {
+      "parent_id": "B012_O017",
+      "correct": true,
+      "class_id": "ST08"
+    },
+    {
+      "parent_id": "B012_O009",
+      "correct": true,
+      "class_id": "ST12"
+    },
+    {
+      "parent_id": "V_170_P006660",
+      "correct": true,
+      "class_id": "ST03"
+    },
+    {
+      "parent_id": "T2_V_034_P010240",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "T2_V_034_P010795",
+      "correct": true,
+      "class_id": "ST02"
+    },
+    {
+      "parent_id": "T2_V_034_P010863",
+      "correct": true,
+      "class_id": "ST03"
+    },
+    {
+      "parent_id": "T2_V_038_P006957",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "T2_V_038_P007528",
+      "correct": true,
+      "class_id": "ST03"
+    },
+    {
+      "parent_id": "T2_V_038_P007576",
+      "correct": true,
+      "class_id": "ST02"
+    },
+    {
+      "parent_id": "T2_V_038_P007577",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "T2_V_044_P007579",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "T2_V_044_P008388",
+      "correct": true,
+      "class_id": "ST02"
+    },
+    {
+      "parent_id": "T2_V_044_P008464",
+      "correct": true,
+      "class_id": "ST02"
+    },
+    {
+      "parent_id": "T2_V_104_P007971",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "T2_V_104_P007995",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "T2_V_104_P008068",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "T2_V_104_P008448",
+      "correct": true,
+      "class_id": "ST12"
+    },
+    {
+      "parent_id": "T2_V_104_P008526",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "T2_V_104_P008585",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "T2_V_104_P008591",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "T2_V_104_P008802",
+      "correct": true,
+      "class_id": "ST05"
+    },
+    {
+      "parent_id": "T2_V_104_P008920",
+      "correct": true,
+      "class_id": "ST02"
+    },
+    {
+      "parent_id": "T2_V_112_P010796",
+      "correct": true,
+      "class_id": "ST03"
+    },
+    {
+      "parent_id": "T2_V_112_P010797",
+      "correct": true,
+      "class_id": "ST11"
+    },
+    {
+      "parent_id": "T2_V_112_P010846",
+      "correct": true,
+      "class_id": "ST03"
+    },
+    {
+      "parent_id": "T2_V_112_P010898",
+      "correct": false,
+      "class_id": "ST02"
+    },
+    {
+      "parent_id": "T2_V_112_P010900",
+      "correct": true,
+      "class_id": "ST05"
+    },
+    {
+      "parent_id": "T2_V_112_P011069",
+      "correct": true,
+      "class_id": "ST05"
+    },
+    {
+      "parent_id": "T2_V_178_P016129",
+      "correct": false,
+      "class_id": "ST12"
+    },
+    {
+      "parent_id": "T2_V_178_P016374",
+      "correct": true,
+      "class_id": "ST05"
+    },
+    {
+      "parent_id": "T2_V_178_P016464",
+      "correct": true,
+      "class_id": "ST05"
+    },
+    {
+      "parent_id": "T2_V_178_P016491",
+      "correct": true,
+      "class_id": "ST03"
+    },
+    {
+      "parent_id": "T2_V_178_P016503",
+      "correct": false,
+      "class_id": "ST05"
+    }
+  ],
+  "class_labels_used_only_after_metric_seal": true,
+  "null": "999 within-caption known-label permutations preserving frequencies/missing profiles; cross-caption distances. Unadjusted exploratory p-values; class/sample/repeated-parent dependence limits inference."
+}

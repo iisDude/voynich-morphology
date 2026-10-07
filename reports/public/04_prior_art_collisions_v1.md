@@ -1,0 +1,17 @@
+> Publication link-adapted view; the original report is preserved unchanged in `reports/`.
+
+# Primary-source prior-art audit
+
+Positional minimal-pair analysis is not new. Patrick Feaster's 2022 study analyzes rightward and downward distributions using ZL paragraph text. Its uncertain-space and reading rules differ from this project's retained boundary alternatives and abstentions, so the new assays are standardized analogues rather than exact reproductions. [Feaster, 2022](https://ceur-ws.org/Vol-3313/paper12.pdf).
+
+Feaster's 2019 Griffoynich demonstration constructs a cipher with coordinate movement and Voynich-like forms. It is a precedent for vector/state analogies, not evidence that the historical manuscript used that mechanism. The present accumulator tests therefore carry no novelty or decipherment claim. [Author's demonstration](https://griffonagedotcom.wordpress.com/2019/04/10/griffoynich-a-real-cipher-that-mimics-voynichese/).
+
+Jorge Stolfi's 2000 crust/mantle/core grammar already models layered regularities in conventional Voynich forms. Edge/core or wrapper comparisons here test such surface structure; a regular formal grammar cannot establish semantics or writing-unit boundaries. [Stolfi's original grammar](https://www.ic.unicamp.br/~stolfi/voynich/00-EXPORT/00-06-07-word-grammar/).
+
+Currier's original papers and Lisa Fagin Davis's palaeographic work precede the inherited language/hand labels used here. Those labels describe classification hypotheses; neither the number of authors nor a visual-unit identity is established by attaching them to image candidates. [Currier's papers](https://voynich.nu/extra/curr_main.html), [Davis's palaeographic account](https://ceur-ws.org/Vol-3313/keynote2.pdf).
+
+The supplied `Voynich-public-main.zip` contains Keito Yoshida's *Multiscale Structural Constraints in the Voynich Manuscript*, dated 12 August 2026, technical report 0.1. Attribution was verified by reading the archived paper; no repository code was executed. It already emphasizes physical-bifolio holdout, alternative transcriptions as robustness tracks, transferable morphology, and failures of tested semantic/cipher/generator models. It is a versioned, non-peer-reviewed audit, and its unresolved conclusions are not decipherment evidence. [Primary repository paper](https://github.com/seeton/Voynich-public/blob/main/paper/voynich-multiscale-structural-model.md). The local attribution record is `local_primary_attribution_v1.json`.
+
+RF is an automatically derived combination of ZL and GC. Agreement among these conventions cannot be counted as three independent observations of the manuscript. [Transcription provenance](https://www.voynich.nu/transcr.html). Parsing follows the published format while preserving literal signs and annotated uncertainty. [IVTFF specification](https://www.voynich.nu/software/ivtt/IVTFF_format.pdf).
+
+The new contribution is a traceable source-derived candidate ensemble and failure audit, including separately measured pixel coordinates. It is not a new alphabet, a proof of additive encoding, or a plaintext result. Important historical code and exact settings were not recovered; numerical differences are reported rather than adjusted away.

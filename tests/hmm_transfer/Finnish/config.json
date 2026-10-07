@@ -1,0 +1,23 @@
+{
+  "seed": 20261005,
+  "states": [
+    4,
+    5
+  ],
+  "pooled_restarts": 2,
+  "iterations": 30,
+  "group_budget_per_document": 200,
+  "sequence": "literal/frozen units within one admitted group, restart at group boundary; not a line-state mechanism",
+  "context": "same Currier B/hand 2 herbal versus biological; Latin same-author Cicero works; Finnish source partitions b/w",
+  "null": "frozen-both transfer baseline plus fixed-emission/fixed-transition competing models; no random-label null run here",
+  "heldout": "frozen document/caption split; calibration excluded",
+  "bootstrap": 1000,
+  "failures": [
+    "Unvalidated visual group boundaries prevent manuscript-writing interpretation.",
+    "Hidden-state identities are exchangeable and can be non-identifiable.",
+    "Training-only priors and validation restarts; held-out scores cannot retune model count.",
+    "Same hand reduces one confound but does not isolate subject matter from page layout, source quality or scribal phase.",
+    "Not an exact reproduction of undocumented historical HMM settings."
+  ],
+  "dependency": "hmmlearn 0.3.3, installed only under project .tools/python"
+}

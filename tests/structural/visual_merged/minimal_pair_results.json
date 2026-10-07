@@ -1,0 +1,3750 @@
+[
+  {
+    "status": "estimated",
+    "n": 157,
+    "beta": 0.008465145893301315,
+    "p_hc3": 0.6023793554378625,
+    "se_hc3": 0.016248444165852673,
+    "connected_family_clusters": 4,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 157,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 108,
+    "near_pairs": 49,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.8789808917197452,
+    "depth_means": {
+      "0": 0.125102135198194,
+      "1": 0.1116283516861018
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.033352856642503835,
+        "p_hc3": 0.2723249429667234,
+        "se_hc3": 0.03038363999397507,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.032920483234814404,
+        "p_hc3": 0.2736260445754948,
+        "se_hc3": 0.030071225532812926,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.0333810464763904,
+        "p_hc3": 0.2800952748131402,
+        "se_hc3": 0.030905361988563883,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.03216377031587387,
+        "p_hc3": 0.3097608775927334,
+        "se_hc3": 0.031665859117896475,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "n": 68,
+    "beta": -0.026135971968060966,
+    "p_hc3": 0.22607523199879043,
+    "se_hc3": 0.021590503348392423,
+    "connected_family_clusters": 3,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 68,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 48,
+    "near_pairs": 20,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.5882352941176471,
+    "depth_means": {
+      "0": 0.09917664769176204,
+      "1": 0.12931493902990324
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.11161968435723764,
+        "p_hc3": 0.008973901857624766,
+        "se_hc3": 0.042716297802303994,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.10582968269699923,
+        "p_hc3": 0.009558320277820226,
+        "se_hc3": 0.040838629635689204,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.108853591134291,
+        "p_hc3": 0.011233898243046053,
+        "se_hc3": 0.042934553701891164,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.10977055934492327,
+        "p_hc3": 0.012348245140936886,
+        "se_hc3": 0.04387254844404227,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 541,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 541,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 521,
+    "near_pairs": 20,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.48613678373382624,
+    "depth_means": {
+      "0": 0.07162128982958975,
+      "1": 0.12931493902990324
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 39,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 39,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 29,
+    "near_pairs": 10,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.5897435897435898,
+    "depth_means": {
+      "0": 0.09216850212580323,
+      "1": 0.10287371164472006
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 29,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 29,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 19,
+    "near_pairs": 10,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.7931034482758621,
+    "depth_means": {
+      "0": 0.06398921412885111,
+      "1": 0.10287371164472006
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "estimated",
+    "n": 157,
+    "beta": 0.0023716299341007985,
+    "p_hc3": 0.878700125195181,
+    "se_hc3": 0.015539724507260374,
+    "connected_family_clusters": 4,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 157,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 108,
+    "near_pairs": 49,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.8789808917197452,
+    "depth_means": {
+      "0": 0.11989013862458496,
+      "1": 0.11387580774820652
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.033352856642503835,
+        "p_hc3": 0.2723249429667234,
+        "se_hc3": 0.03038363999397507,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.032920483234814404,
+        "p_hc3": 0.2736260445754948,
+        "se_hc3": 0.030071225532812926,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.0333810464763904,
+        "p_hc3": 0.2800952748131402,
+        "se_hc3": 0.030905361988563883,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.03216377031587387,
+        "p_hc3": 0.3097608775927334,
+        "se_hc3": 0.031665859117896475,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "n": 68,
+    "beta": -0.04625610974478426,
+    "p_hc3": 0.02686786316143977,
+    "se_hc3": 0.020897911338641852,
+    "connected_family_clusters": 3,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 68,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 48,
+    "near_pairs": 20,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.5882352941176471,
+    "depth_means": {
+      "0": 0.08977162188405297,
+      "1": 0.1410833292833537
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.11161968435723764,
+        "p_hc3": 0.008973901857624766,
+        "se_hc3": 0.042716297802303994,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.10582968269699923,
+        "p_hc3": 0.009558320277820226,
+        "se_hc3": 0.040838629635689204,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.108853591134291,
+        "p_hc3": 0.011233898243046053,
+        "se_hc3": 0.042934553701891164,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.10977055934492327,
+        "p_hc3": 0.012348245140936886,
+        "se_hc3": 0.04387254844404227,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 541,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 541,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 521,
+    "near_pairs": 20,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.48613678373382624,
+    "depth_means": {
+      "0": 0.07314084426035335,
+      "1": 0.1410833292833537
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 39,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 39,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 29,
+    "near_pairs": 10,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.5897435897435898,
+    "depth_means": {
+      "0": 0.08207695445060934,
+      "1": 0.11578459851003275
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 29,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 29,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 19,
+    "near_pairs": 10,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.7931034482758621,
+    "depth_means": {
+      "0": 0.06826142114541094,
+      "1": 0.11578459851003275
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "estimated",
+    "n": 157,
+    "beta": -66.49775030923209,
+    "p_hc3": 0.2357749285090598,
+    "se_hc3": 56.08720265016642,
+    "connected_family_clusters": 4,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 157,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 108,
+    "near_pairs": 49,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.8789808917197452,
+    "depth_means": {
+      "0": 316.500949317022,
+      "1": 442.5066076199132
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.033352856642503835,
+        "p_hc3": 0.2723249429667234,
+        "se_hc3": 0.03038363999397507,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.032920483234814404,
+        "p_hc3": 0.2736260445754948,
+        "se_hc3": 0.030071225532812926,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.0333810464763904,
+        "p_hc3": 0.2800952748131402,
+        "se_hc3": 0.030905361988563883,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.03216377031587387,
+        "p_hc3": 0.3097608775927334,
+        "se_hc3": 0.031665859117896475,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "n": 68,
+    "beta": -33.00731393565667,
+    "p_hc3": 0.6926022449950213,
+    "se_hc3": 83.49389154471393,
+    "connected_family_clusters": 3,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 68,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 48,
+    "near_pairs": 20,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.5882352941176471,
+    "depth_means": {
+      "0": 279.8265300732406,
+      "1": 366.73441124847375
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.11161968435723764,
+        "p_hc3": 0.008973901857624766,
+        "se_hc3": 0.042716297802303994,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.10582968269699923,
+        "p_hc3": 0.009558320277820226,
+        "se_hc3": 0.040838629635689204,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.108853591134291,
+        "p_hc3": 0.011233898243046053,
+        "se_hc3": 0.042934553701891164,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.10977055934492327,
+        "p_hc3": 0.012348245140936886,
+        "se_hc3": 0.04387254844404227,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 541,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 541,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 521,
+    "near_pairs": 20,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.48613678373382624,
+    "depth_means": {
+      "0": 286.4382702027334,
+      "1": 366.73441124847375
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 39,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 39,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 29,
+    "near_pairs": 10,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.5897435897435898,
+    "depth_means": {
+      "0": 270.1789802945089,
+      "1": 379.5821085164836
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 29,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 29,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 19,
+    "near_pairs": 10,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.7931034482758621,
+    "depth_means": {
+      "0": 307.79691986798986,
+      "1": 379.5821085164836
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "estimated",
+    "n": 157,
+    "beta": -0.01303211436301344,
+    "p_hc3": 0.29835769248900446,
+    "se_hc3": 0.012531340621659769,
+    "connected_family_clusters": 4,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 157,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 108,
+    "near_pairs": 49,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.8789808917197452,
+    "depth_means": {
+      "0": 0.0956066556849071,
+      "1": 0.10692997515840458
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.033352856642503835,
+        "p_hc3": 0.2723249429667234,
+        "se_hc3": 0.03038363999397507,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.032920483234814404,
+        "p_hc3": 0.2736260445754948,
+        "se_hc3": 0.030071225532812926,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.0333810464763904,
+        "p_hc3": 0.2800952748131402,
+        "se_hc3": 0.030905361988563883,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 157,
+        "beta": 0.03216377031587387,
+        "p_hc3": 0.3097608775927334,
+        "se_hc3": 0.031665859117896475,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "n": 68,
+    "beta": -0.03284494333467823,
+    "p_hc3": 0.028270557910881074,
+    "se_hc3": 0.01497368288941475,
+    "connected_family_clusters": 3,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 68,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 48,
+    "near_pairs": 20,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.5882352941176471,
+    "depth_means": {
+      "0": 0.061314654522710864,
+      "1": 0.09615344147196761
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.11161968435723764,
+        "p_hc3": 0.008973901857624766,
+        "se_hc3": 0.042716297802303994,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.10582968269699923,
+        "p_hc3": 0.009558320277820226,
+        "se_hc3": 0.040838629635689204,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.108853591134291,
+        "p_hc3": 0.011233898243046053,
+        "se_hc3": 0.042934553701891164,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 68,
+        "beta": 0.10977055934492327,
+        "p_hc3": 0.012348245140936886,
+        "se_hc3": 0.04387254844404227,
+        "connected_family_clusters": 3,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 541,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 541,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 521,
+    "near_pairs": 20,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.48613678373382624,
+    "depth_means": {
+      "0": 0.05750204842611992,
+      "1": 0.09615344147196761
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 541,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 39,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 39,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 29,
+    "near_pairs": 10,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.5897435897435898,
+    "depth_means": {
+      "0": 0.05162133012825425,
+      "1": 0.08752318438158044
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 39,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 29,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 29,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 19,
+    "near_pairs": 10,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.7931034482758621,
+    "depth_means": {
+      "0": 0.055261258465720164,
+      "1": 0.08752318438158044
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 29,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "all",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 12,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 12,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 11,
+    "near_pairs": 1,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.75,
+    "depth_means": {
+      "0": 0.11598184724326198,
+      "1": 0.0714462042587043
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 4,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 4,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 4,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 0.08178006172571389
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 108,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 108,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 108,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.7222222222222222,
+    "depth_means": {
+      "0": 0.0776573849422368
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 2,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 2,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 2,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 0.07046199011716253
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 1,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 1,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 1,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 0.05724724634019984
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 12,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 12,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 11,
+    "near_pairs": 1,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.75,
+    "depth_means": {
+      "0": 0.10377454953320259,
+      "1": 0.08444693538097592
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 4,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 4,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 4,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 0.061309954808938874
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 108,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 108,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 108,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.7222222222222222,
+    "depth_means": {
+      "0": 0.08242352695946188
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 2,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 2,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 2,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 0.07482191341667854
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 1,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 1,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 1,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 0.024427217496618747
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 12,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 12,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 11,
+    "near_pairs": 1,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.75,
+    "depth_means": {
+      "0": 562.1669017763846,
+      "1": 862.1875
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 4,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 4,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 4,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 259.70102136431785
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 108,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 108,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 108,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.7222222222222222,
+    "depth_means": {
+      "0": 461.1880092413353
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 2,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 2,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 2,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 314.96379310344827
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 1,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 1,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 1,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 279.15367316341826
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 12,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 12,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 11,
+    "near_pairs": 1,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.75,
+    "depth_means": {
+      "0": 0.05662375818592058,
+      "1": 0.02482799944128533
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 12,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 4,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 4,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 4,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 0.0270137580680406
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 4,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 108,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 108,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 108,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.7222222222222222,
+    "depth_means": {
+      "0": 0.06063442140824224
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 108,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 2,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 2,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 2,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 0.04852611344705923
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 2,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 1,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 1,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 1,
+    "near_pairs": 0,
+    "interior_pairs": 0,
+    "largest_family_fraction": 1.0,
+    "depth_means": {
+      "0": 0.002427675610525759
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 1,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "A",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "estimated",
+    "n": 91,
+    "beta": -0.01072972849740448,
+    "p_hc3": 0.6420432817909318,
+    "se_hc3": 0.023082436073760645,
+    "connected_family_clusters": 5,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 91,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 63,
+    "near_pairs": 28,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.46153846153846156,
+    "depth_means": {
+      "0": 0.13714078243404124,
+      "1": 0.13695319958532912
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.10625994494052818,
+        "p_hc3": 0.005726449754999766,
+        "se_hc3": 0.0384575217265901,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.06918413340654522,
+        "p_hc3": 0.02712826784002443,
+        "se_hc3": 0.031309752642701215,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.09392429722409683,
+        "p_hc3": 0.019540324943252616,
+        "se_hc3": 0.04022351750783608,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.08662637039917356,
+        "p_hc3": 0.032235525683271364,
+        "se_hc3": 0.040451677717185545,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "estimated",
+    "n": 29,
+    "beta": 0.01893052666084176,
+    "p_hc3": 0.412113349373861,
+    "se_hc3": 0.02308093405641856,
+    "connected_family_clusters": 4,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 29,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 21,
+    "near_pairs": 8,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.7241379310344828,
+    "depth_means": {
+      "0": 0.09680914602974405,
+      "1": 0.06636923139032933
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.10866396489944607,
+        "p_hc3": 0.1072967668308372,
+        "se_hc3": 0.06747373239253189,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.05932988955110213,
+        "p_hc3": 0.2199109946263218,
+        "se_hc3": 0.04836288772851241,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.08323532107038742,
+        "p_hc3": 0.1945131147822956,
+        "se_hc3": 0.06415828816320643,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.07081238764163165,
+        "p_hc3": 0.27139378481156406,
+        "se_hc3": 0.06438318067405097,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 377,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 377,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 369,
+    "near_pairs": 8,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.5570291777188329,
+    "depth_means": {
+      "0": 0.07935392032455982,
+      "1": 0.06636923139032933
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 17,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 17,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 11,
+    "near_pairs": 6,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.35294117647058826,
+    "depth_means": {
+      "0": 0.09574159134231719,
+      "1": 0.06326680100326491
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 7,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 7,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 5,
+    "near_pairs": 2,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.42857142857142855,
+    "depth_means": {
+      "0": 0.04019267320370258,
+      "1": 0.05272261337518691
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_group_rank",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "estimated",
+    "n": 91,
+    "beta": -0.01359523677292753,
+    "p_hc3": 0.5903062485034416,
+    "se_hc3": 0.025251544350118813,
+    "connected_family_clusters": 5,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 91,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 63,
+    "near_pairs": 28,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.46153846153846156,
+    "depth_means": {
+      "0": 0.14019961396588687,
+      "1": 0.14621142726038347
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.10625994494052818,
+        "p_hc3": 0.005726449754999766,
+        "se_hc3": 0.0384575217265901,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.06918413340654522,
+        "p_hc3": 0.02712826784002443,
+        "se_hc3": 0.031309752642701215,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.09392429722409683,
+        "p_hc3": 0.019540324943252616,
+        "se_hc3": 0.04022351750783608,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.08662637039917356,
+        "p_hc3": 0.032235525683271364,
+        "se_hc3": 0.040451677717185545,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "estimated",
+    "n": 29,
+    "beta": 0.009604958158390188,
+    "p_hc3": 0.7153900285771082,
+    "se_hc3": 0.02634188965315012,
+    "connected_family_clusters": 4,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 29,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 21,
+    "near_pairs": 8,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.7241379310344828,
+    "depth_means": {
+      "0": 0.10181872941963664,
+      "1": 0.08931926075930792
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.10866396489944607,
+        "p_hc3": 0.1072967668308372,
+        "se_hc3": 0.06747373239253189,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.05932988955110213,
+        "p_hc3": 0.2199109946263218,
+        "se_hc3": 0.04836288772851241,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.08323532107038742,
+        "p_hc3": 0.1945131147822956,
+        "se_hc3": 0.06415828816320643,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.07081238764163165,
+        "p_hc3": 0.27139378481156406,
+        "se_hc3": 0.06438318067405097,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 377,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 377,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 369,
+    "near_pairs": 8,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.5570291777188329,
+    "depth_means": {
+      "0": 0.08160820503459258,
+      "1": 0.08931926075930792
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 17,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 17,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 11,
+    "near_pairs": 6,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.35294117647058826,
+    "depth_means": {
+      "0": 0.1004731077574646,
+      "1": 0.07894654151336092
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 7,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 7,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 5,
+    "near_pairs": 2,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.42857142857142855,
+    "depth_means": {
+      "0": 0.0498014145719848,
+      "1": 0.07282282372208124
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "normalized_pixel_center",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "estimated",
+    "n": 91,
+    "beta": -246.41245840110574,
+    "p_hc3": 0.006844493219731231,
+    "se_hc3": 91.1181812981763,
+    "connected_family_clusters": 5,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 91,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 63,
+    "near_pairs": 28,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.46153846153846156,
+    "depth_means": {
+      "0": 311.445979681694,
+      "1": 643.1796525151437
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.10625994494052818,
+        "p_hc3": 0.005726449754999766,
+        "se_hc3": 0.0384575217265901,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.06918413340654522,
+        "p_hc3": 0.02712826784002443,
+        "se_hc3": 0.031309752642701215,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.09392429722409683,
+        "p_hc3": 0.019540324943252616,
+        "se_hc3": 0.04022351750783608,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.08662637039917356,
+        "p_hc3": 0.032235525683271364,
+        "se_hc3": 0.040451677717185545,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "estimated",
+    "n": 29,
+    "beta": -108.7704359351009,
+    "p_hc3": 0.3095812553062116,
+    "se_hc3": 107.0468658925645,
+    "connected_family_clusters": 4,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 29,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 21,
+    "near_pairs": 8,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.7241379310344828,
+    "depth_means": {
+      "0": 259.9827496577496,
+      "1": 466.19480198620823
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.10866396489944607,
+        "p_hc3": 0.1072967668308372,
+        "se_hc3": 0.06747373239253189,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.05932988955110213,
+        "p_hc3": 0.2199109946263218,
+        "se_hc3": 0.04836288772851241,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.08323532107038742,
+        "p_hc3": 0.1945131147822956,
+        "se_hc3": 0.06415828816320643,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.07081238764163165,
+        "p_hc3": 0.27139378481156406,
+        "se_hc3": 0.06438318067405097,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 377,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 377,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 369,
+    "near_pairs": 8,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.5570291777188329,
+    "depth_means": {
+      "0": 255.5192737507626,
+      "1": 466.19480198620823
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 17,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 17,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 11,
+    "near_pairs": 6,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.35294117647058826,
+    "depth_means": {
+      "0": 223.55237735749097,
+      "1": 365.078023018648
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 7,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 7,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 5,
+    "near_pairs": 2,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.42857142857142855,
+    "depth_means": {
+      "0": 227.76336538461533,
+      "1": 36.98197115384619
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_center_x",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B",
+    "specification": "one-unit edge strict length>=5"
+  },
+  {
+    "status": "estimated",
+    "n": 91,
+    "beta": -0.011899618415450995,
+    "p_hc3": 0.4961854621697177,
+    "se_hc3": 0.01748648121191911,
+    "connected_family_clusters": 5,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 91,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 5,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 63,
+    "near_pairs": 28,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.46153846153846156,
+    "depth_means": {
+      "0": 0.10389027711790068,
+      "1": 0.11591238629312664
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.10625994494052818,
+        "p_hc3": 0.005726449754999766,
+        "se_hc3": 0.0384575217265901,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.06918413340654522,
+        "p_hc3": 0.02712826784002443,
+        "se_hc3": 0.031309752642701215,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.09392429722409683,
+        "p_hc3": 0.019540324943252616,
+        "se_hc3": 0.04022351750783608,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 91,
+        "beta": 0.08662637039917356,
+        "p_hc3": 0.032235525683271364,
+        "se_hc3": 0.040451677717185545,
+        "connected_family_clusters": 5,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 5,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "estimated",
+    "n": 29,
+    "beta": 0.004321407370673915,
+    "p_hc3": 0.8251393925682693,
+    "se_hc3": 0.01955921710775609,
+    "connected_family_clusters": 4,
+    "family_cluster_p": null,
+    "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld.",
+    "pairs": 29,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 21,
+    "near_pairs": 8,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.7241379310344828,
+    "depth_means": {
+      "0": 0.07370434783063282,
+      "1": 0.0661663440692706
+    },
+    "theme": {
+      "TV": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.10866396489944607,
+        "p_hc3": 0.1072967668308372,
+        "se_hc3": 0.06747373239253189,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "JSD_bits": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.05932988955110213,
+        "p_hc3": 0.2199109946263218,
+        "se_hc3": 0.04836288772851241,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "sqrt_JS": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.08323532107038742,
+        "p_hc3": 0.1945131147822956,
+        "se_hc3": 0.06415828816320643,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      },
+      "Hellinger": {
+        "status": "estimated",
+        "n": 29,
+        "beta": 0.07081238764163165,
+        "p_hc3": 0.27139378481156406,
+        "se_hc3": 0.06438318067405097,
+        "connected_family_clusters": 4,
+        "family_cluster_p": null,
+        "family_cluster_limitation": "Fewer than 10 connected-family clusters; inferential p-value withheld."
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 377,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 377,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 1,
+    "outer_pairs": 369,
+    "near_pairs": 8,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.5570291777188329,
+    "depth_means": {
+      "0": 0.059574957568190874,
+      "1": 0.0661663440692706
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 377,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B",
+    "specification": "legacy all lengths"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 17,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 17,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 10,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 11,
+    "near_pairs": 6,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.35294117647058826,
+    "depth_means": {
+      "0": 0.06353935524000359,
+      "1": 0.05644074515046518
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 17,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 10,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: insufficient observations or design rank",
+    "n": 7,
+    "beta": null,
+    "p_hc3": null,
+    "pairs": 7,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 12,
+    "edge_width": 1,
+    "length_min": 3,
+    "outer_pairs": 5,
+    "near_pairs": 2,
+    "interior_pairs": 0,
+    "largest_family_fraction": 0.42857142857142855,
+    "depth_means": {
+      "0": 0.03862367297513112,
+      "1": 0.017236462595470514
+    },
+    "theme": {
+      "TV": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      },
+      "JSD_bits": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      },
+      "sqrt_JS": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      },
+      "Hellinger": {
+        "status": "not_estimable: insufficient observations or design rank",
+        "n": 7,
+        "beta": null,
+        "p_hc3": null
+      }
+    },
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 12,
+    "edge_width": 2,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B"
+  },
+  {
+    "status": "not_estimable: no qualifying minimal pairs",
+    "pairs": 0,
+    "position": "source_pixel_x_page_fraction",
+    "minimum_frequency": 8,
+    "edge_width": 1,
+    "length_min": 5,
+    "dataset": "visual_merged",
+    "subset": "B",
+    "specification": "one-unit edge strict length>=5"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "caption": "70v",
+    "from_view": "V_128",
+    "to_view": "V_129",
+    "matches": 11,
+    "inliers": 0,
+    "median_error_pdf_px": null,
+    "status": "no reliable overlap recovered",
+    "pdf_from_to_homography": null,
+    "inlier_hulls_pdf_pixels": [],
+    "source_review": "reviewed: no reusable writing-field alignment accepted",
+    "interpretation": "Image feature overlap is not a verified panel boundary or physical bifolio. No transcription text or conventional unit count used.",
+    "figure": "tests/physical_overlap_v1/figures/V_128__V_129.png",
+    "source_observation": "Different circular diagram fields are visible; no common writing field established.",
+    "accepted_for_writing_deduplication": false
+  },
+  {
+    "caption": "72v",
+    "from_view": "V_132",
+    "to_view": "V_133",
+    "matches": 16,
+    "inliers": 7,
+    "median_error_pdf_px": 0.21703554689884186,
+    "status": "no reliable overlap recovered",
+    "pdf_from_to_homography": [
+      [
+        1.5964180587634598,
+        0.01044577971611798,
+        -68.12526422346589
+      ],
+      [
+        -0.06340911654418434,
+        1.5989617956249789,
+        -32.89055869214444
+      ],
+      [
+        -3.4967535942029314e-05,
+        -3.139442282345216e-06,
+        1.0
+      ]
+    ],
+    "inlier_hulls_pdf_pixels": [],
+    "source_review": "reviewed: no reusable writing-field alignment accepted",
+    "interpretation": "Image feature overlap is not a verified panel boundary or physical bifolio. No transcription text or conventional unit count used.",
+    "figure": "tests/physical_overlap_v1/figures/V_132__V_133.png",
+    "source_observation": "Different diagram fields/panel configurations; recovered matches lie mainly on book edges, not a shared writing field.",
+    "accepted_for_writing_deduplication": false
+  },
+  {
+    "caption": "85r",
+    "from_view": "V_156",
+    "to_view": "V_157",
+    "matches": 14,
+    "inliers": 5,
+    "median_error_pdf_px": 0.10731890052556992,
+    "status": "no reliable overlap recovered",
+    "pdf_from_to_homography": [
+      [
+        -2.443618919325126,
+        -1.0036747634686214,
+        1701.0576411424997
+      ],
+      [
+        -0.6796171673266639,
+        -0.27660977588792246,
+        472.84355328158205
+      ],
+      [
+        -0.001439564877910664,
+        -0.0005896651991517502,
+        1.0
+      ]
+    ],
+    "inlier_hulls_pdf_pixels": [],
+    "source_review": "reviewed: no reusable writing-field alignment accepted",
+    "interpretation": "Image feature overlap is not a verified panel boundary or physical bifolio. No transcription text or conventional unit count used.",
+    "figure": "tests/physical_overlap_v1/figures/V_156__V_157.png",
+    "source_observation": "Folded text view and extended multi-panel view; visible text placement differs. Shared caption does not establish a panel correspondence.",
+    "accepted_for_writing_deduplication": false
+  },
+  {
+    "caption": "86v",
+    "from_view": "V_157",
+    "to_view": "V_158",
+    "matches": 22,
+    "inliers": 6,
+    "median_error_pdf_px": 0.16888917982578278,
+    "status": "no reliable overlap recovered",
+    "pdf_from_to_homography": [
+      [
+        -0.02689441944720791,
+        -0.047382521020671343,
+        66.47126448454775
+      ],
+      [
+        -0.6437976164383115,
+        -1.179477445626545,
+        1591.210861578316
+      ],
+      [
+        -0.00039844584762079217,
+        -0.0007458370350086004,
+        1.0
+      ]
+    ],
+    "inlier_hulls_pdf_pixels": [],
+    "source_review": "reviewed: no reusable writing-field alignment accepted",
+    "interpretation": "Image feature overlap is not a verified panel boundary or physical bifolio. No transcription text or conventional unit count used.",
+    "figure": "tests/physical_overlap_v1/figures/V_157__V_158.png",
+    "source_observation": "Different extended panel configurations and writing/drawing fields; no shared writing field established.",
+    "accepted_for_writing_deduplication": false
+  },
+  {
+    "caption": "89v",
+    "from_view": "V_164",
+    "to_view": "V_165",
+    "matches": 20,
+    "inliers": 6,
+    "median_error_pdf_px": 0.007483032066375017,
+    "status": "no reliable overlap recovered",
+    "pdf_from_to_homography": [
+      [
+        0.06297207810222556,
+        -0.20304044790612424,
+        69.50050766414479
+      ],
+      [
+        -9.381741199780631e-05,
+        0.017209346946925545,
+        30.40335970132841
+      ],
+      [
+        -0.000677760487817472,
+        0.00033853503168295893,
+        1.0
+      ]
+    ],
+    "inlier_hulls_pdf_pixels": [],
+    "source_review": "reviewed: no reusable writing-field alignment accepted",
+    "interpretation": "Image feature overlap is not a verified panel boundary or physical bifolio. No transcription text or conventional unit count used.",
+    "figure": "tests/physical_overlap_v1/figures/V_164__V_165.png",
+    "source_observation": "Different folded/extended configurations with different writing and plant fields; no common writing field established.",
+    "accepted_for_writing_deduplication": false
+  },
+  {
+    "caption": "90r",
+    "from_view": "V_165",
+    "to_view": "V_166",
+    "matches": 25,
+    "inliers": 6,
+    "median_error_pdf_px": 7.6788177490234375,
+    "status": "no reliable overlap recovered",
+    "pdf_from_to_homography": [
+      [
+        -0.6760788957518495,
+        -0.3432956617967264,
+        804.9744057375826
+      ],
+      [
+        -1.1245788342979695,
+        -0.5868169919788497,
+        1346.4770558687162
+      ],
+      [
+        -0.0008363777592436123,
+        -0.0004334326964615579,
+        1.0
+      ]
+    ],
+    "inlier_hulls_pdf_pixels": [],
+    "source_review": "reviewed: no reusable writing-field alignment accepted",
+    "interpretation": "Image feature overlap is not a verified panel boundary or physical bifolio. No transcription text or conventional unit count used.",
+    "figure": "tests/physical_overlap_v1/figures/V_165__V_166.png",
+    "source_observation": "Extended field and plant page have different drawing and writing layouts; no common writing field established.",
+    "accepted_for_writing_deduplication": false
+  },
+  {
+    "caption": "95v",
+    "from_view": "V_172",
+    "to_view": "V_173",
+    "matches": 22,
+    "inliers": 6,
+    "median_error_pdf_px": 123.662109375,
+    "status": "no reliable overlap recovered",
+    "pdf_from_to_homography": [
+      [
+        0.9995875155260708,
+        -5.28135400445863,
+        972.860979863051
+      ],
+      [
+        1.8230247451221757,
+        -9.655010975892642,
+        1783.1971122076
+      ],
+      [
+        0.0010251096395926887,
+        -0.005421868866560636,
+        1.0
+      ]
+    ],
+    "inlier_hulls_pdf_pixels": [],
+    "source_review": "reviewed: no reusable writing-field alignment accepted",
+    "interpretation": "Image feature overlap is not a verified panel boundary or physical bifolio. No transcription text or conventional unit count used.",
+    "figure": "tests/physical_overlap_v1/figures/V_172__V_173.png",
+    "source_observation": "Different plant and writing fields despite the same folio-side caption reference.",
+    "accepted_for_writing_deduplication": false
+  },
+  {
+    "caption": "101v",
+    "from_view": "V_180",
+    "to_view": "V_181",
+    "matches": 20,
+    "inliers": 5,
+    "median_error_pdf_px": 0.0,
+    "status": "no reliable overlap recovered",
+    "pdf_from_to_homography": [
+      [
+        -0.307265996113021,
+        -0.10737379104109865,
+        221.94440605889832
+      ],
+      [
+        -0.7298190610199587,
+        -0.06972077626509755,
+        545.0478095300376
+      ],
+      [
+        -0.0013318373559731169,
+        -0.00014172342458869418,
+        1.0
+      ]
+    ],
+    "inlier_hulls_pdf_pixels": [],
+    "source_review": "reviewed: no reusable writing-field alignment accepted",
+    "interpretation": "Image feature overlap is not a verified panel boundary or physical bifolio. No transcription text or conventional unit count used.",
+    "figure": "tests/physical_overlap_v1/figures/V_180__V_181.png",
+    "source_observation": "Different folded/extended configurations, drawing fields and text layout; no common writing field established.",
+    "accepted_for_writing_deduplication": false
+  },
+  {
+    "caption": "102v",
+    "from_view": "V_182",
+    "to_view": "V_183",
+    "matches": 10,
+    "inliers": 0,
+    "median_error_pdf_px": null,
+    "status": "no reliable overlap recovered",
+    "pdf_from_to_homography": null,
+    "inlier_hulls_pdf_pixels": [],
+    "source_review": "reviewed: no reusable writing-field alignment accepted",
+    "interpretation": "Image feature overlap is not a verified panel boundary or physical bifolio. No transcription text or conventional unit count used.",
+    "figure": "tests/physical_overlap_v1/figures/V_182__V_183.png",
+    "source_observation": "Different plant, container and writing fields; same caption reference covers distinct visible fields.",
+    "accepted_for_writing_deduplication": false
+  }
+]

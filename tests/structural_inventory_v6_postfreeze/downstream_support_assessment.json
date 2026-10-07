@@ -1,0 +1,89 @@
+{
+  "assessed_at_utc": "2026-10-07T05:43:19.220295+00:00",
+  "v6_manifest_sha256": "22b5a69c31ffdf907bf2c32e4ee8116252d9a5989ad59c76bd11a2ddb3848f0a",
+  "gates": [
+    {
+      "gate": "V5_source_support_all_required",
+      "passed": false,
+      "note": "V5 heldout writing recall, endpoint accuracy and prior-resolved repeatability failed; retained unchanged."
+    },
+    {
+      "gate": "unknown_confirmed_rate",
+      "observed": 0.512539184952978,
+      "max": 0.2,
+      "passed": false
+    },
+    {
+      "gate": "complete_rows",
+      "observed": 0,
+      "min": 12,
+      "passed": false
+    },
+    {
+      "gate": "complete_groups_ge3",
+      "gap": "0.35",
+      "observed": 0,
+      "min": 100,
+      "passed": false
+    },
+    {
+      "gate": "heldout_groups_ge3",
+      "gap": "0.35",
+      "observed": 0,
+      "min": 30,
+      "passed": false
+    },
+    {
+      "gate": "heldout_recurrence_ge3",
+      "gap": "0.35",
+      "observed": null,
+      "min": 0.2,
+      "passed": false
+    },
+    {
+      "gate": "complete_groups_ge3",
+      "gap": "0.55",
+      "observed": 0,
+      "min": 100,
+      "passed": false
+    },
+    {
+      "gate": "heldout_groups_ge3",
+      "gap": "0.55",
+      "observed": 0,
+      "min": 30,
+      "passed": false
+    },
+    {
+      "gate": "heldout_recurrence_ge3",
+      "gap": "0.55",
+      "observed": null,
+      "min": 0.2,
+      "passed": false
+    },
+    {
+      "gate": "complete_groups_ge3",
+      "gap": "0.75",
+      "observed": 0,
+      "min": 100,
+      "passed": false
+    },
+    {
+      "gate": "heldout_groups_ge3",
+      "gap": "0.75",
+      "observed": 0,
+      "min": 30,
+      "passed": false
+    },
+    {
+      "gate": "heldout_recurrence_ge3",
+      "gap": "0.75",
+      "observed": null,
+      "min": 0.2,
+      "passed": false
+    }
+  ],
+  "qualified": false,
+  "assays_run": [],
+  "conventional_inputs_opened": false
+}

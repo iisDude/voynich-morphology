@@ -1,0 +1,4 @@
+model,k,training_instances,validation_instances,validation_views,validation_mean_negative_log_density_nats,training_mean_negative_log_density_nats,recurring_families_three_folios,training_quantization_mse
+group_only,32,13575,4984,31,34.762478082395305,36.503186757203,32,0.5798513293266296
+group_only,64,13575,4984,31,33.706450953643134,35.32596609013216,64,0.521947979927063
+group_only,128,13575,4984,31,32.09373016578542,33.429536970411945,128,0.4697330892086029

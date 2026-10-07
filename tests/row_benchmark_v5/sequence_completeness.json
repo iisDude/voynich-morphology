@@ -1,0 +1,145 @@
+{
+  "created_at_utc": "2026-10-07T03:09:00.791448+00:00",
+  "rows": 16,
+  "captions": 8,
+  "heldout_rows": 4,
+  "heldout_captions": 2,
+  "source_objects": 2616,
+  "membership_states": {
+    "confirmed_nonwriting": 1117,
+    "confirmed_writing": 1051,
+    "unresolved": 419,
+    "mixed_writing_and_unresolved": 29
+  },
+  "confirmed_target_parents": 638,
+  "assigned_v3": 311,
+  "unknown_v3_rate": 0.512539184952978,
+  "classes": {
+    "UNK": 327,
+    "ST02": 50,
+    "ST03": 34,
+    "ST11": 63,
+    "ST14": 12,
+    "ST12": 28,
+    "ST01": 16,
+    "ST08": 49,
+    "ST06": 10,
+    "ST10": 5,
+    "ST05": 16,
+    "ST13": 9,
+    "ST04": 8,
+    "ST07": 7,
+    "ST15": 4
+  },
+  "class_abstention_reasons": {
+    "frozen_v3_geometry_or_primary_connectivity": 11,
+    "unchanged_v3_abstention_or_perturbation": 316
+  },
+  "complete_membership_rows": 0,
+  "complete_structural_rows": 0,
+  "resolved_endpoint_fraction": 0.96875,
+  "gap_hypotheses": {
+    "0.35": {
+      "groups": 161,
+      "membership_complete_groups": 29,
+      "class_complete_groups": 25,
+      "exact_complete_groups": 6,
+      "membership_complete_rate": 0.18012422360248448,
+      "exact_complete_rate": 0.037267080745341616,
+      "boundary_or_order_ambiguity_rate": 0.18633540372670807,
+      "optional_membership_ambiguity_rate": 0.7950310559006211,
+      "sensitivity": {
+        "counterfactual_membership_complete_ignore_all_optional": 0.8136645962732919,
+        "counterfactual_membership_complete_ignore_detached": 0.18012422360248448,
+        "counterfactual_membership_complete_ignore_owner_uncertainty": 0.18012422360248448
+      },
+      "lengths": {
+        "1": {
+          "complete_groups": 6,
+          "repeated_cross_caption_groups": 4,
+          "repeated_coverage": 0.6666666666666666,
+          "heldout_complete_groups": 1,
+          "heldout_matches": 0,
+          "heldout_recurrence": 0.0
+        },
+        "3": {
+          "complete_groups": 0,
+          "repeated_cross_caption_groups": 0,
+          "repeated_coverage": null,
+          "heldout_complete_groups": 0,
+          "heldout_matches": 0,
+          "heldout_recurrence": null
+        }
+      }
+    },
+    "0.55": {
+      "groups": 132,
+      "membership_complete_groups": 17,
+      "class_complete_groups": 14,
+      "exact_complete_groups": 2,
+      "membership_complete_rate": 0.12878787878787878,
+      "exact_complete_rate": 0.015151515151515152,
+      "boundary_or_order_ambiguity_rate": 0.22727272727272727,
+      "optional_membership_ambiguity_rate": 0.8409090909090909,
+      "sensitivity": {
+        "counterfactual_membership_complete_ignore_all_optional": 0.7727272727272727,
+        "counterfactual_membership_complete_ignore_detached": 0.12878787878787878,
+        "counterfactual_membership_complete_ignore_owner_uncertainty": 0.12878787878787878
+      },
+      "lengths": {
+        "1": {
+          "complete_groups": 2,
+          "repeated_cross_caption_groups": 0,
+          "repeated_coverage": 0.0,
+          "heldout_complete_groups": 0,
+          "heldout_matches": 0,
+          "heldout_recurrence": null
+        },
+        "3": {
+          "complete_groups": 0,
+          "repeated_cross_caption_groups": 0,
+          "repeated_coverage": null,
+          "heldout_complete_groups": 0,
+          "heldout_matches": 0,
+          "heldout_recurrence": null
+        }
+      }
+    },
+    "0.75": {
+      "groups": 110,
+      "membership_complete_groups": 12,
+      "class_complete_groups": 10,
+      "exact_complete_groups": 1,
+      "membership_complete_rate": 0.10909090909090909,
+      "exact_complete_rate": 0.00909090909090909,
+      "boundary_or_order_ambiguity_rate": 0.2636363636363636,
+      "optional_membership_ambiguity_rate": 0.8727272727272727,
+      "sensitivity": {
+        "counterfactual_membership_complete_ignore_all_optional": 0.7363636363636363,
+        "counterfactual_membership_complete_ignore_detached": 0.10909090909090909,
+        "counterfactual_membership_complete_ignore_owner_uncertainty": 0.10909090909090909
+      },
+      "lengths": {
+        "1": {
+          "complete_groups": 1,
+          "repeated_cross_caption_groups": 0,
+          "repeated_coverage": 0.0,
+          "heldout_complete_groups": 0,
+          "heldout_matches": 0,
+          "heldout_recurrence": null
+        },
+        "3": {
+          "complete_groups": 0,
+          "repeated_cross_caption_groups": 0,
+          "repeated_coverage": null,
+          "heldout_complete_groups": 0,
+          "heldout_matches": 0,
+          "heldout_recurrence": null
+        }
+      }
+    }
+  },
+  "source_group_boundary_accuracy": "Spacing-hypothesis concordance and contact constraints only; no semantic group-boundary gold. All partitions prevent cuts through included whole parents; unresolved contacts/joins retained. Precision/recall of true word boundaries is unavailable.",
+  "reference_pixel_iou": "Not asserted. Shared raster location aids make same-mask IoU non-independent; scored source-reviewed membership, ownership, confirmed joins, parent support, endpoint x intervals and exact sequences separately.",
+  "notation_practical": false
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "dataset": "ZL_EVA",
+    "scope": "same_hand_same_currier",
+    "label_a": "H",
+    "label_b": "P",
+    "training_documents": 32,
+    "test_documents": 14,
+    "field": "section",
+    "train_counts": {
+      "H": 32
+    },
+    "test_counts": {
+      "H": 13,
+      "P": 1
+    },
+    "status": "not_estimable: too few independent caption/document blocks",
+    "currier": "A",
+    "hand": "1"
+  },
+  {
+    "dataset": "ZL_EVA",
+    "scope": "same_hand_same_currier",
+    "label_a": "B",
+    "label_b": "H",
+    "training_documents": 12,
+    "test_documents": 4,
+    "field": "section",
+    "train_counts": {
+      "H": 8,
+      "B": 4
+    },
+    "test_counts": {
+      "H": 1,
+      "B": 3
+    },
+    "status": "not_estimable: too few independent caption/document blocks",
+    "currier": "B",
+    "hand": "2"
+  },
+  {
+    "dataset": "ZL_EVA",
+    "scope": "same_hand_same_currier",
+    "label_a": "B",
+    "label_b": "S",
+    "training_documents": 5,
+    "test_documents": 3,
+    "field": "section",
+    "train_counts": {
+      "B": 4,
+      "S": 1
+    },
+    "test_counts": {
+      "B": 3
+    },
+    "status": "not_estimable: too few independent caption/document blocks",
+    "currier": "B",
+    "hand": "2"
+  },
+  {
+    "dataset": "ZL_EVA",
+    "scope": "same_hand_same_currier",
+    "label_a": "H",
+    "label_b": "S",
+    "training_documents": 9,
+    "test_documents": 1,
+    "field": "section",
+    "train_counts": {
+      "H": 8,
+      "S": 1
+    },
+    "test_counts": {
+      "H": 1
+    },
+    "status": "not_estimable: too few independent caption/document blocks",
+    "currier": "B",
+    "hand": "2"
+  },
+  {
+    "dataset": "ZL_EVA",
+    "scope": "same_hand_same_currier",
+    "label_a": "H",
+    "label_b": "S",
+    "training_documents": 9,
+    "test_documents": 2,
+    "field": "section",
+    "train_counts": {
+      "H": 1,
+      "S": 8
+    },
+    "test_counts": {
+      "S": 2
+    },
+    "status": "not_estimable: too few independent caption/document blocks",
+    "currier": "B",
+    "hand": "3"
+  },
+  {
+    "dataset": "ZL_EVA",
+    "scope": "same_currier_all_hands",
+    "currier": "A",
+    "label_a": "H",
+    "label_b": "P",
+    "training_documents": 32,
+    "test_documents": 14,
+    "field": "section",
+    "train_counts": {
+      "H": 32
+    },
+    "test_counts": {
+      "H": 13,
+      "P": 1
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  },
+  {
+    "dataset": "ZL_EVA",
+    "scope": "same_currier_all_hands",
+    "currier": "B",
+    "label_a": "B",
+    "label_b": "C",
+    "training_documents": 5,
+    "test_documents": 3,
+    "field": "section",
+    "train_counts": {
+      "B": 4,
+      "C": 1
+    },
+    "test_counts": {
+      "B": 3
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  },
+  {
+    "dataset": "ZL_EVA",
+    "scope": "same_currier_all_hands",
+    "currier": "B",
+    "label_a": "B",
+    "label_b": "H",
+    "training_documents": 14,
+    "test_documents": 5,
+    "field": "section",
+    "train_counts": {
+      "H": 10,
+      "B": 4
+    },
+    "test_counts": {
+      "H": 2,
+      "B": 3
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  },
+  {
+    "dataset": "ZL_EVA",
+    "scope": "same_currier_all_hands",
+    "currier": "B",
+    "label_a": "B",
+    "label_b": "S",
+    "training_documents": 12,
+    "test_documents": 5,
+    "field": "section",
+    "train_counts": {
+      "B": 4,
+      "S": 8
+    },
+    "test_counts": {
+      "B": 3,
+      "S": 2
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  },
+  {
+    "dataset": "ZL_EVA",
+    "scope": "same_currier_all_hands",
+    "currier": "B",
+    "label_a": "C",
+    "label_b": "H",
+    "training_documents": 11,
+    "test_documents": 2,
+    "field": "section",
+    "train_counts": {
+      "H": 10,
+      "C": 1
+    },
+    "test_counts": {
+      "H": 2
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  },
+  {
+    "dataset": "ZL_EVA",
+    "scope": "same_currier_all_hands",
+    "currier": "B",
+    "label_a": "C",
+    "label_b": "S",
+    "training_documents": 9,
+    "test_documents": 2,
+    "field": "section",
+    "train_counts": {
+      "C": 1,
+      "S": 8
+    },
+    "test_counts": {
+      "S": 2
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  },
+  {
+    "dataset": "ZL_EVA",
+    "scope": "same_currier_all_hands",
+    "currier": "B",
+    "label_a": "H",
+    "label_b": "S",
+    "training_documents": 18,
+    "test_documents": 4,
+    "field": "section",
+    "train_counts": {
+      "H": 10,
+      "S": 8
+    },
+    "test_counts": {
+      "H": 2,
+      "S": 2
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  },
+  {
+    "dataset": "RF",
+    "scope": "same_hand_same_currier",
+    "label_a": "H",
+    "label_b": "P",
+    "training_documents": 32,
+    "test_documents": 14,
+    "field": "section",
+    "train_counts": {
+      "H": 32
+    },
+    "test_counts": {
+      "H": 13,
+      "P": 1
+    },
+    "status": "not_estimable: too few independent caption/document blocks",
+    "currier": "A",
+    "hand": "1"
+  },
+  {
+    "dataset": "RF",
+    "scope": "same_hand_same_currier",
+    "label_a": "B",
+    "label_b": "H",
+    "training_documents": 12,
+    "test_documents": 4,
+    "field": "section",
+    "train_counts": {
+      "H": 8,
+      "B": 4
+    },
+    "test_counts": {
+      "H": 1,
+      "B": 3
+    },
+    "status": "not_estimable: too few independent caption/document blocks",
+    "currier": "B",
+    "hand": "2"
+  },
+  {
+    "dataset": "RF",
+    "scope": "same_hand_same_currier",
+    "label_a": "B",
+    "label_b": "S",
+    "training_documents": 5,
+    "test_documents": 3,
+    "field": "section",
+    "train_counts": {
+      "B": 4,
+      "S": 1
+    },
+    "test_counts": {
+      "B": 3
+    },
+    "status": "not_estimable: too few independent caption/document blocks",
+    "currier": "B",
+    "hand": "2"
+  },
+  {
+    "dataset": "RF",
+    "scope": "same_hand_same_currier",
+    "label_a": "H",
+    "label_b": "S",
+    "training_documents": 9,
+    "test_documents": 1,
+    "field": "section",
+    "train_counts": {
+      "H": 8,
+      "S": 1
+    },
+    "test_counts": {
+      "H": 1
+    },
+    "status": "not_estimable: too few independent caption/document blocks",
+    "currier": "B",
+    "hand": "2"
+  },
+  {
+    "dataset": "RF",
+    "scope": "same_hand_same_currier",
+    "label_a": "H",
+    "label_b": "S",
+    "training_documents": 9,
+    "test_documents": 2,
+    "field": "section",
+    "train_counts": {
+      "H": 1,
+      "S": 8
+    },
+    "test_counts": {
+      "S": 2
+    },
+    "status": "not_estimable: too few independent caption/document blocks",
+    "currier": "B",
+    "hand": "3"
+  },
+  {
+    "dataset": "RF",
+    "scope": "same_currier_all_hands",
+    "currier": "A",
+    "label_a": "H",
+    "label_b": "P",
+    "training_documents": 32,
+    "test_documents": 14,
+    "field": "section",
+    "train_counts": {
+      "H": 32
+    },
+    "test_counts": {
+      "H": 13,
+      "P": 1
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  },
+  {
+    "dataset": "RF",
+    "scope": "same_currier_all_hands",
+    "currier": "B",
+    "label_a": "B",
+    "label_b": "C",
+    "training_documents": 5,
+    "test_documents": 3,
+    "field": "section",
+    "train_counts": {
+      "B": 4,
+      "C": 1
+    },
+    "test_counts": {
+      "B": 3
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  },
+  {
+    "dataset": "RF",
+    "scope": "same_currier_all_hands",
+    "currier": "B",
+    "label_a": "B",
+    "label_b": "H",
+    "training_documents": 14,
+    "test_documents": 5,
+    "field": "section",
+    "train_counts": {
+      "H": 10,
+      "B": 4
+    },
+    "test_counts": {
+      "H": 2,
+      "B": 3
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  },
+  {
+    "dataset": "RF",
+    "scope": "same_currier_all_hands",
+    "currier": "B",
+    "label_a": "B",
+    "label_b": "S",
+    "training_documents": 12,
+    "test_documents": 5,
+    "field": "section",
+    "train_counts": {
+      "B": 4,
+      "S": 8
+    },
+    "test_counts": {
+      "B": 3,
+      "S": 2
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  },
+  {
+    "dataset": "RF",
+    "scope": "same_currier_all_hands",
+    "currier": "B",
+    "label_a": "C",
+    "label_b": "H",
+    "training_documents": 11,
+    "test_documents": 2,
+    "field": "section",
+    "train_counts": {
+      "H": 10,
+      "C": 1
+    },
+    "test_counts": {
+      "H": 2
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  },
+  {
+    "dataset": "RF",
+    "scope": "same_currier_all_hands",
+    "currier": "B",
+    "label_a": "C",
+    "label_b": "S",
+    "training_documents": 9,
+    "test_documents": 2,
+    "field": "section",
+    "train_counts": {
+      "C": 1,
+      "S": 8
+    },
+    "test_counts": {
+      "S": 2
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  },
+  {
+    "dataset": "RF",
+    "scope": "same_currier_all_hands",
+    "currier": "B",
+    "label_a": "H",
+    "label_b": "S",
+    "training_documents": 18,
+    "test_documents": 4,
+    "field": "section",
+    "train_counts": {
+      "H": 10,
+      "S": 8
+    },
+    "test_counts": {
+      "H": 2,
+      "S": 2
+    },
+    "status": "not_estimable: too few independent caption/document blocks"
+  }
+]

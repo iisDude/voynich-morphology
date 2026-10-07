@@ -1,0 +1,11 @@
+{
+  "seed": 20261005,
+  "sift_features": 6000,
+  "ratio": 0.65,
+  "ransac_px": 2.0,
+  "minimum_inliers": 30,
+  "minimum_inlier_fraction": 0.35,
+  "maximum_median_error_px": 1.0,
+  "pair_selection": "shared folio-side caption references, including differently worded repeated part views; each view pair once",
+  "images": "PDF embedded captures; transforms explicitly in PDF image pixels"
+}

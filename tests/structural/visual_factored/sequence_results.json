@@ -1,0 +1,91 @@
+[
+  {
+    "status": "exploratory predictive test",
+    "position": "normalized_group_rank",
+    "physical_direction": "increasing stored group x/rank; not assumed linguistic direction",
+    "direction_scores": [
+      {
+        "direction": "increasing_physical_x",
+        "transitions": 219,
+        "folio_components": 8,
+        "equal_folio_adjacency_excess_bits_over_position": 0.09450946166921204,
+        "limitation": "Only consecutive original group ranks count as adjacent; coarse positional baseline can miss other dependencies.",
+        "conditional_previous_state_null": {
+          "iterations": 99,
+          "mean": 0.05824457378828622,
+          "p": 0.94,
+          "preserves": "heldout target, positional baseline, within-line multiset of preceding categories; tests preceding-category pairing"
+        }
+      },
+      {
+        "direction": "decreasing_physical_x",
+        "transitions": 219,
+        "folio_components": 8,
+        "equal_folio_adjacency_excess_bits_over_position": 0.08499904204352811,
+        "limitation": "Only consecutive original group ranks count as adjacent; coarse positional baseline can miss other dependencies.",
+        "conditional_previous_state_null": {
+          "iterations": 99,
+          "mean": 0.05062702960915833,
+          "p": 0.96,
+          "preserves": "heldout target, positional baseline, within-line multiset of preceding categories; tests preceding-category pairing"
+        }
+      }
+    ],
+    "running_state": {
+      "status": "not independently estimable: ordinal rank outcome is already the baseline rank predictor",
+      "warning": "A rank accumulator coefficient cannot establish added prediction when rank is known."
+    },
+    "dataset": "visual_factored"
+  },
+  {
+    "status": "exploratory predictive test",
+    "position": "normalized_pixel_center",
+    "physical_direction": "increasing stored group x/rank; not assumed linguistic direction",
+    "direction_scores": [
+      {
+        "direction": "increasing_physical_x",
+        "transitions": 219,
+        "folio_components": 8,
+        "equal_folio_adjacency_excess_bits_over_position": 0.09450946166921204,
+        "limitation": "Only consecutive original group ranks count as adjacent; coarse positional baseline can miss other dependencies.",
+        "conditional_previous_state_null": {
+          "iterations": 99,
+          "mean": 0.05824457378828622,
+          "p": 0.94,
+          "preserves": "heldout target, positional baseline, within-line multiset of preceding categories; tests preceding-category pairing"
+        }
+      },
+      {
+        "direction": "decreasing_physical_x",
+        "transitions": 219,
+        "folio_components": 8,
+        "equal_folio_adjacency_excess_bits_over_position": 0.08499904204352811,
+        "limitation": "Only consecutive original group ranks count as adjacent; coarse positional baseline can miss other dependencies.",
+        "conditional_previous_state_null": {
+          "iterations": 99,
+          "mean": 0.05062702960915833,
+          "p": 0.96,
+          "preserves": "heldout target, positional baseline, within-line multiset of preceding categories; tests preceding-category pairing"
+        }
+      }
+    ],
+    "running_state": {
+      "status": "estimated",
+      "training_potential_units": 8,
+      "heldout_groups": 813,
+      "equal_folio_mse_difference": 1.3334648332432192e-05,
+      "caveat": "Group ordinal rank in baseline makes rank outcome exactly predictable; rank accumulator gain is not independently meaningful. Pixel outcome is separate; cumulative state can proxy length/layout.",
+      "folio_bootstrap_interval": [
+        -7.888542370012176e-06,
+        3.497928992723341e-05
+      ],
+      "within_line_increment_null": {
+        "iterations": 99,
+        "mean": 5.017778914630266e-06,
+        "p": 0.81,
+        "rule": "shuffle training/test potential increments within original lines, preserve lengths and outcome positions, refit training coefficients, reset at unresolved gaps"
+      }
+    },
+    "dataset": "visual_factored"
+  }
+]

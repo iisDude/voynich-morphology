@@ -1,0 +1,140 @@
+{
+  "evaluated_after_freeze_at_utc": "2026-10-07T03:38:53.462617+00:00",
+  "v5_manifest_sha256": "16f040e6e80f8a1fd47b796811935df4c5546021d4b41f79933ee18cd668fed8",
+  "source_rule_validation_passed": false,
+  "qualified_for_downstream_assays": false,
+  "gates": [
+    {
+      "name": "heldout_target_writing_recall",
+      "observed": 0.9438202247191011,
+      "required": 0.95,
+      "relation": "min",
+      "passed": false
+    },
+    {
+      "name": "heldout_nonwriting_false_inclusion",
+      "observed": 0.00980392156862745,
+      "required": 0.05,
+      "relation": "max",
+      "passed": true
+    },
+    {
+      "name": "heldout_resolved_target_owner_precision",
+      "observed": 1.0,
+      "required": 0.95,
+      "relation": "min",
+      "passed": true
+    },
+    {
+      "name": "heldout_reviewed_parent_support_recovery",
+      "observed": 0.9753086419753086,
+      "required": 0.9,
+      "relation": "min",
+      "passed": true
+    },
+    {
+      "name": "heldout_endpoint_x_accuracy",
+      "observed": 0.875,
+      "required": 0.9,
+      "relation": "min",
+      "passed": false
+    },
+    {
+      "name": "repeat_prior_resolved_membership_agreement",
+      "observed": 0.8691588785046729,
+      "required": 0.9,
+      "relation": "min",
+      "passed": false
+    },
+    {
+      "name": "complete_reference_structural_rows",
+      "observed": 0,
+      "required": 12,
+      "relation": "min",
+      "passed": false
+    },
+    {
+      "name": "unknown_confirmed_parent_rate",
+      "observed": 0.512539184952978,
+      "required": 0.2,
+      "relation": "max",
+      "passed": false
+    },
+    {
+      "name": "resolved_source_endpoint_fraction",
+      "observed": 0.96875,
+      "required": 0.9,
+      "relation": "min",
+      "passed": true
+    },
+    {
+      "name": "complete_groups_length3_gap0.35",
+      "observed": 0,
+      "required": 100,
+      "relation": "min",
+      "passed": false
+    },
+    {
+      "name": "heldout_complete_groups_length3_gap0.35",
+      "observed": 0,
+      "required": 30,
+      "relation": "min",
+      "passed": false
+    },
+    {
+      "name": "heldout_recurrence_length3_gap0.35",
+      "observed": null,
+      "required": 0.2,
+      "relation": "min",
+      "passed": false
+    },
+    {
+      "name": "complete_groups_length3_gap0.55",
+      "observed": 0,
+      "required": 100,
+      "relation": "min",
+      "passed": false
+    },
+    {
+      "name": "heldout_complete_groups_length3_gap0.55",
+      "observed": 0,
+      "required": 30,
+      "relation": "min",
+      "passed": false
+    },
+    {
+      "name": "heldout_recurrence_length3_gap0.55",
+      "observed": null,
+      "required": 0.2,
+      "relation": "min",
+      "passed": false
+    },
+    {
+      "name": "complete_groups_length3_gap0.75",
+      "observed": 0,
+      "required": 100,
+      "relation": "min",
+      "passed": false
+    },
+    {
+      "name": "heldout_complete_groups_length3_gap0.75",
+      "observed": 0,
+      "required": 30,
+      "relation": "min",
+      "passed": false
+    },
+    {
+      "name": "heldout_recurrence_length3_gap0.75",
+      "observed": null,
+      "required": 0.2,
+      "relation": "min",
+      "passed": false
+    }
+  ],
+  "decision": "Do not reopen ordinal-rank/pixel-x assays, conventional crosswalks or minimal-pair support. V5 is a partial source benchmark; no complete length3+ sequence or complete row meets the registered support threshold.",
+  "metric_limitations": "Writing recovery is object-level; parent support shares raster aids; owner precision is conditional; two heldout caption clusters and one source adjudicator. These do not become independent ground truth by passing point gates.",
+  "conventional_data_loaded": false,
+  "currier_loaded": false,
+  "positional_outcomes_loaded": false,
+  "assays_run": []
+}

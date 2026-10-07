@@ -1,0 +1,64 @@
+{
+  "created_at_utc": "2026-10-07T05:38:17.460340+00:00",
+  "discovery_parents": 638,
+  "existing_v3_assigned": 311,
+  "v3_only_coverage": 0.48746081504702193,
+  "v3_plus_validated_coverage": 0.48746081504702193,
+  "coverage_delta": 0,
+  "caption_bootstrap95": [
+    0.437191426379871,
+    0.5466074533737939
+  ],
+  "validated_new_classes": [],
+  "validated_compositional_classes": [],
+  "validated_factor_coverage": 0,
+  "unknown_confirmed_parents": 327,
+  "unknown_confirmed_rate": 0.512539184952978,
+  "exclusive_source_states": {
+    "insufficient_photographic_morphology": 8,
+    "source_confirmed_writing_V3_UNK": 288,
+    "source_resolved_existing_V3": 301,
+    "unresolved_compound_or_contact": 41
+  },
+  "all_competing_contacts": 41,
+  "known_v3_with_competing_contact": 10,
+  "source_observed_variant_hypotheses": 33,
+  "fresh": {
+    "proposals": 70,
+    "confirmed_writing": 66,
+    "confirmed_nonwriting": 2,
+    "unresolved_membership": 2,
+    "resolved_parent_writing": 57,
+    "v3_only_assigned": 29,
+    "v3_plus_validated_assigned": 29,
+    "new_stable_accepted": 0,
+    "captions": 3,
+    "writing_coverage": 0.4393939393939394
+  },
+  "composition_diagnostics": {
+    "discovery_known_V3": {
+      "parents": 311,
+      "primary_factor_fits": 261,
+      "threshold_stable_factor_measurements": 205,
+      "rotated_control_factor_fits": 141,
+      "validated_composition_assignments": 0
+    },
+    "discovery_UNK": {
+      "parents": 327,
+      "primary_factor_fits": 176,
+      "threshold_stable_factor_measurements": 75,
+      "rotated_control_factor_fits": 101,
+      "validated_composition_assignments": 0
+    },
+    "fresh_writing": {
+      "parents": 66,
+      "primary_factor_fits": 50,
+      "threshold_stable_factor_measurements": 26,
+      "rotated_control_factor_fits": 30,
+      "validated_composition_assignments": 0
+    }
+  },
+  "interpretation": "No defensible inventory expansion passed this source-only workflow. This does not establish that the remaining parents lack recurrent forms or are irreducibly ambiguous. Raster representation, small caption sample, source contacts and morphology boundaries remain limitations.",
+  "sequences_constructed_before_inventory_freeze": false,
+  "prior_taxonomies_retuned": false
+}

@@ -1,0 +1,44 @@
+{
+  "evaluated_at_utc": "2026-10-07T00:25:12.826676+00:00",
+  "global_gates": {
+    "new_views": true,
+    "new_row_fields": true,
+    "fresh_test_captions": true,
+    "class_generalization": true,
+    "repeatability": true,
+    "exact_sequence_repeatability_established": false,
+    "native_row_endpoint_certification": false
+  },
+  "per_gap_gates": {
+    "0.35": {
+      "ordered_membership_rows": false,
+      "complete_parent_membership": false,
+      "unknown_parent_rate": false,
+      "boundary_ambiguity": false,
+      "fully_identified_groups": false,
+      "heldout_ge3_recurrence": false
+    },
+    "0.55": {
+      "ordered_membership_rows": false,
+      "complete_parent_membership": false,
+      "unknown_parent_rate": false,
+      "boundary_ambiguity": false,
+      "fully_identified_groups": false,
+      "heldout_ge3_recurrence": false
+    },
+    "0.75": {
+      "ordered_membership_rows": false,
+      "complete_parent_membership": false,
+      "unknown_parent_rate": false,
+      "boundary_ambiguity": false,
+      "fully_identified_groups": false,
+      "heldout_ge3_recurrence": true
+    }
+  },
+  "qualified_as_practical_notation": false,
+  "downstream_support": false,
+  "freeze_status": "Partial source sequence evidence freeze; practical notation qualification failed",
+  "no_conventional_inputs_inspected": true,
+  "preregistered_support_sha256": "33d6a33ea0212dac1d7edfb4770b568f679d014b96d05cb7ac9d38b5f0ef5432",
+  "interpretation": "Frozen V3 classes can label some source parents, but this V4 does not establish complete, stable manuscript sequences. A partial observational representation with coordinates and unknown constraints is supported; an independent functional notation is not yet established."
+}

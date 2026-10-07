@@ -1,0 +1,99 @@
+{
+  "test_caption_groups": 8,
+  "clear_test_parents": 5181,
+  "nominal_accepted": 3670,
+  "reliable_assigned": 2642,
+  "clear_test_assignment_coverage": 0.5099401659911214,
+  "threshold_assignment_stability": 0.9321525885558584,
+  "alignment_assignment_stability": 0.9479564032697547,
+  "source_positive_agreement": 0.9,
+  "source_different_pair_false_grouping": 0.14285714285714285,
+  "source_pair_counts": {
+    "positive": {
+      "same": 36,
+      "different": 4
+    },
+    "hard_negative": {
+      "same": 14,
+      "different": 24,
+      "unknown": 2
+    }
+  },
+  "source_positive_caption_interval": [
+    0.7646671826625386,
+    0.9814814814814815
+  ],
+  "source_false_grouping_caption_interval": [
+    0.032209188660801566,
+    0.28
+  ],
+  "recurring_core_class_count": 14,
+  "classes": {
+    "ST11": {
+      "test_instances": 435,
+      "test_captions": 8
+    },
+    "ST14": {
+      "test_instances": 175,
+      "test_captions": 8
+    },
+    "ST03": {
+      "test_instances": 339,
+      "test_captions": 8
+    },
+    "ST02": {
+      "test_instances": 417,
+      "test_captions": 8
+    },
+    "ST05": {
+      "test_instances": 184,
+      "test_captions": 8
+    },
+    "ST12": {
+      "test_instances": 191,
+      "test_captions": 8
+    },
+    "ST08": {
+      "test_instances": 210,
+      "test_captions": 8
+    },
+    "ST06": {
+      "test_instances": 183,
+      "test_captions": 8
+    },
+    "ST13": {
+      "test_instances": 123,
+      "test_captions": 8
+    },
+    "ST10": {
+      "test_instances": 75,
+      "test_captions": 6
+    },
+    "ST01": {
+      "test_instances": 101,
+      "test_captions": 7
+    },
+    "ST07": {
+      "test_instances": 70,
+      "test_captions": 7
+    },
+    "ST04": {
+      "test_instances": 100,
+      "test_captions": 8
+    },
+    "ST15": {
+      "test_instances": 39,
+      "test_captions": 3
+    }
+  },
+  "audited_parents_abstained": 4,
+  "class_model_unchanged": true,
+  "gates": {
+    "test_captions": true,
+    "recurring_classes": true,
+    "positive_agreement": true,
+    "false_grouping": true,
+    "threshold_stability": true,
+    "clear_test_coverage": true
+  }
+}

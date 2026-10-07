@@ -1,0 +1,38 @@
+{
+  "status": "triage_only",
+  "positives": 40,
+  "negatives": 548,
+  "evaluated": 588,
+  "leave_one_view_out": {
+    "0.5": {
+      "tn": 525,
+      "fp": 23,
+      "fn": 16,
+      "tp": 24,
+      "precision": 0.5106382978723404,
+      "recall": 0.6
+    },
+    "0.7": {
+      "tn": 544,
+      "fp": 4,
+      "fn": 21,
+      "tp": 19,
+      "precision": 0.8260869565217391,
+      "recall": 0.475
+    },
+    "0.85": {
+      "tn": 547,
+      "fp": 1,
+      "fn": 35,
+      "tp": 5,
+      "precision": 0.8333333333333334,
+      "recall": 0.125
+    }
+  },
+  "limitations": [
+    "Approximate anchor-window positives; negative windows are inside explicit drawing/margin regions.",
+    "No estimate of complete writing-path recall.",
+    "Curved and radial writing not covered.",
+    "Window samples on a view are dependent; leave-one-view-out evaluation is descriptive, not independent-window significance."
+  ]
+}

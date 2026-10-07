@@ -1,0 +1,43 @@
+test,subset,position,variant,status,n,effect,ci_low,ci_high,null_p
+minimal_pair,all,normalized_group_rank,freq5_edge1_minlen3,estimated,1628,0.039383867480771044,,,
+minimal_pair,all,normalized_group_rank,freq5_edge2_minlen5,estimated,1000,0.047080270376945954,,,
+minimal_pair,all,normalized_group_rank,freq8_edge1_minlen3,estimated,928,0.037549641818965654,,,
+minimal_pair,all,normalized_group_rank,freq8_edge2_minlen5,estimated,546,0.04050320110571744,0.01961288072981831,0.051167154596769196,0.005
+minimal_pair,all,normalized_group_rank,legacy all lengths,estimated,1010,0.03135059985381268,,,
+minimal_pair,all,normalized_group_rank,freq10_edge1_minlen3,estimated,712,0.042058704279121936,,,
+minimal_pair,all,normalized_group_rank,freq10_edge2_minlen5,estimated,408,0.048454343764838925,,,
+minimal_pair,all,normalized_group_rank,freq12_edge1_minlen3,estimated,569,0.036503498600127575,,,
+minimal_pair,all,normalized_group_rank,freq12_edge2_minlen5,estimated,310,0.03378229649697988,,,
+minimal_pair,all,normalized_group_rank,one-unit edge strict length>=5,estimated,546,0.044158002244005935,,,
+minimal_pair,A,normalized_group_rank,freq5_edge1_minlen3,estimated,409,0.012559060673299373,,,
+minimal_pair,A,normalized_group_rank,freq5_edge2_minlen5,estimated,210,0.05732375717728575,,,
+minimal_pair,A,normalized_group_rank,freq8_edge1_minlen3,estimated,230,0.017473311994223736,,,
+minimal_pair,A,normalized_group_rank,freq8_edge2_minlen5,estimated,126,0.08102402257460685,0.005555213472954908,0.1059532882203671,0.005
+minimal_pair,A,normalized_group_rank,legacy all lengths,estimated,266,0.06926258393881958,,,
+minimal_pair,A,normalized_group_rank,freq10_edge1_minlen3,estimated,184,0.010855321649512684,,,
+minimal_pair,A,normalized_group_rank,freq10_edge2_minlen5,estimated,100,0.07767465765504758,,,
+minimal_pair,A,normalized_group_rank,freq12_edge1_minlen3,estimated,141,0.017817197404527276,,,
+minimal_pair,A,normalized_group_rank,freq12_edge2_minlen5,estimated,76,0.04783788990729575,,,
+minimal_pair,A,normalized_group_rank,one-unit edge strict length>=5,estimated,126,0.034229742416638495,,,
+minimal_pair,B,normalized_group_rank,freq5_edge1_minlen3,estimated,1031,0.045131857192778325,,,
+minimal_pair,B,normalized_group_rank,freq5_edge2_minlen5,estimated,629,0.03569830659571607,,,
+minimal_pair,B,normalized_group_rank,freq8_edge1_minlen3,estimated,581,0.05425300816963032,,,
+minimal_pair,B,normalized_group_rank,freq8_edge2_minlen5,estimated,341,0.047838134885116304,0.02642549824512424,0.06503842451734891,0.005
+minimal_pair,B,normalized_group_rank,legacy all lengths,estimated,630,0.038526291100120895,,,
+minimal_pair,B,normalized_group_rank,freq10_edge1_minlen3,estimated,457,0.05296583301591156,,,
+minimal_pair,B,normalized_group_rank,freq10_edge2_minlen5,estimated,266,0.04120608483423592,,,
+minimal_pair,B,normalized_group_rank,freq12_edge1_minlen3,estimated,369,0.04254636488798768,,,
+minimal_pair,B,normalized_group_rank,freq12_edge2_minlen5,estimated,209,0.018325437909140346,,,
+minimal_pair,B,normalized_group_rank,one-unit edge strict length>=5,estimated,341,0.06662540025095408,,,
+reproducibility,B,normalized_group_rank,left_freq5,estimated,10,0.7550018551584124,,,0.06
+alternate_prediction,B,normalized_group_rank,left_freq5,estimated,4,-0.059291446690734606,,,0.95
+triangle_closure,B,normalized_group_rank,left_freq5,estimated,6,1.0682457508485301,,,0.74
+reproducibility,B,normalized_group_rank,right_freq5,estimated,7,0.9898946241450478,,,0.01
+alternate_prediction,B,normalized_group_rank,right_freq5,not_estimable: inadequate shared relations,1,,,,
+triangle_closure,B,normalized_group_rank,right_freq5,estimated,2,0.07745967324335534,,,0.01
+reproducibility,B,normalized_group_rank,left_freq8,estimated,4,0.46641199567065217,,,0.53
+alternate_prediction,B,normalized_group_rank,left_freq8,not_estimable: inadequate shared relations,1,,,,
+triangle_closure,B,normalized_group_rank,left_freq8,estimated,1,1.072507943754667,,,0.7
+reproducibility,B,normalized_group_rank,right_freq8,estimated,4,0.9694238679210515,,,0.09
+alternate_prediction,B,normalized_group_rank,right_freq8,not_estimable: inadequate shared relations,0,,,,
+triangle_closure,B,normalized_group_rank,right_freq8,estimated,1,0.041068279878068326,,,0.03

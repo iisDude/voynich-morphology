@@ -1,0 +1,16 @@
+{
+  "seed": 20261005,
+  "context_feature": "averaged per-document unit uni/bigrams and length; training vocabulary only",
+  "heldout": "frozen caption/document split; calibration excluded",
+  "cluster_replicates": 10,
+  "cluster_group_budget": "same per document, minimum 40 and maximum 200",
+  "nulls": [
+    "199 held-out document-label permutations for AUC",
+    "99 held-out label permutations for ARI",
+    "99 within-core held-out wrapper permutations",
+    "99 approximately frequency-matched deletion sets"
+  ],
+  "bootstrap": "1000 caption/document resamples",
+  "uncertainty": "Shared physical bifolios or authors can reduce independence; no independent decipherment inference.",
+  "prior_art": "No novelty claimed; standardized analogue of ledger tests 8–13. Exact historical implementation absent."
+}

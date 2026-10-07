@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "split": "validation",
+      "sampled_views": 4,
+      "sampled_instances": 80,
+      "writing_visible": 68,
+      "failures": 0,
+      "ambiguous": 12,
+      "equal_view_writing_visible_fraction": 0.85,
+      "view_bootstrap_lower": 0.7871875,
+      "view_bootstrap_upper": 0.9,
+      "status": "source gate admits errors; atomic identity not validated"
+    },
+    {
+      "split": "test",
+      "sampled_views": 6,
+      "sampled_instances": 120,
+      "writing_visible": 100,
+      "failures": 12,
+      "ambiguous": 8,
+      "equal_view_writing_visible_fraction": 0.8333333333333334,
+      "view_bootstrap_lower": 0.7666666666666666,
+      "view_bootstrap_upper": 0.8916666666666667,
+      "status": "source gate admits errors; atomic identity not validated"
+    }
+  ],
+  "limitations": [
+    "Single reviewer; no inter-annotator agreement estimate.",
+    "Only sampled admitted instances: recall and rejected-writing fraction are not estimable.",
+    "Random view selection yielded early manuscript views; later section coverage is not established.",
+    "View bootstrap has only 4/6 clusters and is descriptive; bifolio independence unresolved.",
+    "No threshold refit using held-out outcomes; all failures retained."
+  ]
+}

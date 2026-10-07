@@ -1,0 +1,50 @@
+{
+  "seed": 20261005,
+  "dataset": "v101",
+  "primary": {
+    "minimum_frequency": 8,
+    "edge_width": 2,
+    "length_min": 5
+  },
+  "sensitivity": {
+    "frequencies": [
+      5,
+      8,
+      10,
+      12
+    ],
+    "edges": [
+      1,
+      2
+    ],
+    "legacy_all_lengths": true
+  },
+  "position_endpoints": [
+    "normalized_group_rank"
+  ],
+  "bootstrap_iterations": 199,
+  "null_iterations": 99,
+  "independent_half_splits": 30,
+  "source": "frozen visual sequences or post-freeze literal conventional codepoints; no redefinition from effect sizes",
+  "controls": [
+    "length",
+    "log geometric mean pair frequency",
+    "connected-family clustering when at least 10 clusters",
+    "joint folio occurrence bootstrap",
+    "within-line measured-position shuffle"
+  ],
+  "graph_rules": [
+    "at least two matched cores; equal-core delta primary; occurrence weighting recorded",
+    "train/validation edges compared to test; direct training edge AND its matched cores removed for alternate prediction",
+    "triangle edges use disjoint hashed core buckets; common-mean identity excluded",
+    "adjacency only between consecutive original source ranks; gaps reset accumulators"
+  ],
+  "limitations": [
+    "Source gate and boundaries are uncertain; conditioning on admitted groups can bias outcomes.",
+    "Folio components are caption/document blocks, not verified independent bifolios/authors.",
+    "Absolute native pixel x depends on scan scale and page layout; normalized measured line x is separate.",
+    "Control position is UD sentence ordinal rank; no natural-language manuscript pixel control exists.",
+    "Multiple exploratory specifications are not independent confirmations; no uniqueness/decipherment inference.",
+    "Exact prior connected-family bootstrap specification was not recovered; these tests do not claim that exact reproduction."
+  ]
+}

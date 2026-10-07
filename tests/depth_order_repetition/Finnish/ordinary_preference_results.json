@@ -1,0 +1,82 @@
+[
+  {
+    "side": "left",
+    "position": "normalized_group_rank",
+    "pooled_component_centered_potential_vs_preference": {
+      "n": 17,
+      "pearson": 0.579485029396556,
+      "spearman": 0.5416666666666667,
+      "same_direction": 0.5882352941176471
+    },
+    "heldout_comparison": [
+      {
+        "frequency": 5,
+        "n": 8,
+        "alternate_rmse": 0.19493031854708318,
+        "ordinary_rmse": 0.12881859719472954,
+        "ordinary_prediction_correlation": {
+          "n": 8,
+          "pearson": -0.19435763994055874,
+          "spearman": -0.04761904761904763,
+          "same_direction": 0.25
+        },
+        "mean_alternate_minus_ordinary_squared_error": 0.021403598105649332,
+        "limitations": "Identical held-out edges, direct training edge and all its training matched cores removed. Shared edges/cores make edge-naive uncertainty invalid; small-n comparisons descriptive."
+      },
+      {
+        "frequency": 8,
+        "n": 6,
+        "alternate_rmse": 0.09189795359435152,
+        "ordinary_rmse": 0.12594176017829561,
+        "ordinary_prediction_correlation": {
+          "n": 6,
+          "pearson": 0.124460142276688,
+          "spearman": -0.08571428571428573,
+          "same_direction": 0.16666666666666666
+        },
+        "mean_alternate_minus_ordinary_squared_error": -0.00741609308197774,
+        "limitations": "Identical held-out edges, direct training edge and all its training matched cores removed. Shared edges/cores make edge-naive uncertainty invalid; small-n comparisons descriptive."
+      }
+    ]
+  },
+  {
+    "side": "right",
+    "position": "normalized_group_rank",
+    "pooled_component_centered_potential_vs_preference": {
+      "n": 12,
+      "pearson": 0.5658165156844701,
+      "spearman": 0.2447552447552448,
+      "same_direction": 0.5
+    },
+    "heldout_comparison": [
+      {
+        "frequency": 5,
+        "n": 10,
+        "alternate_rmse": 0.0955738415838558,
+        "ordinary_rmse": 0.09963891986637112,
+        "ordinary_prediction_correlation": {
+          "n": 10,
+          "pearson": 0.039190906268467676,
+          "spearman": -0.17575757575757575,
+          "same_direction": 0.5
+        },
+        "mean_alternate_minus_ordinary_squared_error": -0.0007935551570411613,
+        "limitations": "Identical held-out edges, direct training edge and all its training matched cores removed. Shared edges/cores make edge-naive uncertainty invalid; small-n comparisons descriptive."
+      },
+      {
+        "frequency": 8,
+        "n": 2,
+        "alternate_rmse": 0.07424380867549686,
+        "ordinary_rmse": 0.07302340193914318,
+        "ordinary_prediction_correlation": {
+          "n": 2,
+          "pearson": null,
+          "spearman": null,
+          "same_direction": null
+        },
+        "mean_alternate_minus_ordinary_squared_error": 0.00017972589587812368,
+        "limitations": "Identical held-out edges, direct training edge and all its training matched cores removed. Shared edges/cores make edge-naive uncertainty invalid; small-n comparisons descriptive."
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+test,dataset,subset,status,effect,pairs
+grapheme_stress,literal_codepoints,A,estimated,0.08102402257460685,126
+grapheme_stress,literal_codepoints,B,estimated,0.047838134885116304,341
+grapheme_stress,ch_sh,A,estimated,0.056369389411808205,103
+grapheme_stress,ch_sh,B,estimated,0.04861940650996409,336
+grapheme_stress,bench_sequences,A,estimated,0.05970110870005384,100
+grapheme_stress,bench_sequences,B,estimated,0.0524026694998231,329
+crossgraph,RF,left:5,not_estimable: global unit-mapping hypothesis failed held-out coverage/accuracy,,0
+crossgraph,RF,right:5,not_estimable: global unit-mapping hypothesis failed held-out coverage/accuracy,,0
+crossgraph,RF,left:8,not_estimable: global unit-mapping hypothesis failed held-out coverage/accuracy,,0
+crossgraph,RF,right:8,not_estimable: global unit-mapping hypothesis failed held-out coverage/accuracy,,0
+crossgraph,v101,left:5,not_estimable: global unit-mapping hypothesis failed held-out coverage/accuracy,,0
+crossgraph,v101,right:5,not_estimable: global unit-mapping hypothesis failed held-out coverage/accuracy,,0
+crossgraph,v101,left:8,not_estimable: global unit-mapping hypothesis failed held-out coverage/accuracy,,0
+crossgraph,v101,right:8,not_estimable: global unit-mapping hypothesis failed held-out coverage/accuracy,,0

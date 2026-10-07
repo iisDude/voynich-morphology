@@ -1,0 +1,52 @@
+{
+  "checked_at_utc": "2026-10-07T14:20:59.605511+00:00",
+  "previous_packages": {
+    "data/observations/visual_dataset_v0/FREEZE_MANIFEST.json": {
+      "sha256": "eb1dff78adf9409757812a2aa7fca0a8c7a03ccbb102362276081e2bfd0ff656",
+      "file_checks": 1512
+    },
+    "data/observations/visual_dataset_v11/FREEZE_MANIFEST.json": {
+      "sha256": "cab58c0dd8a0d344b15eec7aeac08f822a6dfc55fcf2aa66bc54d5ed3f888097",
+      "file_checks": 1049
+    },
+    "data/observations/visual_dataset_v2/FREEZE_MANIFEST.json": {
+      "sha256": "bbfd0e6f4e25dbad613c4b713d2b5bb50b6bd5d856487bfd9c6fd030ee408dc6",
+      "file_checks": 1533
+    },
+    "data/observations/visual_dataset_v3/FREEZE_MANIFEST.json": {
+      "sha256": "4f593cc679e6395c164425bb9eca5ca3df01abda7dc0be5a4ad9a0a3ba6050fc",
+      "file_checks": 20812
+    },
+    "data/observations/visual_dataset_v4/FREEZE_MANIFEST.json": {
+      "sha256": "07fa88ae01152f9ba18a187987e61d93989f2c23045f2ff6c7e332c7428d9955",
+      "file_checks": 340
+    },
+    "data/observations/visual_dataset_v5/FREEZE_MANIFEST.json": {
+      "sha256": "16f040e6e80f8a1fd47b796811935df4c5546021d4b41f79933ee18cd668fed8",
+      "file_checks": 309
+    },
+    "data/observations/visual_dataset_v6/FREEZE_MANIFEST.json": {
+      "sha256": "22b5a69c31ffdf907bf2c32e4ee8116252d9a5989ad59c76bd11a2ddb3848f0a",
+      "file_checks": 1495
+    },
+    "data/observations/neutral_feature_trial_v1/EVIDENCE_SEAL.json": {
+      "sha256": "9f5d65c0d5d72e59bb0c6c57ec3332b6029393928d9ebfac830b2c1e4774bb64",
+      "file_checks": 24
+    },
+    "data/observations/neutral_feature_trial2/FREEZE_MANIFEST.json": {
+      "sha256": "1af5bfbb18045704f6fac0d4de2c9df7ec50fe784cc082a91b6c0eb4359e2d19",
+      "file_checks": 563
+    },
+    "data/observations/direct_morphology_trial1/FREEZE_MANIFEST.json": {
+      "sha256": "ecf2b1b5b87a7b8b3d3fb35b0fab2088e8b2a2d74575907996b7dacdc5249576",
+      "file_checks": 712
+    }
+  },
+  "original_evidence_files": 14,
+  "earlier_visual_frozen_file_checks": 27050,
+  "failures": [],
+  "direct_Trial2_file_checks": 943,
+  "direct_Trial2_manifest_sha256": "82eb82441addc43067e678ae987147b4e8de08e845cdc04141c5230dc70e9836",
+  "prior_Trial2_postfreeze_files": 8,
+  "prior_Trial2_postfreeze_unchanged": true
+}

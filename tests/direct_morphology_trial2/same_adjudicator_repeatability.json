@@ -1,0 +1,139 @@
+{
+  "n": 20,
+  "exact_agreement_n": 14,
+  "exact_agreement": 0.7,
+  "unweighted_kappa": 0.3877551020408164,
+  "transitions": {
+    "1->0": 4,
+    "1->1": 10,
+    "2->2": 1,
+    "0->0": 3,
+    "0->1": 2
+  },
+  "pairs": [
+    {
+      "repeat_id": "R01",
+      "original_pair_id": "Q130",
+      "first": 1,
+      "repeat": 0
+    },
+    {
+      "repeat_id": "R02",
+      "original_pair_id": "Q326",
+      "first": 1,
+      "repeat": 1
+    },
+    {
+      "repeat_id": "R03",
+      "original_pair_id": "Q316",
+      "first": 1,
+      "repeat": 1
+    },
+    {
+      "repeat_id": "R04",
+      "original_pair_id": "Q250",
+      "first": 2,
+      "repeat": 2
+    },
+    {
+      "repeat_id": "R05",
+      "original_pair_id": "Q082",
+      "first": 1,
+      "repeat": 0
+    },
+    {
+      "repeat_id": "R06",
+      "original_pair_id": "Q039",
+      "first": 1,
+      "repeat": 1
+    },
+    {
+      "repeat_id": "R07",
+      "original_pair_id": "Q058",
+      "first": 0,
+      "repeat": 0
+    },
+    {
+      "repeat_id": "R08",
+      "original_pair_id": "Q291",
+      "first": 1,
+      "repeat": 1
+    },
+    {
+      "repeat_id": "R09",
+      "original_pair_id": "Q033",
+      "first": 1,
+      "repeat": 1
+    },
+    {
+      "repeat_id": "R10",
+      "original_pair_id": "Q174",
+      "first": 0,
+      "repeat": 0
+    },
+    {
+      "repeat_id": "R11",
+      "original_pair_id": "Q142",
+      "first": 1,
+      "repeat": 0
+    },
+    {
+      "repeat_id": "R12",
+      "original_pair_id": "Q298",
+      "first": 0,
+      "repeat": 0
+    },
+    {
+      "repeat_id": "R13",
+      "original_pair_id": "Q337",
+      "first": 1,
+      "repeat": 1
+    },
+    {
+      "repeat_id": "R14",
+      "original_pair_id": "Q346",
+      "first": 0,
+      "repeat": 1
+    },
+    {
+      "repeat_id": "R15",
+      "original_pair_id": "Q158",
+      "first": 1,
+      "repeat": 1
+    },
+    {
+      "repeat_id": "R16",
+      "original_pair_id": "Q226",
+      "first": 1,
+      "repeat": 0
+    },
+    {
+      "repeat_id": "R17",
+      "original_pair_id": "Q253",
+      "first": 1,
+      "repeat": 1
+    },
+    {
+      "repeat_id": "R18",
+      "original_pair_id": "Q047",
+      "first": 1,
+      "repeat": 1
+    },
+    {
+      "repeat_id": "R19",
+      "original_pair_id": "Q264",
+      "first": 1,
+      "repeat": 1
+    },
+    {
+      "repeat_id": "R20",
+      "original_pair_id": "Q295",
+      "first": 0,
+      "repeat": 1
+    }
+  ],
+  "independent_interrater_validation": false,
+  "independent_human_validation": false,
+  "separation_period_seconds": null,
+  "limitation": "Short same-session separation with hidden prior decisions; memory carryover possible. Twenty pairs are a small repeatability diagnostic; no success gate was assigned."
+}

@@ -1,0 +1,16 @@
+{
+  "gates": {
+    "all_primary_nonempty": true,
+    "uncertain_extents_remain_unknown": true,
+    "no_discrete_classes_or_required_semantic_features": true,
+    "descriptive_auc": true,
+    "descriptive_pairs": true,
+    "six_captions": true,
+    "fresh_independent_confirmation": false
+  },
+  "operational_feasibility": true,
+  "descriptive_source_predictivity": true,
+  "fresh_generalization_validated": false,
+  "source_truth_or_segmentation_improved": false,
+  "no_downstream_assays": true
+}

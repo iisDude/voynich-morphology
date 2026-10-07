@@ -1,0 +1,45 @@
+[
+  {
+    "dataset": "Turkish",
+    "subset": "all",
+    "status": "completed",
+    "position": "normalized_group_rank",
+    "pairs": 45,
+    "connected_families": 36,
+    "results": [
+      {
+        "metric": "position",
+        "n": 45,
+        "counts": {
+          "outer": 21,
+          "near": 12,
+          "interior": 12
+        },
+        "raw_means": {
+          "outer": 0.11940312018546313,
+          "near": 0.1272579079254917,
+          "interior": 0.18874377174791804
+        },
+        "status": "estimated",
+        "near_minus_interior": -0.06485371686512147,
+        "outer_minus_interior": -0.07254859797731682,
+        "hc3_p_near": 0.29068746996632855,
+        "hc3_p_outer": 0.21044341736417393,
+        "family_cluster_p_near": 0.2766879201624014,
+        "family_cluster_p_outer": 0.19612592666644105,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.13343491089904053,
+            0.03205044861503616
+          ],
+          "outer_interval": [
+            -0.13609311530566942,
+            0.0270447404976074
+          ]
+        }
+      }
+    ],
+    "estimand": "Frequency>=8, length>=5. Two indicators near(depth1), outer(depth0); interior(depth>=2) baseline, length and log geometric mean frequency controls. Fixed selected vocabulary; joint caption/document occurrence resampling, missing members omit pairs."
+  }
+]

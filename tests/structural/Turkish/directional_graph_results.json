@@ -1,0 +1,170 @@
+[
+  {
+    "status": "estimated",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "minimum_frequency": 5,
+    "minimum_matched_cores": 2,
+    "full_relations": 49,
+    "train_relations": 40,
+    "test_relations": 12,
+    "heldout_reproducibility": {
+      "n": 12,
+      "pearson": 0.8444494816511744,
+      "spearman": 0.4825174825174825,
+      "same_direction": 0.75
+    },
+    "direct_edge_removed_prediction": {
+      "n": 6,
+      "pearson": -0.3785884443869682,
+      "spearman": -0.4285714285714286,
+      "same_direction": 0.16666666666666666
+    },
+    "context_disjoint_triangles": 1,
+    "median_normalized_triangle_closure": 0.8130273409891654,
+    "triangle_warning": "Common form-mean triangle closure is algebraic and is not counted; here core buckets for AB, BC, AC are disjoint.",
+    "reproducibility_null": {
+      "iterations": 99,
+      "mean": -0.043668694153025225,
+      "p": 0.02
+    },
+    "alternate_prediction_null": {
+      "iterations": 99,
+      "mean": 0.0033219584482248004,
+      "p": 0.5
+    },
+    "triangle_closure_null": {
+      "iterations": 99,
+      "mean": 0.8665068051756591,
+      "p": 0.44
+    },
+    "dataset": "Turkish",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "minimum_frequency": 5,
+    "minimum_matched_cores": 2,
+    "full_relations": 37,
+    "train_relations": 27,
+    "test_relations": 8,
+    "heldout_reproducibility": {
+      "n": 6,
+      "pearson": 0.1858992056432817,
+      "spearman": -0.028571428571428574,
+      "same_direction": 0.3333333333333333
+    },
+    "direct_edge_removed_prediction": {
+      "n": 4,
+      "pearson": -0.5517270859196507,
+      "spearman": -0.7999999999999999,
+      "same_direction": 0.75
+    },
+    "context_disjoint_triangles": 0,
+    "median_normalized_triangle_closure": null,
+    "triangle_warning": "Common form-mean triangle closure is algebraic and is not counted; here core buckets for AB, BC, AC are disjoint.",
+    "reproducibility_null": {
+      "iterations": 99,
+      "mean": 0.002075154250076247,
+      "p": 0.77
+    },
+    "alternate_prediction_null": {
+      "iterations": 99,
+      "mean": -0.0303000310176338,
+      "p": 0.55
+    },
+    "triangle_closure_null": {
+      "iterations": 0,
+      "mean": null,
+      "p": null
+    },
+    "dataset": "Turkish",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "position": "normalized_group_rank",
+    "side": "left",
+    "minimum_frequency": 8,
+    "minimum_matched_cores": 2,
+    "full_relations": 28,
+    "train_relations": 20,
+    "test_relations": 1,
+    "heldout_reproducibility": {
+      "n": 1,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "direct_edge_removed_prediction": {
+      "n": 0,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "context_disjoint_triangles": 0,
+    "median_normalized_triangle_closure": null,
+    "triangle_warning": "Common form-mean triangle closure is algebraic and is not counted; here core buckets for AB, BC, AC are disjoint.",
+    "reproducibility_null": {
+      "iterations": 0,
+      "mean": null,
+      "p": null
+    },
+    "alternate_prediction_null": {
+      "iterations": 0,
+      "mean": null,
+      "p": null
+    },
+    "triangle_closure_null": {
+      "iterations": 0,
+      "mean": null,
+      "p": null
+    },
+    "dataset": "Turkish",
+    "subset": "all"
+  },
+  {
+    "status": "estimated",
+    "position": "normalized_group_rank",
+    "side": "right",
+    "minimum_frequency": 8,
+    "minimum_matched_cores": 2,
+    "full_relations": 19,
+    "train_relations": 15,
+    "test_relations": 1,
+    "heldout_reproducibility": {
+      "n": 1,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "direct_edge_removed_prediction": {
+      "n": 1,
+      "pearson": null,
+      "spearman": null,
+      "same_direction": null
+    },
+    "context_disjoint_triangles": 0,
+    "median_normalized_triangle_closure": null,
+    "triangle_warning": "Common form-mean triangle closure is algebraic and is not counted; here core buckets for AB, BC, AC are disjoint.",
+    "reproducibility_null": {
+      "iterations": 0,
+      "mean": null,
+      "p": null
+    },
+    "alternate_prediction_null": {
+      "iterations": 0,
+      "mean": null,
+      "p": null
+    },
+    "triangle_closure_null": {
+      "iterations": 0,
+      "mean": null,
+      "p": null
+    },
+    "dataset": "Turkish",
+    "subset": "all"
+  }
+]

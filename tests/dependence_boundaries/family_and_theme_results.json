@@ -1,0 +1,311 @@
+[
+  {
+    "dataset": "ZL_EVA",
+    "status": "estimated",
+    "pairs": 341,
+    "family_bootstrap": [
+      {
+        "metric": "position",
+        "beta": 0.04783813488511646,
+        "connected_families": 35,
+        "estimable_bootstraps": 199,
+        "interval": [
+          0.009406039195267706,
+          0.081476718879681
+        ],
+        "largest_family_fraction": 0.1466275659824047,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      },
+      {
+        "metric": "TV",
+        "beta": -0.044127277336936,
+        "connected_families": 35,
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.09178464079298389,
+          0.012763342499918423
+        ],
+        "largest_family_fraction": 0.1466275659824047,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      },
+      {
+        "metric": "JSD_bits",
+        "beta": -0.055998870987281096,
+        "connected_families": 35,
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.09844354306131275,
+          -0.010326344113989755
+        ],
+        "largest_family_fraction": 0.1466275659824047,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      },
+      {
+        "metric": "sqrt_JS",
+        "beta": -0.05799235128573405,
+        "connected_families": 35,
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.10678256692644617,
+          -0.004763483238789116
+        ],
+        "largest_family_fraction": 0.1466275659824047,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      },
+      {
+        "metric": "Hellinger",
+        "beta": -0.06237690989194277,
+        "connected_families": 35,
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.11792615954029582,
+          -0.011187610334255521
+        ],
+        "largest_family_fraction": 0.1466275659824047,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      }
+    ],
+    "theme_document_bootstrap": [
+      {
+        "metric": "TV",
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.0928687322975097,
+          0.0037852456890684213
+        ]
+      },
+      {
+        "metric": "JSD_bits",
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.09631934976516233,
+          -0.014058468811929426
+        ]
+      },
+      {
+        "metric": "sqrt_JS",
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.09185876901762265,
+          -0.01462057196773867
+        ]
+      },
+      {
+        "metric": "Hellinger",
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.09487295791528708,
+          -0.018426339549913143
+        ]
+      }
+    ],
+    "theme_document_estimand": "Selected pair vocabulary fixed; jointly resample context occurrences by caption/document block; omit pairs missing one member.",
+    "exact_historical_connected_family_bootstrap": "Not reconstructed; this is an explicitly defined analogue."
+  },
+  {
+    "dataset": "RF",
+    "status": "estimated",
+    "pairs": 361,
+    "family_bootstrap": [
+      {
+        "metric": "position",
+        "beta": 0.04465827042215878,
+        "connected_families": 34,
+        "estimable_bootstraps": 199,
+        "interval": [
+          0.0145165432388876,
+          0.07805129216886685
+        ],
+        "largest_family_fraction": 0.13573407202216067,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      },
+      {
+        "metric": "TV",
+        "beta": -0.02281989175349433,
+        "connected_families": 34,
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.09432288981203825,
+          0.02840235592376202
+        ],
+        "largest_family_fraction": 0.13573407202216067,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      },
+      {
+        "metric": "JSD_bits",
+        "beta": -0.0369766219949414,
+        "connected_families": 34,
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.08555770158128498,
+          0.0034604411746796465
+        ],
+        "largest_family_fraction": 0.13573407202216067,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      },
+      {
+        "metric": "sqrt_JS",
+        "beta": -0.041809765386317706,
+        "connected_families": 34,
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.10217746116151996,
+          0.0132910701691371
+        ],
+        "largest_family_fraction": 0.13573407202216067,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      },
+      {
+        "metric": "Hellinger",
+        "beta": -0.047440763409314086,
+        "connected_families": 34,
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.09864505530069965,
+          0.00923269355556024
+        ],
+        "largest_family_fraction": 0.13573407202216067,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      }
+    ],
+    "theme_document_bootstrap": [
+      {
+        "metric": "TV",
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.07777137687532672,
+          0.04415436564190681
+        ]
+      },
+      {
+        "metric": "JSD_bits",
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.08678212199642937,
+          0.01280378692392393
+        ]
+      },
+      {
+        "metric": "sqrt_JS",
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.0808372325615384,
+          0.019392211073232336
+        ]
+      },
+      {
+        "metric": "Hellinger",
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.08130663821734896,
+          0.012785350513299295
+        ]
+      }
+    ],
+    "theme_document_estimand": "Selected pair vocabulary fixed; jointly resample context occurrences by caption/document block; omit pairs missing one member.",
+    "exact_historical_connected_family_bootstrap": "Not reconstructed; this is an explicitly defined analogue."
+  },
+  {
+    "dataset": "v101",
+    "status": "estimated",
+    "pairs": 279,
+    "family_bootstrap": [
+      {
+        "metric": "position",
+        "beta": 0.027650376674725287,
+        "connected_families": 9,
+        "estimable_bootstraps": 199,
+        "interval": [
+          0.008140137714306883,
+          0.042735562951353875
+        ],
+        "largest_family_fraction": 0.3763440860215054,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      },
+      {
+        "metric": "TV",
+        "beta": 0.034031364641155554,
+        "connected_families": 9,
+        "estimable_bootstraps": 197,
+        "interval": [
+          -0.024135115179320533,
+          0.09464363708601647
+        ],
+        "largest_family_fraction": 0.3763440860215054,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      },
+      {
+        "metric": "JSD_bits",
+        "beta": 0.013299395387427002,
+        "connected_families": 9,
+        "estimable_bootstraps": 197,
+        "interval": [
+          -0.01574792086895141,
+          0.054688038537422136
+        ],
+        "largest_family_fraction": 0.3763440860215054,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      },
+      {
+        "metric": "sqrt_JS",
+        "beta": 0.021321591956009387,
+        "connected_families": 9,
+        "estimable_bootstraps": 198,
+        "interval": [
+          -0.021654686035314688,
+          0.08123746603263882
+        ],
+        "largest_family_fraction": 0.3763440860215054,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      },
+      {
+        "metric": "Hellinger",
+        "beta": 0.016654281685082685,
+        "connected_families": 9,
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.02740315137523653,
+          0.07412994790943894
+        ],
+        "largest_family_fraction": 0.3763440860215054,
+        "caution": "Few connected components or one dominant component can make family resampling unstable; these are dependent lexical families, not independent biological samples."
+      }
+    ],
+    "theme_document_bootstrap": [
+      {
+        "metric": "TV",
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.03381973515956399,
+          0.06672342132777234
+        ]
+      },
+      {
+        "metric": "JSD_bits",
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.049741203153194635,
+          0.04596474861086252
+        ]
+      },
+      {
+        "metric": "sqrt_JS",
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.03763482204968433,
+          0.04843540274322295
+        ]
+      },
+      {
+        "metric": "Hellinger",
+        "estimable_bootstraps": 199,
+        "interval": [
+          -0.03799766865880748,
+          0.045679186698294474
+        ]
+      }
+    ],
+    "theme_document_estimand": "Selected pair vocabulary fixed; jointly resample context occurrences by caption/document block; omit pairs missing one member.",
+    "exact_historical_connected_family_bootstrap": "Not reconstructed; this is an explicitly defined analogue."
+  }
+]

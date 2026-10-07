@@ -1,0 +1,949 @@
+{
+  "summary": {
+    "fresh": {
+      "proposals": 133,
+      "confirmed": 129,
+      "resolved": 118,
+      "usable": 81,
+      "overall_rate": 0.627906976744186,
+      "resolved_rate": 0.6864406779661016,
+      "unknown_source": 11
+    },
+    "reference": {
+      "proposals": 88,
+      "confirmed": 88,
+      "resolved": 88,
+      "usable": 75,
+      "overall_rate": 0.8522727272727273,
+      "resolved_rate": 0.8522727272727273,
+      "unknown_source": 0
+    },
+    "fresh_V3_UNKNOWN": {
+      "proposals": 96,
+      "confirmed": 92,
+      "resolved": 81,
+      "usable": 44,
+      "overall_rate": 0.4782608695652174,
+      "resolved_rate": 0.5432098765432098,
+      "unknown_source": 11
+    }
+  },
+  "by_fresh_caption": {
+    "17": {
+      "proposals": 15,
+      "confirmed": 15,
+      "resolved": 14,
+      "usable": 10,
+      "overall_rate": 0.6666666666666666,
+      "resolved_rate": 0.7142857142857143,
+      "unknown_source": 1
+    },
+    "19": {
+      "proposals": 16,
+      "confirmed": 16,
+      "resolved": 14,
+      "usable": 7,
+      "overall_rate": 0.4375,
+      "resolved_rate": 0.5,
+      "unknown_source": 2
+    },
+    "22": {
+      "proposals": 19,
+      "confirmed": 19,
+      "resolved": 19,
+      "usable": 14,
+      "overall_rate": 0.7368421052631579,
+      "resolved_rate": 0.7368421052631579,
+      "unknown_source": 0
+    },
+    "52": {
+      "proposals": 43,
+      "confirmed": 39,
+      "resolved": 37,
+      "usable": 23,
+      "overall_rate": 0.5897435897435898,
+      "resolved_rate": 0.6216216216216216,
+      "unknown_source": 2
+    },
+    "56": {
+      "proposals": 21,
+      "confirmed": 21,
+      "resolved": 15,
+      "usable": 11,
+      "overall_rate": 0.5238095238095238,
+      "resolved_rate": 0.7333333333333333,
+      "unknown_source": 6
+    },
+    "100": {
+      "proposals": 19,
+      "confirmed": 19,
+      "resolved": 19,
+      "usable": 16,
+      "overall_rate": 0.8421052631578947,
+      "resolved_rate": 0.8421052631578947,
+      "unknown_source": 0
+    }
+  },
+  "features": {
+    "log_height_body": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 84,
+          "unknown_variant_sensitive": 4
+        },
+        "source_qualified_counts": {
+          "stable": 84,
+          "unknown_variant_sensitive": 4
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 108,
+          "unknown_variant_sensitive": 25
+        },
+        "source_qualified_counts": {
+          "stable": 108,
+          "unknown_variant_sensitive": 25
+        }
+      }
+    },
+    "log_width_body": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 78,
+          "unknown_variant_sensitive": 10
+        },
+        "source_qualified_counts": {
+          "stable": 78,
+          "unknown_variant_sensitive": 10
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 96,
+          "unknown_variant_sensitive": 37
+        },
+        "source_qualified_counts": {
+          "stable": 96,
+          "unknown_variant_sensitive": 37
+        }
+      }
+    },
+    "log_aspect": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 73,
+          "unknown_variant_sensitive": 15
+        },
+        "source_qualified_counts": {
+          "stable": 73,
+          "unknown_variant_sensitive": 15
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 86,
+          "unknown_variant_sensitive": 47
+        },
+        "source_qualified_counts": {
+          "stable": 86,
+          "unknown_variant_sensitive": 47
+        }
+      }
+    },
+    "ink_density": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 82,
+          "unknown_variant_sensitive": 6
+        },
+        "source_qualified_counts": {
+          "stable": 82,
+          "unknown_variant_sensitive": 6
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 109,
+          "unknown_variant_sensitive": 24
+        },
+        "source_qualified_counts": {
+          "stable": 109,
+          "unknown_variant_sensitive": 24
+        }
+      }
+    },
+    "ink_centroid_x": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 86,
+          "unknown_variant_sensitive": 2
+        },
+        "source_qualified_counts": {
+          "stable": 86,
+          "unknown_variant_sensitive": 2
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 118,
+          "unknown_variant_sensitive": 15
+        },
+        "source_qualified_counts": {
+          "stable": 118,
+          "unknown_variant_sensitive": 15
+        }
+      }
+    },
+    "ink_centroid_y": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 85,
+          "unknown_variant_sensitive": 3
+        },
+        "source_qualified_counts": {
+          "stable": 85,
+          "unknown_variant_sensitive": 3
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 123,
+          "unknown_variant_sensitive": 10
+        },
+        "source_qualified_counts": {
+          "stable": 123,
+          "unknown_variant_sensitive": 10
+        }
+      }
+    },
+    "ink_spread_x": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 87,
+          "unknown_variant_sensitive": 1
+        },
+        "source_qualified_counts": {
+          "stable": 87,
+          "unknown_variant_sensitive": 1
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 125,
+          "unknown_variant_sensitive": 8
+        },
+        "source_qualified_counts": {
+          "stable": 125,
+          "unknown_variant_sensitive": 8
+        }
+      }
+    },
+    "ink_spread_y": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 88
+        },
+        "source_qualified_counts": {
+          "stable": 88
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 130,
+          "unknown_variant_sensitive": 3
+        },
+        "source_qualified_counts": {
+          "stable": 130,
+          "unknown_variant_sensitive": 3
+        }
+      }
+    },
+    "raster_components": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 87,
+          "unknown_variant_sensitive": 1
+        },
+        "source_qualified_counts": {
+          "stable": 87,
+          "unknown_variant_sensitive": 1
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 133
+        },
+        "source_qualified_counts": {
+          "stable": 133
+        }
+      }
+    },
+    "significant_cavity_count": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 73,
+          "unknown_variant_sensitive": 15
+        },
+        "source_qualified_counts": {
+          "stable": 55,
+          "unknown_source_cavity": 28,
+          "unknown_variant_sensitive": 5
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 97,
+          "unknown_variant_sensitive": 36
+        },
+        "source_qualified_counts": {
+          "stable": 68,
+          "unknown_source_cavity": 50,
+          "unknown_variant_sensitive": 15
+        }
+      }
+    },
+    "cavity_area_fraction": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 86,
+          "unknown_variant_sensitive": 2
+        },
+        "source_qualified_counts": {
+          "stable": 60,
+          "unknown_source_cavity": 28
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 128,
+          "unknown_variant_sensitive": 5
+        },
+        "source_qualified_counts": {
+          "stable": 81,
+          "unknown_source_cavity": 50,
+          "unknown_variant_sensitive": 2
+        }
+      }
+    },
+    "cavity_centroid_x": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 37,
+          "not_applicable": 39,
+          "unknown_presence": 8,
+          "unknown_variant_sensitive": 4
+        },
+        "source_qualified_counts": {
+          "unknown_source_placement": 11,
+          "not_applicable": 30,
+          "stable": 16,
+          "unknown_source_cavity": 28,
+          "unknown_presence": 1,
+          "unknown_variant_sensitive": 2
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "not_applicable": 55,
+          "stable": 46,
+          "unknown_presence": 20,
+          "unknown_variant_sensitive": 12
+        },
+        "source_qualified_counts": {
+          "not_applicable": 40,
+          "unknown_source_cavity": 50,
+          "unknown_source_placement": 16,
+          "unknown_presence": 8,
+          "stable": 16,
+          "unknown_variant_sensitive": 3
+        }
+      }
+    },
+    "cavity_centroid_y": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 38,
+          "not_applicable": 39,
+          "unknown_presence": 8,
+          "unknown_variant_sensitive": 3
+        },
+        "source_qualified_counts": {
+          "unknown_source_placement": 11,
+          "not_applicable": 30,
+          "stable": 16,
+          "unknown_source_cavity": 28,
+          "unknown_presence": 1,
+          "unknown_variant_sensitive": 2
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "not_applicable": 55,
+          "stable": 47,
+          "unknown_presence": 20,
+          "unknown_variant_sensitive": 11
+        },
+        "source_qualified_counts": {
+          "not_applicable": 40,
+          "unknown_source_cavity": 50,
+          "unknown_source_placement": 16,
+          "unknown_presence": 8,
+          "stable": 15,
+          "unknown_variant_sensitive": 4
+        }
+      }
+    },
+    "cavity_upper_count": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 74,
+          "unknown_variant_sensitive": 14
+        },
+        "source_qualified_counts": {
+          "unknown_source_placement": 11,
+          "stable": 45,
+          "unknown_source_cavity": 28,
+          "unknown_variant_sensitive": 4
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 102,
+          "unknown_variant_sensitive": 31
+        },
+        "source_qualified_counts": {
+          "stable": 58,
+          "unknown_source_cavity": 50,
+          "unknown_source_placement": 16,
+          "unknown_variant_sensitive": 9
+        }
+      }
+    },
+    "cavity_lower_count": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 79,
+          "unknown_variant_sensitive": 9
+        },
+        "source_qualified_counts": {
+          "unknown_source_placement": 11,
+          "stable": 48,
+          "unknown_source_cavity": 28,
+          "unknown_variant_sensitive": 1
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 117,
+          "unknown_variant_sensitive": 16
+        },
+        "source_qualified_counts": {
+          "stable": 62,
+          "unknown_source_cavity": 50,
+          "unknown_source_placement": 16,
+          "unknown_variant_sensitive": 5
+        }
+      }
+    },
+    "skeleton_endpoint_count": {
+      "reference": {
+        "raster_status_counts": {
+          "unknown_variant_sensitive": 68,
+          "stable": 20
+        },
+        "source_qualified_counts": {
+          "unknown_variant_sensitive": 68,
+          "stable": 20
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "unknown_variant_sensitive": 121,
+          "stable": 12
+        },
+        "source_qualified_counts": {
+          "unknown_variant_sensitive": 121,
+          "stable": 12
+        }
+      }
+    },
+    "skeleton_branch_cluster_count": {
+      "reference": {
+        "raster_status_counts": {
+          "unknown_variant_sensitive": 67,
+          "stable": 21
+        },
+        "source_qualified_counts": {
+          "unknown_variant_sensitive": 67,
+          "stable": 21
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "unknown_variant_sensitive": 118,
+          "stable": 15
+        },
+        "source_qualified_counts": {
+          "unknown_variant_sensitive": 118,
+          "stable": 15
+        }
+      }
+    },
+    "horizontal_run_fraction": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 73,
+          "unknown_variant_sensitive": 15
+        },
+        "source_qualified_counts": {
+          "stable": 73,
+          "unknown_variant_sensitive": 15
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 81,
+          "unknown_variant_sensitive": 52
+        },
+        "source_qualified_counts": {
+          "stable": 81,
+          "unknown_variant_sensitive": 52
+        }
+      }
+    },
+    "vertical_run_fraction": {
+      "reference": {
+        "raster_status_counts": {
+          "unknown_variant_sensitive": 19,
+          "stable": 69
+        },
+        "source_qualified_counts": {
+          "unknown_variant_sensitive": 19,
+          "stable": 69
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 90,
+          "unknown_variant_sensitive": 43
+        },
+        "source_qualified_counts": {
+          "stable": 90,
+          "unknown_variant_sensitive": 43
+        }
+      }
+    },
+    "ink_row_band_0": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 84,
+          "unknown_variant_sensitive": 4
+        },
+        "source_qualified_counts": {
+          "stable": 84,
+          "unknown_variant_sensitive": 4
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 110,
+          "unknown_variant_sensitive": 23
+        },
+        "source_qualified_counts": {
+          "stable": 110,
+          "unknown_variant_sensitive": 23
+        }
+      }
+    },
+    "ink_col_band_0": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 80,
+          "unknown_variant_sensitive": 8
+        },
+        "source_qualified_counts": {
+          "stable": 80,
+          "unknown_variant_sensitive": 8
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 92,
+          "unknown_variant_sensitive": 41
+        },
+        "source_qualified_counts": {
+          "stable": 92,
+          "unknown_variant_sensitive": 41
+        }
+      }
+    },
+    "ink_row_band_1": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 82,
+          "unknown_variant_sensitive": 6
+        },
+        "source_qualified_counts": {
+          "stable": 82,
+          "unknown_variant_sensitive": 6
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 104,
+          "unknown_variant_sensitive": 29
+        },
+        "source_qualified_counts": {
+          "stable": 104,
+          "unknown_variant_sensitive": 29
+        }
+      }
+    },
+    "ink_col_band_1": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 73,
+          "unknown_variant_sensitive": 15
+        },
+        "source_qualified_counts": {
+          "stable": 73,
+          "unknown_variant_sensitive": 15
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 87,
+          "unknown_variant_sensitive": 46
+        },
+        "source_qualified_counts": {
+          "stable": 87,
+          "unknown_variant_sensitive": 46
+        }
+      }
+    },
+    "ink_row_band_2": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 84,
+          "unknown_variant_sensitive": 4
+        },
+        "source_qualified_counts": {
+          "stable": 84,
+          "unknown_variant_sensitive": 4
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 108,
+          "unknown_variant_sensitive": 25
+        },
+        "source_qualified_counts": {
+          "stable": 108,
+          "unknown_variant_sensitive": 25
+        }
+      }
+    },
+    "ink_col_band_2": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 78,
+          "unknown_variant_sensitive": 10
+        },
+        "source_qualified_counts": {
+          "stable": 78,
+          "unknown_variant_sensitive": 10
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 103,
+          "unknown_variant_sensitive": 30
+        },
+        "source_qualified_counts": {
+          "stable": 103,
+          "unknown_variant_sensitive": 30
+        }
+      }
+    },
+    "ink_grid_00": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 85,
+          "unknown_variant_sensitive": 3
+        },
+        "source_qualified_counts": {
+          "stable": 85,
+          "unknown_variant_sensitive": 3
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 111,
+          "unknown_variant_sensitive": 22
+        },
+        "source_qualified_counts": {
+          "stable": 111,
+          "unknown_variant_sensitive": 22
+        }
+      }
+    },
+    "ink_grid_01": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 84,
+          "unknown_variant_sensitive": 4
+        },
+        "source_qualified_counts": {
+          "stable": 84,
+          "unknown_variant_sensitive": 4
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 116,
+          "unknown_variant_sensitive": 17
+        },
+        "source_qualified_counts": {
+          "stable": 116,
+          "unknown_variant_sensitive": 17
+        }
+      }
+    },
+    "ink_grid_02": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 83,
+          "unknown_variant_sensitive": 5
+        },
+        "source_qualified_counts": {
+          "stable": 83,
+          "unknown_variant_sensitive": 5
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 110,
+          "unknown_variant_sensitive": 23
+        },
+        "source_qualified_counts": {
+          "stable": 110,
+          "unknown_variant_sensitive": 23
+        }
+      }
+    },
+    "ink_grid_10": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 84,
+          "unknown_variant_sensitive": 4
+        },
+        "source_qualified_counts": {
+          "stable": 84,
+          "unknown_variant_sensitive": 4
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 108,
+          "unknown_variant_sensitive": 25
+        },
+        "source_qualified_counts": {
+          "stable": 108,
+          "unknown_variant_sensitive": 25
+        }
+      }
+    },
+    "ink_grid_11": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 84,
+          "unknown_variant_sensitive": 4
+        },
+        "source_qualified_counts": {
+          "stable": 84,
+          "unknown_variant_sensitive": 4
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 108,
+          "unknown_variant_sensitive": 25
+        },
+        "source_qualified_counts": {
+          "stable": 108,
+          "unknown_variant_sensitive": 25
+        }
+      }
+    },
+    "ink_grid_12": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 83,
+          "unknown_variant_sensitive": 5
+        },
+        "source_qualified_counts": {
+          "stable": 83,
+          "unknown_variant_sensitive": 5
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 108,
+          "unknown_variant_sensitive": 25
+        },
+        "source_qualified_counts": {
+          "stable": 108,
+          "unknown_variant_sensitive": 25
+        }
+      }
+    },
+    "ink_grid_20": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 80,
+          "unknown_variant_sensitive": 8
+        },
+        "source_qualified_counts": {
+          "stable": 80,
+          "unknown_variant_sensitive": 8
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 110,
+          "unknown_variant_sensitive": 23
+        },
+        "source_qualified_counts": {
+          "stable": 110,
+          "unknown_variant_sensitive": 23
+        }
+      }
+    },
+    "ink_grid_21": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 79,
+          "unknown_variant_sensitive": 9
+        },
+        "source_qualified_counts": {
+          "stable": 79,
+          "unknown_variant_sensitive": 9
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 102,
+          "unknown_variant_sensitive": 31
+        },
+        "source_qualified_counts": {
+          "stable": 102,
+          "unknown_variant_sensitive": 31
+        }
+      }
+    },
+    "ink_grid_22": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 83,
+          "unknown_variant_sensitive": 5
+        },
+        "source_qualified_counts": {
+          "stable": 83,
+          "unknown_variant_sensitive": 5
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 112,
+          "unknown_variant_sensitive": 21
+        },
+        "source_qualified_counts": {
+          "stable": 112,
+          "unknown_variant_sensitive": 21
+        }
+      }
+    },
+    "log_height_native": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 79,
+          "unknown_variant_sensitive": 9
+        },
+        "source_qualified_counts": {
+          "stable": 79,
+          "unknown_variant_sensitive": 9
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 95,
+          "unknown_variant_sensitive": 38
+        },
+        "source_qualified_counts": {
+          "stable": 95,
+          "unknown_variant_sensitive": 38
+        }
+      }
+    },
+    "log_width_native": {
+      "reference": {
+        "raster_status_counts": {
+          "stable": 76,
+          "unknown_variant_sensitive": 12
+        },
+        "source_qualified_counts": {
+          "stable": 76,
+          "unknown_variant_sensitive": 12
+        }
+      },
+      "fresh": {
+        "raster_status_counts": {
+          "stable": 85,
+          "unknown_variant_sensitive": 48
+        },
+        "source_qualified_counts": {
+          "stable": 85,
+          "unknown_variant_sensitive": 48
+        }
+      }
+    }
+  },
+  "source_agreement": {
+    "reference": {
+      "source_resolved_n": 88,
+      "cavity_adjudicable_n": 79,
+      "cavity_primary_agreement": 0.759493670886076,
+      "cavity_stable_and_source_agree": 55,
+      "source_cavity_unknown_n": 9,
+      "aspect_adjudicable_n": 88,
+      "aspect_primary_agreement": 0.9204545454545454
+    },
+    "fresh": {
+      "source_resolved_n": 118,
+      "cavity_adjudicable_n": 107,
+      "cavity_primary_agreement": 0.7289719626168224,
+      "cavity_stable_and_source_agree": 65,
+      "source_cavity_unknown_n": 11,
+      "aspect_adjudicable_n": 118,
+      "aspect_primary_agreement": 0.9661016949152542
+    }
+  },
+  "gates": {
+    "sample_n": true,
+    "caption_n": true,
+    "overall": false,
+    "resolved": false,
+    "every_caption": false,
+    "unknown": false,
+    "cavity_n": true,
+    "cavity_agreement": false,
+    "aspect": true
+  },
+  "coverage_source_gate_pass": false,
+  "fresh_overall_caption_bootstrap95": [
+    0.5394736842105263,
+    0.7315134099616857
+  ],
+  "source_agreement_scope": "Same-adjudicator, source-count qualification. Coarse aspect bbox-aided; not independent physical ground truth. Span evidence retained alongside run raster measures without equating a run cutoff with a bench. All unresolved parent extent cases block usability."
+}

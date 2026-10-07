@@ -1,0 +1,20 @@
+{
+  "seed": 20261005,
+  "sampling": "8 uniform admitted medium instances per view; every populated view included",
+  "thresholds": [
+    4,
+    6,
+    8
+  ],
+  "erosion": "2 by 2 pixel square; raster sensitivity only",
+  "geometric_null": "independent column permutation within each native mask row, preserving row ink counts",
+  "height_models": "training log-height Gaussian mixtures with 1,2,3 components; held-out equal-folio log density",
+  "interpretation": [
+    "Morphology proxies do not establish frames, insertions, minims, ligatures, strokes or pen lifts.",
+    "A shape-aware null is destructive and does not establish linguistic or cryptographic significance.",
+    "Threshold probe uses full crop mask; crossings/background not assigned to the component can influence counts.",
+    "Body/baseline are provisional estimates, not gold-standard physical measurements.",
+    "Height mixture can reflect different assemblies and detector truncation; no discrete sign inventory is inferred.",
+    "Gate source errors persist and folio caption groups are not verified independent bifolios."
+  ]
+}

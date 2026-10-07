@@ -1,0 +1,8 @@
+{
+  "seed": 20261005,
+  "mapping": "train-only paired paragraph groups at same physical locus and count; dominant complete-form pairs >=3 occurrences and 80%; single-edit context unit hypothesis >=5 distinct contexts and 90%; held-out >=30 completely covered groups and >=90% exact agreement",
+  "grapheme_stress": "literal codepoints, ch/sh collapse, longer bench-sequence collapse; longest match first; not visual alphabet hypotheses",
+  "registered_primary": "frequency 8, edge width 2, length >=5, joint caption bootstrap 199 and within-line rank null 199",
+  "no_visual_crosswalk": "All 18 audited geometric row matches failed; zero accepted manuscript-unit correspondences.",
+  "prior_art": "No novelty claimed. Standardized comparison analogue, not exact unpublished historical mapping."
+}

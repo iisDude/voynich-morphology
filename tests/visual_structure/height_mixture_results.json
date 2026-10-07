@@ -1,0 +1,92 @@
+[
+  {
+    "components": 1,
+    "split": "validation",
+    "instances": 4604,
+    "folio_components": 15,
+    "equal_folio_log_density": -0.5640119340897837,
+    "component_height_centres": [
+      1.150085185454696
+    ],
+    "component_weights": [
+      1.0
+    ]
+  },
+  {
+    "components": 1,
+    "split": "test",
+    "instances": 5988,
+    "folio_components": 22,
+    "equal_folio_log_density": -0.5828137138366795,
+    "component_height_centres": [
+      1.150085185454696
+    ],
+    "component_weights": [
+      1.0
+    ]
+  },
+  {
+    "components": 2,
+    "split": "validation",
+    "instances": 4604,
+    "folio_components": 15,
+    "equal_folio_log_density": -0.558953590261489,
+    "component_height_centres": [
+      0.8191303123207773,
+      1.4608308136022865
+    ],
+    "component_weights": [
+      0.4134176462825771,
+      0.586582353717423
+    ]
+  },
+  {
+    "components": 2,
+    "split": "test",
+    "instances": 5988,
+    "folio_components": 22,
+    "equal_folio_log_density": -0.5742784752282614,
+    "component_height_centres": [
+      0.8191303123207773,
+      1.4608308136022865
+    ],
+    "component_weights": [
+      0.4134176462825771,
+      0.586582353717423
+    ]
+  },
+  {
+    "components": 3,
+    "split": "validation",
+    "instances": 4604,
+    "folio_components": 15,
+    "equal_folio_log_density": -0.5659896582979028,
+    "component_height_centres": [
+      1.1351714820226297,
+      1.726411160934534,
+      0.6436967057560281
+    ],
+    "component_weights": [
+      0.4518769186710444,
+      0.32841860444142457,
+      0.21970447688753106
+    ]
+  },
+  {
+    "components": 3,
+    "split": "test",
+    "instances": 5988,
+    "folio_components": 22,
+    "equal_folio_log_density": -0.5717304742030787,
+    "component_height_centres": [
+      1.1351714820226297,
+      1.726411160934534,
+      0.6436967057560281
+    ],
+    "component_weights": [
+      0.4518769186710444,
+      0.32841860444142457,
+      0.21970447688753106
+    ]
+  }
+]

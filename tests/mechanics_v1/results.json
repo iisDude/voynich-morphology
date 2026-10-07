@@ -1,0 +1,55 @@
+{
+  "seed": 20261005,
+  "checks": [
+    {
+      "name": "Ligature signs retained, annotations removed, scoped hand recorded",
+      "passed": true
+    },
+    {
+      "name": "v101 punctuation retained as valid literal signs",
+      "passed": true
+    },
+    {
+      "name": "EVA punctuation abstains",
+      "passed": true
+    },
+    {
+      "name": "Numeric escape atomic and bounded",
+      "passed": true
+    },
+    {
+      "name": "Reading alternatives abstain",
+      "passed": true
+    },
+    {
+      "name": "Logical continuation preserves one record",
+      "passed": true
+    },
+    {
+      "name": "Rank deficient model withheld",
+      "passed": true
+    },
+    {
+      "name": "Signed graph orientation is target minus source",
+      "passed": true
+    },
+    {
+      "name": "Direct edge omitted alternate potential recovers algebraic triangle",
+      "passed": true
+    },
+    {
+      "name": "Removing direct edge AND all its training matched cores prevents shared-mean leakage",
+      "passed": true
+    },
+    {
+      "name": "Common-mean triangle not counted as context-independent evidence",
+      "passed": true
+    },
+    {
+      "name": "Little-endian native masks restore exact odd-size pixels",
+      "passed": true
+    }
+  ],
+  "status": "passed",
+  "limits": "Fixtures verify mechanics and a shared-core counterexample, not scientific source validity or every parser ambiguity."
+}

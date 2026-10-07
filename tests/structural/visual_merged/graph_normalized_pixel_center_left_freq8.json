@@ -1,0 +1,315 @@
+[
+  {
+    "from_unit": "VS01",
+    "to_unit": "VS15",
+    "delta": 0.041562132606154656,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": 0.04199170345112803,
+    "core_details": [
+      {
+        "core": [
+          "VS03"
+        ],
+        "delta": 0.03605581541149594,
+        "combined_frequency": 65
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": 0.04706844980081337,
+        "combined_frequency": 76
+      }
+    ]
+  },
+  {
+    "from_unit": "VS01",
+    "to_unit": "VS04",
+    "delta": 0.005076641164440399,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": 0.00637841865565679,
+    "core_details": [
+      {
+        "core": [
+          "VS07"
+        ],
+        "delta": 0.0006352826649962395,
+        "combined_frequency": 41
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": 0.009517999663884558,
+        "combined_frequency": 75
+      }
+    ]
+  },
+  {
+    "from_unit": "VS01",
+    "to_unit": "VS12",
+    "delta": -0.12441678861887229,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": -0.12113583029845755,
+    "core_details": [
+      {
+        "core": [
+          "VS07"
+        ],
+        "delta": -0.13221817840296957,
+        "combined_frequency": 31
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": -0.11661539883477501,
+        "combined_frequency": 76
+      }
+    ]
+  },
+  {
+    "from_unit": "VS04",
+    "to_unit": "VS12",
+    "delta": -0.12949342978331269,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": -0.13098065674537224,
+    "core_details": [
+      {
+        "core": [
+          "VS07"
+        ],
+        "delta": -0.1328534610679658,
+        "combined_frequency": 44
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": -0.12613339849865957,
+        "combined_frequency": 17
+      }
+    ]
+  },
+  {
+    "from_unit": "VS07",
+    "to_unit": "VS08",
+    "delta": 0.014781848289031958,
+    "matched_cores": 8,
+    "occurrence_weighted_delta": 0.080968141317173,
+    "core_details": [
+      {
+        "core": [
+          "VS15"
+        ],
+        "delta": 0.124866996390679,
+        "combined_frequency": 36
+      },
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": 0.2406103113540416,
+        "combined_frequency": 31
+      },
+      {
+        "core": [
+          "VS11"
+        ],
+        "delta": 0.018371779127760113,
+        "combined_frequency": 35
+      },
+      {
+        "core": [
+          "VS16"
+        ],
+        "delta": 0.22941571045476689,
+        "combined_frequency": 93
+      },
+      {
+        "core": [
+          "VS06"
+        ],
+        "delta": -0.05966263428936347,
+        "combined_frequency": 20
+      },
+      {
+        "core": [
+          "VS06",
+          "VS03"
+        ],
+        "delta": -0.25500983029894403,
+        "combined_frequency": 22
+      },
+      {
+        "core": [
+          "VS15",
+          "VS03"
+        ],
+        "delta": -0.03762902509429844,
+        "combined_frequency": 33
+      },
+      {
+        "core": [
+          "VS15",
+          "VS10"
+        ],
+        "delta": -0.14270852133238598,
+        "combined_frequency": 18
+      }
+    ]
+  },
+  {
+    "from_unit": "VS04",
+    "to_unit": "VS07",
+    "delta": -0.033059547563886495,
+    "matched_cores": 3,
+    "occurrence_weighted_delta": -0.06078252387660928,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": -0.10233392360944255,
+        "combined_frequency": 28
+      },
+      {
+        "core": [
+          "VS11"
+        ],
+        "delta": 0.20947290983828892,
+        "combined_frequency": 35
+      },
+      {
+        "core": [
+          "VS16"
+        ],
+        "delta": -0.20631762892050587,
+        "combined_frequency": 57
+      }
+    ]
+  },
+  {
+    "from_unit": "VS04",
+    "to_unit": "VS08",
+    "delta": 0.07551893537815924,
+    "matched_cores": 9,
+    "occurrence_weighted_delta": 0.05872692567655849,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": 0.13827638774459905,
+        "combined_frequency": 35
+      },
+      {
+        "core": [
+          "VS01",
+          "VS10"
+        ],
+        "delta": 0.11036789773938427,
+        "combined_frequency": 18
+      },
+      {
+        "core": [
+          "VS11"
+        ],
+        "delta": 0.22784468896604904,
+        "combined_frequency": 26
+      },
+      {
+        "core": [
+          "VS12"
+        ],
+        "delta": 0.1833185387533639,
+        "combined_frequency": 32
+      },
+      {
+        "core": [
+          "VS13"
+        ],
+        "delta": 0.001131081046605975,
+        "combined_frequency": 28
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": -0.11865858871246321,
+        "combined_frequency": 32
+      },
+      {
+        "core": [
+          "VS16"
+        ],
+        "delta": 0.023098081534261017,
+        "combined_frequency": 132
+      },
+      {
+        "core": [
+          "VS16",
+          "VS11"
+        ],
+        "delta": 0.064347747760921,
+        "combined_frequency": 39
+      },
+      {
+        "core": [
+          "VS19"
+        ],
+        "delta": 0.049944583570712076,
+        "combined_frequency": 37
+      }
+    ]
+  },
+  {
+    "from_unit": "VS04",
+    "to_unit": "VS14",
+    "delta": -0.14748117152565887,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": -0.11308510997527246,
+    "core_details": [
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": -0.22315250693650895,
+        "combined_frequency": 24
+      },
+      {
+        "core": [
+          "VS16"
+        ],
+        "delta": -0.07180983611480879,
+        "combined_frequency": 64
+      }
+    ]
+  },
+  {
+    "from_unit": "VS08",
+    "to_unit": "VS14",
+    "delta": -0.09970091793655778,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": -0.09676327259906514,
+    "core_details": [
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": -0.10449391822404575,
+        "combined_frequency": 24
+      },
+      {
+        "core": [
+          "VS16"
+        ],
+        "delta": -0.0949079176490698,
+        "combined_frequency": 100
+      }
+    ]
+  }
+]

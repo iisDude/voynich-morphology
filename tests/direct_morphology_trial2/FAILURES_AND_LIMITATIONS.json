@@ -1,0 +1,19 @@
+{
+  "unknown_full_extent_n": 27,
+  "partial_pair_n": 149,
+  "rating_repeat_disagreement_n": 6,
+  "primary_pair_sample_selection": "Registered random/aspect mixture; not uniform manuscript census",
+  "broad_random_contour_not_superior_to_aspect": true,
+  "no_independent_human_validation": true,
+  "no_global_image_blindness": true,
+  "finite_candidate_envelopes_only": true,
+  "implementation_errors": [
+    {
+      "error": "Unmatched parenthesis detected before execution",
+      "fixed_before_metrics": true,
+      "method_changed": false
+    }
+  ],
+  "no_method_retuning": true,
+  "no_downstream_assays": true
+}

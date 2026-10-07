@@ -1,0 +1,106 @@
+{
+  "sealed_at_utc": "2026-10-07T06:08:45.990681+00:00",
+  "status": "Neutral feature feasibility trial evidence. Not V7 segmentation or discrete structural-class inventory.",
+  "files": [
+    {
+      "path": "data/observations/neutral_feature_trial_v1/parent_feature_profiles.json",
+      "sha256": "35360876ee6cacf0c6601b05bd2fd1b7c947a9dcd5b7ae03ee5d41503f263402"
+    },
+    {
+      "path": "data/observations/neutral_feature_trial_v1/PLAN.json",
+      "sha256": "5fa42c13c1c9d1ad8fa7b27c36da0d8ddd5db36f275fcf45eef22f7d52faec56"
+    },
+    {
+      "path": "data/observations/neutral_feature_trial_v1/RGB_AUDIT_HIDDEN_KEY.json",
+      "sha256": "cedc6d06e15ebf2d484ffb44651dbd147aedbdfd257fa391cb6032ae45a1cce2"
+    },
+    {
+      "path": "data/observations/neutral_feature_trial_v1/RGB_AUDIT_REGISTRATION.json",
+      "sha256": "591efe05bc6d8d83f78a3573639420baa87ed794858541bef1b88308f6ad2169"
+    },
+    {
+      "path": "data/observations/neutral_feature_trial_v1/RGB_DECISION_SEAL.json",
+      "sha256": "3e0f5ace200fb3b544662e519f48b2059ddae528b5ce0f539a7452b4417c5d57"
+    },
+    {
+      "path": "data/observations/neutral_feature_trial_v1/RGB_source_feature_decisions.json",
+      "sha256": "8362c132d8b0ea1d0e166c88f3210178d8a6f844ab286d23baf34a3a672ed79e"
+    },
+    {
+      "path": "data/observations/neutral_feature_trial_v1/source_qualified_profiles.json",
+      "sha256": "b11418bf6ea48a5138484871b9fe5603e82b4b63703b1a2f25c7516b81d7e544"
+    },
+    {
+      "path": "figures/neutral_feature_trial_v1/feature_repeatability.png",
+      "sha256": "83b12a6bc91de1bdc82e526d5d024b4c3764ba4a79bd08703056893e67f579f1"
+    },
+    {
+      "path": "figures/neutral_feature_trial_v1/RGB_feature_audit_01.png",
+      "sha256": "0ef6cd39f32cf93ecce94fd199d87f129c25922070e570585075213cb46762b4"
+    },
+    {
+      "path": "figures/neutral_feature_trial_v1/RGB_feature_audit_02.png",
+      "sha256": "dbeb01ffc657fbbc0001de920bfdc4da6947b76e2fa5a536f0edf0065b47f543"
+    },
+    {
+      "path": "reports/19_neutral_structural_feature_profiles_trial1.md",
+      "sha256": "4d2718640742c1b844386506c8ff1b52701b7d7e4cbce6e12a3a9b0064b859fd"
+    },
+    {
+      "path": "reports/20_neutral_feature_profile_examples_trial1.html",
+      "sha256": "ab78fa5824246f4de8ab6cef9d12f892a346d92c1f2f0fedc2906a17aa9d2983"
+    },
+    {
+      "path": "src/audit_neutral_features_v1.py",
+      "sha256": "ab078510a356be2b08330208b09e717297a28ec0218618c512008882db1c73b4"
+    },
+    {
+      "path": "src/neutral_feature_trial_v1.py",
+      "sha256": "8045fe6341dacbce9f74a8f58a17f21a762a9277bbd0990d2858d44857f7ed66"
+    },
+    {
+      "path": "src/record_neutral_feature_rgb_v1.py",
+      "sha256": "79e1eef5558dc7848c0eaa63ddf8f1480c5358b2d5bdd45986d56ed40c4f8101"
+    },
+    {
+      "path": "src/report_neutral_features_v1.py",
+      "sha256": "f48d631c55c502bab43ab52c58e40953dd162d198d9a6121be0f3e3f9d7dcca8"
+    },
+    {
+      "path": "src/seal_neutral_feature_trial_v1.py",
+      "sha256": "f169d398ca295e494bf67636064fae61168be594c514853953c3f4b9842f1b40"
+    },
+    {
+      "path": "src/verify_neutral_feature_trial_v1.py",
+      "sha256": "e400a71749c6a008b84dd9c9680ec8d912906ee234bdb87baeef83e249f39571"
+    },
+    {
+      "path": "tests/neutral_feature_trial_v1/artifact_validation.json",
+      "sha256": "dac3ec933787de423e65d7799154dbbda81bc1343560a478ef28101c7c9fbb77"
+    },
+    {
+      "path": "tests/neutral_feature_trial_v1/cavity_definition_discrepancy.json",
+      "sha256": "18e12751da46ae9853d369d327ddc367e7c5330a695df24b523a42cdcf94b6c3"
+    },
+    {
+      "path": "tests/neutral_feature_trial_v1/example_partial_profile.json",
+      "sha256": "7f12e51139e0a0e2937f25bfd66b47ed05bc02c9320e06cce835257763a7a7b9"
+    },
+    {
+      "path": "tests/neutral_feature_trial_v1/feature_repeatability.json",
+      "sha256": "6f08b0dda25f88394915ff7090801f40dc239cfd2044be50dca5175b3516f5d5"
+    },
+    {
+      "path": "tests/neutral_feature_trial_v1/source_feature_audit.json",
+      "sha256": "bdb6e9939a5d7f360c6193e3688fed8c5ec9671aeff5f894e078b0df5b2c20cd"
+    },
+    {
+      "path": "tests/neutral_feature_trial_v1/variant_value_key.json",
+      "sha256": "bb1a6ba63fa379e4a68a25ebd7eee91cc79a29c83ded75eedb5be963ac46f2ef"
+    }
+  ],
+  "file_count": 24,
+  "support_gate_pass": false,
+  "previous_freezes_unchanged": true,
+  "no_downstream_assays": true
+}

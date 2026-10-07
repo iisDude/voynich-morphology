@@ -1,0 +1,82 @@
+{
+  "all_ratings": {
+    "1": 64,
+    "2": 54,
+    "0": 67
+  },
+  "all_pairs": 185,
+  "primary_scored_pairs": 99,
+  "excluded_partial_or_unresolved": 64,
+  "profile_unavailable_n": 33,
+  "primary_by_caption": {
+    "19": 15,
+    "56": 21,
+    "22": 18,
+    "100": 14,
+    "17": 14,
+    "52": 17
+  },
+  "metrics": {
+    "profile": {
+      "auc": 0.795343137254902,
+      "spearman": 0.42090232745027395
+    },
+    "aspect": {
+      "auc": 0.6272467320261438,
+      "spearman": 0.1689039591338354
+    },
+    "contour": {
+      "auc": 0.9170751633986928,
+      "spearman": 0.5925867678436085
+    },
+    "combined": {
+      "auc": 0.863970588235294,
+      "spearman": 0.4951039260166232
+    }
+  },
+  "paired_differences": {
+    "aspect": {
+      "delta": 0.16809640522875824,
+      "paired_caption_bootstrap95": [
+        0.07539682539682546,
+        0.29113416892180605
+      ]
+    },
+    "contour": {
+      "delta": -0.12173202614379075,
+      "paired_caption_bootstrap95": [
+        -0.20405138339920947,
+        -0.02986906710310977
+      ]
+    },
+    "combined": {
+      "delta": -0.06862745098039202,
+      "paired_caption_bootstrap95": [
+        -0.15608049487119244,
+        0.02560455192034139
+      ]
+    }
+  },
+  "gates": {
+    "auc": true,
+    "pairs": false,
+    "positive": true,
+    "negative": true,
+    "six_captions": true,
+    "all_baselines": false
+  },
+  "similarity_superiority_gate_pass": false,
+  "repeat": {
+    "n": 12,
+    "exact": 12,
+    "exact_rate": 1.0,
+    "same_AI_adjudicator": true,
+    "independent_interrater": false,
+    "confusion": {
+      "0->0": 3,
+      "2->2": 5,
+      "1->1": 4
+    }
+  },
+  "limitations": "Selected pooled nearest/reference hard pairs, not random-pair population. Reference and anchor reuse plus six captions limit generalization. Pair judgment same AI and source crops previously viewed. Unknown/partial excluded explicitly; no training on these ratings."
+}

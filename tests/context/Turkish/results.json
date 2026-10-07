@@ -1,0 +1,36 @@
+{
+  "dataset": "Turkish",
+  "same_hand_context": [],
+  "context_prediction": [],
+  "representation_clustering": [
+    {
+      "status": "not_estimable: document/context coverage insufficient"
+    }
+  ],
+  "wrappers": {
+    "status": "not_estimable: fewer than two contexts"
+  },
+  "compression": {
+    "status": "estimated",
+    "declared_deletion_set": [
+      "a",
+      "e",
+      "i",
+      "o",
+      "u"
+    ],
+    "set_meaning": "ordinary-language vowel codepoints",
+    "baseline_bits_per_original_unit": 8.994322390240246,
+    "deleted_bits_per_original_unit": 7.253967840524197,
+    "matched_set_count": 99,
+    "matched_null_mean": 7.495241455737298,
+    "matched_null_interval": [
+      7.130903102361145,
+      7.743176070410409
+    ],
+    "frequency_matching_max_relative_difference": 0.20407692171102865,
+    "lower_tail_rank_p": 0.09,
+    "codec": "zlib level 9; training literal-unit byte dictionary, 254 unknown, 255 gap marker; separate held-out caption/document streams; equal-document average",
+    "limitation": "Deletion necessarily changes information content. Byte compression cannot identify phonetic vowels or compare native image explanation. Frequency matching is approximate and recorded."
+  }
+}

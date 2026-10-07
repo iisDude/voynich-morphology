@@ -1,0 +1,173 @@
+{
+  "matched_class_comparison": {
+    "0.35": {
+      "complete_retained_group_candidates": 902,
+      "premerge": {
+        "occurrences": 902,
+        "distinct": 355,
+        "singleton_types": 273,
+        "repeated_occurrence_fraction": 0.697339246119734,
+        "maximum_frequency": 70
+      },
+      "structural": {
+        "occurrences": 902,
+        "distinct": 307,
+        "singleton_types": 228,
+        "repeated_occurrence_fraction": 0.7472283813747228,
+        "maximum_frequency": 98
+      },
+      "groups_at_least_three_parents": {
+        "premerge": {
+          "occurrences": 305,
+          "distinct": 253,
+          "singleton_types": 223,
+          "repeated_occurrence_fraction": 0.26885245901639343,
+          "maximum_frequency": 9
+        },
+        "structural": {
+          "occurrences": 305,
+          "distinct": 234,
+          "singleton_types": 194,
+          "repeated_occurrence_fraction": 0.3639344262295082,
+          "maximum_frequency": 10
+        }
+      }
+    },
+    "0.55": {
+      "complete_retained_group_candidates": 617,
+      "premerge": {
+        "occurrences": 617,
+        "distinct": 288,
+        "singleton_types": 227,
+        "repeated_occurrence_fraction": 0.6320907617504052,
+        "maximum_frequency": 45
+      },
+      "structural": {
+        "occurrences": 617,
+        "distinct": 256,
+        "singleton_types": 201,
+        "repeated_occurrence_fraction": 0.6742301458670988,
+        "maximum_frequency": 66
+      },
+      "groups_at_least_three_parents": {
+        "premerge": {
+          "occurrences": 237,
+          "distinct": 209,
+          "singleton_types": 191,
+          "repeated_occurrence_fraction": 0.1940928270042194,
+          "maximum_frequency": 7
+        },
+        "structural": {
+          "occurrences": 237,
+          "distinct": 199,
+          "singleton_types": 177,
+          "repeated_occurrence_fraction": 0.25316455696202533,
+          "maximum_frequency": 8
+        }
+      }
+    },
+    "0.75": {
+      "complete_retained_group_candidates": 424,
+      "premerge": {
+        "occurrences": 424,
+        "distinct": 213,
+        "singleton_types": 169,
+        "repeated_occurrence_fraction": 0.6014150943396226,
+        "maximum_frequency": 35
+      },
+      "structural": {
+        "occurrences": 424,
+        "distinct": 188,
+        "singleton_types": 150,
+        "repeated_occurrence_fraction": 0.6462264150943396,
+        "maximum_frequency": 52
+      },
+      "groups_at_least_three_parents": {
+        "premerge": {
+          "occurrences": 160,
+          "distinct": 145,
+          "singleton_types": 136,
+          "repeated_occurrence_fraction": 0.15,
+          "maximum_frequency": 5
+        },
+        "structural": {
+          "occurrences": 160,
+          "distinct": 139,
+          "singleton_types": 129,
+          "repeated_occurrence_fraction": 0.19375,
+          "maximum_frequency": 8
+        }
+      }
+    }
+  },
+  "caption_subsampling_without_replacement": [
+    {
+      "captions": 3,
+      "mean_groups": 23.976666666666667,
+      "mean_premerge_repeated_fraction": 0.05384934460931237,
+      "mean_structural_repeated_fraction": 0.07111109074607898,
+      "subsampling_90pct_range": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.18812500000000015,
+          0.2274475524475525
+        ]
+      ]
+    },
+    {
+      "captions": 6,
+      "mean_groups": 48.166666666666664,
+      "mean_premerge_repeated_fraction": 0.07671592547035912,
+      "mean_structural_repeated_fraction": 0.10839177311476648,
+      "subsampling_90pct_range": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.1615591397849463,
+          0.21428571428571427
+        ]
+      ]
+    },
+    {
+      "captions": 12,
+      "mean_groups": 94.19666666666667,
+      "mean_premerge_repeated_fraction": 0.10701501592328057,
+      "mean_structural_repeated_fraction": 0.1507326637649632,
+      "subsampling_90pct_range": [
+        [
+          0.04597701149425287,
+          0.07608007705008256
+        ],
+        [
+          0.168274622573688,
+          0.22135701275045538
+        ]
+      ]
+    },
+    {
+      "captions": 30,
+      "mean_groups": 237.0,
+      "mean_premerge_repeated_fraction": 0.19409282700421945,
+      "mean_structural_repeated_fraction": 0.25316455696202533,
+      "subsampling_90pct_range": [
+        [
+          0.1940928270042194,
+          0.25316455696202533
+        ],
+        [
+          0.1940928270042194,
+          0.25316455696202533
+        ]
+      ]
+    }
+  ],
+  "interpretation": "Matched unit/group lists isolate source-atlas label specificity. Increasing caption coverage with fixed classifier separately shows finite-sample recurrence. Neither curve estimates unobserved writing recall or a causal percentage of manuscript sparsity.",
+  "group_status": "Descriptive recurrence of retained parent-list gap hypotheses; not words, independently certified full groups, minimal pairs or a downstream positional assay.",
+  "unknown_groups": 3573,
+  "known_groups": 617
+}

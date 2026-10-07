@@ -1,0 +1,1223 @@
+{
+  "snapshot": {
+    "status": "candidate_extraction_protocol_snapshot_not_unit_freeze",
+    "started_utc": "2026-10-05T15:47:48Z",
+    "code_sha256": "a1ee295443a9e7b36128fc3a54c6e59be5421b596cbbd0e7bf1d721d33542230",
+    "layout_sha256": "b1fd6bbe15d5dee1cb3fe159a87b1b5e1eeb198877d0d57c0050b7f781f064bc",
+    "calibration_layout_sha256": "33e100985f653d96e594d250300e21416029b920bbef9a078b238ea2ec094580",
+    "unit_plan_sha256": "1bf8a29b2cd1f258ea8254959be8c8a93d14c1786e882e535eb3f445c7c4b53c",
+    "source": "native Yale registered to supplied PDF",
+    "native_mask_background_sigma": 25,
+    "native_mask_primary_contrast": 8,
+    "localisation": "PDF for ordinary views; native for scale transfer above three",
+    "models": [
+      "fine_components",
+      "medium_assemblies",
+      "compound_candidates",
+      "group_only"
+    ],
+    "quality": "Candidate data; no final alphabet or accepted physical line claim"
+  },
+  "results": [
+    {
+      "view_id": "V_004",
+      "status": "checkpoint_present"
+    },
+    {
+      "view_id": "V_005",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_005: 19 paths, 74 groups, 1644 subdivisions\n"
+    },
+    {
+      "view_id": "V_006",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_006: 13 paths, 117 groups, 1995 subdivisions\n"
+    },
+    {
+      "view_id": "V_007",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_007: 7 paths, 37 groups, 944 subdivisions\n"
+    },
+    {
+      "view_id": "V_008",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_008: 18 paths, 102 groups, 1889 subdivisions\n"
+    },
+    {
+      "view_id": "V_009",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_009: 12 paths, 84 groups, 1910 subdivisions\n"
+    },
+    {
+      "view_id": "V_010",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_010: 16 paths, 118 groups, 2604 subdivisions\n"
+    },
+    {
+      "view_id": "V_011",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_011: 13 paths, 87 groups, 1768 subdivisions\n"
+    },
+    {
+      "view_id": "V_012",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_012: 5 paths, 37 groups, 1069 subdivisions\n"
+    },
+    {
+      "view_id": "V_013",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_013: 5 paths, 33 groups, 741 subdivisions\n"
+    },
+    {
+      "view_id": "V_014",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_014: 11 paths, 94 groups, 2104 subdivisions\n"
+    },
+    {
+      "view_id": "V_015",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_015: 22 paths, 190 groups, 2781 subdivisions\n"
+    },
+    {
+      "view_id": "V_016",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_016: 9 paths, 82 groups, 1331 subdivisions\n"
+    },
+    {
+      "view_id": "V_017",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_017: 9 paths, 88 groups, 1284 subdivisions\n"
+    },
+    {
+      "view_id": "V_018",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_018: 20 paths, 198 groups, 3984 subdivisions\n"
+    },
+    {
+      "view_id": "V_019",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_019: 15 paths, 150 groups, 1863 subdivisions\n"
+    },
+    {
+      "view_id": "V_020",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_020: 10 paths, 103 groups, 1389 subdivisions\n"
+    },
+    {
+      "view_id": "V_021",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_021: 12 paths, 91 groups, 1865 subdivisions\n"
+    },
+    {
+      "view_id": "V_022",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_022: 13 paths, 82 groups, 2179 subdivisions\n"
+    },
+    {
+      "view_id": "V_023",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_023: 7 paths, 50 groups, 1078 subdivisions\n"
+    },
+    {
+      "view_id": "V_024",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_024: 6 paths, 32 groups, 1135 subdivisions\n"
+    },
+    {
+      "view_id": "V_025",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_025: 6 paths, 49 groups, 1459 subdivisions\n"
+    },
+    {
+      "view_id": "V_026",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_026: 10 paths, 69 groups, 1798 subdivisions\n"
+    },
+    {
+      "view_id": "V_027",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_027: 10 paths, 41 groups, 2157 subdivisions\n"
+    },
+    {
+      "view_id": "V_028",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_028: 14 paths, 99 groups, 3144 subdivisions\n"
+    },
+    {
+      "view_id": "V_029",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_029: 9 paths, 49 groups, 1383 subdivisions\n"
+    },
+    {
+      "view_id": "V_030",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_030: 14 paths, 99 groups, 2699 subdivisions\n"
+    },
+    {
+      "view_id": "V_031",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_031: 12 paths, 52 groups, 1548 subdivisions\n"
+    },
+    {
+      "view_id": "V_032",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_032: 13 paths, 115 groups, 1726 subdivisions\n"
+    },
+    {
+      "view_id": "V_033",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_033: 11 paths, 110 groups, 2189 subdivisions\n"
+    },
+    {
+      "view_id": "V_034",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_034: 12 paths, 103 groups, 2605 subdivisions\n"
+    },
+    {
+      "view_id": "V_035",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_035: 23 paths, 160 groups, 2172 subdivisions\n"
+    },
+    {
+      "view_id": "V_036",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_036: 14 paths, 179 groups, 2080 subdivisions\n"
+    },
+    {
+      "view_id": "V_037",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_037: 10 paths, 73 groups, 873 subdivisions\n"
+    },
+    {
+      "view_id": "V_038",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_038: 12 paths, 95 groups, 2064 subdivisions\n"
+    },
+    {
+      "view_id": "V_039",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_039: 14 paths, 84 groups, 2138 subdivisions\n"
+    },
+    {
+      "view_id": "V_040",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_040: 13 paths, 99 groups, 1996 subdivisions\n"
+    },
+    {
+      "view_id": "V_041",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_041: 11 paths, 69 groups, 1929 subdivisions\n"
+    },
+    {
+      "view_id": "V_042",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_042: 12 paths, 94 groups, 2226 subdivisions\n"
+    },
+    {
+      "view_id": "V_043",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_043: 7 paths, 42 groups, 1496 subdivisions\n"
+    },
+    {
+      "view_id": "V_044",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_044: 13 paths, 91 groups, 3030 subdivisions\n"
+    },
+    {
+      "view_id": "V_045",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_045: 16 paths, 75 groups, 1594 subdivisions\n"
+    },
+    {
+      "view_id": "V_046",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_046: 11 paths, 108 groups, 2232 subdivisions\n"
+    },
+    {
+      "view_id": "V_047",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_047: 11 paths, 127 groups, 1258 subdivisions\n"
+    },
+    {
+      "view_id": "V_048",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_048: 17 paths, 83 groups, 873 subdivisions\n"
+    },
+    {
+      "view_id": "V_049",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_049: 11 paths, 112 groups, 1845 subdivisions\n"
+    },
+    {
+      "view_id": "V_050",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_050: 6 paths, 58 groups, 837 subdivisions\n"
+    },
+    {
+      "view_id": "V_051",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_051: 7 paths, 64 groups, 1222 subdivisions\n"
+    },
+    {
+      "view_id": "V_052",
+      "status": "checkpoint_present"
+    },
+    {
+      "view_id": "V_053",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_053: 9 paths, 97 groups, 1121 subdivisions\n"
+    },
+    {
+      "view_id": "V_054",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_054: 13 paths, 94 groups, 1824 subdivisions\n"
+    },
+    {
+      "view_id": "V_055",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_055: 8 paths, 65 groups, 1600 subdivisions\n"
+    },
+    {
+      "view_id": "V_056",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_056: 9 paths, 74 groups, 1895 subdivisions\n"
+    },
+    {
+      "view_id": "V_057",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_057: 8 paths, 73 groups, 1773 subdivisions\n"
+    },
+    {
+      "view_id": "V_058",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_058: 9 paths, 67 groups, 1989 subdivisions\n"
+    },
+    {
+      "view_id": "V_059",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_059: 12 paths, 100 groups, 2784 subdivisions\n"
+    },
+    {
+      "view_id": "V_060",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_060: 9 paths, 84 groups, 1918 subdivisions\n"
+    },
+    {
+      "view_id": "V_061",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_061: 7 paths, 41 groups, 880 subdivisions\n"
+    },
+    {
+      "view_id": "V_062",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_062: 15 paths, 171 groups, 1839 subdivisions\n"
+    },
+    {
+      "view_id": "V_063",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_063: 10 paths, 117 groups, 1642 subdivisions\n"
+    },
+    {
+      "view_id": "V_064",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_064: 18 paths, 105 groups, 1900 subdivisions\n"
+    },
+    {
+      "view_id": "V_065",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_065: 10 paths, 75 groups, 1580 subdivisions\n"
+    },
+    {
+      "view_id": "V_066",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_066: 8 paths, 84 groups, 1371 subdivisions\n"
+    },
+    {
+      "view_id": "V_067",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_067: 12 paths, 144 groups, 2188 subdivisions\n"
+    },
+    {
+      "view_id": "V_068",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_068: 14 paths, 121 groups, 3313 subdivisions\n"
+    },
+    {
+      "view_id": "V_069",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_069: 10 paths, 107 groups, 1349 subdivisions\n"
+    },
+    {
+      "view_id": "V_070",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_070: 14 paths, 114 groups, 2235 subdivisions\n"
+    },
+    {
+      "view_id": "V_071",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_071: 21 paths, 87 groups, 2991 subdivisions\n"
+    },
+    {
+      "view_id": "V_072",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_072: 9 paths, 73 groups, 1489 subdivisions\n"
+    },
+    {
+      "view_id": "V_073",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_073: 13 paths, 67 groups, 1137 subdivisions\n"
+    },
+    {
+      "view_id": "V_074",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_074: 11 paths, 84 groups, 2360 subdivisions\n"
+    },
+    {
+      "view_id": "V_075",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_075: 21 paths, 111 groups, 1725 subdivisions\n"
+    },
+    {
+      "view_id": "V_076",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_076: 6 paths, 26 groups, 1279 subdivisions\n"
+    },
+    {
+      "view_id": "V_077",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_077: 7 paths, 41 groups, 1180 subdivisions\n"
+    },
+    {
+      "view_id": "V_078",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_078: 15 paths, 174 groups, 2634 subdivisions\n"
+    },
+    {
+      "view_id": "V_079",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_079: 11 paths, 94 groups, 1760 subdivisions\n"
+    },
+    {
+      "view_id": "V_080",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_080: 19 paths, 101 groups, 1571 subdivisions\n"
+    },
+    {
+      "view_id": "V_081",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_081: 21 paths, 140 groups, 1933 subdivisions\n"
+    },
+    {
+      "view_id": "V_082",
+      "status": "checkpoint_present"
+    },
+    {
+      "view_id": "V_083",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_083: 8 paths, 88 groups, 1240 subdivisions\n"
+    },
+    {
+      "view_id": "V_084",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_084: 27 paths, 169 groups, 2789 subdivisions\n"
+    },
+    {
+      "view_id": "V_085",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_085: 14 paths, 133 groups, 2478 subdivisions\n"
+    },
+    {
+      "view_id": "V_086",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_086: 14 paths, 151 groups, 2587 subdivisions\n"
+    },
+    {
+      "view_id": "V_087",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_087: 16 paths, 180 groups, 2002 subdivisions\n"
+    },
+    {
+      "view_id": "V_088",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_088: 11 paths, 80 groups, 2008 subdivisions\n"
+    },
+    {
+      "view_id": "V_089",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_089: 12 paths, 110 groups, 2100 subdivisions\n"
+    },
+    {
+      "view_id": "V_090",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_090: 11 paths, 104 groups, 2395 subdivisions\n"
+    },
+    {
+      "view_id": "V_091",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_091: 10 paths, 46 groups, 1009 subdivisions\n"
+    },
+    {
+      "view_id": "V_092",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_092: 14 paths, 187 groups, 2410 subdivisions\n"
+    },
+    {
+      "view_id": "V_093",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_093: 10 paths, 114 groups, 2186 subdivisions\n"
+    },
+    {
+      "view_id": "V_094",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_094: 11 paths, 83 groups, 1642 subdivisions\n"
+    },
+    {
+      "view_id": "V_095",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_095: 13 paths, 107 groups, 1451 subdivisions\n"
+    },
+    {
+      "view_id": "V_096",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_096: 9 paths, 99 groups, 2018 subdivisions\n"
+    },
+    {
+      "view_id": "V_097",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_097: 7 paths, 107 groups, 1102 subdivisions\n"
+    },
+    {
+      "view_id": "V_098",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_098: 21 paths, 146 groups, 2552 subdivisions\n"
+    },
+    {
+      "view_id": "V_099",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_099: 25 paths, 149 groups, 5721 subdivisions\n"
+    },
+    {
+      "view_id": "V_100",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_100: 11 paths, 107 groups, 1558 subdivisions\n"
+    },
+    {
+      "view_id": "V_101",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_101: 11 paths, 106 groups, 1481 subdivisions\n"
+    },
+    {
+      "view_id": "V_102",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_102: 14 paths, 90 groups, 1123 subdivisions\n"
+    },
+    {
+      "view_id": "V_103",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_103: 20 paths, 81 groups, 1361 subdivisions\n"
+    },
+    {
+      "view_id": "V_104",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_104: 8 paths, 55 groups, 1577 subdivisions\n"
+    },
+    {
+      "view_id": "V_105",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_105: 13 paths, 103 groups, 1824 subdivisions\n"
+    },
+    {
+      "view_id": "V_106",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_106: 8 paths, 64 groups, 1383 subdivisions\n"
+    },
+    {
+      "view_id": "V_107",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_107: 13 paths, 119 groups, 1959 subdivisions\n"
+    },
+    {
+      "view_id": "V_108",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_108: 12 paths, 149 groups, 1138 subdivisions\n"
+    },
+    {
+      "view_id": "V_109",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_109: 17 paths, 125 groups, 1981 subdivisions\n"
+    },
+    {
+      "view_id": "V_110",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_110: 12 paths, 95 groups, 2403 subdivisions\n"
+    },
+    {
+      "view_id": "V_111",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_111: 9 paths, 77 groups, 1753 subdivisions\n"
+    },
+    {
+      "view_id": "V_112",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_112: 18 paths, 97 groups, 1665 subdivisions\n"
+    },
+    {
+      "view_id": "V_113",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_113: 10 paths, 72 groups, 1238 subdivisions\n"
+    },
+    {
+      "view_id": "V_114",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_114: 12 paths, 142 groups, 2216 subdivisions\n"
+    },
+    {
+      "view_id": "V_115",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_115: 0 paths, 0 groups, 0 subdivisions\n"
+    },
+    {
+      "view_id": "V_116",
+      "status": "checkpoint_present"
+    },
+    {
+      "view_id": "V_117",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_117: 38 paths, 369 groups, 6054 subdivisions\n"
+    },
+    {
+      "view_id": "V_118",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_118: 0 paths, 0 groups, 0 subdivisions\n"
+    },
+    {
+      "view_id": "V_119",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_119: 13 paths, 66 groups, 1795 subdivisions\n"
+    },
+    {
+      "view_id": "V_120",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_120: 32 paths, 320 groups, 7217 subdivisions\n"
+    },
+    {
+      "view_id": "V_121",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_121: 11 paths, 69 groups, 2954 subdivisions\n"
+    },
+    {
+      "view_id": "V_122",
+      "status": "checkpoint_present"
+    },
+    {
+      "view_id": "V_123",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_123: 0 paths, 0 groups, 0 subdivisions\n"
+    },
+    {
+      "view_id": "V_124",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_124: 0 paths, 0 groups, 0 subdivisions\n"
+    },
+    {
+      "view_id": "V_125",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_125: 12 paths, 245 groups, 2395 subdivisions\n"
+    },
+    {
+      "view_id": "V_126",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_126: 4 paths, 43 groups, 484 subdivisions\n"
+    },
+    {
+      "view_id": "V_127",
+      "status": "checkpoint_present"
+    },
+    {
+      "view_id": "V_128",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_128: 0 paths, 0 groups, 0 subdivisions\n"
+    },
+    {
+      "view_id": "V_129",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_129: 0 paths, 0 groups, 0 subdivisions\n"
+    },
+    {
+      "view_id": "V_130",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_130: 0 paths, 0 groups, 0 subdivisions\n"
+    },
+    {
+      "view_id": "V_131",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_131: 0 paths, 0 groups, 0 subdivisions\n"
+    },
+    {
+      "view_id": "V_132",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_132: 0 paths, 0 groups, 0 subdivisions\n"
+    },
+    {
+      "view_id": "V_133",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_133: 0 paths, 0 groups, 0 subdivisions\n"
+    },
+    {
+      "view_id": "V_134",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_134: 0 paths, 0 groups, 0 subdivisions\n"
+    },
+    {
+      "view_id": "V_135",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_135: 0 paths, 0 groups, 0 subdivisions\n"
+    },
+    {
+      "view_id": "V_136",
+      "status": "checkpoint_present"
+    },
+    {
+      "view_id": "V_137",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_137: 44 paths, 271 groups, 2620 subdivisions\n"
+    },
+    {
+      "view_id": "V_138",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_138: 39 paths, 444 groups, 4948 subdivisions\n"
+    },
+    {
+      "view_id": "V_139",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_139: 40 paths, 381 groups, 4476 subdivisions\n"
+    },
+    {
+      "view_id": "V_140",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_140: 36 paths, 399 groups, 4197 subdivisions\n"
+    },
+    {
+      "view_id": "V_141",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_141: 32 paths, 396 groups, 3725 subdivisions\n"
+    },
+    {
+      "view_id": "V_142",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_142: 42 paths, 316 groups, 2903 subdivisions\n"
+    },
+    {
+      "view_id": "V_143",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_143: 30 paths, 266 groups, 3890 subdivisions\n"
+    },
+    {
+      "view_id": "V_144",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_144: 45 paths, 516 groups, 7433 subdivisions\n"
+    },
+    {
+      "view_id": "V_145",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_145: 40 paths, 481 groups, 5571 subdivisions\n"
+    },
+    {
+      "view_id": "V_146",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_146: 41 paths, 459 groups, 4835 subdivisions\n"
+    },
+    {
+      "view_id": "V_147",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_147: 42 paths, 391 groups, 6521 subdivisions\n"
+    },
+    {
+      "view_id": "V_148",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_148: 30 paths, 208 groups, 3973 subdivisions\n"
+    },
+    {
+      "view_id": "V_149",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_149: 25 paths, 238 groups, 3315 subdivisions\n"
+    },
+    {
+      "view_id": "V_150",
+      "status": "checkpoint_present"
+    },
+    {
+      "view_id": "V_151",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_151: 33 paths, 342 groups, 3726 subdivisions\n"
+    },
+    {
+      "view_id": "V_152",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_152: 41 paths, 298 groups, 5725 subdivisions\n"
+    },
+    {
+      "view_id": "V_153",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_153: 28 paths, 280 groups, 4552 subdivisions\n"
+    },
+    {
+      "view_id": "V_154",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_154: 35 paths, 287 groups, 3208 subdivisions\n"
+    },
+    {
+      "view_id": "V_155",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_155: 33 paths, 249 groups, 4340 subdivisions\n"
+    },
+    {
+      "view_id": "V_156",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_156: 29 paths, 374 groups, 4876 subdivisions\n"
+    },
+    {
+      "view_id": "V_157",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_157: 55 paths, 632 groups, 5718 subdivisions\n"
+    },
+    {
+      "view_id": "V_158",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_158: 52 paths, 477 groups, 5689 subdivisions\n"
+    },
+    {
+      "view_id": "V_160",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_160: 14 paths, 109 groups, 1865 subdivisions\n"
+    },
+    {
+      "view_id": "V_161",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_161: 13 paths, 101 groups, 2951 subdivisions\n"
+    },
+    {
+      "view_id": "V_162",
+      "status": "checkpoint_present"
+    },
+    {
+      "view_id": "V_163",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_163: 79 paths, 1402 groups, 16592 subdivisions\n"
+    },
+    {
+      "view_id": "V_164",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_164: 16 paths, 170 groups, 5546 subdivisions\n"
+    },
+    {
+      "view_id": "V_165",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_165: 55 paths, 628 groups, 7731 subdivisions\n"
+    },
+    {
+      "view_id": "V_166",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_166: 10 paths, 139 groups, 2032 subdivisions\n"
+    },
+    {
+      "view_id": "V_167",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_167: 9 paths, 93 groups, 1529 subdivisions\n"
+    },
+    {
+      "view_id": "V_168",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_168: 29 paths, 157 groups, 1910 subdivisions\n"
+    },
+    {
+      "view_id": "V_169",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_169: 10 paths, 98 groups, 1041 subdivisions\n"
+    },
+    {
+      "view_id": "V_170",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_170: 8 paths, 76 groups, 1060 subdivisions\n"
+    },
+    {
+      "view_id": "V_171",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_171: 35 paths, 405 groups, 4848 subdivisions\n"
+    },
+    {
+      "view_id": "V_172",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_172: 9 paths, 74 groups, 1493 subdivisions\n"
+    },
+    {
+      "view_id": "V_173",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_173: 9 paths, 85 groups, 1250 subdivisions\n"
+    },
+    {
+      "view_id": "V_174",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_174: 13 paths, 82 groups, 885 subdivisions\n"
+    },
+    {
+      "view_id": "V_175",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_175: 12 paths, 97 groups, 1986 subdivisions\n"
+    },
+    {
+      "view_id": "V_176",
+      "status": "checkpoint_present"
+    },
+    {
+      "view_id": "V_177",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_177: 15 paths, 154 groups, 2467 subdivisions\n"
+    },
+    {
+      "view_id": "V_178",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_178: 11 paths, 96 groups, 2346 subdivisions\n"
+    },
+    {
+      "view_id": "V_179",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_179: 68 paths, 951 groups, 17290 subdivisions\n"
+    },
+    {
+      "view_id": "V_180",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_180: 9 paths, 75 groups, 1599 subdivisions\n"
+    },
+    {
+      "view_id": "V_181",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_181: 54 paths, 735 groups, 10935 subdivisions\n"
+    },
+    {
+      "view_id": "V_182",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_182: 19 paths, 206 groups, 4221 subdivisions\n"
+    },
+    {
+      "view_id": "V_183",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_183: 14 paths, 95 groups, 3636 subdivisions\n"
+    },
+    {
+      "view_id": "V_184",
+      "status": "checkpoint_present"
+    },
+    {
+      "view_id": "V_185",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_185: 41 paths, 365 groups, 5831 subdivisions\n"
+    },
+    {
+      "view_id": "V_186",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_186: 45 paths, 508 groups, 5754 subdivisions\n"
+    },
+    {
+      "view_id": "V_187",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_187: 46 paths, 593 groups, 5449 subdivisions\n"
+    },
+    {
+      "view_id": "V_188",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_188: 37 paths, 427 groups, 5648 subdivisions\n"
+    },
+    {
+      "view_id": "V_189",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_189: 39 paths, 395 groups, 3808 subdivisions\n"
+    },
+    {
+      "view_id": "V_190",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_190: 46 paths, 465 groups, 6786 subdivisions\n"
+    },
+    {
+      "view_id": "V_191",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_191: 43 paths, 541 groups, 5369 subdivisions\n"
+    },
+    {
+      "view_id": "V_192",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_192: 41 paths, 521 groups, 5206 subdivisions\n"
+    },
+    {
+      "view_id": "V_193",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_193: 37 paths, 470 groups, 6016 subdivisions\n"
+    },
+    {
+      "view_id": "V_194",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_194: 49 paths, 572 groups, 6269 subdivisions\n"
+    },
+    {
+      "view_id": "V_195",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_195: 44 paths, 434 groups, 4681 subdivisions\n"
+    },
+    {
+      "view_id": "V_196",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_196: 50 paths, 539 groups, 6262 subdivisions\n"
+    },
+    {
+      "view_id": "V_197",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_197: 43 paths, 460 groups, 5968 subdivisions\n"
+    },
+    {
+      "view_id": "V_198",
+      "status": "checkpoint_present"
+    },
+    {
+      "view_id": "V_199",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_199: 36 paths, 470 groups, 4160 subdivisions\n"
+    },
+    {
+      "view_id": "V_200",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_200: 46 paths, 564 groups, 5404 subdivisions\n"
+    },
+    {
+      "view_id": "V_201",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_201: 46 paths, 500 groups, 5328 subdivisions\n"
+    },
+    {
+      "view_id": "V_202",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_202: 43 paths, 480 groups, 4418 subdivisions\n"
+    },
+    {
+      "view_id": "V_203",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_203: 40 paths, 486 groups, 6222 subdivisions\n"
+    },
+    {
+      "view_id": "V_204",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_204: 33 paths, 371 groups, 3197 subdivisions\n"
+    },
+    {
+      "view_id": "V_205",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_205: 44 paths, 551 groups, 7471 subdivisions\n"
+    },
+    {
+      "view_id": "V_206",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_206: 46 paths, 528 groups, 6439 subdivisions\n"
+    },
+    {
+      "view_id": "V_207",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_207: 5 paths, 65 groups, 952 subdivisions\n"
+    },
+    {
+      "view_id": "V_159",
+      "status": "candidates_generated",
+      "exit_code": 0,
+      "message": "V_159: 0 paths, 0 groups, 0 subdivisions\n"
+    }
+  ]
+}

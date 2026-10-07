@@ -1,0 +1,39 @@
+{
+  "registered_at_utc": "2026-10-06T09:33:37.669056+00:00",
+  "seed": 20261005,
+  "question": "Why is manuscript-derived visual-form recurrence sparse? Separate coverage, membership/boundary and class-specificity contributions.",
+  "v2_immutable_manifest_sha256": "bbfd0e6f4e25dbad613c4b713d2b5bb50b6bd5d856487bfd9c6fd030ee408dc6",
+  "source_corpus": "Highest-resolution local Yale imagery, ordinary-row proposals selected by physical geometry and manuscript-order/split coverage only",
+  "selection": "Up to 8 train,3 validation,3 test views in each of 4 manuscript-order strata; up to 24 ordinary candidates per view. Risk targets straight/simple rows, not effect-supporting groups.",
+  "proposed_rows": 1051,
+  "forbidden_inputs": [
+    "EVA",
+    "RF",
+    "v101",
+    "Currier",
+    "inherited hand/section",
+    "positional outcomes",
+    "minimal-pair support"
+  ],
+  "row_review": "Every proposed row reviewed in native RGB and ownership context; source endpoints, body membership, drawing and detached marks handled separately. Clear local units may be usable even if full row endpoint unknown; no position eligibility gate for recurrence.",
+  "coverage_accounting": "Observed pipeline losses only; unreviewed images not imputed. Separate full-line certification losses from local membership and family rejection. Within fixed source cohort compare classifier specificity, matched sample sizes and caption-block resampling.",
+  "classes": "Whole connected assemblies primary; topology/connectivity/relative geometry and image similarity; lower/upper factor signatures and detached-component alternatives. No linguistic letters or word assumption.",
+  "candidates": "Source-trained image/geometry families K=16,24,32,48,64; topology-constrained and image-only competitors. Validation uses held-out image loss and source pair judgments; token/minimal-pair counts never choose merges.",
+  "heldout": "Existing caption-connected splits; model/config locked before test assignment evidence inspected. Source membership review can inspect test rows without using algorithm class suggestions. Prior exposure acknowledged; no new blind claim.",
+  "perturbations": "Native contrast 6/9/12 and small alignment/slant nuisance transforms; topology changes cause abstention/alternatives, not forced matching.",
+  "freeze_requirements": {
+    "source_rows_reviewed_at_least": 600,
+    "source_views_at_least": 40,
+    "test_caption_groups_at_least": 6,
+    "stable_recurring_structural_classes_at_least": 10,
+    "each_core_class_training_captions_at_least": 3,
+    "each_core_class_test_instances_at_least": 5,
+    "each_core_class_test_captions_at_least": 3,
+    "source_pair_audit_positive_agreement_at_least": 0.85,
+    "hard_negative_false_acceptance_at_most": 0.15,
+    "threshold_assignment_stability_at_least": 0.8,
+    "clear_test_component_assignment_coverage_at_least": 0.5
+  },
+  "failure_policy": "Preserve unknowns and competing systems. No V3 freeze merely because counts improve. Failed held-out criteria require a development report and a new source-only candidate with separately reserved evidence, not test tuning.",
+  "downstream": "No positional rerun. Only reconsider assays after a validated new freeze; current work does not run them."
+}

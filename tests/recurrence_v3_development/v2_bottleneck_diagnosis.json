@@ -1,0 +1,63 @@
+{
+  "counts": {
+    "proposed_groups": 4136,
+    "local_components_clean_groups": 2562,
+    "source_membership_accepted_groups": 1481,
+    "full_row_extent_eligible_slots": 450,
+    "source_accepted_with_all_old_families": 728,
+    "old_final_fine_sequence_groups": 728,
+    "old_final_eligible_fine_groups": 165
+  },
+  "unique_proposed_rows": 390,
+  "captures_with_reviewed_group_proposals": 50,
+  "total_source_captures": 204,
+  "source_review_capture_fraction": 0.24509803921568626,
+  "component_occurrence_losses": {
+    "unknown_component_ownership_or_contact": 2509,
+    "clear_candidate_component_rejected_by_family_gate": 2981
+  },
+  "matched_membership_cohort": {
+    "groups": 728,
+    "fine": {
+      "occurrences": 728,
+      "distinct_sequences": 532,
+      "singleton_sequences": 463,
+      "repeated_occurrence_fraction": 0.364010989010989,
+      "maximum_frequency": 16
+    },
+    "broad": {
+      "occurrences": 728,
+      "distinct_sequences": 343,
+      "singleton_sequences": 258,
+      "repeated_occurrence_fraction": 0.6456043956043956,
+      "maximum_frequency": 63
+    },
+    "factored": {
+      "occurrences": 728,
+      "distinct_sequences": 318,
+      "singleton_sequences": 237,
+      "repeated_occurrence_fraction": 0.6744505494505495,
+      "maximum_frequency": 63
+    }
+  },
+  "all_local_clean_proposals": {
+    "groups": 2562,
+    "fine": {
+      "occurrences": 1220,
+      "distinct_sequences": 820,
+      "singleton_sequences": 703,
+      "repeated_occurrence_fraction": 0.4237704918032787,
+      "maximum_frequency": 23
+    },
+    "broad": {
+      "occurrences": 1220,
+      "distinct_sequences": 485,
+      "singleton_sequences": 349,
+      "repeated_occurrence_fraction": 0.7139344262295082,
+      "maximum_frequency": 96
+    }
+  },
+  "attribution": "Direct observable sequential gate accounting; local clean mask is not certified recall. Coverage outside reviewed fields and recovered source writing cannot be estimated from accepted identities. Coarse relabeling on a fixed cohort isolates classifier-specific sequence distinctions but is not an accuracy-validated merge.",
+  "causal_limit": "Nonrandom uncertainty samples, interacting membership/classification losses, and no ground-truth inventory prevent a manuscript-wide percentage causally attributable to coverage versus classification. Expanded ordinary corpus and matched-size curves are required.",
+  "no_forbidden_inputs_read": true
+}

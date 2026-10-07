@@ -1,0 +1,38 @@
+{
+  "direct_morphology_trial1": {
+    "candidate_n": 1124,
+    "parent_n": 217,
+    "normalized_fields_exact": true,
+    "ten_distance_matrices_exact": true,
+    "source_unknowns_preserved": true
+  },
+  "direct_morphology_trial2": {
+    "candidate_n": 1437,
+    "parent_n": 280,
+    "normalized_fields_exact": true,
+    "ten_distance_matrices_exact": true,
+    "source_unknowns_preserved": true
+  },
+  "trial2_metrics": {
+    "AUROC": 0.8785714285714284,
+    "binary_n": 211,
+    "caption_bootstrap_exact": true,
+    "paired_delta_exact": true
+  },
+  "robustness": {
+    "conditions_exact": 108,
+    "all_selection_and_greedy_sets_exact": true,
+    "repeat_n": 125,
+    "exact_agreement": 0.808,
+    "all_intervals_exact": true
+  },
+  "feature_trial2": {
+    "parents": 221,
+    "profiles_and_five_matrices_exact": true
+  },
+  "v5_conservation": {
+    "confirmed_target_parents": 638,
+    "assigned_v3": 311,
+    "complete_structural_rows": 0
+  }
+}

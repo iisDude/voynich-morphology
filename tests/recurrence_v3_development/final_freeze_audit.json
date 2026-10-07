@@ -1,0 +1,40 @@
+{
+  "time_utc": "2026-10-06T12:44:23.521569+00:00",
+  "freeze_checks": [
+    {
+      "version": "v0",
+      "files_checked": 1512,
+      "failures": [],
+      "manifest_sha256": "eb1dff78adf9409757812a2aa7fca0a8c7a03ccbb102362276081e2bfd0ff656"
+    },
+    {
+      "version": "v11",
+      "files_checked": 1049,
+      "failures": [],
+      "manifest_sha256": "cab58c0dd8a0d344b15eec7aeac08f822a6dfc55fcf2aa66bc54d5ed3f888097"
+    },
+    {
+      "version": "v2",
+      "files_checked": 1533,
+      "failures": [],
+      "manifest_sha256": "bbfd0e6f4e25dbad613c4b713d2b5bb50b6bd5d856487bfd9c6fd030ee408dc6"
+    },
+    {
+      "version": "v3",
+      "files_checked": 20812,
+      "failures": [],
+      "manifest_sha256": "4f593cc679e6395c164425bb9eca5ca3df01abda7dc0be5a4ad9a0a3ba6050fc"
+    }
+  ],
+  "original_files_checked": 14,
+  "original_failures": [],
+  "total_frozen_file_checks": 24906,
+  "unique_parent_records": 20037,
+  "core_classes": 14,
+  "group_parent_conservation": true,
+  "native_parent_no_duplicate_counts": true,
+  "caption_splits_disjoint": true,
+  "sealed_test_assignments_reproduced": 1789,
+  "all_pass": true,
+  "no_positional_assay_run": true
+}

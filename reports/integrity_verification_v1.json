@@ -1,0 +1,14 @@
+{
+  "time_utc": "2026-10-05T19:27:52.523635+00:00",
+  "freeze_sha256": "eb1dff78adf9409757812a2aa7fca0a8c7a03ccbb102362276081e2bfd0ff656",
+  "freeze_files_checked": 1512,
+  "freeze_failures": [
+    {
+      "path": "data/observations/visual_dataset_v0/V_038.json",
+      "expected": "4a35e87fe2072e0f022bb773aa4663341bd3068695c6e3381e10addc3f51f270",
+      "actual": "5ca84a1ba09dd7a46f47d46274a75933296c09b7a2f271ccf20d1f9ac57e1173"
+    }
+  ],
+  "original_files_checked": 14,
+  "original_failures": []
+}

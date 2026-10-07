@@ -1,0 +1,26 @@
+{
+  "status": "Post-freeze derivative figures, not part of either original hashed snapshot",
+  "source_sha256": "3760d519815ca69a7d7e04366df1bbfb67b0797ecf7684ac98a774005dc81b0c",
+  "figures": [
+    {
+      "path": "tests/visual_reconstruction/figures/heldout_geometry_derivative_v1.png",
+      "source": "tests/visual_reconstruction/summary.csv",
+      "source_sha256": "1b9212411f0268cef97f4619c2ab8ca6ff4521b20d31f7b0736ba454a0dc351b"
+    },
+    {
+      "path": "tests/visual_structure/figures/morphology_derivative_v1.png",
+      "source": "tests/visual_structure/summary.csv",
+      "source_sha256": "22b1f8e58e479848ecedaa5f744c6da5bec9adf4950bf21c3cecf34e0a65c87d"
+    },
+    {
+      "path": "tests/visual_geometry/figures/registration_derivative_v1.png",
+      "source": "data/source/yale_registration_all.json",
+      "source_sha256": "e6f448a179e5114aef37bd118a7b456e1852b9b56a8dc05c0bfae10a3ae484ba"
+    },
+    {
+      "path": "tests/candidate_integrity_v1/figures/conservation_derivative_v1.png",
+      "source": "tests/candidate_integrity_v1/results.csv",
+      "source_sha256": "ad0e3657a2b57107b5008ad159887489c074ac0612c103279b79f6fd59b29be0"
+    }
+  ]
+}

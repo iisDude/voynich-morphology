@@ -1,0 +1,23 @@
+{
+  "shape32": 1437,
+  "shape64": 1437,
+  "shape128": 1437,
+  "sdf64": 1437,
+  "source_unknowns_preserved": true,
+  "exact_distance_matrices": [
+    "candidate_contour64",
+    "candidate_sdf64",
+    "primary_contour64",
+    "observed_contour_low",
+    "observed_contour_high",
+    "primary_sdf64",
+    "observed_sdf_low",
+    "observed_sdf_high",
+    "primary_contour32",
+    "primary_contour128"
+  ],
+  "checked_at_utc": "2026-10-07T08:38:51.631830+00:00",
+  "candidate_n": 1437,
+  "parent_n": 280,
+  "not_source_ground_truth": true
+}

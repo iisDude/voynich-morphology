@@ -1,0 +1,23 @@
+test,subset,position,variant,status,n,effect,ci_low,ci_high,null_p
+minimal_pair,all,normalized_group_rank,freq5_edge1_minlen3,estimated,2348,0.0019791450906875667,,,
+minimal_pair,all,normalized_group_rank,freq5_edge2_minlen5,estimated,1647,-0.011542774790247385,,,
+minimal_pair,all,normalized_group_rank,freq8_edge1_minlen3,estimated,1393,0.0012729943740723974,,,
+minimal_pair,all,normalized_group_rank,freq8_edge2_minlen5,estimated,878,-0.019510553303787856,-0.04004148879332431,-0.004796307235716078,0.025
+minimal_pair,all,normalized_group_rank,legacy all lengths,estimated,1517,-0.018830413348563124,,,
+minimal_pair,all,normalized_group_rank,freq10_edge1_minlen3,estimated,1118,0.0021547030022769464,,,
+minimal_pair,all,normalized_group_rank,freq10_edge2_minlen5,estimated,653,-0.01863114466974669,,,
+minimal_pair,all,normalized_group_rank,freq12_edge1_minlen3,estimated,927,0.0018497475763878859,,,
+minimal_pair,all,normalized_group_rank,freq12_edge2_minlen5,estimated,498,-0.01686612192526928,,,
+minimal_pair,all,normalized_group_rank,one-unit edge strict length>=5,estimated,878,-0.006415539462995503,,,
+reproducibility,all,normalized_group_rank,left_freq5,estimated,41,0.8634377153051703,,,0.01
+alternate_prediction,all,normalized_group_rank,left_freq5,estimated,39,0.48012626801397656,,,0.02
+triangle_closure,all,normalized_group_rank,left_freq5,estimated,25,0.6853241403370391,,,0.14
+reproducibility,all,normalized_group_rank,right_freq5,estimated,38,0.7004450406606908,,,0.01
+alternate_prediction,all,normalized_group_rank,right_freq5,estimated,34,0.0032458211572442,,,0.98
+triangle_closure,all,normalized_group_rank,right_freq5,estimated,27,0.7911562471131419,,,0.27
+reproducibility,all,normalized_group_rank,left_freq8,estimated,26,0.8697878514824189,,,0.01
+alternate_prediction,all,normalized_group_rank,left_freq8,estimated,24,0.4580726873811253,,,0.09
+triangle_closure,all,normalized_group_rank,left_freq8,estimated,7,0.8034770555008528,,,0.38
+reproducibility,all,normalized_group_rank,right_freq8,estimated,31,0.5316841211470168,,,0.04
+alternate_prediction,all,normalized_group_rank,right_freq8,estimated,28,-0.12569257908932854,,,0.58
+triangle_closure,all,normalized_group_rank,right_freq8,estimated,18,1.0154388973576585,,,0.72

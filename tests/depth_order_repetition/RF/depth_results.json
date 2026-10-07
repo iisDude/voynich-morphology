@@ -1,0 +1,515 @@
+[
+  {
+    "dataset": "RF",
+    "subset": "all",
+    "status": "completed",
+    "position": "normalized_group_rank",
+    "pairs": 537,
+    "connected_families": 49,
+    "results": [
+      {
+        "metric": "position",
+        "n": 537,
+        "counts": {
+          "outer": 231,
+          "near": 209,
+          "interior": 97
+        },
+        "raw_means": {
+          "outer": 0.14552110669961263,
+          "near": 0.10397870957496697,
+          "interior": 0.09011487689108003
+        },
+        "status": "estimated",
+        "near_minus_interior": 0.018603388712317336,
+        "outer_minus_interior": 0.059059709205078116,
+        "hc3_p_near": 0.04234280537369965,
+        "hc3_p_outer": 4.483058276581568e-08,
+        "family_cluster_p_near": 0.061008849431098515,
+        "family_cluster_p_outer": 0.0012964882300468819,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.0061653117118285585,
+            0.03718913878316559
+          ],
+          "outer_interval": [
+            0.0315729527846682,
+            0.06742696443141487
+          ]
+        }
+      },
+      {
+        "metric": "TV",
+        "n": 537,
+        "counts": {
+          "outer": 231,
+          "near": 209,
+          "interior": 97
+        },
+        "raw_means": {
+          "outer": 0.3222840807138393,
+          "near": 0.3048691806789701,
+          "interior": 0.37111180982955444
+        },
+        "status": "estimated",
+        "near_minus_interior": -0.06967011032385159,
+        "outer_minus_interior": -0.05684289950368053,
+        "hc3_p_near": 0.0025954266665855143,
+        "hc3_p_outer": 0.0175000711686231,
+        "family_cluster_p_near": 0.00529460964276796,
+        "family_cluster_p_outer": 0.04655442053478414,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.10890278555633656,
+            -0.020378029762328127
+          ],
+          "outer_interval": [
+            -0.09303094713990985,
+            0.00040106671569930705
+          ]
+        }
+      },
+      {
+        "metric": "JSD_bits",
+        "n": 537,
+        "counts": {
+          "outer": 231,
+          "near": 209,
+          "interior": 97
+        },
+        "raw_means": {
+          "outer": 0.16160527574389358,
+          "near": 0.14297635298810588,
+          "interior": 0.22020134561879934
+        },
+        "status": "estimated",
+        "near_minus_interior": -0.07901222327046879,
+        "outer_minus_interior": -0.06472699868317507,
+        "hc3_p_near": 3.4221914095213446e-05,
+        "hc3_p_outer": 0.001108642815560547,
+        "family_cluster_p_near": 0.00022375430203673446,
+        "family_cluster_p_outer": 0.007575674298137659,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.12268287649184126,
+            -0.03438097367868296
+          ],
+          "outer_interval": [
+            -0.106474785093021,
+            -0.008974199314775205
+          ]
+        }
+      },
+      {
+        "metric": "sqrt_JS",
+        "n": 537,
+        "counts": {
+          "outer": 231,
+          "near": 209,
+          "interior": 97
+        },
+        "raw_means": {
+          "outer": 0.3752920406578479,
+          "near": 0.3546520129666452,
+          "interior": 0.42619407255080843
+        },
+        "status": "estimated",
+        "near_minus_interior": -0.07699042073945865,
+        "outer_minus_interior": -0.06335698470258488,
+        "hc3_p_near": 0.0004438875206597234,
+        "hc3_p_outer": 0.00519735075669017,
+        "family_cluster_p_near": 0.0017366396500547712,
+        "family_cluster_p_outer": 0.02724630617097594,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.10578223010687024,
+            -0.026262991530088393
+          ],
+          "outer_interval": [
+            -0.0952253058611626,
+            -0.011952254312814877
+          ]
+        }
+      },
+      {
+        "metric": "Hellinger",
+        "n": 537,
+        "counts": {
+          "outer": 231,
+          "near": 209,
+          "interior": 97
+        },
+        "raw_means": {
+          "outer": 0.34734814524086177,
+          "near": 0.3265455482110962,
+          "interior": 0.40228153215680856
+        },
+        "status": "estimated",
+        "near_minus_interior": -0.08138004103182564,
+        "outer_minus_interior": -0.06806184296841489,
+        "hc3_p_near": 0.00013443558128502288,
+        "hc3_p_outer": 0.002059294081491005,
+        "family_cluster_p_near": 0.0008288412767863786,
+        "family_cluster_p_outer": 0.016931681603991347,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.10908850446783265,
+            -0.03121956121319943
+          ],
+          "outer_interval": [
+            -0.09825145231638742,
+            -0.015286794594714869
+          ]
+        }
+      }
+    ],
+    "estimand": "Frequency>=8, length>=5. Two indicators near(depth1), outer(depth0); interior(depth>=2) baseline, length and log geometric mean frequency controls. Fixed selected vocabulary; joint caption/document occurrence resampling, missing members omit pairs."
+  },
+  {
+    "dataset": "RF",
+    "subset": "A",
+    "status": "completed",
+    "position": "normalized_group_rank",
+    "pairs": 122,
+    "connected_families": 24,
+    "results": [
+      {
+        "metric": "position",
+        "n": 122,
+        "counts": {
+          "outer": 68,
+          "near": 40,
+          "interior": 14
+        },
+        "raw_means": {
+          "outer": 0.1402362937811198,
+          "near": 0.125485703372533,
+          "interior": 0.06872050853065778
+        },
+        "status": "estimated",
+        "near_minus_interior": 0.05544952691159408,
+        "outer_minus_interior": 0.07351822071122863,
+        "hc3_p_near": 0.016211470464505856,
+        "hc3_p_outer": 0.0006125257460371053,
+        "family_cluster_p_near": 0.024137215680088895,
+        "family_cluster_p_outer": 0.0006120036013545026,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.014914750926691148,
+            0.09423482105011945
+          ],
+          "outer_interval": [
+            0.017656497781690598,
+            0.10568065106954
+          ]
+        }
+      },
+      {
+        "metric": "TV",
+        "n": 122,
+        "counts": {
+          "outer": 68,
+          "near": 40,
+          "interior": 14
+        },
+        "raw_means": {
+          "outer": 0.16843845398725665,
+          "near": 0.25007278920543496,
+          "interior": 0.20818395812361729
+        },
+        "status": "estimated",
+        "near_minus_interior": 0.04500473300446352,
+        "outer_minus_interior": -0.035725713331550425,
+        "hc3_p_near": 0.48509902624418677,
+        "hc3_p_outer": 0.49273446824671874,
+        "family_cluster_p_near": 0.539198887659698,
+        "family_cluster_p_outer": 0.5043687819503033,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.0576186841388875,
+            0.14871399062334614
+          ],
+          "outer_interval": [
+            -0.10988665466081408,
+            0.06544388436176775
+          ]
+        }
+      },
+      {
+        "metric": "JSD_bits",
+        "n": 122,
+        "counts": {
+          "outer": 68,
+          "near": 40,
+          "interior": 14
+        },
+        "raw_means": {
+          "outer": 0.0799803371692241,
+          "near": 0.1261973168819121,
+          "interior": 0.10112217934229187
+        },
+        "status": "estimated",
+        "near_minus_interior": 0.044023769998967476,
+        "outer_minus_interior": 0.0004428123746375492,
+        "hc3_p_near": 0.26691803247781487,
+        "hc3_p_outer": 0.9880501967623763,
+        "family_cluster_p_near": 0.328208676693416,
+        "family_cluster_p_outer": 0.9888207420853397,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.03914489936747774,
+            0.12969059879789235
+          ],
+          "outer_interval": [
+            -0.06430573679792904,
+            0.0576209393640091
+          ]
+        }
+      },
+      {
+        "metric": "sqrt_JS",
+        "n": 122,
+        "counts": {
+          "outer": 68,
+          "near": 40,
+          "interior": 14
+        },
+        "raw_means": {
+          "outer": 0.25127908521999154,
+          "near": 0.3119847953273506,
+          "interior": 0.2759140435373289
+        },
+        "status": "estimated",
+        "near_minus_interior": 0.05166304778242875,
+        "outer_minus_interior": -0.005649171775429999,
+        "hc3_p_near": 0.3631503867085538,
+        "hc3_p_outer": 0.9105482157038174,
+        "family_cluster_p_near": 0.3750828860064366,
+        "family_cluster_p_outer": 0.9110508841711954,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.04838071242152128,
+            0.16275328095090272
+          ],
+          "outer_interval": [
+            -0.09713527545261698,
+            0.0953432240164232
+          ]
+        }
+      },
+      {
+        "metric": "Hellinger",
+        "n": 122,
+        "counts": {
+          "outer": 68,
+          "near": 40,
+          "interior": 14
+        },
+        "raw_means": {
+          "outer": 0.23787507757134924,
+          "near": 0.28951581650901576,
+          "interior": 0.2610023486995159
+        },
+        "status": "estimated",
+        "near_minus_interior": 0.047410633591723914,
+        "outer_minus_interior": -0.00019230753720799777,
+        "hc3_p_near": 0.36622545142912943,
+        "hc3_p_outer": 0.9967824431328234,
+        "family_cluster_p_near": 0.35704139679480884,
+        "family_cluster_p_outer": 0.9967309303535791,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.048180181104192046,
+            0.1524121752055897
+          ],
+          "outer_interval": [
+            -0.08626855351046822,
+            0.09231511413799275
+          ]
+        }
+      }
+    ],
+    "estimand": "Frequency>=8, length>=5. Two indicators near(depth1), outer(depth0); interior(depth>=2) baseline, length and log geometric mean frequency controls. Fixed selected vocabulary; joint caption/document occurrence resampling, missing members omit pairs."
+  },
+  {
+    "dataset": "RF",
+    "subset": "B",
+    "status": "completed",
+    "position": "normalized_group_rank",
+    "pairs": 361,
+    "connected_families": 34,
+    "results": [
+      {
+        "metric": "position",
+        "n": 361,
+        "counts": {
+          "outer": 152,
+          "near": 155,
+          "interior": 54
+        },
+        "raw_means": {
+          "outer": 0.14477183569506502,
+          "near": 0.0959824784647949,
+          "interior": 0.07331533342887855
+        },
+        "status": "estimated",
+        "near_minus_interior": 0.023202385633241094,
+        "outer_minus_interior": 0.07279005016208154,
+        "hc3_p_near": 0.03182833228579629,
+        "hc3_p_outer": 1.090709673702301e-07,
+        "family_cluster_p_near": 0.11482679066467186,
+        "family_cluster_p_outer": 0.0068169257749028924,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            0.0020772887183468647,
+            0.03927031617253337
+          ],
+          "outer_interval": [
+            0.03831009364396355,
+            0.08531988880525905
+          ]
+        }
+      },
+      {
+        "metric": "TV",
+        "n": 361,
+        "counts": {
+          "outer": 152,
+          "near": 155,
+          "interior": 54
+        },
+        "raw_means": {
+          "outer": 0.3051562235207961,
+          "near": 0.2895390351344647,
+          "interior": 0.3108611832382025
+        },
+        "status": "estimated",
+        "near_minus_interior": -0.028196176649985583,
+        "outer_minus_interior": -0.015770801771184385,
+        "hc3_p_near": 0.305269237404279,
+        "hc3_p_outer": 0.5854294903687896,
+        "family_cluster_p_near": 0.2937810936931988,
+        "family_cluster_p_outer": 0.648670020344259,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.09478628668978295,
+            0.028303325759380077
+          ],
+          "outer_interval": [
+            -0.07557185146435895,
+            0.03323141776606802
+          ]
+        }
+      },
+      {
+        "metric": "JSD_bits",
+        "n": 361,
+        "counts": {
+          "outer": 152,
+          "near": 155,
+          "interior": 54
+        },
+        "raw_means": {
+          "outer": 0.14139366629837025,
+          "near": 0.1269325629114478,
+          "interior": 0.16528623333025758
+        },
+        "status": "estimated",
+        "near_minus_interior": -0.04252896126095984,
+        "outer_minus_interior": -0.02969669917611511,
+        "hc3_p_near": 0.03268445127198886,
+        "hc3_p_outer": 0.1668195419457752,
+        "family_cluster_p_near": 0.055842526678782735,
+        "family_cluster_p_outer": 0.2923527304983979,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.09488379472482865,
+            0.006493070689337981
+          ],
+          "outer_interval": [
+            -0.09129621567151003,
+            0.017736005434482158
+          ]
+        }
+      },
+      {
+        "metric": "sqrt_JS",
+        "n": 361,
+        "counts": {
+          "outer": 152,
+          "near": 155,
+          "interior": 54
+        },
+        "raw_means": {
+          "outer": 0.344040024038872,
+          "near": 0.32897998875864376,
+          "interior": 0.368032067675746
+        },
+        "status": "estimated",
+        "near_minus_interior": -0.046848265870097494,
+        "outer_minus_interior": -0.03520355980572155,
+        "hc3_p_near": 0.06245712207204511,
+        "hc3_p_outer": 0.18575244011213898,
+        "family_cluster_p_near": 0.1022036695674766,
+        "family_cluster_p_outer": 0.33333518522984784,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.09397785281171901,
+            0.005318137727867651
+          ],
+          "outer_interval": [
+            -0.08122051798878793,
+            0.01675599647732646
+          ]
+        }
+      },
+      {
+        "metric": "Hellinger",
+        "n": 361,
+        "counts": {
+          "outer": 152,
+          "near": 155,
+          "interior": 54
+        },
+        "raw_means": {
+          "outer": 0.3141561039123773,
+          "near": 0.29987188618860605,
+          "interior": 0.34373299461174306
+        },
+        "status": "estimated",
+        "near_minus_interior": -0.052059982100207486,
+        "outer_minus_interior": -0.041384297126932826,
+        "hc3_p_near": 0.02872943188439871,
+        "hc3_p_outer": 0.10196345353043341,
+        "family_cluster_p_near": 0.0679547455289232,
+        "family_cluster_p_outer": 0.2510869853182036,
+        "joint_document_bootstrap": {
+          "estimable": 199,
+          "near_interval": [
+            -0.0967995109958265,
+            0.0015175503078864486
+          ],
+          "outer_interval": [
+            -0.08480329239635033,
+            0.012670844903934702
+          ]
+        }
+      }
+    ],
+    "estimand": "Frequency>=8, length>=5. Two indicators near(depth1), outer(depth0); interior(depth>=2) baseline, length and log geometric mean frequency controls. Fixed selected vocabulary; joint caption/document occurrence resampling, missing members omit pairs."
+  }
+]

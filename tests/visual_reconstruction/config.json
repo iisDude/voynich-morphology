@@ -1,0 +1,24 @@
+{
+  "seed": 20261005,
+  "training": "train only",
+  "evaluation": "validation and test without template refit",
+  "models": [
+    "fine_components",
+    "medium_assemblies",
+    "compound_candidates",
+    "group_only"
+  ],
+  "template_probability_floor": 0.02,
+  "rectangle_cost_bits": 64,
+  "family_cost_bits": 7,
+  "target": "exact native assigned group mask, identical across models",
+  "selection": "primary admitted medium groups only",
+  "baseline": "constant training group ink fraction plus one rectangle",
+  "limitations": [
+    "Binary thresholded assigned ink, not native grayscale evidence or lossless coding.",
+    "Coordinates and nearest class are supplied by the encoder and charged fixed proxy costs.",
+    "Source-quality gate errors and unresolved neighboring groups persist.",
+    "Different partitions can improve geometry prediction without being graphemes.",
+    "Folio components are caption groups; bifolio independence unverified."
+  ]
+}

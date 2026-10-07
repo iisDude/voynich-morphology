@@ -1,0 +1,1068 @@
+[
+  {
+    "from_unit": "VS01",
+    "to_unit": "VS04",
+    "delta": 0.07492548700823355,
+    "matched_cores": 9,
+    "occurrence_weighted_delta": 0.07408756379578899,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": 0.21493691812011648,
+        "combined_frequency": 57
+      },
+      {
+        "core": [
+          "VS07"
+        ],
+        "delta": -0.014021766005892944,
+        "combined_frequency": 41
+      },
+      {
+        "core": [
+          "VS07",
+          "VS11"
+        ],
+        "delta": 0.2671212121212119,
+        "combined_frequency": 12
+      },
+      {
+        "core": [
+          "VS08"
+        ],
+        "delta": 0.1927017463530622,
+        "combined_frequency": 66
+      },
+      {
+        "core": [
+          "VS08",
+          "VS04"
+        ],
+        "delta": 0.028212586025085973,
+        "combined_frequency": 23
+      },
+      {
+        "core": [
+          "VS08",
+          "VS04",
+          "VS11"
+        ],
+        "delta": -0.013777262070329255,
+        "combined_frequency": 22
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": -0.005074176158513355,
+        "combined_frequency": 91
+      },
+      {
+        "core": [
+          "VS11"
+        ],
+        "delta": 0.052076808449357415,
+        "combined_frequency": 60
+      },
+      {
+        "core": [
+          "VS13"
+        ],
+        "delta": -0.0478466837599964,
+        "combined_frequency": 25
+      }
+    ]
+  },
+  {
+    "from_unit": "VS01",
+    "to_unit": "VS07",
+    "delta": 0.05103221908877697,
+    "matched_cores": 3,
+    "occurrence_weighted_delta": -0.009326876999371127,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": 0.11906847781847782,
+        "combined_frequency": 17
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": -0.07029046313950615,
+        "combined_frequency": 88
+      },
+      {
+        "core": [
+          "VS11"
+        ],
+        "delta": 0.10431864258735923,
+        "combined_frequency": 28
+      }
+    ]
+  },
+  {
+    "from_unit": "VS01",
+    "to_unit": "VS08",
+    "delta": 0.13157040868050104,
+    "matched_cores": 3,
+    "occurrence_weighted_delta": 0.16851478092219935,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": 0.38182057708373496,
+        "combined_frequency": 24
+      },
+      {
+        "core": [
+          "VS11"
+        ],
+        "delta": 0.10420092727785035,
+        "combined_frequency": 19
+      },
+      {
+        "core": [
+          "VS13"
+        ],
+        "delta": -0.0913102783200822,
+        "combined_frequency": 15
+      }
+    ]
+  },
+  {
+    "from_unit": "VS01",
+    "to_unit": "VS10",
+    "delta": 0.12203080552345254,
+    "matched_cores": 3,
+    "occurrence_weighted_delta": 0.16352815088415573,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": 0.27357392607392605,
+        "combined_frequency": 11
+      },
+      {
+        "core": [
+          "VS03"
+        ],
+        "delta": 0.19864128926628916,
+        "combined_frequency": 50
+      },
+      {
+        "core": [
+          "VS11"
+        ],
+        "delta": -0.10612279876985758,
+        "combined_frequency": 11
+      }
+    ]
+  },
+  {
+    "from_unit": "VS01",
+    "to_unit": "VS14",
+    "delta": 0.03787942216513644,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": 0.006207855636427044,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": 0.15664779664779668,
+        "combined_frequency": 11
+      },
+      {
+        "core": [
+          "VS07"
+        ],
+        "delta": -0.0808889523175238,
+        "combined_frequency": 19
+      }
+    ]
+  },
+  {
+    "from_unit": "VS03",
+    "to_unit": "VS04",
+    "delta": -0.16588197244134273,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": -0.1324211930805073,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": -0.07969511651191807,
+        "combined_frequency": 59
+      },
+      {
+        "core": [
+          "VS01",
+          "VS10"
+        ],
+        "delta": -0.2520688283707674,
+        "combined_frequency": 26
+      }
+    ]
+  },
+  {
+    "from_unit": "VS03",
+    "to_unit": "VS07",
+    "delta": -0.1175871512045754,
+    "matched_cores": 3,
+    "occurrence_weighted_delta": -0.10371047867655732,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": -0.17556355681355673,
+        "combined_frequency": 19
+      },
+      {
+        "core": [
+          "VS01",
+          "VS10"
+        ],
+        "delta": -0.14192020101111008,
+        "combined_frequency": 18
+      },
+      {
+        "core": [
+          "VS15"
+        ],
+        "delta": -0.03527769578905937,
+        "combined_frequency": 30
+      }
+    ]
+  },
+  {
+    "from_unit": "VS03",
+    "to_unit": "VS08",
+    "delta": 0.03893377859325714,
+    "matched_cores": 3,
+    "occurrence_weighted_delta": 0.046324869219236196,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": 0.08718854245170043,
+        "combined_frequency": 26
+      },
+      {
+        "core": [
+          "VS01",
+          "VS10"
+        ],
+        "delta": -0.04899492868242872,
+        "combined_frequency": 23
+      },
+      {
+        "core": [
+          "VS15"
+        ],
+        "delta": 0.0786077220104997,
+        "combined_frequency": 35
+      }
+    ]
+  },
+  {
+    "from_unit": "VS04",
+    "to_unit": "VS07",
+    "delta": -0.07905480180138401,
+    "matched_cores": 6,
+    "occurrence_weighted_delta": -0.07480339542511476,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": -0.09586844030163866,
+        "combined_frequency": 64
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": -0.0652162869809928,
+        "combined_frequency": 13
+      },
+      {
+        "core": [
+          "VS11"
+        ],
+        "delta": 0.05224183413800182,
+        "combined_frequency": 76
+      },
+      {
+        "core": [
+          "VS01",
+          "VS10"
+        ],
+        "delta": 0.1101486273596573,
+        "combined_frequency": 30
+      },
+      {
+        "core": [
+          "VS01",
+          "VS03"
+        ],
+        "delta": -0.24707634957634955,
+        "combined_frequency": 16
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": -0.2285581954469822,
+        "combined_frequency": 73
+      }
+    ]
+  },
+  {
+    "from_unit": "VS04",
+    "to_unit": "VS08",
+    "delta": 0.0799140632923711,
+    "matched_cores": 8,
+    "occurrence_weighted_delta": 0.06077383026690452,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": 0.1668836589636185,
+        "combined_frequency": 71
+      },
+      {
+        "core": [
+          "VS11"
+        ],
+        "delta": 0.05212411882849294,
+        "combined_frequency": 67
+      },
+      {
+        "core": [
+          "VS13"
+        ],
+        "delta": -0.043463594560085805,
+        "combined_frequency": 28
+      },
+      {
+        "core": [
+          "VS01",
+          "VS10"
+        ],
+        "delta": 0.20307389968833867,
+        "combined_frequency": 35
+      },
+      {
+        "core": [
+          "VS04",
+          "VS01"
+        ],
+        "delta": 0.10363664113664112,
+        "combined_frequency": 32
+      },
+      {
+        "core": [
+          "VS04",
+          "VS11"
+        ],
+        "delta": 0.05048469207560102,
+        "combined_frequency": 42
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": -0.019988093707762777,
+        "combined_frequency": 164
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07",
+          "VS11"
+        ],
+        "delta": 0.12656118391412507,
+        "combined_frequency": 50
+      }
+    ]
+  },
+  {
+    "from_unit": "VS04",
+    "to_unit": "VS10",
+    "delta": -0.04188219853009674,
+    "matched_cores": 4,
+    "occurrence_weighted_delta": -0.04798896923705084,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": 0.05863700795380955,
+        "combined_frequency": 58
+      },
+      {
+        "core": [
+          "VS11"
+        ],
+        "delta": -0.158199607219215,
+        "combined_frequency": 59
+      },
+      {
+        "core": [
+          "VS01",
+          "VS03"
+        ],
+        "delta": -0.016328393828393795,
+        "combined_frequency": 18
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": -0.051637801026587715,
+        "combined_frequency": 69
+      }
+    ]
+  },
+  {
+    "from_unit": "VS04",
+    "to_unit": "VS14",
+    "delta": -0.030062451465737373,
+    "matched_cores": 5,
+    "occurrence_weighted_delta": -0.06345934398876533,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": -0.058289121472319794,
+        "combined_frequency": 58
+      },
+      {
+        "core": [
+          "VS07"
+        ],
+        "delta": -0.06686718631163086,
+        "combined_frequency": 32
+      },
+      {
+        "core": [
+          "VS04",
+          "VS01"
+        ],
+        "delta": 0.1458949383949384,
+        "combined_frequency": 23
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": -0.1245966477354345,
+        "combined_frequency": 88
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07",
+          "VS11"
+        ],
+        "delta": -0.046454240204240105,
+        "combined_frequency": 22
+      }
+    ]
+  },
+  {
+    "from_unit": "VS07",
+    "to_unit": "VS08",
+    "delta": 0.0551821866693828,
+    "matched_cores": 11,
+    "occurrence_weighted_delta": 0.08660652952610126,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": 0.26275209926525717,
+        "combined_frequency": 31
+      },
+      {
+        "core": [
+          "VS11"
+        ],
+        "delta": -0.0001177153095088812,
+        "combined_frequency": 35
+      },
+      {
+        "core": [
+          "VS01",
+          "VS10"
+        ],
+        "delta": 0.09292527232868136,
+        "combined_frequency": 27
+      },
+      {
+        "core": [
+          "VS15"
+        ],
+        "delta": 0.11388541779955907,
+        "combined_frequency": 49
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": 0.20857010173921942,
+        "combined_frequency": 109
+      },
+      {
+        "core": [
+          "VS04",
+          "VS13",
+          "VS07"
+        ],
+        "delta": 0.35048161714828374,
+        "combined_frequency": 16
+      },
+      {
+        "core": [
+          "VS05"
+        ],
+        "delta": 0.12260239760239772,
+        "combined_frequency": 13
+      },
+      {
+        "core": [
+          "VS06"
+        ],
+        "delta": -0.06705165749283382,
+        "combined_frequency": 20
+      },
+      {
+        "core": [
+          "VS06",
+          "VS03"
+        ],
+        "delta": -0.24778958415322044,
+        "combined_frequency": 22
+      },
+      {
+        "core": [
+          "VS15",
+          "VS03"
+        ],
+        "delta": -0.05275562887404994,
+        "combined_frequency": 39
+      },
+      {
+        "core": [
+          "VS15",
+          "VS10"
+        ],
+        "delta": -0.1764982666905744,
+        "combined_frequency": 23
+      }
+    ]
+  },
+  {
+    "from_unit": "VS07",
+    "to_unit": "VS10",
+    "delta": 0.1621778100093608,
+    "matched_cores": 5,
+    "occurrence_weighted_delta": 0.10204154724480241,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": 0.1545054482554482,
+        "combined_frequency": 18
+      },
+      {
+        "core": [
+          "VS11"
+        ],
+        "delta": -0.21044144135721682,
+        "combined_frequency": 27
+      },
+      {
+        "core": [
+          "VS01",
+          "VS03"
+        ],
+        "delta": 0.23074795574795576,
+        "combined_frequency": 14
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": 0.17692039442039448,
+        "combined_frequency": 14
+      },
+      {
+        "core": [
+          "VS04",
+          "VS13",
+          "VS07"
+        ],
+        "delta": 0.4591566929802223,
+        "combined_frequency": 13
+      }
+    ]
+  },
+  {
+    "from_unit": "VS07",
+    "to_unit": "VS14",
+    "delta": 0.07077043327043328,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": 0.08053252575311398,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": 0.037579318829318864,
+        "combined_frequency": 18
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": 0.1039615477115477,
+        "combined_frequency": 33
+      }
+    ]
+  },
+  {
+    "from_unit": "VS08",
+    "to_unit": "VS10",
+    "delta": -0.06038625213610081,
+    "matched_cores": 4,
+    "occurrence_weighted_delta": -0.0502152544484755,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": -0.10824665100980896,
+        "combined_frequency": 25
+      },
+      {
+        "core": [
+          "VS11"
+        ],
+        "delta": -0.21032372604770794,
+        "combined_frequency": 18
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": -0.03164970731882494,
+        "combined_frequency": 105
+      },
+      {
+        "core": [
+          "VS04",
+          "VS13",
+          "VS07"
+        ],
+        "delta": 0.10867507583193858,
+        "combined_frequency": 15
+      }
+    ]
+  },
+  {
+    "from_unit": "VS08",
+    "to_unit": "VS14",
+    "delta": -0.11513461533091948,
+    "matched_cores": 4,
+    "occurrence_weighted_delta": -0.12084543018566496,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": -0.2251727804359383,
+        "combined_frequency": 25
+      },
+      {
+        "core": [
+          "VS04",
+          "VS01"
+        ],
+        "delta": 0.04225829725829727,
+        "combined_frequency": 19
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": -0.10460855402767172,
+        "combined_frequency": 124
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07",
+          "VS11"
+        ],
+        "delta": -0.17301542411836518,
+        "combined_frequency": 48
+      }
+    ]
+  },
+  {
+    "from_unit": "VS10",
+    "to_unit": "VS14",
+    "delta": -0.09494248806748806,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": -0.08582731969927095,
+    "core_details": [
+      {
+        "core": [
+          "VS01"
+        ],
+        "delta": -0.11692612942612934,
+        "combined_frequency": 12
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": -0.07295884670884678,
+        "combined_frequency": 29
+      }
+    ]
+  },
+  {
+    "from_unit": "VS01",
+    "to_unit": "VS05",
+    "delta": -0.047174429904098564,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": -0.04457603998621004,
+    "core_details": [
+      {
+        "core": [
+          "VS03"
+        ],
+        "delta": -0.0630765762015763,
+        "combined_frequency": 64
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": -0.03127228360662082,
+        "combined_frequency": 89
+      }
+    ]
+  },
+  {
+    "from_unit": "VS01",
+    "to_unit": "VS06",
+    "delta": -0.0005337725816229877,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": -0.002109329097021143,
+    "core_details": [
+      {
+        "core": [
+          "VS03"
+        ],
+        "delta": 0.0059935329821693695,
+        "combined_frequency": 55
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": -0.007061078145415345,
+        "combined_frequency": 90
+      }
+    ]
+  },
+  {
+    "from_unit": "VS01",
+    "to_unit": "VS15",
+    "delta": 0.039002587804675935,
+    "matched_cores": 3,
+    "occurrence_weighted_delta": 0.03101423516797427,
+    "core_details": [
+      {
+        "core": [
+          "VS03"
+        ],
+        "delta": 0.040562529401815206,
+        "combined_frequency": 65
+      },
+      {
+        "core": [
+          "VS08"
+        ],
+        "delta": 0.10312465677597255,
+        "combined_frequency": 65
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": -0.026679422763759952,
+        "combined_frequency": 92
+      }
+    ]
+  },
+  {
+    "from_unit": "VS05",
+    "to_unit": "VS06",
+    "delta": 0.046640657322475576,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": 0.05581634217481335,
+    "core_details": [
+      {
+        "core": [
+          "VS03"
+        ],
+        "delta": 0.06907010918374568,
+        "combined_frequency": 31
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": 0.024211205461205476,
+        "combined_frequency": 13
+      }
+    ]
+  },
+  {
+    "from_unit": "VS05",
+    "to_unit": "VS15",
+    "delta": 0.05411598322312619,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": 0.07710886147110652,
+    "core_details": [
+      {
+        "core": [
+          "VS03"
+        ],
+        "delta": 0.10363910560339151,
+        "combined_frequency": 41
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": 0.004592860842860869,
+        "combined_frequency": 15
+      }
+    ]
+  },
+  {
+    "from_unit": "VS06",
+    "to_unit": "VS15",
+    "delta": 0.0074753259006506145,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": 0.016506549406982356,
+    "core_details": [
+      {
+        "core": [
+          "VS03"
+        ],
+        "delta": 0.03456899641964584,
+        "combined_frequency": 32
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": -0.019618344618344608,
+        "combined_frequency": 16
+      }
+    ]
+  },
+  {
+    "from_unit": "VS01",
+    "to_unit": "VS13",
+    "delta": 0.020721494724658562,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": 0.0044799729031200575,
+    "core_details": [
+      {
+        "core": [
+          "VS07"
+        ],
+        "delta": -0.013510635883814903,
+        "combined_frequency": 101
+      },
+      {
+        "core": [
+          "VS07",
+          "VS11"
+        ],
+        "delta": 0.05495362533313203,
+        "combined_frequency": 36
+      }
+    ]
+  },
+  {
+    "from_unit": "VS04",
+    "to_unit": "VS13",
+    "delta": -0.10582822833300093,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": -0.05265854910546144,
+    "core_details": [
+      {
+        "core": [
+          "VS07"
+        ],
+        "delta": 0.0005111301220780406,
+        "combined_frequency": 114
+      },
+      {
+        "core": [
+          "VS07",
+          "VS11"
+        ],
+        "delta": -0.2121675867880799,
+        "combined_frequency": 38
+      }
+    ]
+  },
+  {
+    "from_unit": "VS04",
+    "to_unit": "VS09",
+    "delta": -0.01494134354888027,
+    "matched_cores": 3,
+    "occurrence_weighted_delta": -0.007722695670053756,
+    "core_details": [
+      {
+        "core": [
+          "VS08"
+        ],
+        "delta": -0.1983082277199925,
+        "combined_frequency": 23
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": 0.01714276073191523,
+        "combined_frequency": 72
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07",
+          "VS11"
+        ],
+        "delta": 0.13634143634143647,
+        "combined_frequency": 18
+      }
+    ]
+  },
+  {
+    "from_unit": "VS04",
+    "to_unit": "VS15",
+    "delta": -0.055591168091168125,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": -0.04830847062989923,
+    "core_details": [
+      {
+        "core": [
+          "VS08"
+        ],
+        "delta": -0.08957708957708965,
+        "combined_frequency": 11
+      },
+      {
+        "core": [
+          "VS10"
+        ],
+        "delta": -0.021605246605246597,
+        "combined_frequency": 17
+      }
+    ]
+  },
+  {
+    "from_unit": "VS08",
+    "to_unit": "VS09",
+    "delta": -0.0196372456519515,
+    "matched_cores": 3,
+    "occurrence_weighted_delta": 0.00695482456923961,
+    "core_details": [
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": 0.03713085443967801,
+        "combined_frequency": 108
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07",
+          "VS11"
+        ],
+        "delta": 0.009780252427311398,
+        "combined_frequency": 44
+      },
+      {
+        "core": [
+          "VS04",
+          "VS07"
+        ],
+        "delta": -0.1058228438228439,
+        "combined_frequency": 30
+      }
+    ]
+  },
+  {
+    "from_unit": "VS09",
+    "to_unit": "VS14",
+    "delta": -0.16226754250651315,
+    "matched_cores": 2,
+    "occurrence_weighted_delta": -0.15542483116012534,
+    "core_details": [
+      {
+        "core": [
+          "VS13",
+          "VS07"
+        ],
+        "delta": -0.14173940846734973,
+        "combined_frequency": 32
+      },
+      {
+        "core": [
+          "VS13",
+          "VS07",
+          "VS11"
+        ],
+        "delta": -0.18279567654567658,
+        "combined_frequency": 16
+      }
+    ]
+  }
+]

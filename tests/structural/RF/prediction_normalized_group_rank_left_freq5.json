@@ -1,0 +1,34 @@
+[
+  {
+    "from_unit": "d",
+    "to_unit": "k",
+    "alternate_training_prediction": -0.045127995735212145,
+    "ordinary_unit_preference_prediction": 0.05297503147286564,
+    "excluded_direct_training_cores": 7,
+    "heldout_direct_delta": 0.060968724251977455
+  },
+  {
+    "from_unit": "k",
+    "to_unit": "r",
+    "alternate_training_prediction": 0.392386080195899,
+    "ordinary_unit_preference_prediction": 0.1777471592713366,
+    "excluded_direct_training_cores": 4,
+    "heldout_direct_delta": 0.14546083546083544
+  },
+  {
+    "from_unit": "k",
+    "to_unit": "s",
+    "alternate_training_prediction": -0.2697433176959982,
+    "ordinary_unit_preference_prediction": -0.08755220604971975,
+    "excluded_direct_training_cores": 5,
+    "heldout_direct_delta": -0.2202355630480631
+  },
+  {
+    "from_unit": "o",
+    "to_unit": "y",
+    "alternate_training_prediction": -0.21289361588342742,
+    "ordinary_unit_preference_prediction": -0.25984414027646685,
+    "excluded_direct_training_cores": 18,
+    "heldout_direct_delta": -0.014039429963041094
+  }
+]

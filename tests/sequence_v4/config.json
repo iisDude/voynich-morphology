@@ -1,0 +1,221 @@
+{
+  "version": "V4 source sequence protocol",
+  "registered_at_utc": "2026-10-06T23:09:37.741548+00:00",
+  "seed": 20261009,
+  "v3_manifest_sha256": "4f593cc679e6395c164425bb9eca5ca3df01abda7dc0be5a4ad9a0a3ba6050fc",
+  "v3_model_sha256": "6f4653ba9abef085c67118bcbe7f4e4869f6f14ab318355a0c10c40d91147732",
+  "selection": "All previously unselected, non-calibration, non-curved captures with >=3 ordinary geometric row proposals; width>=550 pixels, components>=8, body12..65; evenly sample up to24 fields per capture. No recurrence/class or conventional inputs.",
+  "fresh_caption_reserve": [
+    "115",
+    "16",
+    "19",
+    "47",
+    "52",
+    "56",
+    "81",
+    "94"
+  ],
+  "previously_exposed_v3_captions": [
+    "10",
+    "100",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "111",
+    "113",
+    "114",
+    "116",
+    "14",
+    "15",
+    "17",
+    "18",
+    "2",
+    "20",
+    "22",
+    "27",
+    "28",
+    "3",
+    "32",
+    "35",
+    "36",
+    "37",
+    "4",
+    "40",
+    "42",
+    "43",
+    "44",
+    "49",
+    "51",
+    "6",
+    "66",
+    "76",
+    "77",
+    "78",
+    "79",
+    "8",
+    "80",
+    "83",
+    "84",
+    "85",
+    "93"
+  ],
+  "reviewed_scope": "Overview triage of each proposed field; native contexts for preregistered and risk samples. Overview triage never certifies faint ink completeness or whole physical row endpoints.",
+  "taxonomy": "Use sealed V3 model and its fourteen validated classes unchanged. ST09 and unreliable source matches are UNK. Whole connected parents are not split across gaps; atomicity and pen lifts unknown.",
+  "membership": "Primary9 contrast after sigma0.8 Gaussian, background25, sensitivities6/12. Retain parent-sized ink and small marks >=8 pixels as explicit candidates. Marks<35px or height<.32body or width<4 are unresolved detached marks, not silently removed. Ink with alternative row support >=.30 best, raster split/merge, drawing contact or field edge remains ambiguous. Very faint contrast6-only ink retained as unresolved region.",
+  "boundaries": {
+    "body_gap_hypotheses": [
+      0.35,
+      0.55,
+      0.75
+    ],
+    "ordering": "Increasing native x, physical horizontal coordinate order only; not linguistic reading direction",
+    "alternatives": "Keep all three partitions; overlay detached include/exclude/attach-to-neighbor and multirow ownership alternatives as constraints, without enumerating exponential combinations. No canonical gap winner.",
+    "edge_truncation": "Candidate touching local field limit prevents membership completeness; local limits are not line endpoints"
+  },
+  "review_repeatability": {
+    "sample": [
+      [
+        "V_096",
+        4
+      ],
+      [
+        "V_203",
+        18
+      ],
+      [
+        "V_044",
+        4
+      ],
+      [
+        "V_111",
+        2
+      ],
+      [
+        "V_119",
+        9
+      ],
+      [
+        "V_042",
+        12
+      ],
+      [
+        "V_194",
+        15
+      ],
+      [
+        "V_088",
+        6
+      ],
+      [
+        "V_183",
+        10
+      ],
+      [
+        "V_148",
+        9
+      ],
+      [
+        "V_171",
+        16
+      ],
+      [
+        "V_119",
+        4
+      ],
+      [
+        "V_201",
+        14
+      ],
+      [
+        "V_112",
+        7
+      ],
+      [
+        "V_181",
+        20
+      ],
+      [
+        "V_201",
+        7
+      ],
+      [
+        "V_203",
+        3
+      ],
+      [
+        "V_088",
+        11
+      ],
+      [
+        "V_107",
+        1
+      ],
+      [
+        "V_038",
+        3
+      ],
+      [
+        "V_060",
+        4
+      ],
+      [
+        "V_060",
+        1
+      ],
+      [
+        "V_069",
+        9
+      ],
+      [
+        "V_155",
+        6
+      ]
+    ],
+    "passes": 2,
+    "masked": "Anonymous native RGB contexts, no algorithm class suggestion or previous group/boundary decision shown. Same adjudicator, repeatability only.",
+    "criteria": "Writing/body membership clear vs uncertain vs drawing; relative gap physically clear vs narrow/competing; detached and connected contacts; no labels from conventional transcriptions.",
+    "agreement_target": 0.85
+  },
+  "class_generalization_gates": {
+    "test_captions_min": 6,
+    "recurring_classes_min": 10,
+    "training_captions_per_class_min": 3,
+    "test_instances_per_class_min": 5,
+    "test_captions_per_class_min": 3,
+    "positive_pair_agreement_min": 0.85,
+    "source_different_pair_false_grouping_max": 0.15,
+    "threshold_assignment_stability_min": 0.8,
+    "clear_test_class_coverage_min": 0.5
+  },
+  "source_pair_audit": "Deterministic up to3 fresh test positive and different-class nearest comparisons per validated class; shuffled anonymous source RGB, labels/key hidden until judgments saved; unknown judgments retained.",
+  "sequence_support_gates": {
+    "new_views_min": 40,
+    "new_row_fields_min": 600,
+    "fresh_test_captions_min": 6,
+    "ordered_membership_rows_min": 0.8,
+    "complete_parent_membership_groups_min": 0.8,
+    "unknown_parent_rate_max": 0.2,
+    "boundary_ambiguity_rate_max": 0.2,
+    "fully_identified_groups_min": 0.5,
+    "heldout_complete_sequence_recurrence_ge3_min": 0.2,
+    "repeatability_min": 0.85,
+    "all_three_gap_hypotheses_required": true,
+    "native_row_endpoint_certification_min": 0.8
+  },
+  "gates_rationale": "Practical general notation requires broad membership, low ambiguity and majority identified sequences. Endpoint gate is additionally necessary for rank and physical-x assays. These are operational support thresholds, not palaeographic truth.",
+  "metrics": "Use all triaged retained row fields as denominator; excluded fields separately. Unknown class != unknown membership. Complete sequence excludes UNK and unresolved optional/row/edge membership. Recurrence reported all lengths AND >=3 parents, cross-caption only; test match against development only. Caption bootstrap uncertainty. No deletion of unknowns to create false adjacency.",
+  "null": "Within source row shuffle class order, preserve group sizes, parent class frequencies and incomplete flags; compare cross-caption repeated sequence coverage >=3. Null is sequence-order control, not linguistic evidence.",
+  "failure_policy": "Freeze honest partial V4 representation with qualification failed if thresholds fail; never retune V3 or sequence protocol to pass. Notation may remain observational notation only. No downstream assay or crosswalk if support gates fail.",
+  "prohibited_inputs": [
+    "EVA",
+    "RF",
+    "v101",
+    "Currier",
+    "inherited hand/section",
+    "prior positional outcomes",
+    "minimal-pair existence"
+  ],
+  "source_resolution": "Use already cached maximum advertised Yale native JPEGs, all frozen in V3. Fresh means outside V3 selected captions, not globally unseen photographs."
+}
