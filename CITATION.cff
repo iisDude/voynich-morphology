@@ -6,7 +6,8 @@
   "authors": [
     {
       "given-names": "Dylan",
-      "family-names": "Bedford"
+      "family-names": "Bedford",
+      "orcid": "https://orcid.org/0009-0005-9766-224X"
     }
   ],
   "abstract": "A source-derived, class-free continuous contour/morphology representation of selected confirmed writing, retaining uncertain whole-parent extents and alternative raster recoveries. Includes the earlier structural/sequence/feature experiments and their negative results. Not a transcription or decipherment.",
@@ -831,5 +832,7 @@
       "url": "https://www.python.org/",
       "version": "3.12.14"
     }
-  ]
+  ],
+  "repository-code": "https://github.com/iisDude/voynich-morphology",
+  "url": "https://github.com/iisDude/voynich-morphology"
 }

@@ -3,11 +3,19 @@
   "upload_type": "software",
   "creators": [
     {
-      "name": "Bedford, Dylan"
+      "name": "Bedford, Dylan",
+      "orcid": "0009-0005-9766-224X"
     }
   ],
   "description": "A source-derived, class-free continuous contour/morphology representation of selected confirmed writing, retaining uncertain whole-parent extents and alternative raster recoveries. Includes the earlier structural/sequence/feature experiments and their negative results. Not a transcription or decipherment.",
   "access_right": "open",
   "license": "cc-by-4.0",
-  "notes": "Original code is MIT; original annotations/numerical data/documentation CC BY 4.0. Source imagery and all third-party material are excluded from these project licenses; see LICENSE and NOTICE.md."
+  "notes": "Original code is MIT; original annotations/numerical data/documentation CC BY 4.0. Source imagery and all third-party material are excluded from these project licenses; see LICENSE and NOTICE.md. This file is a metadata template; no Zenodo record, DOI or release version has been created.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/iisDude/voynich-morphology",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
 }
