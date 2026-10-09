@@ -1,0 +1,29 @@
+{
+  "scope": "Hash-record correction in nested Git checkout only; current content authoritative; no research/input/document content changed",
+  "date": "2026-10-09",
+  "changes": [
+    {
+      "path": ".zenodo.json",
+      "previous_recorded_sha256": "ecd05ad96b2e7222438f6c86a5c6bfc40ec7daa2a9755a0ad7995f822575efa5",
+      "corrected_sha256": "3b10e610530600dc0aa4ccba10e9c235b2c68ad3a4d973acb12c9a6faa14f284"
+    },
+    {
+      "path": "README.md",
+      "previous_recorded_sha256": "8bbb39573ab0d30a98951324a098529ac064408d912dd15e0e5d3e23a4d4fbd7",
+      "corrected_sha256": "8898a9be57afee380c8a42ebd9bf2b81ab7d9a9d579dbb2dbfc0dc90cd3716a0"
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "previous_recorded_sha256": "90b52fea998891907dd7755195320ac7dea630fb387b6133791b92209fd7d0c6",
+      "corrected_sha256": "f5eaed5f98f6839cadc905dfb0fa36b16e41167fc96a6c4ddd31054a2809bb9d"
+    },
+    {
+      "path": "environment/README.md",
+      "previous_recorded_sha256": "52c2f1bee57680524bfe0a826e143223d26d43155c72105ddc860ac9a8b1c216",
+      "corrected_sha256": "b5f86c9ed597e90ab4b95de51ad7817204d119724e668f9d62c36dc00737f839"
+    }
+  ],
+  "metadata_manifest_sha256": "b46abc54d703ec791c9fd89ab5f786836d839f3b52192360a9ae50bbae40156d",
+  "original_snapshot_sha256": "0a3926b5e91b272fc574ee6ebdccd5971cb67d9f7ccf0d126d28b34f3f31972b",
+  "previous_records_preserved": "history/hash_repair_2026-10-09"
+}
