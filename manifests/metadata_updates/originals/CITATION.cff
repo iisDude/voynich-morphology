@@ -1,0 +1,835 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite this immutable research contribution if using its original code, annotations or derived numerical evidence. External resources have separate citations and terms.",
+  "type": "software",
+  "title": "Source-traceable continuous morphology of selected Voynich writing: frozen evidence contribution",
+  "authors": [
+    {
+      "given-names": "Dylan",
+      "family-names": "Bedford"
+    }
+  ],
+  "abstract": "A source-derived, class-free continuous contour/morphology representation of selected confirmed writing, retaining uncertain whole-parent extents and alternative raster recoveries. Includes the earlier structural/sequence/feature experiments and their negative results. Not a transcription or decipherment.",
+  "license": [
+    "MIT",
+    "CC-BY-4.0"
+  ],
+  "references": [
+    {
+      "type": "data",
+      "title": "Cipher manuscript (Beinecke MS 408): Yale digital source photographs",
+      "authors": [
+        {
+          "name": "Beinecke Rare Book and Manuscript Library, Yale University"
+        }
+      ],
+      "url": "https://collections.library.yale.edu/catalog/2002046"
+    },
+    {
+      "type": "manual",
+      "title": "Intermediate Voynich Transcription File Format (IVTFF)",
+      "authors": [
+        {
+          "given-names": "René",
+          "family-names": "Zandbergen"
+        }
+      ],
+      "url": "https://www.voynich.nu/software/ivtt/IVTFF_format.pdf",
+      "year": 2025
+    },
+    {
+      "type": "data",
+      "title": "ZL3b / Landini–Zandbergen transliteration",
+      "authors": [
+        {
+          "given-names": "Gabriel",
+          "family-names": "Landini"
+        },
+        {
+          "given-names": "René",
+          "family-names": "Zandbergen"
+        }
+      ],
+      "url": "https://www.voynich.nu/transcr.html"
+    },
+    {
+      "type": "data",
+      "title": "GC2a / Glen Claston transliteration in v101",
+      "authors": [
+        {
+          "name": "Glen Claston"
+        }
+      ],
+      "url": "https://www.voynich.nu/transcr.html"
+    },
+    {
+      "type": "data",
+      "title": "RF1b Reference transliteration",
+      "authors": [
+        {
+          "given-names": "René",
+          "family-names": "Zandbergen"
+        }
+      ],
+      "url": "https://www.voynich.nu/transcr.html"
+    },
+    {
+      "type": "article",
+      "title": "Building the essential resources for Finnish: the Turku Dependency Treebank",
+      "authors": [
+        {
+          "given-names": "Katri",
+          "family-names": "Haverinen"
+        },
+        {
+          "given-names": "Jenna",
+          "family-names": "Nyblom"
+        },
+        {
+          "given-names": "Timo",
+          "family-names": "Viljanen"
+        },
+        {
+          "given-names": "Veronika",
+          "family-names": "Laippala"
+        },
+        {
+          "given-names": "Samuel",
+          "family-names": "Kohonen"
+        },
+        {
+          "given-names": "Anna",
+          "family-names": "Missilä"
+        },
+        {
+          "given-names": "Stina",
+          "family-names": "Ojala"
+        },
+        {
+          "given-names": "Tapio",
+          "family-names": "Salakoski"
+        },
+        {
+          "given-names": "Filip",
+          "family-names": "Ginter"
+        }
+      ],
+      "doi": "10.1007/s10579-013-9244-1",
+      "year": 2014,
+      "url": "https://doi.org/10.1007/s10579-013-9244-1",
+      "journal": "Language Resources and Evaluation",
+      "volume": "48"
+    },
+    {
+      "type": "article",
+      "title": "Implementing Universal Dependency, Morphology and Multiword Expression Annotation Standards for Turkish Language Processing",
+      "authors": [
+        {
+          "given-names": "Umut",
+          "family-names": "Sulubacak"
+        },
+        {
+          "given-names": "Gülşen",
+          "family-names": "Eryiğit"
+        }
+      ],
+      "year": 2018,
+      "doi": "10.3906/elk-1706-81",
+      "journal": "Turkish Journal of Electrical Engineering and Computer Sciences",
+      "url": "https://doi.org/10.3906/elk-1706-81"
+    },
+    {
+      "type": "conference-paper",
+      "title": "Universal Dependencies for Turkish",
+      "authors": [
+        {
+          "given-names": "Umut",
+          "family-names": "Sulubacak"
+        },
+        {
+          "given-names": "Memduh",
+          "family-names": "Gokirmak"
+        },
+        {
+          "given-names": "Francis",
+          "family-names": "Tyers"
+        },
+        {
+          "given-names": "Çağrı",
+          "family-names": "Çöltekin"
+        },
+        {
+          "given-names": "Joakim",
+          "family-names": "Nivre"
+        },
+        {
+          "given-names": "Gülşen",
+          "family-names": "Eryiğit"
+        }
+      ],
+      "year": 2016,
+      "url": "https://aclanthology.org/C16-1325/",
+      "collection-title": "Proceedings of COLING 2016",
+      "start": 3444,
+      "end": 3454
+    },
+    {
+      "type": "conference-paper",
+      "title": "Creating a Parallel Treebank of the Old Indo-European Bible Translations",
+      "authors": [
+        {
+          "given-names": "Dag T. T.",
+          "family-names": "Haug"
+        },
+        {
+          "given-names": "Marius L.",
+          "family-names": "Jøhndal"
+        }
+      ],
+      "year": 2008,
+      "url": "https://johndal.com/research/",
+      "collection-title": "Proceedings of the Second Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2008)",
+      "start": 27,
+      "end": 34
+    },
+    {
+      "type": "report",
+      "title": "Rightward and Downward Grapheme Distributions in the Voynich Manuscript",
+      "authors": [
+        {
+          "given-names": "Patrick",
+          "family-names": "Feaster"
+        }
+      ],
+      "url": "https://ceur-ws.org/Vol-3313/paper12.pdf",
+      "year": 2022
+    },
+    {
+      "type": "report",
+      "title": "Griffoynich: A Real Cipher That Mimics Voynichese",
+      "authors": [
+        {
+          "given-names": "Patrick",
+          "family-names": "Feaster"
+        }
+      ],
+      "url": "https://griffonagedotcom.wordpress.com/2019/04/10/griffoynich-a-real-cipher-that-mimics-voynichese/",
+      "year": 2019
+    },
+    {
+      "type": "report",
+      "title": "Voynich word grammar: crust, mantle and core",
+      "authors": [
+        {
+          "given-names": "Jorge",
+          "family-names": "Stolfi"
+        }
+      ],
+      "url": "https://www.ic.unicamp.br/~stolfi/voynich/00-EXPORT/00-06-07-word-grammar/",
+      "year": 2000
+    },
+    {
+      "type": "report",
+      "title": "Some Important New Statistical Findings",
+      "authors": [
+        {
+          "given-names": "Prescott",
+          "family-names": "Currier"
+        }
+      ],
+      "url": "https://voynich.nu/extra/curr_main.html",
+      "year": 1976
+    },
+    {
+      "type": "report",
+      "title": "Voynich Paleography",
+      "authors": [
+        {
+          "given-names": "Lisa Fagin",
+          "family-names": "Davis"
+        }
+      ],
+      "url": "https://ceur-ws.org/Vol-3313/keynote2.pdf",
+      "year": 2022
+    },
+    {
+      "type": "article",
+      "title": "How Many Glyphs and How Many Scribes? Digital Paleography and the Voynich Manuscript",
+      "authors": [
+        {
+          "given-names": "Lisa Fagin",
+          "family-names": "Davis"
+        }
+      ],
+      "doi": "10.1353/mns.2020.0011",
+      "year": 2020,
+      "url": "https://doi.org/10.1353/mns.2020.0011",
+      "journal": "Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies",
+      "volume": "5"
+    },
+    {
+      "type": "software",
+      "title": "Voynich Research: Multiscale Structural Constraints and Executable Generative Models",
+      "authors": [
+        {
+          "given-names": "Keito",
+          "family-names": "Yoshida"
+        }
+      ],
+      "url": "https://github.com/seeton/Voynich-public",
+      "year": 2026,
+      "version": "0.1.0"
+    },
+    {
+      "type": "article",
+      "title": "Array programming with NumPy",
+      "authors": [
+        {
+          "given-names": "Charles R.",
+          "family-names": "Harris"
+        },
+        {
+          "given-names": "K. Jarrod",
+          "family-names": "Millman"
+        },
+        {
+          "given-names": "Stéfan J.",
+          "family-names": "van der Walt"
+        },
+        {
+          "given-names": "Ralf",
+          "family-names": "Gommers"
+        },
+        {
+          "given-names": "Pauli",
+          "family-names": "Virtanen"
+        },
+        {
+          "given-names": "David",
+          "family-names": "Cournapeau"
+        },
+        {
+          "given-names": "Eric",
+          "family-names": "Wieser"
+        },
+        {
+          "given-names": "Julian",
+          "family-names": "Taylor"
+        },
+        {
+          "given-names": "Sebastian",
+          "family-names": "Berg"
+        },
+        {
+          "given-names": "Nathaniel J.",
+          "family-names": "Smith"
+        },
+        {
+          "given-names": "Robert",
+          "family-names": "Kern"
+        },
+        {
+          "given-names": "Matti",
+          "family-names": "Picus"
+        },
+        {
+          "given-names": "Stephan",
+          "family-names": "Hoyer"
+        },
+        {
+          "given-names": "Marten H.",
+          "family-names": "van Kerkwijk"
+        },
+        {
+          "given-names": "Matthew",
+          "family-names": "Brett"
+        },
+        {
+          "given-names": "Allan",
+          "family-names": "Haldane"
+        },
+        {
+          "given-names": "Jaime Fernández",
+          "family-names": "del Río"
+        },
+        {
+          "given-names": "Mark",
+          "family-names": "Wiebe"
+        },
+        {
+          "given-names": "Pearu",
+          "family-names": "Peterson"
+        },
+        {
+          "given-names": "Pierre",
+          "family-names": "Gérard-Marchant"
+        },
+        {
+          "given-names": "Kevin",
+          "family-names": "Sheppard"
+        },
+        {
+          "given-names": "Tyler",
+          "family-names": "Reddy"
+        },
+        {
+          "given-names": "Warren",
+          "family-names": "Weckesser"
+        },
+        {
+          "given-names": "Hameer",
+          "family-names": "Abbasi"
+        },
+        {
+          "given-names": "Christoph",
+          "family-names": "Gohlke"
+        },
+        {
+          "given-names": "Travis E.",
+          "family-names": "Oliphant"
+        }
+      ],
+      "doi": "10.1038/s41586-020-2649-2",
+      "year": 2020,
+      "url": "https://doi.org/10.1038/s41586-020-2649-2",
+      "journal": "Nature",
+      "volume": "585"
+    },
+    {
+      "type": "article",
+      "title": "SciPy 1.0: fundamental algorithms for scientific computing in Python",
+      "authors": [
+        {
+          "given-names": "Pauli",
+          "family-names": "Virtanen"
+        },
+        {
+          "given-names": "Ralf",
+          "family-names": "Gommers"
+        },
+        {
+          "given-names": "Travis E.",
+          "family-names": "Oliphant"
+        },
+        {
+          "given-names": "Matt",
+          "family-names": "Haberland"
+        },
+        {
+          "given-names": "Tyler",
+          "family-names": "Reddy"
+        },
+        {
+          "given-names": "David",
+          "family-names": "Cournapeau"
+        },
+        {
+          "given-names": "Evgeni",
+          "family-names": "Burovski"
+        },
+        {
+          "given-names": "Pearu",
+          "family-names": "Peterson"
+        },
+        {
+          "given-names": "Warren",
+          "family-names": "Weckesser"
+        },
+        {
+          "given-names": "Jonathan",
+          "family-names": "Bright"
+        },
+        {
+          "given-names": "Stéfan J.",
+          "family-names": "van der Walt"
+        },
+        {
+          "given-names": "Matthew",
+          "family-names": "Brett"
+        },
+        {
+          "given-names": "Joshua",
+          "family-names": "Wilson"
+        },
+        {
+          "given-names": "K. Jarrod",
+          "family-names": "Millman"
+        },
+        {
+          "given-names": "Nikolay",
+          "family-names": "Mayorov"
+        },
+        {
+          "given-names": "Andrew R. J.",
+          "family-names": "Nelson"
+        },
+        {
+          "given-names": "Eric",
+          "family-names": "Jones"
+        },
+        {
+          "given-names": "Robert",
+          "family-names": "Kern"
+        },
+        {
+          "given-names": "Eric",
+          "family-names": "Larson"
+        },
+        {
+          "given-names": "C J",
+          "family-names": "Carey"
+        },
+        {
+          "given-names": "İlhan",
+          "family-names": "Polat"
+        },
+        {
+          "given-names": "Yu",
+          "family-names": "Feng"
+        },
+        {
+          "given-names": "Eric W.",
+          "family-names": "Moore"
+        },
+        {
+          "given-names": "Jake",
+          "family-names": "VanderPlas"
+        },
+        {
+          "given-names": "Denis",
+          "family-names": "Laxalde"
+        },
+        {
+          "given-names": "Josef",
+          "family-names": "Perktold"
+        },
+        {
+          "given-names": "Robert",
+          "family-names": "Cimrman"
+        },
+        {
+          "given-names": "Ian",
+          "family-names": "Henriksen"
+        },
+        {
+          "given-names": "E. A.",
+          "family-names": "Quintero"
+        },
+        {
+          "given-names": "Charles R.",
+          "family-names": "Harris"
+        },
+        {
+          "given-names": "Anne M.",
+          "family-names": "Archibald"
+        },
+        {
+          "given-names": "Antônio H.",
+          "family-names": "Ribeiro"
+        },
+        {
+          "given-names": "Fabian",
+          "family-names": "Pedregosa"
+        },
+        {
+          "given-names": "Paul",
+          "family-names": "van Mulbregt"
+        },
+        {
+          "name": "SciPy 1.0 Contributors"
+        }
+      ],
+      "doi": "10.1038/s41592-019-0686-2",
+      "year": 2020,
+      "url": "https://doi.org/10.1038/s41592-019-0686-2",
+      "journal": "Nature Methods",
+      "volume": "17"
+    },
+    {
+      "type": "article",
+      "title": "Scikit-learn: Machine Learning in Python",
+      "authors": [
+        {
+          "given-names": "Fabian",
+          "family-names": "Pedregosa"
+        },
+        {
+          "given-names": "Gaël",
+          "family-names": "Varoquaux"
+        },
+        {
+          "given-names": "Alexandre",
+          "family-names": "Gramfort"
+        },
+        {
+          "given-names": "Vincent",
+          "family-names": "Michel"
+        },
+        {
+          "given-names": "Bertrand",
+          "family-names": "Thirion"
+        },
+        {
+          "given-names": "Olivier",
+          "family-names": "Grisel"
+        },
+        {
+          "given-names": "Mathieu",
+          "family-names": "Blondel"
+        },
+        {
+          "given-names": "Peter",
+          "family-names": "Prettenhofer"
+        },
+        {
+          "given-names": "Ron",
+          "family-names": "Weiss"
+        },
+        {
+          "given-names": "Vincent",
+          "family-names": "Dubourg"
+        },
+        {
+          "given-names": "Jake",
+          "family-names": "Vanderplas"
+        },
+        {
+          "given-names": "Alexandre",
+          "family-names": "Passos"
+        },
+        {
+          "given-names": "David",
+          "family-names": "Cournapeau"
+        },
+        {
+          "given-names": "Matthieu",
+          "family-names": "Brucher"
+        },
+        {
+          "given-names": "Matthieu",
+          "family-names": "Perrot"
+        },
+        {
+          "given-names": "Édouard",
+          "family-names": "Duchesnay"
+        }
+      ],
+      "journal": "Journal of Machine Learning Research",
+      "volume": 12,
+      "start": 2825,
+      "end": 2830,
+      "year": 2011,
+      "url": "https://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html"
+    },
+    {
+      "type": "article",
+      "title": "Matplotlib: A 2D Graphics Environment",
+      "authors": [
+        {
+          "given-names": "John D.",
+          "family-names": "Hunter"
+        }
+      ],
+      "doi": "10.1109/mcse.2007.55",
+      "year": 2007,
+      "url": "https://doi.org/10.1109/mcse.2007.55",
+      "journal": "Computing in Science &amp; Engineering",
+      "volume": "9"
+    },
+    {
+      "type": "article",
+      "title": "scikit-image: image processing in Python",
+      "authors": [
+        {
+          "given-names": "Stéfan",
+          "family-names": "van der Walt"
+        },
+        {
+          "given-names": "Johannes L.",
+          "family-names": "Schönberger"
+        },
+        {
+          "given-names": "Juan",
+          "family-names": "Nunez-Iglesias"
+        },
+        {
+          "given-names": "François",
+          "family-names": "Boulogne"
+        },
+        {
+          "given-names": "Joshua D.",
+          "family-names": "Warner"
+        },
+        {
+          "given-names": "Neil",
+          "family-names": "Yager"
+        },
+        {
+          "given-names": "Emmanuelle",
+          "family-names": "Gouillart"
+        },
+        {
+          "given-names": "Tony",
+          "family-names": "Yu"
+        }
+      ],
+      "doi": "10.7717/peerj.453",
+      "year": 2014,
+      "url": "https://doi.org/10.7717/peerj.453",
+      "journal": "PeerJ",
+      "volume": "2"
+    },
+    {
+      "type": "article",
+      "title": "Exploring Network Structure, Dynamics, and Function using NetworkX",
+      "authors": [
+        {
+          "given-names": "Aric A.",
+          "family-names": "Hagberg"
+        },
+        {
+          "given-names": "Daniel A.",
+          "family-names": "Schult"
+        },
+        {
+          "given-names": "Pieter J.",
+          "family-names": "Swart"
+        }
+      ],
+      "doi": "10.25080/tcwv9851",
+      "year": 2008,
+      "url": "https://doi.org/10.25080/tcwv9851",
+      "journal": "Proceedings of the Python in Science Conference"
+    },
+    {
+      "type": "article",
+      "title": "Statsmodels: Econometric and Statistical Modeling with Python",
+      "authors": [
+        {
+          "given-names": "Skipper",
+          "family-names": "Seabold"
+        },
+        {
+          "given-names": "Josef",
+          "family-names": "Perktold"
+        }
+      ],
+      "doi": "10.25080/majora-92bf1922-011",
+      "year": 2010,
+      "url": "https://doi.org/10.25080/majora-92bf1922-011",
+      "journal": "Proceedings of the Python in Science Conference"
+    },
+    {
+      "type": "article",
+      "title": "The OpenCV Library",
+      "authors": [
+        {
+          "given-names": "Gary",
+          "family-names": "Bradski"
+        }
+      ],
+      "year": 2000,
+      "journal": "Dr. Dobb's Journal of Software Tools",
+      "url": "https://github.com/opencv/opencv/wiki/CiteOpenCV"
+    },
+    {
+      "type": "software",
+      "title": "Pillow",
+      "authors": [
+        {
+          "given-names": "Jeffrey ‘Alex’",
+          "family-names": "Clark"
+        },
+        {
+          "name": "Pillow contributors"
+        }
+      ],
+      "url": "https://github.com/python-pillow/Pillow",
+      "version": "12.3.0"
+    },
+    {
+      "type": "software",
+      "title": "The pypdf library",
+      "authors": [
+        {
+          "given-names": "Mathieu",
+          "family-names": "Fenniak"
+        },
+        {
+          "given-names": "Matthew",
+          "family-names": "Stamy"
+        },
+        {
+          "name": "pubpub-zz"
+        },
+        {
+          "given-names": "Martin",
+          "family-names": "Thoma"
+        },
+        {
+          "given-names": "Matthew",
+          "family-names": "Peveler"
+        },
+        {
+          "name": "exiledkingcc"
+        },
+        {
+          "name": "pypdf Contributors"
+        }
+      ],
+      "url": "https://pypi.org/project/pypdf/",
+      "year": 2024,
+      "version": "6.10.0"
+    },
+    {
+      "type": "software",
+      "title": "pandas-dev/pandas: Pandas",
+      "authors": [
+        {
+          "name": "The pandas development team"
+        }
+      ],
+      "url": "https://github.com/pandas-dev/pandas",
+      "doi": "10.5281/zenodo.3509134",
+      "version": "3.0.6"
+    },
+    {
+      "type": "software",
+      "title": "Joblib",
+      "authors": [
+        {
+          "given-names": "Gaël",
+          "family-names": "Varoquaux"
+        },
+        {
+          "name": "Joblib contributors"
+        }
+      ],
+      "url": "https://github.com/joblib/joblib",
+      "version": "1.6.0"
+    },
+    {
+      "type": "software",
+      "title": "jsonschema",
+      "authors": [
+        {
+          "given-names": "Julian",
+          "family-names": "Berman"
+        }
+      ],
+      "url": "https://github.com/python-jsonschema/jsonschema",
+      "version": "4.23.0"
+    },
+    {
+      "type": "software",
+      "title": "Python",
+      "authors": [
+        {
+          "name": "Python Software Foundation"
+        }
+      ],
+      "url": "https://www.python.org/",
+      "version": "3.12.14"
+    }
+  ]
+}
